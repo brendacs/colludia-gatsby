@@ -1,0 +1,126 @@
+@import "variables";
+
+@mixin header-font {
+  font-family: 'Inter',-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI 
+}
+
+@mixin primary-font {
+  font-family: 'Inter', Helvetica,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;
+  font-size: $text-size;
+}
+
+@mixin secondary-font {
+  font-family: 'Inter', sans-serif;
+  font-size: $text-size;
+}
+
+@mixin shorter-transition {
+  transition: all 0.1s ease;
+}
+
+@mixin short-transition {
+  transition: all 0.15s ease;
+}
+
+@mixin unselectable {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+@mixin disabled($color: $site-gray, $background-color: transparent, $border-color: transparent) {
+  color: $color;
+  background-color: $background-color;
+  border-color: $border-color;
+  cursor: default;
+}
+
+@mixin link-animation-start {
+  @include shorter-transition;
+  content: '';
+  width: 0px;
+  height: 4px;
+  display: block;
+  background: $site-brand-color;
+}
+
+@mixin link-animation-end {
+  width: 100%;
+}
+
+@mixin highlight-animation-start {
+  @include link-animation-start;
+  @include short-transition;
+  height: 22px;
+  margin: -20px 0 0 -5px;
+  background-color: rgba(0, 193, 224, .75);
+}
+
+@mixin highlight-animation-end {
+  width: 5%;
+}
+
+@mixin primary-button {
+  @include primary-font;
+  @include short-transition;
+  font-size: $text-size;
+  background-color: $site-brand-color;
+  border-radius: 5px;
+  height: 35px;
+  padding: 0 20px;
+  border: none;
+  color: #FFF;
+  font-weight: 600;
+  cursor: pointer;
+  white-space: nowrap;
+
+  &:hover {
+    background-color: darken($site-brand-color, 10%);
+  }
+}
+
+@mixin primary-dropdown {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  @include primary-font;
+  width: 260px;
+  border-radius: 5px;
+  padding: 6px 15px 6px 15px;
+  background-color: darken(#FFF, 3%);
+  border: 1px solid $site-brand-color;
+  color: $site-brand-color;
+  font-size: $tiny-size - 2;
+}
+
+@mixin minimal-dropdown {
+  background-image:
+    linear-gradient(45deg, transparent 50%, $site-brand-color 50%),
+    linear-gradient(135deg, $site-brand-color 50%, transparent 50%),
+    linear-gradient(to right, $site-brand-color, $site-brand-color);
+  background-position:
+    calc(100% - 15px) calc(1em - 1.5px),
+    calc(100% - 10px) calc(1em - 1.5px),
+    calc(100% - 2.5em) 0.38em;
+  background-size:
+    5px 5px,
+    5px 5px,
+    1px 1.5em;
+  background-repeat: no-repeat;
+}
+
+@mixin large-text-input {
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  appearance: none;
+  @include primary-font;
+  width: 300px;
+  height: 40px;
+  font-size: $text-size;
+  border: none;
+  border-bottom: 1px solid $site-gray;
+  color: $site-font-color;
+}
