@@ -1,0 +1,76 @@
+@import '../common/social-btns.scss';
+
+.secondary-nav {
+  width: 100vw;
+  min-height: 50px;
+  background-color: #FFF;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 5vh 10vw;
+  border-bottom: 1px solid $site-gray;
+
+  .pages-wrapper {
+    display: flex;
+
+    ul {
+      margin-right: 6vw;
+
+      &:after {
+        @media screen and (max-width: $mobile-nav-resolution) {
+          content: " ";
+          height: 1px;
+          background-color: $site-gray;
+          width: 40vw;
+        }
+      }
+
+      &:last-child:after {
+        height: 0;
+      }
+    }
+
+    @media screen and (max-width: $mobile-nav-resolution) {
+      flex-direction: column;
+    }
+  }
+
+  .hidden {
+    @media screen and (min-width: $mobile-nav-resolution + 1) {
+      display: none;
+    }
+  }
+
+  @media screen and (max-width: $mobile-nav-resolution + 1) {
+    padding: 5vh 7vw;
+  }
+
+  .share-buttons {
+    @media screen and (max-width: $mobile-nav-resolution + 1) {
+      margin-right: -15px;
+    }
+
+    @media screen and (max-width: $mobile-nav-resolution) {
+      flex-direction: column;
+    }
+  }
+
+  ul {
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: auto;
+
+    li {
+      margin: 10px 0;
+
+      a {
+        font-size: $tiny-size;
+        font-weight: 600;
+        color: $site-font-color;
+      }
+    }
+  }
+}

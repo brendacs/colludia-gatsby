@@ -1,0 +1,104 @@
+.share-buttons {
+  display: flex;
+  list-style-type: none;
+
+  @media screen and (max-width: 425px) {
+    flex-direction: column;
+  }
+
+  a {
+    @include short-transition;
+    color: #FFF;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 15px;
+
+    @media screen and (max-width: 425px) {
+      margin: 10px;
+    }
+
+    &.twitter {
+      background-color: #1DA1F2;
+
+      &:hover {
+        background-color: darken(#1DA1F2, 10%);
+      }
+    }
+
+    &.instagram {
+      background-color: #E4405F;
+
+      &:hover {
+        background-color: darken(#E4405F, 10%);
+      }
+    }
+
+    &.ko-fi {
+      background-color: #28A6DA;
+
+      img {
+        width: 60%;
+        margin-left: 1px;
+      }
+
+      &:hover {
+        background-color: darken(#28A6DA, 10%);
+      }
+    }
+
+    &.discord {
+      background-color: #7289DA;
+
+      img {
+        width: 60%;
+      }
+
+      &:hover {
+        background-color: darken(#7289DA, 10%);
+      }
+    }
+
+    &.steam {
+      background-color: #1B3553;
+
+      img {
+        width: 100%;
+        margin-left: -2px;
+      }
+
+      &:hover {
+        background-color: darken(#1B3553, 10%);
+      }
+    }
+
+    &.patreon {
+      background-color: #F96855;
+
+      img {
+        width: 80%;
+        border-radius: 50%
+      }
+
+      &:hover {
+        background-color: darken(#F96855, 10%);
+      }
+    }
+
+    &.portfolio {
+      background-color: darken($site-gray, 10%);
+
+      img {
+        width: 70%;
+      }
+    }
+
+    img {
+      width: 50%;
+      margin-bottom: 0;
+    }
+  }
+}

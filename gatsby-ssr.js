@@ -5,3 +5,11 @@
  */
 
 // You can delete this file if you're not using it
+import React from 'react';
+import Layout from './src/components/layout';
+import './src/styles/reset.scss'
+import './src/styles/global.scss'
+  
+export const wrapPageElement = ({ element }) => {
+  return <Layout>{element}</Layout>;
+};
