@@ -1,0 +1,23 @@
+.error {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: calc(100vh - 200px);
+}
+
+.error-title {
+  font-size: $heading-size;
+}
+
+.error-go-home {
+  @include primary-button;
+  display: flex;
+  align-items: center;
+  margin-top: 40px;
+}
+
+.error-image {
+  width: 200px;
+  margin-top: 40px;
+}

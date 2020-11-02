@@ -1,13 +1,15 @@
 import React from 'react'
-import Layout from '../components/layout'
 import SEO from '../components/seo'
+import './404.scss'
 
 const NotFoundPage = () => (
-  <Layout>
-    <SEO title='404: Not found' />
-    <h1>404: Not Found</h1>
-    <p>You just hit a route that doesn&#39;t exist... the sadness.</p>
-  </Layout>
+  <div class="error">
+    <SEO title='Page not found' />
+    <h1 className="error-title">404</h1>
+    <p>Uh oh, page not found! :(</p>
+    <img alt="colludia logo" className="error-image" src={require('../images/gamepad-book-square.png')} />
+    <a className="error-go-home" href="/">Go to Home</a>
+  </div>
 )
 
 export default NotFoundPage

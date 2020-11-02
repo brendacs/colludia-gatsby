@@ -26,11 +26,9 @@ const Layout = ({ children }) => {
     <>
       <Header siteTitle={data.site.siteMetadata?.title || `Title`} />
       <LayeredNav />
-      <div>
-        <main>{children}</main>
-        <footer>
-        </footer>
-      </div>
+      <main class="content">{children}</main>
+      <footer>
+      </footer>
     </>
   )
 }
