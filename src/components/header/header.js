@@ -21,7 +21,7 @@ const Header = ({ siteTitle, search }) => {
         <div className="main-nav-actions">
           {search && <button className="search-btn action" name="search"><img alt="search" src={require('../../images/search.svg')}/></button>}
           <SubscribeBtn />
-          <div className="ham-menu-wrapper action" onClick={() => setShowDropdownNav(!showDropdownNav)}>
+          <div className="ham-menu-wrapper action" role="button" tabIndex={0} onClick={() => setShowDropdownNav(!showDropdownNav)}>
             <img alt="hamburger menu" className="ham-menu" src={require('../../images/menu.svg')} />
           </div>
         </div>

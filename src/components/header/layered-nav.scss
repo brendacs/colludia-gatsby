@@ -1,0 +1,82 @@
+.layered-nav {
+  width: 100vw;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  height: 40px;
+  padding: 0 30px;
+  border-bottom: 1px solid $site-gray;
+  position: sticky;
+  position: -webkit-sticky;
+  top: 0;
+  background-color: white;
+  z-index: 21;
+
+  @media screen and (max-width: 768px) {
+    padding: 0;
+    padding-right: 10px;
+  }
+
+  &-items {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    white-space: nowrap;
+  }
+
+  &-item {
+    @include short-transition;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: $site-font-color;
+    font-size: $tiny-size;
+    font-weight: 600;
+    padding: 0 15px;
+    height: 100%;
+    padding-top: 3px;
+    border-bottom: 3px solid transparent;
+
+    &.active {
+      background-color: $site-highlight-light;
+      color: $site-highlight;
+      border-bottom: 3px solid $site-highlight;
+    }
+
+    &:hover {
+      color: $site-highlight;
+      border-bottom: 3px solid $site-highlight;
+    }
+
+    @media screen and (max-width: 768px) {
+      padding: 0 10px;
+    }
+
+    @media screen and (max-width: 700px) {
+      font-size: $tiny-size - 2;
+      padding-top: 3.5px;
+    }
+
+    @media screen and (max-width: $mobile-nav-resolution) {
+      display: none;
+    }
+  }
+
+  #darkmode-button {
+    @include primary-font;
+    font-size: $tiny-size - 2;
+    font-weight: 600;
+    background-color: transparent;
+    border: 0;
+    white-space: nowrap;
+    padding: 0;
+    color: darken($site-color-dark, 10%);
+
+    &:before {
+      content: '☾ DARK';
+    }
+  }
+}
