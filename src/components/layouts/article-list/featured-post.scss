@@ -1,0 +1,229 @@
+.featured {
+	width: 100vw;
+	min-height: auto;
+	padding: 30px 0;
+	background: darken($site-brand-color, 30%);
+	display: flex;
+	align-items: center;
+	position: relative;
+	overflow: hidden;
+
+	&-post {
+		display: flex;
+		flex-direction: row;
+		align-items: center;
+		justify-content: space-between;
+		width: 100%;
+		min-height: 45vh;
+
+		&:hover .featured-title:after {
+			@include link-animation-end;
+		}
+	}
+
+	&-text-container {
+		display: flex;
+		flex-direction: column;
+		width: 55vw;
+		padding: 0 5vw;
+		color: $site-brand-color-light;
+		line-height: 1.5;
+		position: relative;
+		z-index: 1;
+
+		@media screen and (max-width: 1024px) {
+			width: 100vw;
+		}
+
+		@media screen and (max-width: 600px) {
+			align-items: center;
+			text-align: center;
+			padding: 5vw;
+		}
+	}
+
+	&-title {
+		@include short-transition;
+		font-size: $heading-size - 4;
+		font-weight: 600;
+		color: #FFF;
+		line-height: 1.25;
+
+		&:after {
+			@include link-animation-start;
+			background-color: white;
+			height: 3px;
+			margin-top: 10px;
+		}
+
+		@media screen and (max-width: 425px) {
+			font-size: $mobile-heading-size - 4;
+		}
+	}
+
+	.subtitle-wrapper {
+		display: flex;
+		align-items: center;
+		margin-bottom: 15px;
+	}
+
+	&-subtitle {
+		@include secondary-font;
+		font-size: $tiny-size;
+
+		@media screen and (max-width: 425px) {
+			font-size: $tiny-size - 4;
+		}
+	}
+
+	&-icon-wrapper {
+		@include short-transition;
+		display: flex;
+		position: relative;
+	
+		&:hover .featured-tooltip {
+			visibility: visible;
+		}
+	
+		.featured-tooltip {
+			@include primary-font;
+			position: absolute;
+			left: 55px;
+			top: -18px;
+			background-color: #FFF;
+			color: $site-font-color;
+			border-radius: 5px;
+			padding: 10px;
+			width: 250px;
+			font-size: $tiny-size - 2;
+			z-index: 20;
+			visibility: hidden;
+	
+			&:after {
+				content: " ";
+				width: 10px;
+				height: 10px;
+				background-color: #FFF;
+				position: absolute;
+				top: 22px;
+				left: -4px;
+				transform: rotate(45deg);
+			}
+		}
+	}
+	
+	&-icon {
+		@include secondary-font;
+		font-size: $tiny-size;
+		margin-left: 20px;
+		width: 18px;
+		height: 18px;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		border-radius: 50%;
+		background-color: white;
+		color: $site-font-color;
+
+		&.spotlight {
+			background-color: white;
+			color: $site-font-color;
+		}
+	
+		&:hover {
+			cursor: pointer;
+		}
+
+		@media screen and (max-width: 425px) {
+			display: none;
+		}
+	}
+
+	&-tagline {
+		margin-top: 15px;
+		font-size: $text-size - 1;
+		font-family: 'Inter';
+		font-weight: 400;
+
+		@media screen and (max-width: 425px) {
+			font-size: $tiny-size;
+		}
+	}
+
+	&-image {
+		min-height: 100%;
+		width: 100%;
+		position: absolute;
+		top: 0;
+		left: 0;
+		z-index: 0;
+		opacity: 0.3;
+		@include short-transition;
+
+		@media screen and (max-width: 1240px) {
+			width: auto;
+		}
+
+		@media screen and (max-width: 768px) {
+			display: inline;
+			width: auto;
+		}
+	}
+
+	&-image-side {
+		width: 35vw;
+		border-radius: 5px 0px 0px 5px;
+		margin-right: -50px;
+		transition: all 0.5s ease;
+		position: relative;
+		z-index: 1;
+
+		@media screen and (max-width: 1300px) {
+			width: 40vw;
+		}
+
+		@media screen and (max-width: 1024px) {
+			display: none;
+		}
+	}
+
+	&:hover {
+		.featured-image-side {
+			margin-right: 0;
+		}
+	}
+}
+
+.featured.spotlight {
+	height: 75vh;
+	position: relative;
+	background: $site-font-color;
+	overflow: hidden;
+
+	.featured-post {
+		min-height: 75vh;
+	}
+
+	.featured-text-container {
+		position: relative;
+		z-index: 1;
+		padding: 50px;
+		margin-left: 50px;
+		background-color: rgba(0, 0, 0, .7);
+		border-radius: 5px;
+		color: lighten($site-gray, 5%);
+
+		@media screen and (max-width: 768px) {
+			margin: 0;
+			background-color: transparent;
+		}
+
+		@media screen and (max-width: 425px) {
+			padding: 20px;
+		}
+	}
+
+	&:hover .featured-image {
+		opacity: 0.9;
+	}
+}

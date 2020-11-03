@@ -3,7 +3,7 @@ import React from 'react'
 import './layered-nav.scss'
 
 const LayeredNav = () => {
-  const { pathname } = window.location;
+  const { pathname } = window.location
 
   return (
     <nav className="layered-nav">

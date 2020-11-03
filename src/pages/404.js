@@ -3,7 +3,7 @@ import SEO from '../components/seo'
 import './404.scss'
 
 const NotFoundPage = () => (
-  <div class="error">
+  <div className="error">
     <SEO title='Page not found' />
     <h1 className="error-title">404</h1>
     <p>Uh oh, page not found! :(</p>

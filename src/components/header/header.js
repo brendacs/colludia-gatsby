@@ -6,7 +6,7 @@ import './header.scss'
 import DropdownNav from './dropdown-nav'
 
 const Header = ({ siteTitle, search }) => {
-  const [showDropdownNav, setShowDropdownNav] = useState(false);
+  const [showDropdownNav, setShowDropdownNav] = useState(false)
 
   return (
     <header>
@@ -35,12 +35,11 @@ const Header = ({ siteTitle, search }) => {
 }
 
 Header.propTypes = {
-  siteTitle: PropTypes.string,
+  siteTitle: PropTypes.string.isRequired,
   search: PropTypes.bool
 }
 
 Header.defaultProps = {
-  siteTitle: ``,
   search: true
 }
 
