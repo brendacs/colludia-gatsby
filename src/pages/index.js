@@ -11,7 +11,13 @@ const featuredPost = {
 }
 
 const posts = [
-  {}
+  {
+    title: 'The Beauty of Letting Go in When the Past Was Around',
+    author: 'Brenda Zhang',
+    date: '2020-10-01',
+    url: '',
+    image: 'WhenThePastWasAround.png'
+  }
 ]
 
 const IndexPage = () => (

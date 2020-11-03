@@ -4,7 +4,7 @@ import React from 'react'
 import './featured-post.scss'
 
 const FeaturedPost = ({ featuredPost, tooltip }) => (
-  <section class={`featured ${featuredPost.type}`}>
+  <section className={`featured ${featuredPost.type}`}>
     <a className="featured-post" href={featuredPost.url} name="navigate to featured post">
       <div className="featured-text-container">
         <div className="subtitle-wrapper">
