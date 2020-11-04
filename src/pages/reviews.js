@@ -10,7 +10,7 @@ const ReviewsPage = () => (
       featuredPost={featuredPost}
       tooltip="Our articles in the Reviews discuss indie games we love, especially those with a good story to tell."
       posts={posts}
-      page="reviews"
+      page="review"
     />
   </>
 )
