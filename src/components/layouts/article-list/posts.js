@@ -17,8 +17,8 @@ const Posts = ({ posts, sortable }) => {
         </select>
       }
       <div className={`posts ${sorted ? 'by-release-date' : 'by-publish-date'}`}>
-        {posts.map((post) => (
-          <a className="post" href={post.url} name={`navigate to post titled ${post.title}`}>
+        {posts.map((post, idx) => (
+          <a className={`post ${idx > 11 && 'row'}`} href={post.url} name={`navigate to post titled ${post.title}`}>
             <img alt="game header image" className="post-image" loading="lazy" src={require(`../../../images/headers/small/${post.image}`)} />
             <div className="post-text-container">
               <h2 className="post-title">{post.title}</h2>
