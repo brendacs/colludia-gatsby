@@ -6,10 +6,10 @@ import Posts from './posts'
 import './article-list.scss'
 
 
-const ArticleList = ({ featuredPost, tooltip, posts }) => (
+const ArticleList = ({ featuredPost, tooltip, posts, page, sortable }) => (
   <>
     <FeaturedPost featuredPost={featuredPost} tooltip={tooltip} />
-    <Posts posts={posts} />
+    <Posts posts={posts} page={page} sortable={sortable} />
   </>
 )
 

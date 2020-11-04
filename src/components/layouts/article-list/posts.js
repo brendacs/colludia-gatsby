@@ -4,7 +4,7 @@ import React, { useState } from 'react'
 import './posts.scss'
 
 
-const Posts = ({ posts, sortable }) => {
+const Posts = ({ posts, page, sortable }) => {
   const [sorted, setSorted] = useState(false)
 
   return (

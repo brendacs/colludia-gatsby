@@ -3,17 +3,16 @@ import SEO from '../components/seo'
 import ArticleList from '../components/layouts/article-list/article-list'
 import {featuredPost, posts} from './constants'
 
-const IndexPage = () => (
+const ReviewsPage = () => (
   <>
-    <SEO title='Home' />
+    <SEO title='Reviews' />
     <ArticleList
       featuredPost={featuredPost}
-      tooltip="Our latest featured article about an indie game with a story to tell."
+      tooltip="Our articles in the Reviews discuss indie games we love, especially those with a good story to tell."
       posts={posts}
-      page="latest"
-      sortable
+      page="reviews"
     />
   </>
 )
 
-export default IndexPage
+export default ReviewsPage
