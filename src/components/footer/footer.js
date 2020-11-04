@@ -1,3 +1,4 @@
+import { Link } from 'gatsby'
 import React from 'react'
 import './footer.scss'
 
@@ -5,16 +6,16 @@ const Footer = () => (
   <footer className="footer">
     <div className="footer-links-wrapper">
       <ul className="footer-links">
-        <li><a className="animated-link" href="/about">About Colludia</a></li>
-        <li><a className="animated-link" href="/contact">Contact Us</a></li>
-        <li><a className="animated-link" href="/writers">Become a Writer</a></li>
-        <li><a className="animated-link" href="/advertise">Advertise</a></li>
+        <li><Link className="animated-link" href="/about">About Colludia</Link></li>
+        <li><Link className="animated-link" href="/contact">Contact Us</Link></li>
+        <li><Link className="animated-link" href="/writers">Become a Writer</Link></li>
+        <li><Link className="animated-link" href="/advertise">Advertise</Link></li>
       </ul>
       <ul className="footer-links">
-        <li><a className="animated-link" href="/supporters">Our Supporters</a></li>
-        <li><a className="animated-link" href="/subscribe">Subscribe</a></li>
-        <li><a className="animated-link" href="/privacy-policy">Privacy Policy</a></li>
-        <li><a className="animated-link" href="/cookie-policy">Cookie Policy</a></li>
+        <li><Link className="animated-link" href="/supporters">Our Supporters</Link></li>
+        <li><Link className="animated-link" href="/subscribe">Subscribe</Link></li>
+        <li><Link className="animated-link" href="/privacy-policy">Privacy Policy</Link></li>
+        <li><Link className="animated-link" href="/cookie-policy">Cookie Policy</Link></li>
       </ul>
     </div>
     <div className="footer-social">

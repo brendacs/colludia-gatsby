@@ -1,4 +1,4 @@
-// import { Link } from 'gatsby'
+import { Link } from 'gatsby'
 import React from 'react'
 import './dropdown-nav.scss'
 
@@ -6,22 +6,22 @@ const DropdownNav = () => (
   <div className="secondary-nav">
     <div className="pages-wrapper">
       <ul className="main hidden">
-        <li><a href="/">Latest Articles</a></li>
-        <li><a href="/reviews">Reviews</a></li>
-        <li><a href="/dev-spotlights">Dev Spotlights</a></li>
-        <li><a href="/our-picks">Our Picks</a></li>
-        <li><a href="/opinion">Opinion</a></li>
-        <li><a href="/genres">All Genres</a></li>
+        <li><Link href="/">Latest Articles</Link></li>
+        <li><Link href="/reviews">Reviews</Link></li>
+        <li><Link href="/dev-spotlights">Dev Spotlights</Link></li>
+        <li><Link href="/our-picks">Our Picks</Link></li>
+        <li><Link href="/opinion">Opinion</Link></li>
+        <li><Link href="/genres">All Genres</Link></li>
       </ul>
       <ul>
-        <li><a className="animated-link" href="/about">About Us</a></li>
-        <li><a className="animated-link" href="/supporters">Supporters</a></li>    
-        <li><a className="animated-link" href="/steam-keys">Free Keys</a></li>
+        <li><Link className="animated-link" href="/about">About Us</Link></li>
+        <li><Link className="animated-link" href="/supporters">Supporters</Link></li>    
+        <li><Link className="animated-link" href="/steam-keys">Free Keys</Link></li>
       </ul>
       <ul>
-        <li><a className="animated-link" href="/contact">Contact Us</a></li>
-        <li><a className="animated-link" href="/writers">Become a Writer</a></li>
-        <li><a className="animated-link" href="/advertise">Advertise</a></li>
+        <li><Link className="animated-link" href="/contact">Contact Us</Link></li>
+        <li><Link className="animated-link" href="/writers">Become a Writer</Link></li>
+        <li><Link className="animated-link" href="/advertise">Advertise</Link></li>
       </ul>
     </div>
     <div>

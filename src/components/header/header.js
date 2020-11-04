@@ -1,4 +1,4 @@
-// import { Link } from 'gatsby'
+import { Link } from 'gatsby'
 import PropTypes from 'prop-types'
 import React, { useState } from 'react'
 import SubscribeBtn from './subscribe-button'
@@ -12,10 +12,10 @@ const Header = ({ siteTitle, search }) => {
     <header>
       <nav className="main-nav">
         <div className="main-nav-navigation">
-          <a className="main-nav-logo" href="/" name="colludia home">
+          <Link className="main-nav-logo" to="/" name="colludia home">
             <img alt="colludia logo" src={require('../../images/gamepad-book.png')} />
             <h1 className="name">{siteTitle}<span className="long-title"> Indie Games With a Story</span></h1>
-          </a>
+          </Link>
         </div>
 
         <div className="main-nav-actions">
