@@ -1,0 +1,62 @@
+.tag {
+  @include secondary-font;
+  display: inline-block;
+  font-size: $tiny-size;
+  color: #FFF;
+  border-radius: 5px;
+  padding: 2px 5px;
+  width: auto;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  line-height: 1;
+}
+
+.tag:nth-child(1n) {
+  background-color: darken($site-gray, 9%);
+}
+
+.tag:nth-child(2n) {
+  background-color: darken($site-gray, 20%);
+}
+
+.tag:nth-child(3n) {
+  background-color: darken($site-gray, 5%);
+}
+
+.tag:nth-child(4n) {
+  background-color: darken($site-gray, 15%);
+}
+
+.tag:nth-child(5n) {
+  background-color: darken($site-gray, 5%);
+}
+
+.tag:nth-child(6n) {
+  background-color: darken($site-gray, 13%);
+}
+
+.tag {
+  &.gray {
+    background-color: darken($site-gray, 25%);
+  }
+
+  &.red {
+    background-color: $site-highlight;
+  }
+
+  &.blue {
+    background-color: $site-brand-color;
+  }
+
+  &.green {
+    background-color: #35b75a;
+  }
+
+  &.orange {
+    background-color: #f98900;
+  }
+
+  &.purple {
+    background-color: #6262ed;
+  }
+}

@@ -1,6 +1,8 @@
 // import { Link } from 'gatsby'
 import PropTypes from 'prop-types'
 import React, { useState } from 'react'
+import Tag from '../../common/tag'
+import { tagColors } from '../../../constants'
 import './posts.scss'
 
 
@@ -18,7 +20,7 @@ const Posts = ({ posts, page, sortable }) => {
       }
       <div className={`posts ${sorted ? 'by-release-date' : 'by-publish-date'}`}>
         {posts.map((post, idx) => (
-          (page === 'latest' || page === post.type) &&
+          (page === 'latest' || post.types.includes(page)) &&
           <a className={`post ${idx > 11 && 'row'}`} href={post.url} name={`navigate to post titled ${post.title}`}>
             <img alt="game header image" className="post-image" loading="lazy" src={require(`../../../images/headers/small/${post.image}`)} />
             <div className="post-text-container">
@@ -29,7 +31,9 @@ const Posts = ({ posts, page, sortable }) => {
               </div>
             </div>
             <div className="post-type">
-              {/** tags */}
+              {post.types.map((tag) => (
+                <Tag name={tag} color={tagColors[tag]} />
+              ))}
             </div>
           </a>
         ))}
