@@ -6,8 +6,9 @@ import { tagColors } from '../../../constants'
 import './posts.scss'
 
 
-const Posts = ({ posts, page, sortable }) => {
+const Posts = ({ posts, page, sortable, limit }) => {
   const [sorted, setSorted] = useState(false)
+  let count = 0;
 
   return (
     <section className="posts-container">
@@ -19,24 +20,29 @@ const Posts = ({ posts, page, sortable }) => {
         </select>
       }
       <div className={`posts ${sorted ? 'by-release-date' : 'by-publish-date'}`}>
-        {posts.map((post, idx) => (
-          (page === 'latest' || post.types.includes(page)) &&
-          <a className={`post ${idx > 11 && 'row'}`} href={post.url} name={`navigate to post titled ${post.title}`}>
-            <img alt="game header image" className="post-image" loading="lazy" src={require(`../../../images/headers/small/${post.image}`)} />
-            <div className="post-text-container">
-              <h2 className="post-title">{post.title}</h2>
-              <div className="post-info">
-                <p className="post-author">{post.author}</p>
-                <p className="post-date">{post.date}</p>
+        {posts.map(post => {
+          if ((page === 'latest' || post.types.includes(page))) {
+            count += 1
+          }
+          return (
+            (page === 'latest' || post.types.includes(page)) &&
+            <a className={`post ${count > (limit || 12) && 'row'}`} href={post.url} name={`navigate to post titled ${post.title}`}>
+              <img alt="game header image" className="post-image" loading="lazy" src={require(`../../../images/headers/small/${post.image}`)} />
+              <div className="post-text-container">
+                <h2 className="post-title">{post.title}</h2>
+                <div className="post-info">
+                  <p className="post-author">{post.author}</p>
+                  <p className="post-date">{post.date}</p>
+                </div>
               </div>
-            </div>
-            <div className="post-type">
-              {post.types.map((tag) => (
-                <Tag name={tag} color={tagColors[tag]} />
-              ))}
-            </div>
-          </a>
-        ))}
+              <div className="post-type">
+                {post.types.map((tag) => (
+                  <Tag name={tag} color={tagColors[tag]} />
+                ))}
+              </div>
+            </a>
+          )
+        })}
       </div>
     </section>
   )
