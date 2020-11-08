@@ -2,17 +2,17 @@
 pageType:     post
 game:         nanopesos
 slug:         /nanopesos-review/
-tab-title:    "Understanding Minimum Wage Living through Nanopesos, Budget Management Game"
+tabTitle:     "Understanding Minimum Wage Living through Nanopesos, Budget Management Game"
 title:        "Understanding Minimum Wage Living through <em class='game-title'>Nanopesos</em>"
-type:         [review]
+postType:     [review]
 desc:         "Nanopesos review: This budget management game is short, but makes players feel the tight squeeze and dire consequences of a low minimum wage and lack of support. It is no doubt worth a play—and a discussion."
 tagline:      "\"This budget management game is short, but makes players feel the tight squeeze and dire consequences of a low minimum wage and lack of support. It is no doubt worth a play—and a discussion.\""
 date:         2020-07-02
-release-date: 2019-11-05
+releaseDate:  2019-11-05
 image:        Nanopesos.png
 video:        
 author:       Brenda Zhang
-author-url:   brenda
+authorUrl:    brenda
 categories:   [management, review, story]
 tags:         ["Nanopesos", "Camila Gormaz", "minimum wage", "Chile", "budget", "pixel art"]
 ---

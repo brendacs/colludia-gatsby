@@ -1,18 +1,19 @@
 ---
-pageType:   post
-slug:       /difficulty-with-difficult-games/
-tab-title:  The Difficulty With Difficult Games
-title:      The Difficulty With Difficult Games
-type:       opinion
-desc:       "There’s enough pressure from having to deal with angry customers, uncooperative managers or pandemic woes in real life without having to navigate a screen full of billions of death pixels."
-tagline:    "\"There’s enough pressure from having to deal with angry customers, uncooperative managers or pandemic woes in real life without having to navigate a screen full of billions of death pixels.\""
-date:       2020-08-05
-image:      DifficultyDifficultGames.png
+pageType:     post
+slug:         /difficulty-with-difficult-games/
+tabTitle:     The Difficulty With Difficult Games
+title:        The Difficulty With Difficult Games
+postType:     [opinion]
+desc:         "There’s enough pressure from having to deal with angry customers, uncooperative managers or pandemic woes in real life without having to navigate a screen full of billions of death pixels."
+tagline:      "\"There’s enough pressure from having to deal with angry customers, uncooperative managers or pandemic woes in real life without having to navigate a screen full of billions of death pixels.\""
+date:         2020-08-05
+releaseDate:  
+image:        DifficultyDifficultGames.png
 video:      
-author:     Warren Lee
-author-url: warren
-categories: [adventure, rpg, simulation, point-and-click, mystery, "opinion", story]
-tags:       [Bloodborne, "Little Big Planet", Thimbleweed, "Broken Age", "Super Meat Boy", "Salt and Sanctuary", stress, "Donut County", "Old Man's Journey", "difficult games", "relaxing games"]
+author:       Warren Lee
+authorUrl:    warren
+categories:   [adventure, rpg, simulation, point-and-click, mystery, "opinion", story]
+tags:         [Bloodborne, "Little Big Planet", Thimbleweed, "Broken Age", "Super Meat Boy", "Salt and Sanctuary", stress, "Donut County", "Old Man's Journey", "difficult games", "relaxing games"]
 ---
 If your idea of fun is being frustrated, count me out. I believe that games are supposed to be about escapism and relaxation: so you can imagine my dismay at getting sliced to death so many times in *[Bloodborne](https://twitter.com/bloodbornegame)* and having my little Sackboy commit suicide by missing a jump in *[Little Big Planet](https://littlebigplanet.playstation.com/)*. I love the fleshed out worlds and the meaty set dressings that these worlds inhabit, but I can’t abide by the skeleton of difficult gameplay that forms the backbone of these games.
 

@@ -2,17 +2,17 @@
 pageType:     post
 game:         coffeetalk
 slug:         /grab-java-coffee-talk/
-tab-title:    Grab Some Java at Coffee Talk
+tabTitle:     Grab Some Java at Coffee Talk
 title:        Grab Some Java at <em class='game-title'>Coffee Talk</em>
-type:         [review]
+postType:     [review]
 desc:         "Coffee Talk review: If you want a game with a narrative that'll keep you ruminating on the perspective of contemporary life, Coffee Talk will sate your cravings. So sit back, relax, and enjoy your stay."
 tagline:      "\"If you want a game with a narrative that'll keep you ruminating on the perspective of contemporary life, Coffee Talk will sate your cravings. So sit back, relax, and enjoy your stay.\""
 date:         2020-06-03
-release-date: 2020-01-28
+releaseDate:  2020-01-28
 image:        CoffeeTalk.jpg
 video:        https://www.youtube.com/embed/WA1lEU_zTCw
 author:       Emily Tang
-author-url:   emily
+authorUrl:    emily
 categories:   ["visual novel", review, story]
 tags:         ["Coffee Talk", "Toge Productions", contemporary, "pixel graphics"]
 ---

@@ -1,17 +1,17 @@
 ---
 pageType:     post
 slug:         /angela-he-visual-novels-love-loss-memes/
-tab-title:    "Angela He's Visual Novels: Love, Loss, and Memes"
+tabTitle:     "Angela He's Visual Novels: Love, Loss, and Memes"
 title:        "Angela He's Visual Novels: Love, Loss, and Memes"
-type:         spotlight
+postType:     [spotlight]
 desc:         "Developer spotlight: Play all of Angela He's visual novels and cry and smile as you glimpse the lives of those in pain and those in love through the lens of these beautifully illustrated playable stories."
 tagline:      "\"Play all of Angela He's visual novels and cry and smile as you glimpse the lives of those in pain and those in love through the lens of these beautifully illustrated playable stories.\""
 date:         2020-06-21
-release-date: 2020-05-15
+releaseDate:  2020-05-15
 image:        AngelaHe.png
 video:        https://www.youtube.com/embed/4T4GVDxoXvo
 author:       Brenda Zhang
-author-url:   brenda
+authorUrl:    brenda
 categories:   [visual novel, spotlight, story]
 tags:         ["Angela He", "mental health", lgbtq, illustration, developer]
 ---

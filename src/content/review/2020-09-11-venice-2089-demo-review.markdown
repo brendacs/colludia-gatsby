@@ -2,17 +2,17 @@
 pageType:     post
 game:         venice2089
 slug:         /venice-2089-demo-review/
-tab-title:    "The Small Town Blues in Venice 2089"
+tabTitle:     "The Small Town Blues in Venice 2089"
 title:        "The Small Town Blues in <em class='game-title'>Venice 2089</em>"
-type:         [demo, review]
+postType:     [demo, review]
 desc:         "Venice 2089 demo review: Venice 2089 is a romp through small town suburbia that taps into the feelings of youth in revolt, the small town blues, and modern meme culture."
 tagline:      "\"Venice 2089 is a romp through small town suburbia that taps into the feelings of youth in revolt, the small town blues, and modern meme culture.\""
 date:         2020-09-11
-release-date: 2020-08-06
+releaseDate:  2020-08-06
 image:        Venice2089.png
 video:        https://www.youtube.com/embed/BAjtXBOcZ68
 author:       Josh Roque
-author-url:   josh
+authorUrl:    josh
 categories:   [adventure, rpg, demo, review, story]
 tags:         ["Venice 2089", "Event Horizon Studios", environment, protest, hoverboard, suburbs]
 ---

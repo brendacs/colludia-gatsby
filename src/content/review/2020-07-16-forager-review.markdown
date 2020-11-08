@@ -2,17 +2,17 @@
 pageType:     post
 game:         forager
 slug:         /forager-switch-review/
-tab-title:    From Grinding Gatherer to Millionaire Tycoon in Forager
+tabTitle:     From Grinding Gatherer to Millionaire Tycoon in Forager
 title:        From Grinding Gatherer to Millionaire Tycoon in <em class='game-title'>Forager</em>
-type:         [review]
+postType:     [review]
 desc:         "Forager review: Because Forager is so open-ended, with so much freedom, content, and ability to suit all play styles, the sky is truly the limit. Treat it as a mini-Stardew Valley and farm, harvest, and play with chickens all day, or treat it as a mini-Zelda and dungeon crawl and fight monsters all day."
 tagline:      "\"Because Forager is so open-ended, with so much freedom, content, and ability to suit all play styles, the sky is truly the limit. Treat it as a mini-Stardew Valley and farm, harvest, and play with chickens all day, or treat it as a mini-Zelda and dungeon crawl and fight monsters all day.\""
 date:         2020-07-16
-release-date: 2019-04-18
+releaseDate:  2019-04-18
 image:        Forager.png
 video:        https://www.youtube.com/embed/aVoWqNnlLaM
 author:       Brenda Zhang
-author-url:   brenda
+authorUrl:    brenda
 categories:   ["adventure", "survival", "open world", management, "not story", review]
 tags:         [forager, hopfrog, "pixel art", crafting, exploration]
 ---

@@ -1,18 +1,19 @@
 ---
-pageType:   post
-slug:       /indie-arena-booth-adventures/
-tab-title:  Adventures at Indie Arena Booth
-title:      Adventures at Indie Arena Booth
-type:       [events, opinion]
-desc:       "While Emily and I couldn't do in-person photo ops, we visited dozens of booths in-game and took plenty of photos of our experience as if we were actually there together—because we were, in spirit and in a Discord call. We walked down the black and white city in Genesis Noir, traversed the watchful blue streets of Orwell, and wandered the colorless paths of Chicory: A Colorful Tale."
-tagline:    "\"While Emily and I couldn't do in-person photo ops, we visited dozens of booths in-game and took plenty of photos of our experience as if we were actually there together—because we were, in spirit and in a Discord call. We walked down the black and white city in Genesis Noir, traversed the watchful blue streets of Orwell, and wandered the colorless paths of Chicory: A Colorful Tale.\""
-date:       2020-08-29
-image:      IndieArenaBooth.png
-video:      https://www.youtube.com/embed/_hgTOw11oLc
-author:     Brenda Zhang
-author-url: brenda
-categories: [adventure, events, "opinion", story]
-tags:       ["Gamescom", "Indie Arena Booth", featured]
+pageType:     post
+slug:         /indie-arena-booth-adventures/
+tabTitle:     Adventures at Indie Arena Booth
+title:        Adventures at Indie Arena Booth
+postType:     [events, opinion]
+desc:         "While Emily and I couldn't do in-person photo ops, we visited dozens of booths in-game and took plenty of photos of our experience as if we were actually there together—because we were, in spirit and in a Discord call. We walked down the black and white city in Genesis Noir, traversed the watchful blue streets of Orwell, and wandered the colorless paths of Chicory: A Colorful Tale."
+tagline:      "\"While Emily and I couldn't do in-person photo ops, we visited dozens of booths in-game and took plenty of photos of our experience as if we were actually there together—because we were, in spirit and in a Discord call. We walked down the black and white city in Genesis Noir, traversed the watchful blue streets of Orwell, and wandered the colorless paths of Chicory: A Colorful Tale.\""
+date:         2020-08-29
+releaseDate:  
+image:        IndieArenaBooth.png
+video:        https://www.youtube.com/embed/_hgTOw11oLc
+author:       Brenda Zhang
+authorUrl:    brenda
+categories:   [adventure, events, "opinion", story]
+tags:         ["Gamescom", "Indie Arena Booth", featured]
 ---
 My fellow writer [Emily](https://colludia.com/author/emily) and I were planning on going to many game conferences and conventions this summer, but obviously our plans couldn't come to fruition with COVID-19 making it completely unreasonable to hold large events. However, digital cons like [Indie Arena Booth](https://indiearenabooth.de/gamescom2020/games), created in playable MMORPG fashion, were the next best thing and still very much worth the experience. The team of developers that built Indie Arena Booth from scratch in just a few months deserve all the praise for making a whole game with a huge map of booths that we were able to roam.
 

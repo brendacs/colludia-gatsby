@@ -2,16 +2,16 @@
 pageType:     post
 game:         detectivegui
 slug:         /settings-menu-detective-gui/
-tab-title:    What's on the (Settings) Menu in Detective GUI
+tabTitle:     What's on the (Settings) Menu in Detective GUI
 title:        What's on the (Settings) Menu in <em class='game-title'>Detective GUI</em>
-type:         [review]
+postType:     [review]
 desc:         "Detective GUI review: The game has the player enter with traditional platforming mechanics and familiar 8-bit sprites, only for them to find out those familiarities are not necessary to progress through the game. The crux of Detective GUI is in the player’s ability to think outside the box."
 tagline:      "\"The game has the player enter with traditional platforming mechanics and familiar 8-bit sprites, only for them to find out those familiarities are not necessary to progress through the game. The crux of Detective GUI is in the player’s ability to think outside the box.\""
 date:         2020-05-20
-release-date: 2020-05-13
+releaseDate:  2020-05-13
 image:        DetectiveGui.png
 author:       Devon Huge
-author-url:   devon
+authorUrl:    devon
 categories:   [puzzle, platformer, "not story", review]
 tags:         ["Detective GUI", Joqlepecheur, Barky, pixel graphics, flash game, browser]
 ---

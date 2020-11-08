@@ -1,17 +1,17 @@
 ---
 pageType:     post
 slug:         /npckc-with-love/
-tab-title:    npckc, With Love
+tabTitle:     npckc, With Love
 title:        npckc, With Love
-type:         spotlight
+postType:     [spotlight]
 desc:         "Developer spotlight: All the games by npckc have had one central theme in common: identity. They also advertise their games as LGBTQ+ friendly, and I can say for a fact they certainly are. As for the artwork, not only is it cute, but it is also uniquely different in each game."
 tagline:      "\"All the games by npckc have had one central theme in common: identity. They also advertise their games as LGBTQ+ friendly, and I can say for a fact they certainly are. As for the artwork, not only is it cute, but it is also uniquely different in each game.\""
 date:         2020-05-03
-release-date: 2019-08-31
+releaseDate:  2019-08-31
 image:        npckc.png
 video:        https://www.youtube.com/embed/wxeNgIcfylQ
 author:       Emily Tang
-author-url:   emily
+authorUrl:    emily
 categories:   ["visual novel", spotlight, story]
 tags:         ["npckc", "tavern for tea", "mental health", lgbtq, identity, developer]
 ---

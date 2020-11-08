@@ -2,17 +2,17 @@
 pageType:     post
 game:         oldmansjourney
 slug:         /terraforming-landscapes-old-mans-journey/
-tab-title:    "Terraforming Landscapes in Old Man's Journey"
+tabTitle:     "Terraforming Landscapes in Old Man's Journey"
 title:        "Terraforming Landscapes in <em class='game-title'>Old Man's Journey</em>"
-type:         ["#tbt", review]
+postType:     ["#tbt", review]
 desc:         "Old Man's Journey review: The trek was a true walk down memory lane, filled with as many ups and downs as the hills themselves."
 tagline:      "\"The trek was a true walk down memory lane, filled with as many ups and downs as the hills themselves.\""
 date:         2020-04-22
-release-date: 2017-05-17
+releaseDate:  2017-05-17
 image:        OldMansJourney.png
 video:        https://www.youtube.com/embed/tJ29Ql3xDhY
 author:       Brenda Zhang
-author-url:   brenda
+authorUrl:    brenda
 categories:   [puzzle, adventure, review, story]
 tags:         ["Old Man's Journey", "Broken Rules", landscapes]
 ---

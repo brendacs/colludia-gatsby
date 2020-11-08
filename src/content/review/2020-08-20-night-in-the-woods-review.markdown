@@ -2,17 +2,17 @@
 pageType:     post
 game:         nightinthewoods
 slug:         /night-in-the-woods-review/
-tab-title:    "Night in the Woods: A Delightfully Candid Tale of Youthful Quirk"
+tabTitle:     "Night in the Woods: A Delightfully Candid Tale of Youthful Quirk"
 title:        "<em class='game-title'>Night in the Woods:</em> A Delightfully Candid Tale of Youthful Quirk"
-type:         ["#tbt", review]
+postType:     ["#tbt", review]
 desc:         "Review: Night in the Woods tackles a multitude of themes and real life issues, such as trauma, social awkwardness, mental health, and young adulthood in the most genuine ways possible."
 tagline:      "\"Night in the Woods tackles a multitude of themes and real life issues, such as trauma, social awkwardness, mental health, and young adulthood in the most genuine ways possible.\""
 date:         2020-08-20
-release-date: 2017-02-21
+releaseDate:  2017-02-21
 image:        NightInTheWoods.jpg
 video:        https://www.youtube.com/embed/u17kM8oSz3k
 author:       Moses Concha
-author-url:   moses
+authorUrl:    moses
 categories:   [adventure, atmospheric, review, story]
 tags:         ["Night in the Woods", "Infinite Fall", Finji, 2D, colorful, art, cats, dialogue, character, friendship]
 ---

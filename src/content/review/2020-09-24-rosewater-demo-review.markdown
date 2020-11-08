@@ -2,17 +2,17 @@
 pageType:     post
 game:         rosewater
 slug:         /rosewater-demo-review/
-tab-title:    "Intricately Layered Adventure Awaits in Rosewater"
+tabTitle:     "Intricately Layered Adventure Awaits in Rosewater"
 title:        "Intricately Layered Adventure Awaits in <em class='game-title'>Rosewater</em>"
-type:         [demo, review]
+postType:     [demo, review]
 desc:         "Rosewater demo review: Fantastic animation, complex characters and weighted interaction kept me gripped the whole time and set the perfect scene for the main adventure. The demo was just enough to reel you in, and I was reeled."
 tagline:      "\"Fantastic animation, complex characters and weighted interaction kept me gripped the whole time and set the perfect scene for the main adventure. The demo was just enough to reel you in, and I was reeled.\""
 date:         2020-09-24
-release-date: 2021-12-31
+releaseDate:  2021-12-31
 image:        Rosewater.jpg
 video:        https://www.youtube.com/embed/12CsUjgxXfU
 author:       Pixie Poison
-author-url:   pixie
+authorUrl:    pixie
 categories:   [point-and-click, adventure, demo, review, story]
 tags:         ["Rosewater", "Grundislav Games", "Application Systems Heidelberg", puzzle, animation]
 ---

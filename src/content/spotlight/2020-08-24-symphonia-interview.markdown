@@ -2,17 +2,17 @@
 pageType:     post
 game:         symphonia
 slug:         /symphonia-team-interview/
-tab-title:    "Symphonia: Behind the Stage With Team SPEAR"
+tabTitle:     "Symphonia: Behind the Stage With Team SPEAR"
 title:        "<em class='game-title'>Symphonia:</em> Behind the Stage With Team SPEAR"
-type:         [interview, spotlight]
+postType:     [interview, spotlight]
 desc:         "Symphonia interview: It was clear that the team had great synergy during production, having created a well-focused game unified in its story, art, sound design, and gameplay."
 tagline:      "\"It was clear that the team had great synergy during production, having created a well-focused game unified in its story, art, sound design, and gameplay.\""
 date:         2020-08-24
-release-date: 2020-06-23
+releaseDate:  2020-06-23
 image:        Symphonia.png
 video:        https://www.youtube.com/embed/cQA9iiWxZBU
 author:       Josh Roque
-author-url:   josh
+authorUrl:    josh
 categories:   [platformer, rpg, spotlight, interview, story]
 tags:         ["ISART Digital", Symphonia, music]
 ---

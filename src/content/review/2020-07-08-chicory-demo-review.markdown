@@ -2,17 +2,17 @@
 pageType:     post
 game:         chicory
 slug:         /chicory-demo-review/
-tab-title:    "Chicory: A Colorful Tale Feels Like a Playable Coloring Book, Demo Review"
+tabTitle:     "Chicory: A Colorful Tale Feels Like a Playable Coloring Book, Demo Review"
 title:        "<em class='game-title'>Chicory: A Colorful Tale</em> Feels Like a Playable Coloring Book"
-type:         [demo, review]
+postType:     [demo, review]
 desc:         "Chicory demo review: What you choose to do after you've picked up the brush is as open-ended as your paintings. This demo convinced me I need to get Chicory the day it releases and find out what happens next in the adventure."
 tagline:      "\"What you choose to do after you've picked up the brush is as open-ended as your paintings. This demo convinced me I need to get Chicory the day it releases and find out what happens next in the adventure.\""
 date:         2020-07-08
-release-date: 2021-12-31
+releaseDate:  2021-12-31
 image:        Chicory.jpg
 video:        https://www.youtube.com/embed/zcg1uzgVtXY
 author:       Brenda Zhang
-author-url:   brenda
+authorUrl:    brenda
 categories:   ["adventure", rpg, puzzle, demo, review, story]
 tags:         ["Chicory", "Greg Lobanov", illustration, dog, painting, "coloring book", cute]
 ---

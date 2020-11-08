@@ -2,17 +2,17 @@
 pageType:     post
 game:         underdown
 slug:         /underdown-interview/
-tab-title:    "How Underdown Empowers With Diverse Characters"
+tabTitle:     "How Underdown Empowers With Diverse Characters"
 title:        "How <em class='game-title'>Underdown</em> Empowers With Diverse Characters"
-type:         [interview, spotlight]
+postType:     [interview, spotlight]
 desc:         "Gentle Troll Underdown interview: In games, we cling to our stereotypes even more than Hollywood does. What you see all the time is what you consider normal, and if we don't start changing what you see then other things will never be normal."
 tagline:      "\"In games, we cling to our stereotypes even more than Hollywood does. What you see all the time is what you consider normal, and if we don't start changing what you see then other things will never be normal.\""
 date:         2020-08-18
-release-date: 2022
+releaseDate:  2022-12-31
 image:        Underdown.png
 video:        https://www.youtube.com/embed/9gjHeZBmOzg
 author:       Brenda Zhang
-author-url:   brenda
+authorUrl:    brenda
 categories:   [tactical, turn-based, mystery, spotlight, interview, story]
 tags:         ["Gentle Troll", "Underdown", disabilities, diversity, thriller, featured]
 ---

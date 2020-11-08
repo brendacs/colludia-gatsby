@@ -1,18 +1,19 @@
 ---
-pageType:   post
-slug:       /7-beautiful-relaxing-indie-games-coming-2020/
-tab-title:  7 Beautiful, Relaxing Indie Games Coming in 2020
-title:      7 Beautiful, Relaxing Indie Games Coming in 2020
-type:       our picks
-desc:       "If I get to wish upon a star tonight in Animal Crossing, I'll wish for these games to come out sooner."
-tagline:    "\"If I get to wish upon a star tonight in Animal Crossing, I'll wish for these games to come out sooner.\""
-date:       2020-05-11
-image:      7BeautifulIndieGames.jpg
-video:      https://www.youtube.com/embed/yPcw2DnWNz8
-author:     Brenda Zhang
-author-url: brenda
-categories: [adventure, rpg, simulation, "our picks", story]
-tags:       [Spiritfarer, "Thunder Lotus", Sable, Shedworks, "Garden Story", Picogram, "Mineko's Night Market", "Meowza Games", Ooblets, Glumberland, Eastward, Pixpil, Chicory, "Greg Lobanov", "beautiful indie games", "pixel art"]
+pageType:     post
+slug:         /7-beautiful-relaxing-indie-games-coming-2020/
+tabTitle:     7 Beautiful, Relaxing Indie Games Coming in 2020
+title:        7 Beautiful, Relaxing Indie Games Coming in 2020
+postType:     [our picks]
+desc:         "If I get to wish upon a star tonight in Animal Crossing, I'll wish for these games to come out sooner."
+tagline:      "\"If I get to wish upon a star tonight in Animal Crossing, I'll wish for these games to come out sooner.\""
+date:         2020-05-11
+releaseDate:  
+image:        7BeautifulIndieGames.jpg
+video:        https://www.youtube.com/embed/yPcw2DnWNz8
+author:       Brenda Zhang
+authorUrl:    brenda
+categories:   [adventure, rpg, simulation, "our picks", story]
+tags:         [Spiritfarer, "Thunder Lotus", Sable, Shedworks, "Garden Story", Picogram, "Mineko's Night Market", "Meowza Games", Ooblets, Glumberland, Eastward, Pixpil, Chicory, "Greg Lobanov", "beautiful indie games", "pixel art"]
 ---
 What makes a good game?
 

@@ -6,6 +6,8 @@ import { tagColors } from '../../componentConstants'
 import './posts.scss'
 
 
+// TODO: get posts with graphql instead
+// TODO: implement sort with graphql
 const Posts = ({ posts, page, sortable, limit }) => {
   const [sorted, setSorted] = useState(false)
   let count = 0;
@@ -19,7 +21,7 @@ const Posts = ({ posts, page, sortable, limit }) => {
           <option value="release" onSelect={() => setSorted(true)}>Most recent game release date</option>
         </select>
       }
-      <div className={`posts ${sorted ? 'by-release-date' : 'by-publish-date'}`}>
+      <div className="posts">
         {posts.map(post => {
           if ((page === 'latest' || post.types.includes(page))) {
             count += 1

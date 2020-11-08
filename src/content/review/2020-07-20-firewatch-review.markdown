@@ -2,17 +2,17 @@
 pageType:     post
 game:         firewatch
 slug:         /firewatch-review/
-tab-title:    Explore Humanity and Uncover an Uncertain Past in Firewatch
+tabTitle:     Explore Humanity and Uncover an Uncertain Past in Firewatch
 title:        Explore Humanity and Uncover an Uncertain Past in <em class='game-title'>Firewatch</em>
-type:         ["#tbt", review]
+postType:     ["#tbt", review]
 desc:         "Firewatch review: Just about everything comes together to allow this game to be what it is: a mini-masterpiece in modern storytelling. It calls out to you to explore it, to uncover its many secrets and untold stories that lay right under your nose."
 tagline:      "\"Just about everything comes together to allow this game to be what it is: a mini-masterpiece in modern storytelling. It calls out to you to explore it, to uncover its many secrets and untold stories that lay right under your nose.\""
 date:         2020-07-20
-release-date: 2016-02-09
+releaseDate:  2016-02-09
 image:        Firewatch.jpg
 video:        https://www.youtube.com/embed/d02lhvvVSy8
 author:       Moses Concha
-author-url:   moses
+authorUrl:    moses
 categories:   [adventure, atmospheric, mystery, review, story]
 tags:         [firewatch, "campo santo", first-person, character-driven, forest, funny]
 ---

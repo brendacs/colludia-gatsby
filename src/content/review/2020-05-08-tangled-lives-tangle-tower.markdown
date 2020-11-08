@@ -2,17 +2,17 @@
 pageType:     post
 game:         tangletower
 slug:         /tangled-lives-tangle-tower/
-tab-title:    The Tangled Lives of the Fellows in Tangle Tower
+tabTitle:     The Tangled Lives of the Fellows in Tangle Tower
 title:        The Tangled Lives of the Fellows in <em class='game-title'>Tangle Tower</em>
-type:         [review]
+postType:     [review]
 desc:         "Tangle Tower review: The character animations are on point, the puzzles were at just the right pacing and difficulty, and the plot was thick. I couldn't put this game down and played all six hours one sitting."
 tagline:      "\"The character animations are on point, the puzzles were at just the right pacing and difficulty, and the plot was thick. I couldn't put this game down and played all six hours one sitting.\""
 date:         2020-05-08
-release-date: 2019-09-19
+releaseDate:  2019-09-19
 image:        TangleTower.png
 video:        https://www.youtube.com/embed/3JEliSJ859I
 author:       Brenda Zhang
-author-url:   brenda
+authorUrl:    brenda
 categories:   [mystery, point-and-click, review, story]
 tags:         ["Tangle Tower", "SFB Games", 2D, puzzle, iOS]
 ---

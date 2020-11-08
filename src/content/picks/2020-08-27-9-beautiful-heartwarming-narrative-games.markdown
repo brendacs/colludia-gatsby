@@ -1,18 +1,19 @@
 ---
-pageType:   post
-slug:       /9-heartwarming-narrative-games/
-tab-title:  "9 Beautiful, Heartwarming Narrative Driven Games to Follow"
-title:      "9 Beautiful, Heartwarming Narrative Driven Games to Follow"
-type:       our picks
-desc:       "These 9 visually appealing games are beautiful in more than one way—the story and relationships in each are charming, heartwarming, and sometimes very personal. The games here are very diverse in art and genre, but their distinct, stylized art and moving story are the common thread between them all."
-tagline:    "\"These 9 visually appealing games are beautiful in more than one way—the story and relationships in each are charming, heartwarming, and sometimes very personal. The games here are very diverse in art and genre, but their distinct, stylized art and moving story are the common thread between them all.\""
-date:       2020-08-27
-image:      9HeartwarmingGames.png
-video:      
-author:     Brenda Zhang
-author-url: brenda
-categories: [adventure, rpg, platformer, "visual novel", "our picks", story]
-tags:       [beautiful, heartwarming]
+pageType:     post
+slug:         /9-heartwarming-narrative-games/
+tabTitle:     "9 Beautiful, Heartwarming Narrative Driven Games to Follow"
+title:        "9 Beautiful, Heartwarming Narrative Driven Games to Follow"
+postType:     [our picks]
+desc:         "These 9 visually appealing games are beautiful in more than one way—the story and relationships in each are charming, heartwarming, and sometimes very personal. The games here are very diverse in art and genre, but their distinct, stylized art and moving story are the common thread between them all."
+tagline:      "\"These 9 visually appealing games are beautiful in more than one way—the story and relationships in each are charming, heartwarming, and sometimes very personal. The games here are very diverse in art and genre, but their distinct, stylized art and moving story are the common thread between them all.\""
+date:         2020-08-27
+releaseDate:  
+image:        9HeartwarmingGames.png
+video:        
+author:       Brenda Zhang
+authorUrl:    brenda
+categories:   [adventure, rpg, platformer, "visual novel", "our picks", story]
+tags:         [beautiful, heartwarming]
 ---
 Indie games often have the most stylized art and creative stories out there. These 9 visually appealing games are beautiful in more than one way—the story and relationships in each are either charming or heartwarming, and sometimes very personal. The games here are very diverse in art and genre, but their distinct, stylized art and moving story are the common thread between them all.
 

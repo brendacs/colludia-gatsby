@@ -2,17 +2,17 @@
 pageType:     post
 game:         everforward
 slug:         /ever-forward-demo-review/
-tab-title:    "Ever Forward: A Puzzling Dream About The Future"
+tabTitle:     "Ever Forward: A Puzzling Dream About The Future"
 title:        "<em class='game-title'>Ever Forward:</em> A Puzzling Dream About The Future"
-type:         [demo, review]
+postType:     [demo, review]
 desc:         "Demo review: Ever Forward tells a thought-provoking story with multiple interpretations and hits a sweet spot between minimalistic design and worldbuilding that is hard to come by. It’s a quiet, lonely game—but not empty."
 tagline:      "\"Ever Forward tells a thought-provoking story with multiple interpretations and hits a sweet spot between minimalistic design and worldbuilding that is hard to come by. It’s a quiet, lonely game—but not empty.\""
 date:         2020-08-11
-release-date: 2020-08-13
+releaseDate:  2020-08-13
 image:        EverForward.jpg
 video:        https://www.youtube.com/embed/hERmokoAZoA
 author:       Josh Roque
-author-url:   josh
+authorUrl:    josh
 categories:   [puzzle, demo, review, story]
 tags:         ["Pathea Games", "Ever Forward"]
 ---

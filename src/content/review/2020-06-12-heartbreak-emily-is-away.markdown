@@ -2,17 +2,17 @@
 pageType:     post
 game:         emilyisaway
 slug:         /heartbreak-emily-is-away/
-tab-title:    "Expect Heartbreak When Emily Is Away"
+tabTitle:     "Expect Heartbreak When Emily Is Away"
 title:        "Expect Heartbreak When <em class='game-title'>Emily Is Away</em>"
-type:         ["#tbt", review]
+postType:     ["#tbt", review]
 desc:         "Emily is Away review: Emily Is Away is one of those games that reminds me of simpler times. The welcoming blue Windows login screen, the AIM messenger app, and all the sounds that accompany them pulled me back to a time where I could afford to be more carefree."
 tagline:      "\"Emily Is Away is one of those games that reminds me of simpler times. The welcoming blue Windows login screen, the AIM messenger app, and all the sounds that accompany them pulled me back to a time where I could afford to be more carefree.\""
 date:         2020-06-12
-release-date: 2015-11-20
+releaseDate:  2015-11-20
 image:        EmilyIsAway.png
 video:        https://www.youtube.com/embed/LHpf9k1O01c
 author:       Emily Tang
-author-url:   emily
+authorUrl:    emily
 categories:   ["visual novel", text-based, review, story]
 tags:         ["Emily is Away", relatable, retro, messaging, coming-of-age]
 ---

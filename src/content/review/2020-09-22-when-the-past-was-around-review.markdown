@@ -2,17 +2,17 @@
 pageType:     post
 game:         whenthepastwasaroundfull
 slug:         /when-the-past-was-around-review/
-tab-title:    "The Beauty of Letting Go in When the Past Was Around"
+tabTitle:     "The Beauty of Letting Go in When the Past Was Around"
 title:        "The Beauty of Letting Go in <em class='game-title'>When The Past Was Around</em>"
-type:         [review]
+postType:     [review]
 desc:         "When The Past Was Around review: The vivid scenes and emotional music that perfectly fit together with the bittersweet narrative of Eda's past romance and locked away memories in When the Past Was Around nearly brought me to tears in a way no game has in a very long time."
 tagline:      "\"The vivid scenes and emotional music that perfectly fit together with the bittersweet narrative of Eda's past romance and locked away memories in When the Past Was Around nearly brought me to tears in a way no game has in a very long time.\""
 date:         2020-09-22
-release-date: 2020-09-22
+releaseDate:  2020-09-22
 image:        WhenThePastWasAroundFull.jpeg
 video:        https://www.youtube.com/embed/ZnpO8z0yMCQ
 author:       Brenda Zhang
-author-url:   brenda
+authorUrl:    brenda
 categories:   [puzzle, "room escape", adventure, review, story]
 tags:         ["When The Past Was Around", "Mojiken Studio", "Toge Productions", violin, music, illustration, beautiful, letting go, latest-featured]
 ---
