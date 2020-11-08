@@ -3,9 +3,11 @@ module.exports = {
     title: `Colludia`,
     description: `Colludia is an indie gaming blog focused on games with stories to tell and the developers behind them.`,
     author: `@brendacs`,
+    siteUrl: `https://colludia.com`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
+    `gatsby-plugin-sitemap`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -47,7 +49,7 @@ module.exports = {
         ],
         display: 'swap'
       }
-    }
+    },
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
