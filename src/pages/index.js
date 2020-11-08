@@ -11,7 +11,6 @@ const IndexPage = () => (
       tooltip="Our latest featured article about an indie game with a story to tell."
       posts={posts}
       page="latest"
-      sortable
     />
   </>
 )

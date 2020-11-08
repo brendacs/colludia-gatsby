@@ -11,6 +11,7 @@ const ReviewsPage = () => (
       tooltip="Our articles in the Reviews discuss indie games we love, especially those with a good story to tell."
       posts={posts}
       page="review"
+      sortable
     />
   </>
 )
