@@ -3,7 +3,7 @@ import SEO from '../components/seo'
 import ArticleList from '../components/layouts/article-list/article-list'
 import {featuredPost, posts} from '../constants'
 
-const ReviewsPage = () => (
+const SpotlightPage = () => (
   <>
     <SEO title='Developer Spotlights' />
     <ArticleList
@@ -16,4 +16,4 @@ const ReviewsPage = () => (
   </>
 )
 
-export default ReviewsPage
+export default SpotlightPage
