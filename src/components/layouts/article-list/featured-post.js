@@ -24,7 +24,11 @@ const FeaturedPost = ({ featuredPost, tooltip }) => (
 )
 
 FeaturedPost.propTypes = {
-  featuredPost: PropTypes.object.isRequired,
+  featuredPost: PropTypes.shape({
+    title: PropTypes.string.isRequired,
+    tagline: PropTypes.string.isRequired,
+    image: PropTypes.string.isRequired
+  }).isRequired,
   tooltip: PropTypes.string.isRequired
 }
 

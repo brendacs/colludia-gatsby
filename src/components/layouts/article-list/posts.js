@@ -2,7 +2,7 @@
 import PropTypes from 'prop-types'
 import React, { useState } from 'react'
 import Tag from '../../common/tag'
-import { tagColors } from '../../../constants'
+import { tagColors } from '../../componentConstants'
 import './posts.scss'
 
 
@@ -26,7 +26,7 @@ const Posts = ({ posts, page, sortable, limit }) => {
           }
           return (
             (page === 'latest' || post.types.includes(page)) &&
-            <a className={`post ${count > (limit || 12) && 'row'}`} href={post.url} name={`navigate to post titled ${post.title}`}>
+            <a className={`post ${count > limit && 'row'}`} href={post.url} name={`navigate to post titled ${post.title}`}>
               <img alt="game header image" className="post-image" loading="lazy" src={require(`../../../images/headers/small/${post.image}`)} />
               <div className="post-text-container">
                 <h2 className="post-title">{post.title}</h2>
@@ -49,12 +49,22 @@ const Posts = ({ posts, page, sortable, limit }) => {
 }
 
 Posts.propTypes = {
-  posts: PropTypes.array.isRequired,
-  sortable: PropTypes.bool
+  posts: PropTypes.arrayOf(PropTypes.shape({
+    title: PropTypes.string.isRequired,
+    author: PropTypes.string.isRequired,
+    date: PropTypes.string.isRequired,
+    url: PropTypes.string,
+    image: PropTypes.string.isRequired,
+    types: PropTypes.arrayOf(PropTypes.string).isRequired
+  })).isRequired,
+  page: PropTypes.string.isRequired,
+  sortable: PropTypes.bool,
+  limit: PropTypes.number
 }
 
 Posts.defaultProps = {
-  sortable: false
+  sortable: false,
+  limit: 12
 }
 
 export default Posts

@@ -6,7 +6,7 @@
 
 // You can delete this file if you're not using it
 import React from 'react';
-import Layout from './src/components/layout';
+import Layout from './src/components/layouts/layout';
 import './src/styles/reset.scss'
 import './src/styles/global.scss'
   

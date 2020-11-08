@@ -15,7 +15,16 @@ const ArticleList = ({ featuredPost, tooltip, posts, page, sortable, limit }) =>
 
 ArticleList.propTypes = {
   featuredPost: PropTypes.object.isRequired,
-  tooltip: PropTypes.string.isRequired
+  tooltip: PropTypes.string.isRequired,
+  posts: PropTypes.array.isRequired,
+  page: PropTypes.string.isRequired,
+  sortable: PropTypes.bool,
+  limit: PropTypes.number
+}
+
+ArticleList.defaultProps = {
+  sortable: false,
+  limit: 12
 }
 
 export default ArticleList
