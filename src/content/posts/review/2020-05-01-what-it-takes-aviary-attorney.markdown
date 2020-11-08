@@ -46,7 +46,7 @@ While initially the lovely artwork, historical setting, and clashing anthromorph
 
 ![Sparrowson's reaction and dialogue with the pun: "Wing it"][image3]
 
-[image0]: /images/post/aviaryattorney/AviaryAttorney0.png
-[image1]: /images/post/aviaryattorney/AviaryAttorney1.png
-[image2]: /images/post/aviaryattorney/AviaryAttorney2.png
-[image3]: /images/post/aviaryattorney/AviaryAttorney3.png
+[image0]: ../../../images/post/aviaryattorney/AviaryAttorney0.png
+[image1]: ../../../images/post/aviaryattorney/AviaryAttorney1.png
+[image2]: ../../../images/post/aviaryattorney/AviaryAttorney2.png
+[image3]: ../../../images/post/aviaryattorney/AviaryAttorney3.png

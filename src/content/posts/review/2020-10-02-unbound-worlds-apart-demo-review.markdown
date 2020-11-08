@@ -114,12 +114,12 @@ The demo for *Unbound: Worlds Apart* is available on Steam, for the low-low pric
 
 <figcaption>Portals can do more than just see into another world. Play the demo to find out what else they can do!</figcaption>
 
-[image0]: /images/post/unboundworldsapart/UnboundWorldsApart0.jpg
-[image1]: /images/post/unboundworldsapart/UnboundWorldsApart1.jpg
-[image2]: /images/post/unboundworldsapart/UnboundWorldsApart2.jpg
-[image3]: /images/post/unboundworldsapart/UnboundWorldsApart3.jpg
-[image4]: /images/post/unboundworldsapart/UnboundWorldsApart4.jpg
-[image5]: /images/post/unboundworldsapart/UnboundWorldsApart5.jpg
-[image6]: /images/post/unboundworldsapart/UnboundWorldsApart6.jpg
-[image-extra0]: /images/post/unboundworldsapart/Unbound-portal.jpg
-[image-extra1]: /images/post/unboundworldsapart/Unbound-dialogue.jpg
+[image0]: ../../../images/post/unboundworldsapart/UnboundWorldsApart0.jpg
+[image1]: ../../../images/post/unboundworldsapart/UnboundWorldsApart1.jpg
+[image2]: ../../../images/post/unboundworldsapart/UnboundWorldsApart2.jpg
+[image3]: ../../../images/post/unboundworldsapart/UnboundWorldsApart3.jpg
+[image4]: ../../../images/post/unboundworldsapart/UnboundWorldsApart4.jpg
+[image5]: ../../../images/post/unboundworldsapart/UnboundWorldsApart5.jpg
+[image6]: ../../../images/post/unboundworldsapart/UnboundWorldsApart6.jpg
+[image-extra0]: ../../../images/post/unboundworldsapart/Unbound-portal.jpg
+[image-extra1]: ../../../images/post/unboundworldsapart/Unbound-dialogue.jpg

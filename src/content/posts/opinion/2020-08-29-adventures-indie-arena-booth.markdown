@@ -79,25 +79,25 @@ In case you were wondering, the gray antelope ghost is Emily and the blue haired
 
 We'll be continuing our adventure this weekend—see you at the next booth!
 
-[image0]: /images/post/indiearenabooth/map.png
-[image1]: /images/post/indiearenabooth/welcome_to_elk.png
-[image2]: /images/post/indiearenabooth/weaving_tides.png
-[image3]: /images/post/indiearenabooth/past_around.png
-[image4]: /images/post/indiearenabooth/tunic.png
-[image5]: /images/post/indiearenabooth/serenity_forge.png
-[image6]: /images/post/indiearenabooth/merchant_skies.png
-[image7]: /images/post/indiearenabooth/land_screens.png
-[image8]: /images/post/indiearenabooth/genesis_noir.png
-[image9]: /images/post/indiearenabooth/orwell.png
-[image10]: /images/post/indiearenabooth/chicory.png
-[image11]: /images/post/indiearenabooth/project_haven.png
-[image12]: /images/post/indiearenabooth/nine_noir_lives.png
-[image13]: /images/post/indiearenabooth/vast_oasis.png
-[image14]: /images/post/indiearenabooth/mindcop.png
-[image15]: /images/post/indiearenabooth/floppy_knights.png
-[image16]: /images/post/indiearenabooth/bowling.png
-[image17]: /images/post/indiearenabooth/minute_of_islands.png
-[image18]: /images/post/indiearenabooth/coffee_talk.png
-[image19]: /images/post/indiearenabooth/bf_dungeon.png
-[image20]: /images/post/indiearenabooth/death_taxes.png
-[image21]: /images/post/indiearenabooth/endling.png
+[image0]: ../../../images/post/indiearenabooth/map.png
+[image1]: ../../../images/post/indiearenabooth/welcome_to_elk.png
+[image2]: ../../../images/post/indiearenabooth/weaving_tides.png
+[image3]: ../../../images/post/indiearenabooth/past_around.png
+[image4]: ../../../images/post/indiearenabooth/tunic.png
+[image5]: ../../../images/post/indiearenabooth/serenity_forge.png
+[image6]: ../../../images/post/indiearenabooth/merchant_skies.png
+[image7]: ../../../images/post/indiearenabooth/land_screens.png
+[image8]: ../../../images/post/indiearenabooth/genesis_noir.png
+[image9]: ../../../images/post/indiearenabooth/orwell.png
+[image10]: ../../../images/post/indiearenabooth/chicory.png
+[image11]: ../../../images/post/indiearenabooth/project_haven.png
+[image12]: ../../../images/post/indiearenabooth/nine_noir_lives.png
+[image13]: ../../../images/post/indiearenabooth/vast_oasis.png
+[image14]: ../../../images/post/indiearenabooth/mindcop.png
+[image15]: ../../../images/post/indiearenabooth/floppy_knights.png
+[image16]: ../../../images/post/indiearenabooth/bowling.png
+[image17]: ../../../images/post/indiearenabooth/minute_of_islands.png
+[image18]: ../../../images/post/indiearenabooth/coffee_talk.png
+[image19]: ../../../images/post/indiearenabooth/bf_dungeon.png
+[image20]: ../../../images/post/indiearenabooth/death_taxes.png
+[image21]: ../../../images/post/indiearenabooth/endling.png

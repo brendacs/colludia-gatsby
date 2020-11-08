@@ -11,28 +11,30 @@
   line-height: 1;
 }
 
-.tag:nth-child(1n) {
-  background-color: darken($site-gray, 9%);
-}
+.random {
+  &.tag:nth-child(1n) {
+    background-color: darken($site-gray, 9%);
+  }
 
-.tag:nth-child(2n) {
-  background-color: darken($site-gray, 20%);
-}
+  &.tag:nth-child(2n) {
+    background-color: darken($site-gray, 20%);
+  }
 
-.tag:nth-child(3n) {
-  background-color: darken($site-gray, 5%);
-}
+  &.tag:nth-child(3n) {
+    background-color: darken($site-gray, 5%);
+  }
 
-.tag:nth-child(4n) {
-  background-color: darken($site-gray, 15%);
-}
+  &.tag:nth-child(4n) {
+    background-color: darken($site-gray, 15%);
+  }
 
-.tag:nth-child(5n) {
-  background-color: darken($site-gray, 5%);
-}
+  &.tag:nth-child(5n) {
+    background-color: darken($site-gray, 5%);
+  }
 
-.tag:nth-child(6n) {
-  background-color: darken($site-gray, 13%);
+  &.tag:nth-child(6n) {
+    background-color: darken($site-gray, 13%);
+  }
 }
 
 .tag {

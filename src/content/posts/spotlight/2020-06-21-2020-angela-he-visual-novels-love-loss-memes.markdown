@@ -125,17 +125,17 @@ Need a good way to wrap up pride month as much as I need a good way to wrap up t
 
 ![Saying goodbye in I woke up next to you again][image14]
 
-[image0]: /images/post/angelahe/AngelaHe0.png
-[image2]: /images/post/angelahe/AngelaHe2.png
-[image3]: /images/post/angelahe/AngelaHe3.png
-[image4]: /images/post/angelahe/AngelaHe4.png
-[image5]: /images/post/angelahe/AngelaHe5.png
-[image6]: /images/post/angelahe/AngelaHe6.png
-[image7]: /images/post/angelahe/AngelaHe7.png
-[image8]: /images/post/angelahe/AngelaHe8.png
-[image9]: /images/post/angelahe/AngelaHe9.png
-[image10]: /images/post/angelahe/AngelaHe10.png
-[image11]: /images/post/angelahe/AngelaHe11.png
-[image12]: /images/post/angelahe/AngelaHe12.png
-[image13]: /images/post/angelahe/AngelaHe13.png
-[image14]: /images/post/angelahe/AngelaHe14.png
+[image0]: ../../../images/post/angelahe/AngelaHe0.png
+[image2]: ../../../images/post/angelahe/AngelaHe2.png
+[image3]: ../../../images/post/angelahe/AngelaHe3.png
+[image4]: ../../../images/post/angelahe/AngelaHe4.png
+[image5]: ../../../images/post/angelahe/AngelaHe5.png
+[image6]: ../../../images/post/angelahe/AngelaHe6.png
+[image7]: ../../../images/post/angelahe/AngelaHe7.png
+[image8]: ../../../images/post/angelahe/AngelaHe8.png
+[image9]: ../../../images/post/angelahe/AngelaHe9.png
+[image10]: ../../../images/post/angelahe/AngelaHe10.png
+[image11]: ../../../images/post/angelahe/AngelaHe11.png
+[image12]: ../../../images/post/angelahe/AngelaHe12.png
+[image13]: ../../../images/post/angelahe/AngelaHe13.png
+[image14]: ../../../images/post/angelahe/AngelaHe14.png

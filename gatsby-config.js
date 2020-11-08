@@ -40,7 +40,19 @@ module.exports = {
         data: `@import "${__dirname}/src/styles/mixins";`,
       }
     },
-    `gatsby-transformer-remark`,
+    {
+      resolve: `gatsby-transformer-remark`,
+      options: {
+        plugins: [
+          {
+            resolve: `gatsby-remark-images`,
+            options: {
+              maxWidth: 1300
+            }
+          }
+        ]
+      }
+    },
     {
       resolve: `gatsby-plugin-google-fonts`,
       options: {

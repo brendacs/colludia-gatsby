@@ -51,8 +51,8 @@ The first playthrough of any game is key to its experience and how players will 
 
 With all that said, the writing is unique and the work done to build immersion is top notch. Most of the time, I was cowering at the game behind parted fingers. I would recommend any horror or visual novel fans with free time to take a peek at it.
 
-[image0]: /images/post/dontopenyoureyes/DontOpenYourEyes0.png
-[image1]: /images/post/dontopenyoureyes/DontOpenYourEyes1.png
-[image2]: /images/post/dontopenyoureyes/DontOpenYourEyes2.png
-[image3]: /images/post/dontopenyoureyes/DontOpenYourEyes3.png
-[image4]: /images/post/dontopenyoureyes/DontOpenYourEyes4.png
+[image0]: ../../../images/post/dontopenyoureyes/DontOpenYourEyes0.png
+[image1]: ../../../images/post/dontopenyoureyes/DontOpenYourEyes1.png
+[image2]: ../../../images/post/dontopenyoureyes/DontOpenYourEyes2.png
+[image3]: ../../../images/post/dontopenyoureyes/DontOpenYourEyes3.png
+[image4]: ../../../images/post/dontopenyoureyes/DontOpenYourEyes4.png

@@ -45,6 +45,6 @@ So far, the game looks like it has everything you want from a puzzle game. Level
 
 *Detective GUI*’s first chapter is a quick playthrough, but it's got a lot of content and a lot of potential. If you’re a fan of puzzles, you’re sure to have a fun time.
 
-[image0]: /images/post/detectivegui/DetectiveGui0.png
-[image1]: /images/post/detectivegui/DetectiveGui1.png
-[image2]: /images/post/detectivegui/DetectiveGui2.png
+[image0]: ../../../images/post/detectivegui/DetectiveGui0.png
+[image1]: ../../../images/post/detectivegui/DetectiveGui1.png
+[image2]: ../../../images/post/detectivegui/DetectiveGui2.png

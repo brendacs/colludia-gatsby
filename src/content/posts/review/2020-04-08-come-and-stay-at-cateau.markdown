@@ -64,8 +64,8 @@ The artwork, though simple, made the game stand out as much as its writing. The 
 
 <figcaption>Gargantuan, ruler of my heart.</figcaption>
 
-[image0]: /images/post/cateau/cateau0.png
-[image1]: /images/post/cateau/cateau1.png
-[image2]: /images/post/cateau/cateau2.png
-[image3]: /images/post/cateau/cateau3.png
-[image4]: /images/post/cateau/cateau4.png
+[image0]: ../../../images/post/cateau/cateau0.png
+[image1]: ../../../images/post/cateau/cateau1.png
+[image2]: ../../../images/post/cateau/cateau2.png
+[image3]: ../../../images/post/cateau/cateau3.png
+[image4]: ../../../images/post/cateau/cateau4.png

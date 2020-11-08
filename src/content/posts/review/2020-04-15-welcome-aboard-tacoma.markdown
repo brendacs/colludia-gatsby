@@ -64,7 +64,7 @@ With that being said, here’s where Fullbright pulled out textbook narrative de
 
 Fullbright also made sure not to be obnoxious when pointing to the next part of the narrative. They gave me ample space to explore and left enough hints to piece together the ending for myself before the game’s conclusion could show itself to me. *Tacoma* is a brilliant work of art by [Fullbright](https://fullbrig.ht/) that really shows what immersive multi-modal storytelling can do.
 
-[image0]: /images/post/tacoma/tacoma0.png
-[image1]: /images/post/tacoma/tacoma1.png
-[image2]: /images/post/tacoma/tacoma2.png
-[image3]: /images/post/tacoma/tacoma3.png
+[image0]: ../../../images/post/tacoma/tacoma0.png
+[image1]: ../../../images/post/tacoma/tacoma1.png
+[image2]: ../../../images/post/tacoma/tacoma2.png
+[image3]: ../../../images/post/tacoma/tacoma3.png

@@ -99,11 +99,11 @@ Following the show, in differing ways depending on how the ticket encounter with
 
 The *Rosewater* hype was high for me going into this demo and, happily, it did not disappoint. Fantastic animation, complex characters and weighted interaction kept me gripped the whole time and set the perfect scene for the main adventure. And, at an hour long, it was the perfect length with so much packed in, but somehow still not too much. It was just enough to reel you in, and I was *reeled*. Judging by this demo, 2021 is going to be a good year.
 
-[image0]: /images/post/rosewater/Rosewater0.png
-[image1]: /images/post/rosewater/Rosewater1.png
-[image2]: /images/post/rosewater/Rosewater2.png
-[image3]: /images/post/rosewater/Rosewater3.png
-[image4]: /images/post/rosewater/Rosewater4.png
-[image5]: /images/post/rosewater/Rosewater5.png
-[image6]: /images/post/rosewater/Rosewater6.png
-[image7]: /images/post/rosewater/Rosewater7.png
+[image0]: ../../../images/post/rosewater/Rosewater0.png
+[image1]: ../../../images/post/rosewater/Rosewater1.png
+[image2]: ../../../images/post/rosewater/Rosewater2.png
+[image3]: ../../../images/post/rosewater/Rosewater3.png
+[image4]: ../../../images/post/rosewater/Rosewater4.png
+[image5]: ../../../images/post/rosewater/Rosewater5.png
+[image6]: ../../../images/post/rosewater/Rosewater6.png
+[image7]: ../../../images/post/rosewater/Rosewater7.png

@@ -116,10 +116,10 @@ But what I do know is that there is so much to discover about the game and chara
 
 To follow along in the game's development, as I have been, follow the [Gentle Troll Twitter](https://twitter.com/GentleTroll) or join their [Discord server](https://discord.gg/38qJgu). They're a friendly bunch!
 
-[image0]: /images/post/underdown/Underdown0.png
-[image1]: /images/post/underdown/Underdown1.png
-[image2]: /images/post/underdown/Underdown2.jpeg
-[image3]: /images/post/underdown/Underdown3.png
-[image4]: /images/post/underdown/Underdown4.png
-[image5]: /images/post/underdown/Underdown5.png
-[image-extra]: /images/post/underdown/Underdown-extra.jpeg
+[image0]: ../../../images/post/underdown/Underdown0.png
+[image1]: ../../../images/post/underdown/Underdown1.png
+[image2]: ../../../images/post/underdown/Underdown2.jpeg
+[image3]: ../../../images/post/underdown/Underdown3.png
+[image4]: ../../../images/post/underdown/Underdown4.png
+[image5]: ../../../images/post/underdown/Underdown5.png
+[image-extra]: ../../../images/post/underdown/Underdown-extra.jpeg

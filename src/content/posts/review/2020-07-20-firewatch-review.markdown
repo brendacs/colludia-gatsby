@@ -136,12 +136,12 @@ Yes. That, in fact, has made all the difference.
 
 <figcaption>Thanks for everything.</figcaption>
 
-[image0]: /images/post/firewatch/Firewatch0.jpg
-[image1]: /images/post/firewatch/Firewatch1.jpg
-[image2]: /images/post/firewatch/Firewatch2.jpg
-[image3]: /images/post/firewatch/Firewatch3.jpg
-[image4]: /images/post/firewatch/Firewatch4.jpg
-[image5]: /images/post/firewatch/Firewatch5.jpg
-[image6]: /images/post/firewatch/Firewatch6.jpg
-[image7]: /images/post/firewatch/Firewatch7.jpg
-[image8]: /images/post/firewatch/Firewatch8.jpg
+[image0]: ../../../images/post/firewatch/Firewatch0.jpg
+[image1]: ../../../images/post/firewatch/Firewatch1.jpg
+[image2]: ../../../images/post/firewatch/Firewatch2.jpg
+[image3]: ../../../images/post/firewatch/Firewatch3.jpg
+[image4]: ../../../images/post/firewatch/Firewatch4.jpg
+[image5]: ../../../images/post/firewatch/Firewatch5.jpg
+[image6]: ../../../images/post/firewatch/Firewatch6.jpg
+[image7]: ../../../images/post/firewatch/Firewatch7.jpg
+[image8]: ../../../images/post/firewatch/Firewatch8.jpg

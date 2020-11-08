@@ -58,8 +58,8 @@ By the end of the experience, the small cube of space the game took place in fel
 
 Most management games have some way for you to get rich or expand your fortune exponentially quickly. This is the only budget management game I have played with such harsh realism, accurately portraying the hardship those earning a meager minimum wage in high cost areas face just to attain basic human needs like food and shelter. This budget management game is only 15 minutes, 30 if you do multiple playthroughs, but makes players feel the tight squeeze and dire consequences of a low minimum wage and lack of support. It is no doubt worth a play—and a discussion.
 
-[image0]: /images/post/nanopesos/Nanopesos0.png
-[image1]: /images/post/nanopesos/Nanopesos1.png
-[image2]: /images/post/nanopesos/Nanopesos2.png
-[image3]: /images/post/nanopesos/Nanopesos3.png
-[image4]: /images/post/nanopesos/Nanopesos4.png
+[image0]: ../../../images/post/nanopesos/Nanopesos0.png
+[image1]: ../../../images/post/nanopesos/Nanopesos1.png
+[image2]: ../../../images/post/nanopesos/Nanopesos2.png
+[image3]: ../../../images/post/nanopesos/Nanopesos3.png
+[image4]: ../../../images/post/nanopesos/Nanopesos4.png

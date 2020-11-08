@@ -75,11 +75,11 @@ Despite technically being horror and having a great soundtrack that adds to the 
 ![Detective McQueen and Dooley outside of the library talking][image7]
 
 
-[image0]: /images/post/darksidedetective/DarksideDetective0.png
-[image1]: /images/post/darksidedetective/DarksideDetective1.png
-[image2]: /images/post/darksidedetective/DarksideDetective2.png
-[image3]: /images/post/darksidedetective/DarksideDetective3.png
-[image4]: /images/post/darksidedetective/DarksideDetective4.png
-[image5]: /images/post/darksidedetective/DarksideDetective5.png
-[image6]: /images/post/darksidedetective/DarksideDetective6.png
-[image7]: /images/post/darksidedetective/DarksideDetective7.png
+[image0]: ../../../images/post/darksidedetective/DarksideDetective0.png
+[image1]: ../../../images/post/darksidedetective/DarksideDetective1.png
+[image2]: ../../../images/post/darksidedetective/DarksideDetective2.png
+[image3]: ../../../images/post/darksidedetective/DarksideDetective3.png
+[image4]: ../../../images/post/darksidedetective/DarksideDetective4.png
+[image5]: ../../../images/post/darksidedetective/DarksideDetective5.png
+[image6]: ../../../images/post/darksidedetective/DarksideDetective6.png
+[image7]: ../../../images/post/darksidedetective/DarksideDetective7.png

@@ -108,10 +108,10 @@ I never thought I'd find such cinematic and fitting music to make the scenes soa
 
 After everything that's happened, there's still a long way to go before this story is finished. And while I have yet to reach the mythical Syberia, it's inspiring to say that whatever truth is awaiting me, one day I will get there.
 
-[image0]: /images/post/syberia/Syberia0.png
-[image1]: /images/post/syberia/Syberia1.png
-[image2]: /images/post/syberia/Syberia2.png
-[image3]: /images/post/syberia/Syberia3.png
-[image4]: /images/post/syberia/Syberia4.png
-[image5]: /images/post/syberia/Syberia5.png
-[image6]: /images/post/syberia/Syberia6.png
+[image0]: ../../../images/post/syberia/Syberia0.png
+[image1]: ../../../images/post/syberia/Syberia1.png
+[image2]: ../../../images/post/syberia/Syberia2.png
+[image3]: ../../../images/post/syberia/Syberia3.png
+[image4]: ../../../images/post/syberia/Syberia4.png
+[image5]: ../../../images/post/syberia/Syberia5.png
+[image6]: ../../../images/post/syberia/Syberia6.png

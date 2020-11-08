@@ -60,10 +60,10 @@ As the game is developed, the characters are developed too. Though *Mighty Warri
 
 As much as *Mighty Warrior* gameplay and the monster selection portion was a chore, the story and Hiroshi's smile was worth it. The game is relatively short, being only three hours (two if you're quick about it unlike me), so if you have a bit of time to spare, I wouldn't recommend against checking this game out. If you're willing to sit through a bit of repetitive gameplay to get to the heart of a touching story, take a moment to learn more about the lives of Takeshi and his cute little brother Hiroshi, who loves games as much as we do.
 
-[image0]: /images/post/takeshiandhiroshi/TakeshiAndHiroshi0.png
-[image1]: /images/post/takeshiandhiroshi/TakeshiAndHiroshi1.png
-[image2]: /images/post/takeshiandhiroshi/TakeshiAndHiroshi2.png
-[image3]: /images/post/takeshiandhiroshi/TakeshiAndHiroshi3.png
-[image4]: /images/post/takeshiandhiroshi/TakeshiAndHiroshi4.png
-[image5]: /images/post/takeshiandhiroshi/TakeshiAndHiroshi5.png
-[image6]: /images/post/takeshiandhiroshi/TakeshiAndHiroshi6.png
+[image0]: ../../../images/post/takeshiandhiroshi/TakeshiAndHiroshi0.png
+[image1]: ../../../images/post/takeshiandhiroshi/TakeshiAndHiroshi1.png
+[image2]: ../../../images/post/takeshiandhiroshi/TakeshiAndHiroshi2.png
+[image3]: ../../../images/post/takeshiandhiroshi/TakeshiAndHiroshi3.png
+[image4]: ../../../images/post/takeshiandhiroshi/TakeshiAndHiroshi4.png
+[image5]: ../../../images/post/takeshiandhiroshi/TakeshiAndHiroshi5.png
+[image6]: ../../../images/post/takeshiandhiroshi/TakeshiAndHiroshi6.png

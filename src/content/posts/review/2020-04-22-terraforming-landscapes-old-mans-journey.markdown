@@ -59,9 +59,9 @@ Eventually, the storm does clear, and the old man's journey comes to an end—as
 
 ![Sunset and sailboat in Old Man's Journey][image5]
 
-[image0]: /images/post/oldmansjourney/OldMansJourney0.png
-[image1]: /images/post/oldmansjourney/OldMansJourney1.png
-[image2]: /images/post/oldmansjourney/OldMansJourney2.png
-[image3]: /images/post/oldmansjourney/OldMansJourney3.png
-[image4]: /images/post/oldmansjourney/OldMansJourney4.png
-[image5]: /images/post/oldmansjourney/OldMansJourney5.png
+[image0]: ../../../images/post/oldmansjourney/OldMansJourney0.png
+[image1]: ../../../images/post/oldmansjourney/OldMansJourney1.png
+[image2]: ../../../images/post/oldmansjourney/OldMansJourney2.png
+[image3]: ../../../images/post/oldmansjourney/OldMansJourney3.png
+[image4]: ../../../images/post/oldmansjourney/OldMansJourney4.png
+[image5]: ../../../images/post/oldmansjourney/OldMansJourney5.png

@@ -52,7 +52,7 @@ Since *Emily is Away Too* has been made, I'm excited to see what's been improved
 
 ![The profile of Emily on the instant messaging app][image3]
 
-[image0]: /images/post/emilyisaway/EmilyIsAway0.png
-[image1]: /images/post/emilyisaway/EmilyIsAway1.png
-[image2]: /images/post/emilyisaway/EmilyIsAway2.png
-[image3]: /images/post/emilyisaway/EmilyIsAway3.png
+[image0]: ../../../images/post/emilyisaway/EmilyIsAway0.png
+[image1]: ../../../images/post/emilyisaway/EmilyIsAway1.png
+[image2]: ../../../images/post/emilyisaway/EmilyIsAway2.png
+[image3]: ../../../images/post/emilyisaway/EmilyIsAway3.png

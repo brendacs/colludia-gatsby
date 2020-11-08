@@ -53,7 +53,7 @@ If fun is defined by exploration, storytelling and a laid-back game mechanic, co
 
 We can look forward to the remainder of 2020 and beyond for titles that will bring relaxing and rewarding titles that emphasize story and soothing gameplay over frustration. So let’s head on over to the Nintendo eShop, Steam Store, PlayStation Store, XBox Store, Epic Games Store, Good Old Games Store and find the next amazing game experience.
 
-[image1]: /images/post/difficultydifficultgames/DifficultyDifficultGames1.png
-[image3]: /images/post/difficultydifficultgames/DifficultyDifficultGames3.png
-[image4]: /images/post/difficultydifficultgames/DifficultyDifficultGames4.png
-[image5]: /images/post/difficultydifficultgames/DifficultyDifficultGames5.png
+[image1]: ../../../images/post/difficultydifficultgames/DifficultyDifficultGames1.png
+[image3]: ../../../images/post/difficultydifficultgames/DifficultyDifficultGames3.png
+[image4]: ../../../images/post/difficultydifficultgames/DifficultyDifficultGames4.png
+[image5]: ../../../images/post/difficultydifficultgames/DifficultyDifficultGames5.png

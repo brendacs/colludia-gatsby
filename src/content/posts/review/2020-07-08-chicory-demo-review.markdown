@@ -72,12 +72,12 @@ After defeating this boss, the demo was over much too quickly for my taste becau
 
 ![End of demo screen][image8]
 
-[image0]: /images/post/chicory/Chicory0.png
-[image1]: /images/post/chicory/Chicory1.png
-[image2]: /images/post/chicory/Chicory2.png
-[image3]: /images/post/chicory/Chicory3.png
-[image4]: /images/post/chicory/Chicory4.png
-[image5]: /images/post/chicory/Chicory5.gif
-[image6]: /images/post/chicory/Chicory6.png
-[image7]: /images/post/chicory/Chicory7.png
-[image8]: /images/post/chicory/Chicory8.png
+[image0]: ../../../images/post/chicory/Chicory0.png
+[image1]: ../../../images/post/chicory/Chicory1.png
+[image2]: ../../../images/post/chicory/Chicory2.png
+[image3]: ../../../images/post/chicory/Chicory3.png
+[image4]: ../../../images/post/chicory/Chicory4.png
+[image5]: ../../../images/post/chicory/Chicory5.gif
+[image6]: ../../../images/post/chicory/Chicory6.png
+[image7]: ../../../images/post/chicory/Chicory7.png
+[image8]: ../../../images/post/chicory/Chicory8.png

@@ -52,7 +52,7 @@ It's hard to put this game down after one run. When you amass a huge collection 
 
 <figcaption>A loaded up Commando in <em class='game-title'>Risk of Rain 2</em>.</figcaption>
 
-[image0]: /images/post/riskofrain/RiskOfRain0.png
-[image1]: /images/post/riskofrain/RiskOfRain1.png
-[image2]: /images/post/riskofrain/RiskOfRain2.png
-[image3]: /images/post/riskofrain/RiskOfRain3.png
+[image0]: ../../../images/post/riskofrain/RiskOfRain0.png
+[image1]: ../../../images/post/riskofrain/RiskOfRain1.png
+[image2]: ../../../images/post/riskofrain/RiskOfRain2.png
+[image3]: ../../../images/post/riskofrain/RiskOfRain3.png

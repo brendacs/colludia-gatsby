@@ -84,10 +84,10 @@ Let's end with another gem of a quote from Zach Gage describing *Card of Darknes
 
 ![Art displaying all the stuff in Card of Darkness][image6]
 
-[image0]: /images/post/cardofdarkness/CardOfDarkness0.png
-[image1]: /images/post/cardofdarkness/CardOfDarkness1.png
-[image2]: /images/post/cardofdarkness/CardOfDarkness2.png
-[image3]: /images/post/cardofdarkness/CardOfDarkness3.png
-[image4]: /images/post/cardofdarkness/CardOfDarkness4.png
-[image5]: /images/post/cardofdarkness/CardOfDarkness5.png
-[image6]: /images/post/cardofdarkness/CardOfDarkness6.png
+[image0]: ../../../images/post/cardofdarkness/CardOfDarkness0.png
+[image1]: ../../../images/post/cardofdarkness/CardOfDarkness1.png
+[image2]: ../../../images/post/cardofdarkness/CardOfDarkness2.png
+[image3]: ../../../images/post/cardofdarkness/CardOfDarkness3.png
+[image4]: ../../../images/post/cardofdarkness/CardOfDarkness4.png
+[image5]: ../../../images/post/cardofdarkness/CardOfDarkness5.png
+[image6]: ../../../images/post/cardofdarkness/CardOfDarkness6.png

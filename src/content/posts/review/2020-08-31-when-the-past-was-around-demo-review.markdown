@@ -46,6 +46,6 @@ Most of all, the piano and violin accompanying the journey was beautiful and per
 
 This was a thoroughly enjoyable though short playthrough, leaving me as relaxed as a head massage would but with a lot of questions left to be answered as I couldn't decipher all of its cryptic symbolism. I have been thoroughly convincing me to get the full game when it's released later this year in 2020 and would highly recommend checking out the prologue before then to get a taste of this relaxing, heartstring-tugging game.
 
-[image0]: /images/post/whenthepastwasaround/WhenThePastWasAround0.png
-[image1]: /images/post/whenthepastwasaround/WhenThePastWasAround1.png
-[image2]: /images/post/whenthepastwasaround/WhenThePastWasAround2.png
+[image0]: ../../../images/post/whenthepastwasaround/WhenThePastWasAround0.png
+[image1]: ../../../images/post/whenthepastwasaround/WhenThePastWasAround1.png
+[image2]: ../../../images/post/whenthepastwasaround/WhenThePastWasAround2.png

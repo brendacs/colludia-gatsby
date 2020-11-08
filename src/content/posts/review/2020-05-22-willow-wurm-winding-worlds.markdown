@@ -66,11 +66,11 @@ As Willow helps each character resolve unfinished business and let go of their g
 
 ![A regretful pirate crab in Winding Worlds][image7]
 
-[image0]: /images/post/windingworlds/WindingWorlds0.png
-[image1]: /images/post/windingworlds/WindingWorlds1.png
-[image2]: /images/post/windingworlds/WindingWorlds2.png
-[image3]: /images/post/windingworlds/WindingWorlds3.png
-[image4]: /images/post/windingworlds/WindingWorlds4.png
-[image5]: /images/post/windingworlds/WindingWorlds5.png
-[image6]: /images/post/windingworlds/WindingWorlds6.png
-[image7]: /images/post/windingworlds/WindingWorlds7.png
+[image0]: ../../../images/post/windingworlds/WindingWorlds0.png
+[image1]: ../../../images/post/windingworlds/WindingWorlds1.png
+[image2]: ../../../images/post/windingworlds/WindingWorlds2.png
+[image3]: ../../../images/post/windingworlds/WindingWorlds3.png
+[image4]: ../../../images/post/windingworlds/WindingWorlds4.png
+[image5]: ../../../images/post/windingworlds/WindingWorlds5.png
+[image6]: ../../../images/post/windingworlds/WindingWorlds6.png
+[image7]: ../../../images/post/windingworlds/WindingWorlds7.png

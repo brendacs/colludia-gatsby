@@ -112,12 +112,12 @@ These will be predefined actions that you can use at certain moments in the game
 
 ![][image7]
 
-[image0]: /images/post/verne/Verne0.gif
-[image1]: /images/post/verne/Verne1.png
-[image2]: /images/post/verne/Verne2.png
-[image3]: /images/post/verne/Verne3.png
-[image4]: /images/post/verne/Verne4.png
-[image5]: /images/post/verne/Verne5.png
-[image6]: /images/post/verne/Verne6.png
-[image7]: /images/post/verne/Verne7.png
-[image-extra]: /images/post/verne/Verne-design-level.png
+[image0]: ../../../images/post/verne/Verne0.gif
+[image1]: ../../../images/post/verne/Verne1.png
+[image2]: ../../../images/post/verne/Verne2.png
+[image3]: ../../../images/post/verne/Verne3.png
+[image4]: ../../../images/post/verne/Verne4.png
+[image5]: ../../../images/post/verne/Verne5.png
+[image6]: ../../../images/post/verne/Verne6.png
+[image7]: ../../../images/post/verne/Verne7.png
+[image-extra]: ../../../images/post/verne/Verne-design-level.png

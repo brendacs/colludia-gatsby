@@ -120,13 +120,13 @@ With its refreshing take on the coming-of-age genre, an abundance of things to d
 
 <figcaption>'Til we meet again, old friend.</figcaption>
 
-[image0]: /images/post/nightinthewoods/NightInTheWoods0.png
-[image1]: /images/post/nightinthewoods/NightInTheWoods1.png
-[image2]: /images/post/nightinthewoods/NightInTheWoods2.png
-[image3]: /images/post/nightinthewoods/NightInTheWoods3.png
-[image4]: /images/post/nightinthewoods/NightInTheWoods4.png
-[image5]: /images/post/nightinthewoods/NightInTheWoods5.png
-[image6]: /images/post/nightinthewoods/NightInTheWoods6.png
-[image7]: /images/post/nightinthewoods/NightInTheWoods7.png
-[image8]: /images/post/nightinthewoods/NightInTheWoods8.png
-[image9]: /images/post/nightinthewoods/NightInTheWoods9.png
+[image0]: ../../../images/post/nightinthewoods/NightInTheWoods0.png
+[image1]: ../../../images/post/nightinthewoods/NightInTheWoods1.png
+[image2]: ../../../images/post/nightinthewoods/NightInTheWoods2.png
+[image3]: ../../../images/post/nightinthewoods/NightInTheWoods3.png
+[image4]: ../../../images/post/nightinthewoods/NightInTheWoods4.png
+[image5]: ../../../images/post/nightinthewoods/NightInTheWoods5.png
+[image6]: ../../../images/post/nightinthewoods/NightInTheWoods6.png
+[image7]: ../../../images/post/nightinthewoods/NightInTheWoods7.png
+[image8]: ../../../images/post/nightinthewoods/NightInTheWoods8.png
+[image9]: ../../../images/post/nightinthewoods/NightInTheWoods9.png

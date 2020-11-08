@@ -275,7 +275,7 @@
 			margin-top: 40px;
 		}
 
-		article > p {
+		article > .blog-post-content > p {
 			margin: 20px 0;
 			text-align: left;
 
@@ -331,7 +331,7 @@
 			color: darken($site-gray, 20%);
 			font-size: $tiny-size;
 			line-height: 1.25;
-			margin-top: -15px;
+			margin-top: -5px;
 
 			a.animated-link {
 				font-size: $tiny-size;

@@ -70,8 +70,8 @@ Even later, a surprising twist to the plot turns up: there's a recent string of 
 
 The demo ends there, after four days of immersive gameplay as a high-ranking official in a bleak, war-torn country. I really enjoyed *For The People*'s demo and it left me wanting more of the life of Francis River. I recommend trying out the demo even if you aren't particularly interested in either the visual novel or resource management genre—it looks like the full game will be an excellent blend of both.
 
-[image0]: /images/post/forthepeople/ForThePeople0.jpg
-[image1]: /images/post/forthepeople/ForThePeople1.jpg
-[image2]: /images/post/forthepeople/ForThePeople2.jpg
-[image3]: /images/post/forthepeople/ForThePeople3.jpg
-[image4]: /images/post/forthepeople/ForThePeople4.jpg
+[image0]: ../../../images/post/forthepeople/ForThePeople0.jpg
+[image1]: ../../../images/post/forthepeople/ForThePeople1.jpg
+[image2]: ../../../images/post/forthepeople/ForThePeople2.jpg
+[image3]: ../../../images/post/forthepeople/ForThePeople3.jpg
+[image4]: ../../../images/post/forthepeople/ForThePeople4.jpg

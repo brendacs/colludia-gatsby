@@ -126,16 +126,16 @@ In the end we aren't even sure if we're back in the right home, but we fall asle
 
 Though it appears the particular demo I played is no longer available, I highly recommend following along and checking out their new official demo *[Welcome to Elk: First Stories](https://store.steampowered.com/app/1330260/Welcome_to_Elk_The_First_Stories/)*, signing up for [closed beta](https://www.welcometoelk.com/#betatest) and, of course, [wishlisting](https://store.steampowered.com/app/1015940/Welcome_to_Elk/) the game. You don't want to miss what else *Welcome to Elk* has in store. I sure won't.
 
-[image0]: /images/post/welcometoelk/WelcomeToElk0.png
-[image1]: /images/post/welcometoelk/WelcomeToElk1.png
-[image2]: /images/post/welcometoelk/WelcomeToElk2.png
-[image3]: /images/post/welcometoelk/WelcomeToElk3.png
-[image4]: /images/post/welcometoelk/WelcomeToElk4.png
-[image5]: /images/post/welcometoelk/WelcomeToElk5.png
-[image6]: /images/post/welcometoelk/WelcomeToElk6.png
-[image7]: /images/post/welcometoelk/WelcomeToElk7.png
-[image8]: /images/post/welcometoelk/WelcomeToElk8.png
-[image9]: /images/post/welcometoelk/WelcomeToElk9.png
-[image10]: /images/post/welcometoelk/WelcomeToElk10.png
-[image11]: /images/post/welcometoelk/WelcomeToElk11.png
-[image12]: /images/post/welcometoelk/WelcomeToElk12.png
+[image0]: ../../../images/post/welcometoelk/WelcomeToElk0.png
+[image1]: ../../../images/post/welcometoelk/WelcomeToElk1.png
+[image2]: ../../../images/post/welcometoelk/WelcomeToElk2.png
+[image3]: ../../../images/post/welcometoelk/WelcomeToElk3.png
+[image4]: ../../../images/post/welcometoelk/WelcomeToElk4.png
+[image5]: ../../../images/post/welcometoelk/WelcomeToElk5.png
+[image6]: ../../../images/post/welcometoelk/WelcomeToElk6.png
+[image7]: ../../../images/post/welcometoelk/WelcomeToElk7.png
+[image8]: ../../../images/post/welcometoelk/WelcomeToElk8.png
+[image9]: ../../../images/post/welcometoelk/WelcomeToElk9.png
+[image10]: ../../../images/post/welcometoelk/WelcomeToElk10.png
+[image11]: ../../../images/post/welcometoelk/WelcomeToElk11.png
+[image12]: ../../../images/post/welcometoelk/WelcomeToElk12.png

@@ -67,9 +67,9 @@ With all my complaints, it might sound like I’m a cranky old gamer ready to wh
 
 ![Remember robot by his souvenir cog][image5]
 
-[image0]: /images/post/sortthecourt/SortTheCourt0.png
-[image1]: /images/post/sortthecourt/SortTheCourt1.png
-[image2]: /images/post/sortthecourt/SortTheCourt2.png
-[image3]: /images/post/sortthecourt/SortTheCourt3.png
-[image4]: /images/post/sortthecourt/SortTheCourt4.png
-[image5]: /images/post/sortthecourt/SortTheCourt5.png
+[image0]: ../../../images/post/sortthecourt/SortTheCourt0.png
+[image1]: ../../../images/post/sortthecourt/SortTheCourt1.png
+[image2]: ../../../images/post/sortthecourt/SortTheCourt2.png
+[image3]: ../../../images/post/sortthecourt/SortTheCourt3.png
+[image4]: ../../../images/post/sortthecourt/SortTheCourt4.png
+[image5]: ../../../images/post/sortthecourt/SortTheCourt5.png

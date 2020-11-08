@@ -50,7 +50,7 @@ I really loved playing *The Night of the Rabbit* from start to finish. One of th
 
 <figcaption>Welcome home.</figcaption>
 
-[image0]: /images/post/nightoftherabbit/rabbit0.png
-[image1]: /images/post/nightoftherabbit/rabbit1.png
-[image2]: /images/post/nightoftherabbit/rabbit2.png
-[image3]: /images/post/nightoftherabbit/rabbit3.png
+[image0]: ../../../images/post/nightoftherabbit/rabbit0.png
+[image1]: ../../../images/post/nightoftherabbit/rabbit1.png
+[image2]: ../../../images/post/nightoftherabbit/rabbit2.png
+[image3]: ../../../images/post/nightoftherabbit/rabbit3.png

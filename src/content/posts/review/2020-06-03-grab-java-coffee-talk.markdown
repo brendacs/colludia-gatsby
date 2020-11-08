@@ -60,7 +60,7 @@ If you want a game with a narrative that'll keep you ruminating on the perspecti
 
 <figcaption>That's the spirit!</figcaption>
 
-[image0]: /images/post/coffeetalk/coffeetalk0.jpg
-[image1]: /images/post/coffeetalk/coffeetalk1.png
-[image2]: /images/post/coffeetalk/coffeetalk2.png
-[image3]: /images/post/coffeetalk/coffeetalk3.png
+[image0]: ../../../images/post/coffeetalk/coffeetalk0.jpg
+[image1]: ../../../images/post/coffeetalk/coffeetalk1.png
+[image2]: ../../../images/post/coffeetalk/coffeetalk2.png
+[image3]: ../../../images/post/coffeetalk/coffeetalk3.png

@@ -104,13 +104,13 @@ Maybe you can help me figure out why the man is an owl.
 
 ![Eda looks into the sunset purple sky, next to a campfire, holding a scarf.][image9]
 
-[image0]: /images/post/whenthepastwasaroundfull/WhenThePastWasAround0.jpeg
-[image1]: /images/post/whenthepastwasaroundfull/WhenThePastWasAround1.jpg
-[image2]: /images/post/whenthepastwasaroundfull/WhenThePastWasAround2.jpg
-[image3]: /images/post/whenthepastwasaroundfull/WhenThePastWasAround3.jpg
-[image4]: /images/post/whenthepastwasaroundfull/WhenThePastWasAround4.jpg
-[image5]: /images/post/whenthepastwasaroundfull/WhenThePastWasAround5.jpg
-[image6]: /images/post/whenthepastwasaroundfull/WhenThePastWasAround6.jpg
-[image7]: /images/post/whenthepastwasaroundfull/WhenThePastWasAround7.jpg
-[image8]: /images/post/whenthepastwasaroundfull/WhenThePastWasAround8.jpg
-[image9]: /images/post/whenthepastwasaroundfull/WhenThePastWasAround9.jpg
+[image0]: ../../../images/post/whenthepastwasaroundfull/WhenThePastWasAround0.jpeg
+[image1]: ../../../images/post/whenthepastwasaroundfull/WhenThePastWasAround1.jpg
+[image2]: ../../../images/post/whenthepastwasaroundfull/WhenThePastWasAround2.jpg
+[image3]: ../../../images/post/whenthepastwasaroundfull/WhenThePastWasAround3.jpg
+[image4]: ../../../images/post/whenthepastwasaroundfull/WhenThePastWasAround4.jpg
+[image5]: ../../../images/post/whenthepastwasaroundfull/WhenThePastWasAround5.jpg
+[image6]: ../../../images/post/whenthepastwasaroundfull/WhenThePastWasAround6.jpg
+[image7]: ../../../images/post/whenthepastwasaroundfull/WhenThePastWasAround7.jpg
+[image8]: ../../../images/post/whenthepastwasaroundfull/WhenThePastWasAround8.jpg
+[image9]: ../../../images/post/whenthepastwasaroundfull/WhenThePastWasAround9.jpg

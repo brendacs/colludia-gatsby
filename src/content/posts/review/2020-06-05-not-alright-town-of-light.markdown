@@ -48,9 +48,9 @@ Seeing her outside and free despite the odds, the real light in the story was th
 
 ![Photo of woman on bench outside][image4]
 
-[image0]: /images/post/townoflight/TownOfLight0.png
-[image1]: /images/post/townoflight/TownOfLight1.png
-[image2]: /images/post/townoflight/TownOfLight2.png
-[image3]: /images/post/townoflight/TownOfLight3.png
-[image4]: /images/post/townoflight/TownOfLight4.png
-[image5]: /images/post/townoflight/TownOfLight5.png
+[image0]: ../../../images/post/townoflight/TownOfLight0.png
+[image1]: ../../../images/post/townoflight/TownOfLight1.png
+[image2]: ../../../images/post/townoflight/TownOfLight2.png
+[image3]: ../../../images/post/townoflight/TownOfLight3.png
+[image4]: ../../../images/post/townoflight/TownOfLight4.png
+[image5]: ../../../images/post/townoflight/TownOfLight5.png

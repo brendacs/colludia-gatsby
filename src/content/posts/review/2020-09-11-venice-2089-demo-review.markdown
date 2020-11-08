@@ -84,12 +84,12 @@ Although she’s sarcastic and a meme queen, Nova means well and has virtues tha
 
 ![][image8]
 
-[image0]: /images/post/venice2089/venice20890.png
-[image1]: /images/post/venice2089/venice20891.png
-[image2]: /images/post/venice2089/venice20892.png
-[image3]: /images/post/venice2089/venice20893.png
-[image4]: /images/post/venice2089/venice20894.png
-[image5]: /images/post/venice2089/venice20895.png
-[image6]: /images/post/venice2089/venice20896.png
-[image7]: /images/post/venice2089/venice20897.png
-[image8]: /images/post/venice2089/venice20898.png
+[image0]: ../../../images/post/venice2089/venice20890.png
+[image1]: ../../../images/post/venice2089/venice20891.png
+[image2]: ../../../images/post/venice2089/venice20892.png
+[image3]: ../../../images/post/venice2089/venice20893.png
+[image4]: ../../../images/post/venice2089/venice20894.png
+[image5]: ../../../images/post/venice2089/venice20895.png
+[image6]: ../../../images/post/venice2089/venice20896.png
+[image7]: ../../../images/post/venice2089/venice20897.png
+[image8]: ../../../images/post/venice2089/venice20898.png

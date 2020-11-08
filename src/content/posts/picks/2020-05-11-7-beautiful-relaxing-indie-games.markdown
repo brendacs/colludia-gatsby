@@ -85,4 +85,4 @@ As we know, indie developers are on a tight schedule and games don't always get 
 
 ![Wishing upon a shooting star in Animal Crossing][image0]
 
-[image0]: /images/post/7beautifulindiegames/shootingstar.jpeg
+[image0]: ../../../images/post/7beautifulindiegames/shootingstar.jpeg

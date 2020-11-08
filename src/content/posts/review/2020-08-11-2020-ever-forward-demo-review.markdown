@@ -100,12 +100,12 @@ I was left in awe at the game's open-endedness. I really enjoyed not knowing wha
 
 Oh, and good luck on the demo's last puzzle. It took me an hour and a Youtube video to get through.
 
-[image0]: /images/post/everforward/EverForward0.jpg
-[image1]: /images/post/everforward/EverForward1.jpg
-[image2]: /images/post/everforward/EverForward2.jpg
-[image3]: /images/post/everforward/EverForward3.jpg
-[image4]: /images/post/everforward/EverForward4.jpg
-[image5]: /images/post/everforward/EverForward5.jpg
-[image6]: /images/post/everforward/EverForward6.jpg
-[image7]: /images/post/everforward/EverForward7.jpg
-[image8]: /images/post/everforward/EverForward8.jpg
+[image0]: ../../../images/post/everforward/EverForward0.jpg
+[image1]: ../../../images/post/everforward/EverForward1.jpg
+[image2]: ../../../images/post/everforward/EverForward2.jpg
+[image3]: ../../../images/post/everforward/EverForward3.jpg
+[image4]: ../../../images/post/everforward/EverForward4.jpg
+[image5]: ../../../images/post/everforward/EverForward5.jpg
+[image6]: ../../../images/post/everforward/EverForward6.jpg
+[image7]: ../../../images/post/everforward/EverForward7.jpg
+[image8]: ../../../images/post/everforward/EverForward8.jpg

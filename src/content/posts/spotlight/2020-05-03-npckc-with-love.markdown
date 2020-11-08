@@ -49,8 +49,8 @@ Another game that has a similar barista theme is *[Penguin Café](https://npckc.
 
 Npckc have proven themselves to be capable of making short and sweet narratives, especially around stigmatized topics, for those who need them. Like the mood-adjusted brews in *Tavern for Tea*, these games are made just right for whatever the player needs, even if they don’t think that’s what they’re looking for. I am most impressed with npckc’s ability to establish their point easily and respectfully in each game, encouraging understanding instead of inviting argument. And for all the effort they’ve put into these games, they’re all free to download — but they accept donations, which I strongly encourage, to thank them for these wonderful pieces of art.
 
-[image0]: /images/post/npckc/npckc0.png
-[image1]: /images/post/npckc/npckc1.png
-[image2]: /images/post/npckc/npckc2.png
-[image3]: /images/post/npckc/npckc3.png
-[image4]: /images/post/npckc/npckc4.png
+[image0]: ../../../images/post/npckc/npckc0.png
+[image1]: ../../../images/post/npckc/npckc1.png
+[image2]: ../../../images/post/npckc/npckc2.png
+[image3]: ../../../images/post/npckc/npckc3.png
+[image4]: ../../../images/post/npckc/npckc4.png

@@ -130,5 +130,5 @@ I'll leave you now with this beautiful image from *Witchery Academy*. Here's to 
 
 <figcaption>An image from <em class='game-title'>Witchery Academy</em>, given as a sneak peek on <a href="https://discord.com/invite/JunXh9C" class="animated-link">its Discord server</a>, which you should totally join!</figcaption>
 
-[image0]: /images/post/7eyecatchingindiegamesPYG/7eyecatchingindiegamesPYG0.png
-[image1]: /images/post/7eyecatchingindiegamesPYG/7eyecatchingindiegamesPYG1.png
+[image0]: ../../../images/post/7eyecatchingindiegamesPYG/7eyecatchingindiegamesPYG0.png
+[image1]: ../../../images/post/7eyecatchingindiegamesPYG/7eyecatchingindiegamesPYG1.png

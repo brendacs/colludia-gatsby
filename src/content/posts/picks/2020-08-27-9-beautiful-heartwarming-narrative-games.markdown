@@ -124,5 +124,5 @@ In *[Letters](https://www.letters-game.com/)*, a young girl named Sarah uses the
 
 If you're looking for personal stories about friendship, family, growing up, adulthood, and anything in between, I would highly recommend starting your search with these heartwarming games. They're all powerful and diverse stories with unique mechanics for conveying their important messages and uplifting those who play them.
 
-[image0]: /images/post/9heartwarminggames/9heartwarminggames0.png
-[image1]: /images/post/9heartwarminggames/9heartwarminggames1.png
+[image0]: ../../../images/post/9heartwarminggames/9heartwarminggames0.png
+[image1]: ../../../images/post/9heartwarminggames/9heartwarminggames1.png

@@ -1,10 +1,10 @@
 import React from 'react'
 import { graphql } from 'gatsby'
+import Tag from '../common/tag'
+import QuickSummary from './quick-summary'
 import './post.scss'
 
-export default function Template({
-  data, // this prop will be injected by the GraphQL query below.
-}) {
+const PostTemplate = ({data}) => { // this prop will be injected by the GraphQL query below
   const { markdownRemark } = data // data.markdownRemark holds your post data
   const { frontmatter, html } = markdownRemark
   return (
@@ -28,7 +28,7 @@ export default function Template({
           <div className="article">
             <article>
               <div className="post-page-info">
-                <h1 className="post-page-title">{frontmatter.title}</h1>
+                <h1 className="post-page-title" dangerouslySetInnerHTML={{ __html: frontmatter.title }} />
                 <div className="post-page-details">
                   <p><a href={`../../content/authors/${frontmatter.authorUrl}`} className="animated-link">{frontmatter.author}</a></p>
                   <p>{frontmatter.date}</p>
@@ -43,21 +43,20 @@ export default function Template({
                   </div>
                 </div>
               </div>
-              {/* {% if page.type contains "review" %}
-                {% include quick-summary.html %}
-              {% endif %}
-              {{ content }} */}
+              {frontmatter.postType.includes('review') &&
+                <QuickSummary />
+              }
               <div
                 className="blog-post-content"
                 dangerouslySetInnerHTML={{ __html: html }}
               />
               <div className="tags">
-                {/* {% for category in page.categories %}
-                  {% include tag.html name=category %}
-                {% endfor %}
-                {% for tag in page.tags %}
-                  {% include tag.html name=tag %}
-                {% endfor %} */}
+                {frontmatter.categories.map((category) => (
+                  <Tag name={category} color='random' />
+                ))}
+                {frontmatter.tags.map((tag) => (
+                  <Tag name={tag} color='random' />
+                ))}
               </div>
             </article>
             <p className="sponsor-blurb">Help us pay our writers and maintain our high-quality website and writing by supporting us on <a href="https://patreon.com/colludia">Patreon</a> or buying us a coffee on <a href="https://ko-fi.com/colludia">Ko-fi</a>. To sponsor or advertise with us, visit <a href="{{site.baseurl}}/advertise">Advertise</a>.</p>
@@ -71,12 +70,13 @@ export default function Template({
           <div className="play">
             <div className="triangle"></div>
           </div>
-          <img className="post-video-iframe-image" src="{{ site.baseurl }}/images/headers/small/{{ page.image }}" />
+          <img className="post-video-iframe-image" src={require(`../../images/headers/small/${frontmatter.image}`)} />
         </div>
       }
     </main>
   )
 }
+
 export const pageQuery = graphql`
   query($slug: String!) {
     markdownRemark(frontmatter: { slug: { eq: $slug } }) {
@@ -102,3 +102,5 @@ export const pageQuery = graphql`
     }
   }
 `
+
+export default PostTemplate

@@ -126,16 +126,16 @@ I have never been more obsessed with a game for over a week straight, nor been s
 
 Need a new obsession? Pick up *Forager,* play *Forager*, wait for the *Tetris* effect to hit, and dream about *Forager*.
 
-[image0]: /images/post/forager/Forager0.jpeg
-[image1]: /images/post/forager/Forager1.jpeg
-[image2]: /images/post/forager/Forager2.jpeg
-[image3a]: /images/post/forager/Forager3.jpeg
-[image3b]: /images/post/forager/Forager-treehouse.jpeg
-[image4]: /images/post/forager/Forager4.jpeg
-[image5]: /images/post/forager/Forager5.jpeg
-[image6]: /images/post/forager/Forager6.jpeg
-[image7]: /images/post/forager/Forager7.jpeg
-[image8]: /images/post/forager/Forager8.jpeg
-[image9]: /images/post/forager/Forager9.jpeg
-[image10]: /images/post/forager/Forager10.jpeg
-[imageupdate]: /images/post/forager/Forager-update.jpg
+[image0]: ../../../images/post/forager/Forager0.jpeg
+[image1]: ../../../images/post/forager/Forager1.jpeg
+[image2]: ../../../images/post/forager/Forager2.jpeg
+[image3a]: ../../../images/post/forager/Forager3.jpeg
+[image3b]: ../../../images/post/forager/Forager-treehouse.jpeg
+[image4]: ../../../images/post/forager/Forager4.jpeg
+[image5]: ../../../images/post/forager/Forager5.jpeg
+[image6]: ../../../images/post/forager/Forager6.jpeg
+[image7]: ../../../images/post/forager/Forager7.jpeg
+[image8]: ../../../images/post/forager/Forager8.jpeg
+[image9]: ../../../images/post/forager/Forager9.jpeg
+[image10]: ../../../images/post/forager/Forager10.jpeg
+[imageupdate]: ../../../images/post/forager/Forager-update.jpg

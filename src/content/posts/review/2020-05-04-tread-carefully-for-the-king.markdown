@@ -46,7 +46,7 @@ The co-op aspect was addictively fun and made to punish us for our mistakes. Abl
 
 ![Adventurers fighting a mimic][image3]
 
-[image0]: /images/post/fortheking/ForTheKing0.png
-[image1]: /images/post/fortheking/ForTheKing1.png
-[image2]: /images/post/fortheking/ForTheKing2.png
-[image3]: /images/post/fortheking/ForTheKing3.png
+[image0]: ../../../images/post/fortheking/ForTheKing0.png
+[image1]: ../../../images/post/fortheking/ForTheKing1.png
+[image2]: ../../../images/post/fortheking/ForTheKing2.png
+[image3]: ../../../images/post/fortheking/ForTheKing3.png

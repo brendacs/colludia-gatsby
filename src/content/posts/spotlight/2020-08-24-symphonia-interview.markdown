@@ -84,11 +84,11 @@ You can find us under the name @symphonia_game on [Twitter](https://twitter.com/
 
 ![][image8]
 
-[image0]: /images/post/symphonia/Symphonia0.png
-[image1]: /images/post/symphonia/Symphonia4.png
-[image3]: /images/post/symphonia/Symphonia1.png
-[image5]: /images/post/symphonia/Symphonia5.png
-[image6]: /images/post/symphonia/Symphonia6.png
-[image7]: /images/post/symphonia/Symphonia7.png
-[image8]: /images/post/symphonia/Symphonia-end.png
+[image0]: ../../../images/post/symphonia/Symphonia0.png
+[image1]: ../../../images/post/symphonia/Symphonia4.png
+[image3]: ../../../images/post/symphonia/Symphonia1.png
+[image5]: ../../../images/post/symphonia/Symphonia5.png
+[image6]: ../../../images/post/symphonia/Symphonia6.png
+[image7]: ../../../images/post/symphonia/Symphonia7.png
+[image8]: ../../../images/post/symphonia/Symphonia-end.png
 

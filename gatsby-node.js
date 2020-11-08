@@ -32,6 +32,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
     reporter.panicOnBuild(`Error while running GraphQL query.`)
     return
   }
+  // Use data to create pages
   result.data.allMarkdownRemark.edges.forEach(({ node }) => {
 
     let template = postTemplate

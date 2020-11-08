@@ -72,12 +72,12 @@ Honestly though, no amount of words I can put on this page will do this game jus
 
 ![Fifi Fellow saying that one's self can't be summarized in a single response][image8]
 
-[image0]: /images/post/tangletower/TangleTower0.png
-[image1]: /images/post/tangletower/TangleTower1.png
-[image2]: /images/post/tangletower/TangleTower2.png
-[image3]: /images/post/tangletower/TangleTower3.png
-[image4]: /images/post/tangletower/TangleTower4.png
-[image5]: /images/post/tangletower/TangleTower5.png
-[image6]: /images/post/tangletower/TangleTower6.png
-[image7]: /images/post/tangletower/TangleTower7.png
-[image8]: /images/post/tangletower/TangleTower8.png
+[image0]: ../../../images/post/tangletower/TangleTower0.png
+[image1]: ../../../images/post/tangletower/TangleTower1.png
+[image2]: ../../../images/post/tangletower/TangleTower2.png
+[image3]: ../../../images/post/tangletower/TangleTower3.png
+[image4]: ../../../images/post/tangletower/TangleTower4.png
+[image5]: ../../../images/post/tangletower/TangleTower5.png
+[image6]: ../../../images/post/tangletower/TangleTower6.png
+[image7]: ../../../images/post/tangletower/TangleTower7.png
+[image8]: ../../../images/post/tangletower/TangleTower8.png
