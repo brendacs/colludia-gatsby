@@ -9,6 +9,7 @@ import React from 'react';
 import Layout from './src/components/layouts/layout';
 import './src/styles/reset.scss'
 import './src/styles/global.scss'
+import './src/styles/darkmode.scss'
   
 export const wrapPageElement = ({ element }) => {
   return <Layout>{element}</Layout>;
