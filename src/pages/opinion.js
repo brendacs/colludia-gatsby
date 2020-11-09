@@ -8,7 +8,6 @@ const OpinionPage = () => (
     <SEO title='Opinion' />
     <ArticleList
       featuredPost={featuredPost}
-      tooltip="Opinion are opinion articles about games in general, but with a specific focus on indie games or games with narratives."
       posts={posts}
       page="opinion"
       limit={3}

@@ -8,7 +8,6 @@ const IndexPage = () => (
     <SEO title='Home' />
     <ArticleList
       featuredPost={featuredPost}
-      tooltip="Our latest featured article about an indie game with a story to tell."
       posts={posts}
       page="latest"
     />

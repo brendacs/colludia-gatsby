@@ -3,12 +3,13 @@ import PropTypes from 'prop-types'
 import React from 'react'
 import FeaturedPost from './featured-post'
 import Posts from './posts'
+import { tooltips } from '../../componentConstants'
 import './article-list.scss'
 
 
-const ArticleList = ({ featuredPost, tooltip, posts, page, sortable, limit }) => (
+const ArticleList = ({ featuredPost, posts, page, sortable, limit }) => (
   <>
-    <FeaturedPost featuredPost={featuredPost} tooltip={tooltip} />
+    <FeaturedPost featuredPost={featuredPost} tooltip={tooltips[page]} />
     <Posts posts={posts} page={page} sortable={sortable} limit={limit} />
   </>
 )
