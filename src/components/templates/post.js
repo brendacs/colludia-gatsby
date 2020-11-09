@@ -44,7 +44,7 @@ const PostTemplate = ({data}) => { // this prop will be injected by the GraphQL 
                 </div>
               </div>
               {frontmatter.postType.includes('review') &&
-                <QuickSummary />
+                <QuickSummary data={data} />
               }
               <div
                 className="blog-post-content"
