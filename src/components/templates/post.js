@@ -4,6 +4,8 @@ import Tag from '../common/tag'
 import QuickSummary from './quick-summary'
 import './post.scss'
 
+
+// TODO: word count
 const PostTemplate = ({data}) => { // this prop will be injected by the GraphQL query below
   const { markdownRemark } = data // data.markdownRemark holds your post data
   const { frontmatter, html } = markdownRemark
@@ -18,7 +20,7 @@ const PostTemplate = ({data}) => { // this prop will be injected by the GraphQL 
         <div className="article-wrapper">
           <div className="share-buttons vertical">
             <a href="https://twitter.com/intent/tweet?text=Check%20out%20this%20article%20on%20%40Colludia%21&url=https://colludia.com{{ page.url }}" name="share on twitter"><img alt="twitter logo" src={require('../../images/twitter.svg')} /></a>
-            <a href="https://facebook.com/sharer.php?u=https://colludia.com{{ page.url }}" name="share on facebook"><img alt="facebook logo" src={require('../../images/facebook.svg')} /></a>
+            <a href={`https://facebook.com/sharer.php?u=${window.location.href}`} name="share on facebook"><img alt="facebook logo" src={require('../../images/facebook.svg')} /></a>
             <div className="share-link-wrapper">
               <div className="tooltip hide">Copied!</div>
               <a className="share-link" name="copy link to article to share"><img alt="link" src={require('../../images/link.svg')} /></a>
@@ -35,7 +37,7 @@ const PostTemplate = ({data}) => { // this prop will be injected by the GraphQL 
                   {/* <p className="minute-estimate">{{ page.content | number_of_words | times: 2 | divided_by: 500 | plus: 1 }} minute read</p> */}
                 </div>
                 <div className="share-buttons horizontal">
-                  <a href="https://twitter.com/intent/tweet?text=Check%20out%20this%20article%20on%20Colludia%21&url=https://colludia.com{{ page.url }}" name="share on twitter"><img alt="twitter logo" src="{{ site.baseurl }}/images/twitter.svg" /></a>
+                  <a href={`https://twitter.com/intent/tweet?text=Check%20out%20this%20article%20on%20Colludia%21&url=${window.location.href}`} name="share on twitter"><img alt="twitter logo" src="{{ site.baseurl }}/images/twitter.svg" /></a>
                   <a href="https://facebook.com/sharer.php?u=https://colludia.com{{ page.url }}" name="share on facebook"><img alt="facebook logo" src="{{ site.baseurl }}/images/facebook.svg" /></a>
                   <div className="share-link-wrapper">
                     <div className="tooltip hide">Copied!</div>
@@ -77,6 +79,8 @@ const PostTemplate = ({data}) => { // this prop will be injected by the GraphQL 
   )
 }
 
+export default PostTemplate
+
 export const pageQuery = graphql`
   query($slug: String!) {
     markdownRemark(frontmatter: { slug: { eq: $slug } }) {
@@ -102,5 +106,3 @@ export const pageQuery = graphql`
     }
   }
 `
-
-export default PostTemplate
