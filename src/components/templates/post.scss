@@ -304,6 +304,15 @@
 			}
 		}
 
+		span a.gatsby-resp-image-link {
+			color: rgba(0, 0, 0, 0);
+			cursor: default;
+
+			&:hover:after {
+				width: 0px;
+			}
+		}
+
 		ul {
 			margin-top: 20px;
 			width: inherit;
