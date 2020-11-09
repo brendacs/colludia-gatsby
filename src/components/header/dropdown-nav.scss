@@ -9,6 +9,9 @@
   justify-content: space-between;
   padding: 5vh 10vw;
   border-bottom: 1px solid $site-gray;
+  position: absolute;
+  top: 70px;
+  z-index: 21;
 
   .pages-wrapper {
     display: flex;
