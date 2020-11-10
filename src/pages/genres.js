@@ -1,16 +1,14 @@
 import React from 'react'
 import SEO from '../components/seo'
 import ArticleList from '../components/layouts/article-list/article-list'
-import { featuredPost } from '../constants'
 
-const IndexPage = () => (
+const GenresPage = () => (
   <>
-    <SEO title='Home' />
+    <SEO title='Genres' />
     <ArticleList
-      featuredPost={featuredPost}
-      page="latest"
+      page="genres"
     />
   </>
 )
 
-export default IndexPage
+export default GenresPage

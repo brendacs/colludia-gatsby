@@ -7,23 +7,23 @@ import { tooltips } from '../../componentConstants'
 import './article-list.scss'
 
 
-const ArticleList = ({ featuredPost, posts, page, sortable, limit }) => (
+const ArticleList = ({ featuredPost, page, sortable, limit }) => (
   <>
-    <FeaturedPost featuredPost={featuredPost} tooltip={tooltips[page]} />
-    <Posts posts={posts} page={page} sortable={sortable} limit={limit} />
+    {featuredPost && <FeaturedPost featuredPost={featuredPost} tooltip={tooltips[page]} />}
+    <Posts page={page} sortable={sortable} limit={limit} />
   </>
 )
 
 ArticleList.propTypes = {
-  featuredPost: PropTypes.object.isRequired,
+  featuredPost: PropTypes.object,
   tooltip: PropTypes.string.isRequired,
-  posts: PropTypes.array.isRequired,
   page: PropTypes.string.isRequired,
   sortable: PropTypes.bool,
   limit: PropTypes.number
 }
 
 ArticleList.defaultProps = {
+  featuredPost: null,
   sortable: false,
   limit: 12
 }
