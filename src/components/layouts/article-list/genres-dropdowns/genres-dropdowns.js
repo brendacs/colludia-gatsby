@@ -1,10 +1,12 @@
-import React from 'react'
-import './genres-dropdowns.scss'
+import React from "react"
+import "./genres-dropdowns.scss"
 
 const GenresDropdowns = () => (
   <section class="all-categories">
     <select class="dropdown" id="type-select-list">
-      <option value="" disabled selected>Choose article type</option>
+      <option value="" disabled selected>
+        Choose article type
+      </option>
       {/* {% assign sorted_cats = site.categories | sort %}
       {% assign special_cats = "spotlight,review,our picks,demo,opinion,interview" | split: ',' %}
       {% for category in sorted_cats %}
@@ -15,7 +17,9 @@ const GenresDropdowns = () => (
       {% endfor %} */}
     </select>
     <select class="dropdown" id="genre-select-list">
-      <option value="" disabled selected>Choose genre</option>
+      <option value="" disabled selected>
+        Choose genre
+      </option>
       {/* {% assign sorted_cats = site.categories | sort %}
       {% assign special_cats = "spotlight,review,our picks,demo,opinion,interview" | split: ',' %}
       {% for category in sorted_cats %}

@@ -1,29 +1,32 @@
 .posts-container {
-	background-color: $site-color-light;
-	padding: 8vh 0 8vh 0;
-	display: flex;
-	flex-direction: column;
-	align-items: center;
+  background-color: $site-color-light;
+  padding: 8vh 0 8vh 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
-.posts-container, .author-posts {
-	width: 100%;
+.posts-container,
+.author-posts {
+  width: 100%;
 
-	.posts {
-		display: flex;
-		flex-wrap: wrap;
-		justify-content: center;
-		width: 100%;
+  .posts {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
 
-		@media screen and (max-width: 768px) {
-			justify-content: center;
-		}
-	}
+    @media screen and (max-width: 768px) {
+      justify-content: center;
+    }
+  }
 }
 
 .author {
   .post {
-    box-shadow: 0 2px 0 rgba(54,45,89,0.15), -0.1875rem -0.1875rem 0 0.1875rem $site-brand-color, 0 0 0 0rem $site-font-color;
+    box-shadow: 0 2px 0 rgba(54, 45, 89, 0.15),
+      -0.1875rem -0.1875rem 0 0.1875rem $site-brand-color,
+      0 0 0 0rem $site-font-color;
   }
 }
 
@@ -31,7 +34,7 @@
   @include short-transition;
   width: 25vw;
   height: 300px;
-  background: #FFF;
+  background: #fff;
   margin: 0 2% 50px 2%;
   border-radius: 5px;
   position: relative;
@@ -91,7 +94,8 @@
     right: 0;
   }
 
-  &-author, &-date {
+  &-author,
+  &-date {
     @include secondary-font;
     font-size: $tiny-size - 2;
     color: $site-font-color;
@@ -105,7 +109,9 @@
   }
 
   &:hover {
-    box-shadow: 0 2px 0 rgba(54,45,89,0.15), -0.1875rem -0.1875rem 0 0.1875rem $site-brand-color, 0 0 0 0.375rem $site-font-color;
+    box-shadow: 0 2px 0 rgba(54, 45, 89, 0.15),
+      -0.1875rem -0.1875rem 0 0.1875rem $site-brand-color,
+      0 0 0 0.375rem $site-font-color;
   }
 
   @media screen and (max-width: 1350px) {
@@ -145,14 +151,14 @@
     .post-title {
       padding-right: 20px;
     }
-  
+
     .post-image {
       border-radius: 5px 0 0 5px;
       height: 100%;
       width: 25%;
       margin-right: 20px;
     }
-  
+
     .post-text-container {
       width: 100%;
       height: 100%;
@@ -160,14 +166,14 @@
       flex-direction: column;
       justify-content: space-around;
     }
-  
+
     .post-type {
       position: static;
       justify-content: flex-end;
       align-self: unset;
       padding-top: 10px;
     }
-  
+
     .post-info {
       margin-left: 5px;
       padding: 0;
