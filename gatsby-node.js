@@ -34,12 +34,11 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
   }
   // Use data to create pages
   result.data.allMarkdownRemark.edges.forEach(({ node }) => {
-
     let template = postTemplate
-    switch(node.frontmatter.pageType) {
-      case 'author':
+    switch (node.frontmatter.pageType) {
+      case "author":
         template = authorTemplate
-      case 'info':
+      case "info":
         template = infoTemplate
       default:
         template = postTemplate
