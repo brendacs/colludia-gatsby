@@ -8,6 +8,31 @@ module.exports = {
   plugins: [
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-sitemap`,
+    `gatsby-plugin-sharp`,
+    `gatsby-transformer-sharp`,
+    {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: `gatsby-starter-default`,
+        short_name: `starter`,
+        start_url: `/`,
+        icon: `src/images/gamepad-book-square.png`, // This path is relative to the root of the site.
+      },
+    },
+    {
+      resolve: `gatsby-plugin-google-fonts`,
+      options: {
+        fonts: [`inter\:100,200,300,400,500,600,700,800,900`],
+        display: "swap",
+      },
+    },
+    {
+      resolve: "gatsby-plugin-sass",
+      options: {
+        data: `@import "${__dirname}/src/styles/variables";`,
+        data: `@import "${__dirname}/src/styles/mixins";`,
+      },
+    },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -22,24 +47,6 @@ module.exports = {
         path: `${__dirname}/src/content`,
       },
     },
-    `gatsby-transformer-sharp`,
-    `gatsby-plugin-sharp`,
-    {
-      resolve: `gatsby-plugin-manifest`,
-      options: {
-        name: `gatsby-starter-default`,
-        short_name: `starter`,
-        start_url: `/`,
-        icon: `src/images/gamepad-book-square.png`, // This path is relative to the root of the site.
-      },
-    },
-    {
-      resolve: "gatsby-plugin-sass",
-      options: {
-        data: `@import "${__dirname}/src/styles/variables";`,
-        data: `@import "${__dirname}/src/styles/mixins";`,
-      },
-    },
     {
       resolve: `gatsby-transformer-remark`,
       options: {
@@ -51,13 +58,6 @@ module.exports = {
             },
           },
         ],
-      },
-    },
-    {
-      resolve: `gatsby-plugin-google-fonts`,
-      options: {
-        fonts: [`inter\:100,200,300,400,500,600,700,800,900`],
-        display: "swap",
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
