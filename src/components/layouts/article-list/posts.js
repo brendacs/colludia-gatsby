@@ -1,24 +1,15 @@
-// import { Link } from 'gatsby'
 import PropTypes from "prop-types"
 import { graphql, StaticQuery } from "gatsby"
-import React, { useState } from "react"
-import Tag from "../../common/tag"
-import GenresDropdowns from "./genres-dropdowns/genres-dropdowns"
-import { tagColors } from "../../componentConstants"
-import "./posts.scss"
+import React from "react"
+import RenderedPosts from "../../common/rendered-posts"
 
-// TODO: implement sort
 const Posts = props => {
   return (
     <StaticQuery
       query={graphql`
         query {
           allMarkdownRemark(
-            filter: {
-              frontmatter: {
-                pageType: { eq: "post" }
-              }
-            }
+            filter: { frontmatter: { pageType: { eq: "post" } } }
             sort: { order: DESC, fields: [frontmatter___date] }
           ) {
             edges {
@@ -45,82 +36,6 @@ const Posts = props => {
       `}
       render={data => <RenderedPosts data={data} {...props} />}
     />
-  )
-}
-
-const RenderedPosts = ({ data, page, sortable, limit }) => {
-  const [sorted, setSorted] = useState(false)
-  let count = 0
-  let posts = data.allMarkdownRemark.edges
-
-  return (
-    <div className={page}>
-      {page === "genres" && <GenresDropdowns />}
-      <section className="posts-container">
-        {sortable && (
-          <select
-            className="dropdown article-list-dropdown"
-            id="sort-select-list"
-          >
-            <option value="" disabled>
-              Sort articles by
-            </option>
-            <option value="article" selected onSelect={() => setSorted(false)}>
-              Most recent article
-            </option>
-            <option value="release" onSelect={() => setSorted(true)}>
-              Most recent game release date
-            </option>
-          </select>
-        )}
-        <div className="posts">
-          {posts.map(p => {
-            let post = p.node.frontmatter
-            // if (post.pageType !== "post") return;
-            if (
-              page === "latest" ||
-              page === "genres" ||
-              post.postType.includes(page)
-            ) {
-              count += 1
-            }
-            return (
-              (page === "latest" ||
-                page === "genres" ||
-                post.postType.includes(page)) && (
-                <a
-                  className={`post ${count > limit && "row"}`}
-                  href={post.slug}
-                  name={`navigate to post titled ${post.title}`}
-                >
-                  <img
-                    alt="game header image"
-                    className="post-image"
-                    loading="lazy"
-                    src={require(`../../../images/headers/small/${post.image}`)}
-                  />
-                  <div className="post-text-container">
-                    <h2
-                      className="post-title"
-                      dangerouslySetInnerHTML={{ __html: post.title }}
-                    />
-                    <div className="post-info">
-                      <p className="post-author">{post.author}</p>
-                      <p className="post-date">{post.date}</p>
-                    </div>
-                  </div>
-                  <div className="post-type">
-                    {post.postType.map(tag => (
-                      <Tag name={tag} color={tagColors[tag]} />
-                    ))}
-                  </div>
-                </a>
-              )
-            )
-          })}
-        </div>
-      </section>
-    </div>
   )
 }
 

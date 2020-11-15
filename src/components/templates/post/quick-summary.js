@@ -1,5 +1,5 @@
 import React from "react"
-import summary from "../../data/quick-summary"
+import summary from "../../../data/quick-summary"
 import "./quick-summary.scss"
 
 const QuickSummary = ({ data }) => {
@@ -21,7 +21,7 @@ const QuickSummary = ({ data }) => {
         <img
           id="quick-summary-image"
           alt="game main character thumbnail"
-          src={require(`../../images/${summary[game].image}`)}
+          src={require(`../../../images/${summary[game].image}`)}
         />
       </div>
     </div>

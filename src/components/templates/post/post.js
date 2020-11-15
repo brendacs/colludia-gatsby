@@ -1,6 +1,6 @@
 import React from "react"
 import { graphql } from "gatsby"
-import Tag from "../common/tag"
+import Tag from "../../common/tag"
 import QuickSummary from "./quick-summary"
 import "./post.scss"
 
@@ -17,7 +17,7 @@ const PostTemplate = ({ data }) => {
             <img
               alt="post header image from game"
               className="post-page-image"
-              src={require(`../../images/headers/${frontmatter.image}`)}
+              src={require(`../../../images/headers/${frontmatter.image}`)}
             />
           </div>
         </header>
@@ -29,7 +29,7 @@ const PostTemplate = ({ data }) => {
             >
               <img
                 alt="twitter logo"
-                src={require("../../images/twitter.svg")}
+                src={require("../../../images/twitter.svg")}
               />
             </a>
             <a
@@ -38,13 +38,13 @@ const PostTemplate = ({ data }) => {
             >
               <img
                 alt="facebook logo"
-                src={require("../../images/facebook.svg")}
+                src={require("../../../images/facebook.svg")}
               />
             </a>
             <div className="share-link-wrapper">
               <div className="tooltip hide">Copied!</div>
               <a className="share-link" name="copy link to article to share">
-                <img alt="link" src={require("../../images/link.svg")} />
+                <img alt="link" src={require("../../../images/link.svg")} />
               </a>
             </div>
             <a
@@ -54,7 +54,7 @@ const PostTemplate = ({ data }) => {
             >
               <img
                 alt="conment speech bubble"
-                src={require("../../images/comment.svg")}
+                src={require("../../../images/comment.svg")}
               />
             </a>
           </div>
@@ -68,7 +68,7 @@ const PostTemplate = ({ data }) => {
                 <div className="post-page-details">
                   <p>
                     <a
-                      href={`../../author/${frontmatter.authorUrl}`}
+                      href={`/author/${frontmatter.authorUrl}`}
                       className="animated-link"
                     >
                       {frontmatter.author}
@@ -82,27 +82,21 @@ const PostTemplate = ({ data }) => {
                     href={`https://twitter.com/intent/tweet?text=Check%20out%20this%20article%20on%20Colludia%21&url=${window.location.href}`}
                     name="share on twitter"
                   >
-                    <img
-                      alt="twitter logo"
-                      src="{{ site.baseurl }}/images/twitter.svg"
-                    />
+                    <img alt="twitter logo" src="../../../images/twitter.svg" />
                   </a>
                   <a
-                    href="https://facebook.com/sharer.php?u=https://colludia.com{{ page.url }}"
+                    href={`https://facebook.com/sharer.php?u=https://colludia.com${frontmatter.slug}`}
                     name="share on facebook"
                   >
                     <img
                       alt="facebook logo"
-                      src="{{ site.baseurl }}/images/facebook.svg"
+                      src="../../../images/facebook.svg"
                     />
                   </a>
                   <div className="share-link-wrapper">
                     <div className="tooltip hide">Copied!</div>
                     <a className="share-link" name="copy link to share">
-                      <img
-                        alt="link"
-                        src="{{ site.baseurl }}/images/link.svg"
-                      />
+                      <img alt="link" src="../../../images/link.svg" />
                     </a>
                   </div>
                 </div>
@@ -150,7 +144,7 @@ const PostTemplate = ({ data }) => {
           </div>
           <img
             className="post-video-iframe-image"
-            src={require(`../../images/headers/small/${frontmatter.image}`)}
+            src={require(`../../../images/headers/small/${frontmatter.image}`)}
           />
         </div>
       )}
