@@ -14,6 +14,11 @@ const Posts = props => {
       query={graphql`
         query {
           allMarkdownRemark(
+            filter: {
+              frontmatter: {
+                pageType: { eq: "post" }
+              }
+            }
             sort: { order: DESC, fields: [frontmatter___date] }
           ) {
             edges {
@@ -71,6 +76,7 @@ const RenderedPosts = ({ data, page, sortable, limit }) => {
         <div className="posts">
           {posts.map(p => {
             let post = p.node.frontmatter
+            // if (post.pageType !== "post") return;
             if (
               page === "latest" ||
               page === "genres" ||
