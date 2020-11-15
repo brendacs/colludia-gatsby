@@ -68,7 +68,7 @@ const PostTemplate = ({ data }) => {
                 <div className="post-page-details">
                   <p>
                     <a
-                      href={`../../content/authors/${frontmatter.authorUrl}`}
+                      href={`../../author/${frontmatter.authorUrl}`}
                       className="animated-link"
                     >
                       {frontmatter.author}
