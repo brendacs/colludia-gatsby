@@ -1,24 +1,25 @@
 ---
-pageType:     post
-game:         welcometoelk
-slug:         /welcome-to-elk-demo-review/
-tabTitle:     "Quirky Art and Mini-Games Make for a Warm Welcome to Elk, Demo Review"
-title:        "Quirky Art and Mini-Games Make for a Warm <em class='game-title'>Welcome to Elk</em>"
-postType:     [demo, review]
-desc:         "Welcome to Elk demo review: With simple yet engaging mini-games, the developers fully utilize the potential of video games as a medium for storytelling and absorbing the player into the world of Elk."
-tagline:      "\"With simple yet engaging mini-games, the developers fully utilize the potential of video games as a medium for storytelling and absorbing the player into the world of Elk.\""
-date:         2020-07-14
-releaseDate:  2020-09-17
-image:        WelcomeToElk.png
-video:        https://www.youtube.com/embed/e69Tr8Zi87c
-author:       Brenda Zhang
-authorUrl:    brenda
-categories:   ["adventure", "atmospheric", rpg, demo, review, story]
-tags:         ["Welcome to Elk", "Triple Topping", mini-games, illustration, cartoon]
+pageType: post
+game: welcometoelk
+slug: /welcome-to-elk-demo-review/
+tabTitle: "Quirky Art and Mini-Games Make for a Warm Welcome to Elk, Demo Review"
+title: "Quirky Art and Mini-Games Make for a Warm <em class='game-title'>Welcome to Elk</em>"
+postType: [demo, review]
+desc: "Welcome to Elk demo review: With simple yet engaging mini-games, the developers fully utilize the potential of video games as a medium for storytelling and absorbing the player into the world of Elk."
+tagline: '"With simple yet engaging mini-games, the developers fully utilize the potential of video games as a medium for storytelling and absorbing the player into the world of Elk."'
+date: 2020-07-14
+releaseDate: 2020-09-17
+image: WelcomeToElk.png
+video: https://www.youtube.com/embed/e69Tr8Zi87c
+author: Brenda Zhang
+authorUrl: brenda
+categories: ["adventure", "atmospheric", rpg, demo, review, story]
+tags: ["Welcome to Elk", "Triple Topping", mini-games, illustration, cartoon]
 ---
-I wasn't sure what to expect other than unique art and a good story when I decided to try *[Welcome to Elk](https://www.welcometoelk.com/)* developed by [Triple Topping](https://twitter.com/TripleTopping). It's one of the few times where I decided to do no research and only skim screenshots before trying out a game or demo. All I needed was a few glimpses of the art and the description noting that every character had a tale to tell, each based on true stories. If you couldn't tell already, I'm all about unique story rich indie games, so how could I resist?
 
-After loving the demo during the Steam Game Festival, I realized there's no better time to write about my experience with it than now—not just because the fun I had is fresh in my mind, but its intro game *[Welcome to Elk: The First Stories](https://store.steampowered.com/app/1330260/Welcome_to_Elk_The_First_Stories/)* was just released a few days ago on July 10. Additionally, its [closed beta sign up](https://www.welcometoelk.com/#betatest) is happening now until July 28. Needless to say, I will be playing its intro and have already signed up for a chance to participate in its closed beta (and you should too), so look out for at least one other article on Welcome to Elk very soon.
+I wasn't sure what to expect other than unique art and a good story when I decided to try _[Welcome to Elk](https://www.welcometoelk.com/)_ developed by [Triple Topping](https://twitter.com/TripleTopping). It's one of the few times where I decided to do no research and only skim screenshots before trying out a game or demo. All I needed was a few glimpses of the art and the description noting that every character had a tale to tell, each based on true stories. If you couldn't tell already, I'm all about unique story rich indie games, so how could I resist?
+
+After loving the demo during the Steam Game Festival, I realized there's no better time to write about my experience with it than now—not just because the fun I had is fresh in my mind, but its intro game _[Welcome to Elk: The First Stories](https://store.steampowered.com/app/1330260/Welcome_to_Elk_The_First_Stories/)_ was just released a few days ago on July 10. Additionally, its [closed beta sign up](https://www.welcometoelk.com/#betatest) is happening now until July 28. Needless to say, I will be playing its intro and have already signed up for a chance to participate in its closed beta (and you should too), so look out for at least one other article on Welcome to Elk very soon.
 
 For now, let's dive into the demo.
 
@@ -30,11 +31,11 @@ For now, let's dive into the demo.
 
 The first screen is anything but a warm welcome. You see a black screen. Some white text is on it. A man's voice talks about someone named Anders who walked to a town called Elk everyday. And he apparently died twice? With how cryptic this monologue is we can't begin to comprehend the meaning behind it, yet can't help but infer its relation to the game that follows and the town we're meant to explore. However, the tone of the story to come is set and our hairs are raised.
 
-The rest of the demo and the cliffhanger of an ending was equally mysterious and left me wondering just how deep the story goes. Don't mind me—I'll just be here on the edge of my seat until the day *Welcome to Elk* releases.
+The rest of the demo and the cliffhanger of an ending was equally mysterious and left me wondering just how deep the story goes. Don't mind me—I'll just be here on the edge of my seat until the day _Welcome to Elk_ releases.
 
 ## The Colors of Elk (or Lack Thereof)
 
-Upon entering the actual game, it was obvious to me that art and animations had a quirkiness reminiscent of *Adventure Time* yet was completely its own pleasantly cartoony style. Additionally, through the hesitant dialogue of those around me, I also quickly realized there was a lot more to the story than a simple move to an unfamiliar town. We learn our character is Frigg, a young carpenter who has just arrived in Elk on a ferry piloted by Jeppe.
+Upon entering the actual game, it was obvious to me that art and animations had a quirkiness reminiscent of _Adventure Time_ yet was completely its own pleasantly cartoony style. Additionally, through the hesitant dialogue of those around me, I also quickly realized there was a lot more to the story than a simple move to an unfamiliar town. We learn our character is Frigg, a young carpenter who has just arrived in Elk on a ferry piloted by Jeppe.
 
 ![Arriving on the ferry][image1]
 
@@ -86,23 +87,23 @@ The nice thing about the mini-games is that they stay in the context of the envi
 
 The mini-games don't detract from the experience and even add to the story and personality of the town and people because they don't break away into their own unrelated events. The games are well-integrated, extra-interactive parts of the story that help you get to know Elk even more personally.
 
-For these reasons, mini-games are a core part of what differentiates *Welcome to Elk* from other story-heavy games, especially indie ones. I believe that with these simple yet engaging mini-games, the developers more fully utilize the potential of video games as a medium for storytelling and absorbing the player into the world of Elk. Through the mini-games, the player not only just reads dialogue and walks around talking to people the whole time, but truly interacts with the characters and engages in the town's traditions.
+For these reasons, mini-games are a core part of what differentiates _Welcome to Elk_ from other story-heavy games, especially indie ones. I believe that with these simple yet engaging mini-games, the developers more fully utilize the potential of video games as a medium for storytelling and absorbing the player into the world of Elk. Through the mini-games, the player not only just reads dialogue and walks around talking to people the whole time, but truly interacts with the characters and engages in the town's traditions.
 
 ![Enjoying the mini-games traditional to the town][image8]
 
 <figcaption>As do I, Mister Bo. As do I.</figcaption>
 
-There is only one mini-game in the demo, but telling by the trailers and videos of other mini-games in *Welcome to Elk*, it's clear that all of them are also distinct from one another in more than just context, so there's also the bonus of virtually no repetition of the same mechanics in different contexts, which can get old quickly.
+There is only one mini-game in the demo, but telling by the trailers and videos of other mini-games in _Welcome to Elk_, it's clear that all of them are also distinct from one another in more than just context, so there's also the bonus of virtually no repetition of the same mechanics in different contexts, which can get old quickly.
 
 ![A mini-game from the First Stories demo][image9]
 
 <figcaption>A mini-game featured in a trailer!</figcaption>
 
-Having the players be more active is always an important factor when experiencing a story through a video game, and *Welcome to Elk* nailed the execution in a simple, yet very neat way. Total side note made while editing: I didn't realize that well-integrated, story-driven mini-games were, in fact, advertised by the developers as a crucial part of the game until I read more about it on their website while I was linking to it in this article. This only further proves how well they accomplished their goal with the mini-games.
+Having the players be more active is always an important factor when experiencing a story through a video game, and _Welcome to Elk_ nailed the execution in a simple, yet very neat way. Total side note made while editing: I didn't realize that well-integrated, story-driven mini-games were, in fact, advertised by the developers as a crucial part of the game until I read more about it on their website while I was linking to it in this article. This only further proves how well they accomplished their goal with the mini-games.
 
 ## What's Going On?
 
-After the mini-game is where the story gets really *truly* intense. A sleezy-looking guy named Leeroy, who appears to be associated with the ruder group in the bar, bursts in and unfortunately takes an interest in Frigg, with her being the new girl in town. At this point, Frigg is drunk from the drinking game, so she can only stand there defenselessly with a goofy face, practically unaware of what's going on. The guy continues to make unwanted advances, only to be stopped by the brave, though equally drunk, friend we made during our drinking game.
+After the mini-game is where the story gets really _truly_ intense. A sleezy-looking guy named Leeroy, who appears to be associated with the ruder group in the bar, bursts in and unfortunately takes an interest in Frigg, with her being the new girl in town. At this point, Frigg is drunk from the drinking game, so she can only stand there defenselessly with a goofy face, practically unaware of what's going on. The guy continues to make unwanted advances, only to be stopped by the brave, though equally drunk, friend we made during our drinking game.
 
 ![A conflict arises][image10]
 
@@ -122,9 +123,9 @@ In the end we aren't even sure if we're back in the right home, but we fall asle
 
 <figcaption>If you got this far, you know you want to do it!</figcaption>
 
-*Welcome to Elk* was a spontaneous addition to my wishlist. I only added it because I felt the art and synopsis were generally up my alley, but after this demo, my interest has been truly captivated. The suspense and pure fun of everything that happened in just 25 minutes of gameplay is enough to keep me on the edge of my seat waiting for more news from the developers at [Triple Topping](https://twitter.com/TripleTopping).
+_Welcome to Elk_ was a spontaneous addition to my wishlist. I only added it because I felt the art and synopsis were generally up my alley, but after this demo, my interest has been truly captivated. The suspense and pure fun of everything that happened in just 25 minutes of gameplay is enough to keep me on the edge of my seat waiting for more news from the developers at [Triple Topping](https://twitter.com/TripleTopping).
 
-Though it appears the particular demo I played is no longer available, I highly recommend following along and checking out their new official demo *[Welcome to Elk: First Stories](https://store.steampowered.com/app/1330260/Welcome_to_Elk_The_First_Stories/)*, signing up for [closed beta](https://www.welcometoelk.com/#betatest) and, of course, [wishlisting](https://store.steampowered.com/app/1015940/Welcome_to_Elk/) the game. You don't want to miss what else *Welcome to Elk* has in store. I sure won't.
+Though it appears the particular demo I played is no longer available, I highly recommend following along and checking out their new official demo _[Welcome to Elk: First Stories](https://store.steampowered.com/app/1330260/Welcome_to_Elk_The_First_Stories/)_, signing up for [closed beta](https://www.welcometoelk.com/#betatest) and, of course, [wishlisting](https://store.steampowered.com/app/1015940/Welcome_to_Elk/) the game. You don't want to miss what else _Welcome to Elk_ has in store. I sure won't.
 
 [image0]: ../../../images/post/welcometoelk/WelcomeToElk0.png
 [image1]: ../../../images/post/welcometoelk/WelcomeToElk1.png

@@ -1,12 +1,12 @@
 import React from "react"
 import SEO from "../components/seo"
 import ArticleList from "../components/layouts/article-list/article-list"
-import { featuredPost } from "../constants"
+import { featuredPost } from "../data/featured-posts"
 
 const SpotlightPage = () => (
   <>
     <SEO title="Developer Spotlights" />
-    <ArticleList featuredPost={featuredPost} page="spotlight" limit={3} />
+    <ArticleList featuredPost={featuredPost.spotlight} page="spotlight" limit={3} />
   </>
 )
 

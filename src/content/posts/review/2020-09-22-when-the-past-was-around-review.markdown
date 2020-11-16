@@ -1,24 +1,35 @@
 ---
-pageType:     post
-game:         whenthepastwasaroundfull
-slug:         /when-the-past-was-around-review/
-tabTitle:     "The Beauty of Letting Go in When the Past Was Around"
-title:        "The Beauty of Letting Go in <em class='game-title'>When The Past Was Around</em>"
-postType:     [review]
-desc:         "When The Past Was Around review: The vivid scenes and emotional music that perfectly fit together with the bittersweet narrative of Eda's past romance and locked away memories in When the Past Was Around nearly brought me to tears in a way no game has in a very long time."
-tagline:      "\"The vivid scenes and emotional music that perfectly fit together with the bittersweet narrative of Eda's past romance and locked away memories in When the Past Was Around nearly brought me to tears in a way no game has in a very long time.\""
-date:         2020-09-22
-releaseDate:  2020-09-22
-image:        WhenThePastWasAroundFull.jpeg
-video:        https://www.youtube.com/embed/ZnpO8z0yMCQ
-author:       Brenda Zhang
-authorUrl:    brenda
-categories:   [puzzle, "room escape", adventure, review, story]
-tags:         ["When The Past Was Around", "Mojiken Studio", "Toge Productions", violin, music, illustration, beautiful, letting go, latest-featured]
+pageType: post
+game: whenthepastwasaroundfull
+slug: /when-the-past-was-around-review/
+tabTitle: "The Beauty of Letting Go in When the Past Was Around"
+title: "The Beauty of Letting Go in <em class='game-title'>When The Past Was Around</em>"
+postType: [review]
+desc: "When The Past Was Around review: The vivid scenes and emotional music that perfectly fit together with the bittersweet narrative of Eda's past romance and locked away memories in When the Past Was Around nearly brought me to tears in a way no game has in a very long time."
+tagline: '"The vivid scenes and emotional music that perfectly fit together with the bittersweet narrative of Eda''s past romance and locked away memories in When the Past Was Around nearly brought me to tears in a way no game has in a very long time."'
+date: 2020-09-22
+releaseDate: 2020-09-22
+image: WhenThePastWasAroundFull.jpeg
+video: https://www.youtube.com/embed/ZnpO8z0yMCQ
+author: Brenda Zhang
+authorUrl: brenda
+categories: [puzzle, "room escape", adventure, review, story]
+tags:
+  [
+    "When The Past Was Around",
+    "Mojiken Studio",
+    "Toge Productions",
+    violin,
+    music,
+    illustration,
+    beautiful,
+    letting go,
+  ]
 ---
-The vivid scenes and emotional [music](https://open.spotify.com/album/1sknShaLT5Kf4LCkI7lfeY?si=VHAFfNpvSPOT1W7iJYWrhg) perfectly fit together with the bittersweet narrative of Eda's past romance and locked away memories in *[When the Past Was Around](https://store.steampowered.com/app/1164050/When_The_Past_Was_Around/)*. It was done so well that it nearly brought me to tears in a way no game has in a very long time.
 
-This point-and-click adventure from [Mojiken Studio](https://mojikenstudio.com/) and [Toge Productions](https://www.togeproductions.com/) felt like the room escape games I have a penchant for, combined with a narrative reminiscent of *Florence*. Filled with symbolism, lush illustrations, and amazing storytelling through gameplay, it also matched, if not topped, its quality.
+The vivid scenes and emotional [music](https://open.spotify.com/album/1sknShaLT5Kf4LCkI7lfeY?si=VHAFfNpvSPOT1W7iJYWrhg) perfectly fit together with the bittersweet narrative of Eda's past romance and locked away memories in _[When the Past Was Around](https://store.steampowered.com/app/1164050/When_The_Past_Was_Around/)_. It was done so well that it nearly brought me to tears in a way no game has in a very long time.
+
+This point-and-click adventure from [Mojiken Studio](https://mojikenstudio.com/) and [Toge Productions](https://www.togeproductions.com/) felt like the room escape games I have a penchant for, combined with a narrative reminiscent of _Florence_. Filled with symbolism, lush illustrations, and amazing storytelling through gameplay, it also matched, if not topped, its quality.
 
 ![Eda listens with her eyes closed to Owl playing on the violin for pediactric clinic patients gathered in the garden][image0]
 
@@ -28,7 +39,7 @@ I played and [wrote about the prologue](https://colludia.com/when-the-past-was-a
 
 > Everything about this prologue was soothing, as I have been constantly mentioning. From the gameplay to the art style to the sound effects during my search for items and feathers, everything was tranquil and easy on the eyes and ears. The scenes progressed at an even pace, and the narrative within them was ever-present yet left you with enough space to imagine and fill in the blanks.
 
-Despite my glowing review, which you can read in full [here](https://colludia.com/when-the-past-was-around-review-demo/), it left me with many questions unanswered about the symbolism and what exactly happened *When the Past Was Around*. I had no doubt I'd be playing the full game to find out what was really going on and to see if my hunch about the meaning of its symbolism was correct. As well as, of course, to listen to more of that delightful violin music while hunting down keys and patterns in a beautiful landscape.
+Despite my glowing review, which you can read in full [here](https://colludia.com/when-the-past-was-around-review-demo/), it left me with many questions unanswered about the symbolism and what exactly happened _When the Past Was Around_. I had no doubt I'd be playing the full game to find out what was really going on and to see if my hunch about the meaning of its symbolism was correct. As well as, of course, to listen to more of that delightful violin music while hunting down keys and patterns in a beautiful landscape.
 
 ![Eda and Owl sit together in the midst of a chaotic house with knocked over plants and books.][image1]
 
@@ -64,7 +75,7 @@ Eda is obviously in pain and in a daze, but she snaps to attention once she hear
 
 ## From Chance Meeting to Midnight Stargazing
 
-Music is universal, and beautiful tunes will always attract a crowd. In *Florence*, the cello had Florence floating over to Krish. In *When the Past Was Around*, it was the sound of a violin that attracted Eda to the mysterious owl-headed man. As she watched him play on that cold breezy day, she couldn't hold in her sneeze. The man took notice and lent her his large scarf.
+Music is universal, and beautiful tunes will always attract a crowd. In _Florence_, the cello had Florence floating over to Krish. In _When the Past Was Around_, it was the sound of a violin that attracted Eda to the mysterious owl-headed man. As she watched him play on that cold breezy day, she couldn't hold in her sneeze. The man took notice and lent her his large scarf.
 
 The rest was history.
 
@@ -96,9 +107,9 @@ As I made my way through the sadder memories, I felt the tragedy for myself as I
 
 As I progressed through each scene, my heart only became heavier as I witnessed the pair's joyful moments along with their more melancholy. I felt frustrated, worried, happy, and sad with Eda along the journey, but learned to let go with her, too, in the end.
 
-*When the Past Was Around* was consistently beautiful from beginning to end. And although the ending couldn't be exactly what I wanted for Eda, was a perfect close to the story. The puzzles were just challenging enough to add flavor to the gameplay and bring out the potential of interactive storytelling. It was able to be exciting and joyful, tranquil and nostalgic, frantic and messy, or slow and somber at all the right times, bringing the story of Eda to life and inducing actual tears in my eyes.
+_When the Past Was Around_ was consistently beautiful from beginning to end. And although the ending couldn't be exactly what I wanted for Eda, was a perfect close to the story. The puzzles were just challenging enough to add flavor to the gameplay and bring out the potential of interactive storytelling. It was able to be exciting and joyful, tranquil and nostalgic, frantic and messy, or slow and somber at all the right times, bringing the story of Eda to life and inducing actual tears in my eyes.
 
-There's only one thing left to say here: get the game. See for yourself the beautiful imagery, explore the nostalgia-tinged narrative, listen to the sound of memories, and discover what happened *When the Past Was Around*.
+There's only one thing left to say here: get the game. See for yourself the beautiful imagery, explore the nostalgia-tinged narrative, listen to the sound of memories, and discover what happened _When the Past Was Around_.
 
 Maybe you can help me figure out why the man is an owl.
 
