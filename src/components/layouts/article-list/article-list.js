@@ -17,7 +17,7 @@ const ArticleList = ({ featuredPost, page, sortable, limit }) => (
 
 ArticleList.propTypes = {
   featuredPost: PropTypes.object,
-  tooltip: PropTypes.string.isRequired,
+  tooltip: PropTypes.string,
   page: PropTypes.string.isRequired,
   sortable: PropTypes.bool,
   limit: PropTypes.number,
@@ -25,6 +25,7 @@ ArticleList.propTypes = {
 
 ArticleList.defaultProps = {
   featuredPost: null,
+  tooltip: "",
   sortable: false,
   limit: 12,
 }

@@ -3,8 +3,8 @@ import "./genres-dropdowns.scss"
 
 const GenresDropdowns = () => (
   <section className="all-categories">
-    <select className="dropdown" id="type-select-list">
-      <option value="" disabled selected>
+    <select className="dropdown" id="type-select-list" defaultValue="">
+      <option value="" disabled>
         Choose article type
       </option>
       {/* {% assign sorted_cats = site.categories | sort %}
@@ -16,8 +16,8 @@ const GenresDropdowns = () => (
         {% endif %}
       {% endfor %} */}
     </select>
-    <select className="dropdown" id="genre-select-list">
-      <option value="" disabled selected>
+    <select className="dropdown" id="genre-select-list" defaultValue="">
+      <option value="" disabled>
         Choose genre
       </option>
       {/* {% assign sorted_cats = site.categories | sort %}

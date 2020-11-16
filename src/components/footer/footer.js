@@ -7,44 +7,44 @@ const Footer = () => (
     <div className="footer-links-wrapper">
       <ul className="footer-links">
         <li>
-          <Link className="animated-link" href="/about">
+          <Link className="animated-link" to="/about">
             About Colludia
           </Link>
         </li>
         <li>
-          <Link className="animated-link" href="/contact">
+          <Link className="animated-link" to="/contact">
             Contact Us
           </Link>
         </li>
         <li>
-          <Link className="animated-link" href="/writers">
+          <Link className="animated-link" to="/writers">
             Become a Writer
           </Link>
         </li>
         <li>
-          <Link className="animated-link" href="/advertise">
+          <Link className="animated-link" to="/advertise">
             Advertise
           </Link>
         </li>
       </ul>
       <ul className="footer-links">
         <li>
-          <Link className="animated-link" href="/supporters">
+          <Link className="animated-link" to="/supporters">
             Our Supporters
           </Link>
         </li>
         <li>
-          <Link className="animated-link" href="/subscribe">
+          <Link className="animated-link" to="/subscribe">
             Subscribe
           </Link>
         </li>
         <li>
-          <Link className="animated-link" href="/privacy-policy">
+          <Link className="animated-link" to="/privacy-policy">
             Privacy Policy
           </Link>
         </li>
         <li>
-          <Link className="animated-link" href="/cookie-policy">
+          <Link className="animated-link" to="/cookie-policy">
             Cookie Policy
           </Link>
         </li>

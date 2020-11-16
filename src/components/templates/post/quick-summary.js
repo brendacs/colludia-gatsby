@@ -10,8 +10,8 @@ const QuickSummary = ({ data }) => {
       <blockquote dangerouslySetInnerHTML={{ __html: summary[game].quote }} />
       <div className="quick-summary-content">
         <ul className="text">
-          {summary[game].points.map(item => (
-            <li>
+          {summary[game].points.map((item, idx) => (
+            <li key={idx}>
               <span>{item.question}: </span>
               {item.answer}
               <br />

@@ -22,10 +22,10 @@ const RenderedPosts = ({ data, page, author, sortable, limit }) => {
             className="dropdown article-list-dropdown"
             id="sort-select-list"
           >
-            <option value="" disabled>
+            <option defaultValue="article" disabled>
               Sort articles by
             </option>
-            <option value="article" selected onSelect={() => setSorted(false)}>
+            <option value="article" onSelect={() => setSorted(false)}>
               Most recent article
             </option>
             <option value="release" onSelect={() => setSorted(true)}>
@@ -36,7 +36,7 @@ const RenderedPosts = ({ data, page, author, sortable, limit }) => {
         <div className="posts">
           {posts
             .filter(p => (author ? p.node.frontmatter.author === author : p))
-            .map(p => {
+            .map((p, idx) => {
               let post = p.node.frontmatter
               if (
                 page === "latest" ||
@@ -54,6 +54,7 @@ const RenderedPosts = ({ data, page, author, sortable, limit }) => {
                     className={`post ${count > limit && "row"}`}
                     href={post.slug}
                     name={`navigate to post titled ${post.title}`}
+                    key={idx}
                   >
                     <img
                       alt="header game screenshot"
@@ -72,8 +73,8 @@ const RenderedPosts = ({ data, page, author, sortable, limit }) => {
                       </div>
                     </div>
                     <div className="post-type">
-                      {post.postType.map(tag => (
-                        <Tag name={tag} color={tagColors[tag]} />
+                      {post.postType.map((tag, idx) => (
+                        <Tag name={tag} key={idx} color={tagColors[tag]} />
                       ))}
                     </div>
                   </a>
@@ -87,22 +88,13 @@ const RenderedPosts = ({ data, page, author, sortable, limit }) => {
 }
 
 RenderedPosts.propTypes = {
-  posts: PropTypes.arrayOf(
-    PropTypes.shape({
-      title: PropTypes.string.isRequired,
-      author: PropTypes.string.isRequired,
-      date: PropTypes.string.isRequired,
-      url: PropTypes.string,
-      image: PropTypes.string.isRequired,
-      types: PropTypes.arrayOf(PropTypes.string).isRequired,
-    })
-  ).isRequired,
-  page: PropTypes.string.isRequired,
+  page: PropTypes.string,
   sortable: PropTypes.bool,
   limit: PropTypes.number,
 }
 
 RenderedPosts.defaultProps = {
+  page: "",
   sortable: false,
   limit: 12,
 }

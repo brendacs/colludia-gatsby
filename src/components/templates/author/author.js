@@ -29,7 +29,6 @@ const AuthorTemplate = ({ data }) => {
   // this prop will be injected by the GraphQL query below
   const { markdownRemark } = data // data.markdownRemark holds your post data
   const { frontmatter } = markdownRemark
-  console.log(frontmatter)
   return (
     <div className="author">
       <div className="author-heading">
@@ -43,8 +42,8 @@ const AuthorTemplate = ({ data }) => {
         </div>
         <h1 className="author-name">{frontmatter.author}</h1>
         <div>
-          {frontmatter.roles.map(role => (
-            <Tag name={role} color="random" />
+          {frontmatter.roles.map((role, idx) => (
+            <Tag name={role} key={idx} color="random" />
           ))}
         </div>
       </div>

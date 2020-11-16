@@ -109,11 +109,11 @@ const PostTemplate = ({ data }) => {
                 dangerouslySetInnerHTML={{ __html: html }}
               />
               <div className="tags">
-                {frontmatter.categories.map(category => (
-                  <Tag name={category} color="random" />
+                {frontmatter.categories.map((category, idx) => (
+                  <Tag name={category} key={idx} color="random" />
                 ))}
-                {frontmatter.tags.map(tag => (
-                  <Tag name={tag} color="random" />
+                {frontmatter.tags.map((tag, idx) => (
+                  <Tag name={tag} key={idx} color="random" />
                 ))}
               </div>
             </article>
@@ -133,9 +133,9 @@ const PostTemplate = ({ data }) => {
         type="text"
         value="https://colludia.com{{ page.url }}"
         className="share-link-text invisible-input"
-        autocorrect="off"
-        spellcheck="false"
-        readonly
+        autoCorrect="off"
+        spellCheck="false"
+        readOnly
       />
       {frontmatter.video && (
         <div className="post-video-iframe" id="youtube">
