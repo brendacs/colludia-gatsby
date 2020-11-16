@@ -61,6 +61,7 @@ const Header = ({ siteTitle, search }) => {
             role="button"
             tabIndex={0}
             onClick={() => setShowDropdownNav(!showDropdownNav)}
+            onKeyDown={() => setShowDropdownNav(!showDropdownNav)}
           >
             <img
               alt="hamburger menu"

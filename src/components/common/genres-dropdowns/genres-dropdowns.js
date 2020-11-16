@@ -2,8 +2,8 @@ import React from "react"
 import "./genres-dropdowns.scss"
 
 const GenresDropdowns = () => (
-  <section class="all-categories">
-    <select class="dropdown" id="type-select-list">
+  <section className="all-categories">
+    <select className="dropdown" id="type-select-list">
       <option value="" disabled selected>
         Choose article type
       </option>
@@ -16,7 +16,7 @@ const GenresDropdowns = () => (
         {% endif %}
       {% endfor %} */}
     </select>
-    <select class="dropdown" id="genre-select-list">
+    <select className="dropdown" id="genre-select-list">
       <option value="" disabled selected>
         Choose genre
       </option>

@@ -5,11 +5,11 @@ import "./quick-summary.scss"
 const QuickSummary = ({ data }) => {
   const { game } = data.markdownRemark.frontmatter
   return (
-    <div class="quick-summary">
+    <div className="quick-summary">
       <h2 id="quick-summary-heading">The Game at a Glance</h2>
       <blockquote dangerouslySetInnerHTML={{ __html: summary[game].quote }} />
-      <div class="quick-summary-content">
-        <ul class="text">
+      <div className="quick-summary-content">
+        <ul className="text">
           {summary[game].points.map(item => (
             <li>
               <span>{item.question}: </span>

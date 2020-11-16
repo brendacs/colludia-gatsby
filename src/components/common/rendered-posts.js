@@ -56,7 +56,7 @@ const RenderedPosts = ({ data, page, author, sortable, limit }) => {
                     name={`navigate to post titled ${post.title}`}
                   >
                     <img
-                      alt="game header image"
+                      alt="header game screenshot"
                       className="post-image"
                       loading="lazy"
                       src={require(`../../images/headers/small/${post.image}`)}

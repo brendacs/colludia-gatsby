@@ -4,7 +4,7 @@ import React from "react"
 import "./tag.scss"
 
 const Tag = ({ name, color }) => {
-  return <p class={`tag ${color}`}>{name}</p>
+  return <p className={`tag ${color}`}>{name}</p>
 }
 
 Tag.propTypes = {

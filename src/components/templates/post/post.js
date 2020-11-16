@@ -15,7 +15,7 @@ const PostTemplate = ({ data }) => {
         <header>
           <div className="post-page-image-container">
             <img
-              alt="post header image from game"
+              alt="post header screenshot from game"
               className="post-page-image"
               src={require(`../../../images/headers/${frontmatter.image}`)}
             />
@@ -143,6 +143,7 @@ const PostTemplate = ({ data }) => {
             <div className="triangle"></div>
           </div>
           <img
+            alt="custom youtube video thumbnail with game screenshot"
             className="post-video-iframe-image"
             src={require(`../../../images/headers/small/${frontmatter.image}`)}
           />

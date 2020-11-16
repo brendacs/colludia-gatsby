@@ -22,13 +22,13 @@ const FeaturedPost = ({ featuredPost, tooltip }) => (
         <h3 className="featured-tagline">{featuredPost.tagline}</h3>
       </div>
       <img
-        alt="game header image"
+        alt="header game screenshot"
         className="featured-image"
         src={require(`../../../images/headers/${featuredPost.image}`)}
       />
       {featuredPost.type !== "spotlight" && (
         <img
-          alt="game header image"
+          alt="header game screenshot"
           className="featured-image-side"
           src={require(`../../../images/headers/${featuredPost.image}`)}
         />
