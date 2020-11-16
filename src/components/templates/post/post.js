@@ -24,7 +24,7 @@ const PostTemplate = ({ data }) => {
         <div className="article-wrapper">
           <div className="share-buttons vertical">
             <a
-              href="https://twitter.com/intent/tweet?text=Check%20out%20this%20article%20on%20%40Colludia%21&url=https://colludia.com{{ page.url }}"
+              href={`https://twitter.com/intent/tweet?text=Check%20out%20this%20article%20on%20%40Colludia%21&url=https://colludia.com${frontmatter.slug}`}
               name="share on twitter"
             >
               <img
@@ -123,7 +123,7 @@ const PostTemplate = ({ data }) => {
               <a href="https://patreon.com/colludia">Patreon</a> or buying us a
               coffee on <a href="https://ko-fi.com/colludia">Ko-fi</a>. To
               sponsor or advertise with us, visit{" "}
-              <a href="{{site.baseurl}}/advertise">Advertise</a>.
+              <a href="/advertise">Advertise</a>.
             </p>
             <div id="disqus_thread"></div>
           </div>
@@ -131,7 +131,7 @@ const PostTemplate = ({ data }) => {
       </section>
       <input
         type="text"
-        value="https://colludia.com{{ page.url }}"
+        value={`https://colludia.com${frontmatter.slug}`}
         className="share-link-text invisible-input"
         autoCorrect="off"
         spellCheck="false"

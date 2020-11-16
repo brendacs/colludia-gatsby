@@ -50,7 +50,7 @@ const AuthorTemplate = ({ data }) => {
       <h2 className="subheading">About the Author</h2>
       <hr className="line-break" />
       <div className="author-email">
-        <a href="mailto:{{ page.email }}" className="animated-link">
+        <a href={`mailto:${frontmatter.email}`} className="animated-link">
           {frontmatter.email}
         </a>
       </div>
