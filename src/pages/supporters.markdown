@@ -19,6 +19,7 @@ It means the world to us, and we're glad you enjoy our content and our website. 
 
 - Jo
 - [Hokori ★](https://twitter.com/TheMiniBunnies)
+- Diego Adrada
 
 ### ...and Everyone Else!
 
