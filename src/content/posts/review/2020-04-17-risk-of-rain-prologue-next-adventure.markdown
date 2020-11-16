@@ -1,22 +1,32 @@
 ---
-pageType:     post
-game:         riskofrain
-slug:         /risk-of-rain-prologue-next-adventure/
-tabTitle:     "Risk of Rain: A Prologue to My Next Adventure"
-title:        "<em class='game-title'>Risk of Rain</em>: A Prologue to My Next Adventure"
-postType:     ["#tbt", review]
-desc:         "Risk of Rain review: It's hard to put this game down after one run. When you amass a huge collection of items and acquire ice, spikes, missiles, lasers, and have unlimited health at your disposal, it'll be so fun that you'll never want to teleport to the final boss as you stay alive longer and longer to see just how powerful your character can become."
-tagline:      "\"It's hard to put this game down after one run. When you amass a huge collection of items and acquire ice, spikes, missiles, lasers, and have unlimited health at your disposal, it'll be so fun that you'll never want to teleport to the final boss as you stay alive longer and longer to see just how powerful your character can become.\""
-date:         2020-04-17
-releaseDate:  2013-11-08
-image:        RiskOfRain.png
-video:        https://www.youtube.com/embed/Cia3haHicFU
-author:       Brenda Zhang
-authorUrl:    brenda
-categories:   [action, platformer, "not story", review]
-tags:         [risk of rain, "hopoo games", platformer, action, roguelike, 2D, pixel graphics]
+pageType: post
+game: riskofrain
+slug: /risk-of-rain-prologue-next-adventure/
+tabTitle: "Risk of Rain: A Prologue to My Next Adventure"
+title: "<em class='game-title'>Risk of Rain</em>: A Prologue to My Next Adventure"
+postType: ["#tbt", review]
+desc: "Risk of Rain review: It's hard to put this game down after one run. When you amass a huge collection of items and acquire ice, spikes, missiles, lasers, and have unlimited health at your disposal, it'll be so fun that you'll never want to teleport to the final boss as you stay alive longer and longer to see just how powerful your character can become."
+tagline: '"It''s hard to put this game down after one run. When you amass a huge collection of items and acquire ice, spikes, missiles, lasers, and have unlimited health at your disposal, it''ll be so fun that you''ll never want to teleport to the final boss as you stay alive longer and longer to see just how powerful your character can become."'
+date: 2020-04-17
+releaseDate: 2013-11-08
+image: RiskOfRain.png
+video: https://www.youtube.com/embed/Cia3haHicFU
+author: Brenda Zhang
+authorUrl: brenda
+categories: [action, platformer, "not story", review]
+tags:
+  [
+    risk of rain,
+    "hopoo games",
+    platformer,
+    action,
+    roguelike,
+    2D,
+    pixel graphics,
+  ]
 ---
-With *[Risk of Rain 2](http://hopoogames.com/)* coming out fairly recently, and my personal purchase of it on the Switch just a few weeks ago, I thought it'd be fitting to review the original *[Risk of Rain](https://store.steampowered.com/app/248820/Risk_of_Rain/)*, released in 2013, which is revisited in my Steam library plenty and still my favorite action platformer to this day. I remember spending long nights on the couch with friends screaming in agony about permanent deaths that meant all our work went to waste, only to come back in the next run and relish in the power of our characters.
+
+With _[Risk of Rain 2](http://hopoogames.com/)_ coming out fairly recently, and my personal purchase of it on the Switch just a few weeks ago, I thought it'd be fitting to review the original _[Risk of Rain](https://store.steampowered.com/app/248820/Risk_of_Rain/)_, released in 2013, which is revisited in my Steam library plenty and still my favorite action platformer to this day. I remember spending long nights on the couch with friends screaming in agony about permanent deaths that meant all our work went to waste, only to come back in the next run and relish in the power of our characters.
 
 After every run, we each began again with a different character—my favorite has always been the extremely mobile Huntress. We were unable to pull ourselves from the chaos of another challenging fight as we hung from ropes and threw meteors at hoards of monsters nipping at our feet. The insanity brought our characters pain and made us sweat, but clearing it all out and getting to the next teleporter boosted our egos, allowing us to think that maybe we won't die in the next area despite the difficulty increasing at every turn.
 
@@ -26,7 +36,7 @@ After every run, we each began again with a different character—my favorite ha
 
 ## To the Teleporter! ...Where Is It?
 
-In *Risk of Rain*, you land in a mysterious planet equipped only with a set of powers specific to your character, all with varying levels of strength and cooldown times. Your main objective in each region of the planet is to find the teleporter, which is randomly placed on the maps in each run. But there's a catch: In order to use it, you'll have to clear out the hoards of monsters that come with activating the teleporter—sometimes, this includes multiple bosses all at once, not to mention dozens upon dozens of the tougher "elite" monsters that'll whittle down your health bar in a few quick blows. While all that is happening, the difficulty meter in the top right corner constantly rises, so the longer you take to find the teleporter and defeat the monsters, the more difficult each consecutive fight will be.
+In _Risk of Rain_, you land in a mysterious planet equipped only with a set of powers specific to your character, all with varying levels of strength and cooldown times. Your main objective in each region of the planet is to find the teleporter, which is randomly placed on the maps in each run. But there's a catch: In order to use it, you'll have to clear out the hoards of monsters that come with activating the teleporter—sometimes, this includes multiple bosses all at once, not to mention dozens upon dozens of the tougher "elite" monsters that'll whittle down your health bar in a few quick blows. While all that is happening, the difficulty meter in the top right corner constantly rises, so the longer you take to find the teleporter and defeat the monsters, the more difficult each consecutive fight will be.
 
 ![Risk of Rain teleport and monsters][image1]
 
@@ -46,7 +56,7 @@ Notably, when you get multiples of the same item, unlike in other games, they do
 
 ## Risk of Addiction
 
-It's hard to put this game down after one run. When you amass a huge collection of items and acquire ice, spikes, missiles, lasers, and have unlimited health at your disposal, it'll be so fun that you'll never want to teleport to the final boss as you stay alive longer and longer to see just how powerful your character can become. At the end of those runs, you defeat the final boss and leave the strange planet, only to come right back for more to see what other possibilities await. Every run will be unique as you decide on different builds through the items you pick up, but each one leaves you just as at risk of addiction as the last. I would love to see the *Risk of Rain* world in more depth, so I'll no doubt play *Risk of Rain 2* soon to add another dimension to my view of the mysterious planet. And don't worry—you'll definitely hear about it.
+It's hard to put this game down after one run. When you amass a huge collection of items and acquire ice, spikes, missiles, lasers, and have unlimited health at your disposal, it'll be so fun that you'll never want to teleport to the final boss as you stay alive longer and longer to see just how powerful your character can become. At the end of those runs, you defeat the final boss and leave the strange planet, only to come right back for more to see what other possibilities await. Every run will be unique as you decide on different builds through the items you pick up, but each one leaves you just as at risk of addiction as the last. I would love to see the _Risk of Rain_ world in more depth, so I'll no doubt play _Risk of Rain 2_ soon to add another dimension to my view of the mysterious planet. And don't worry—you'll definitely hear about it.
 
 ![Risk of Rain 2][image3]
 

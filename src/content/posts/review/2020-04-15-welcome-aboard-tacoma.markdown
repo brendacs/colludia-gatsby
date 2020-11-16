@@ -1,30 +1,31 @@
 ---
-pageType:     post
-game:         tacoma
-slug:         /welcome-aboard-tacoma/
-tabTitle:     Welcome Aboard Tacoma
-title:        Welcome Aboard <em class='game-title'>Tacoma</em>
-postType:     ["#tbt", review]
-desc:         "Tacoma review: Tacoma is a brilliant work of art that really shows what immersive multi-modal storytelling can do."
-tagline:      "\"Tacoma is a brilliant work of art that really shows what immersive multi-modal storytelling can do.\""
-date:         2020-04-15
-releaseDate:  2017-08-02
-image:        tacoma.png
-video:        https://www.youtube.com/embed/7QrjsQaKG3c
-author:       Emily Tang
-authorUrl:    emily
-categories:   ["walking sim", review, story]
-tags:         [tacoma, "sci fi", "narrative driven", exploration, fullbright]
+pageType: post
+game: tacoma
+slug: /welcome-aboard-tacoma/
+tabTitle: Welcome Aboard Tacoma
+title: Welcome Aboard <em class='game-title'>Tacoma</em>
+postType: ["#tbt", review]
+desc: "Tacoma review: Tacoma is a brilliant work of art that really shows what immersive multi-modal storytelling can do."
+tagline: '"Tacoma is a brilliant work of art that really shows what immersive multi-modal storytelling can do."'
+date: 2020-04-15
+releaseDate: 2017-08-02
+image: tacoma.png
+video: https://www.youtube.com/embed/7QrjsQaKG3c
+author: Emily Tang
+authorUrl: emily
+categories: ["walking sim", review, story]
+tags: [tacoma, "sci fi", "narrative driven", exploration, fullbright]
 ---
-Amitjyoti “Amy” Ferrier, the protagonist, is an agent sent by the company Venturis Corporation to board an orbital station, called *[Tacoma](https://tacoma.game/)*, which connects to a resort on the moon. Now abandoned and in chaos, your job is to retrieve the station’s data, which contains the crew’s memories of their last days on board via augmented reality surveillance that captured every move and spoken word.
 
-If you couldn’t already tell, I love games that attempt to elicit empathy from the gamer, and rarely do I get a sci-fi story so steeped in character-driven narrative. *Tacoma* almost made me feel like I was intruding on someone’s diary—their intimate and most vulnerable memories opened up before me with just the touch of a button. I’m sure that’s what Amy would have felt too, as the agent accessing all the data.
+Amitjyoti “Amy” Ferrier, the protagonist, is an agent sent by the company Venturis Corporation to board an orbital station, called _[Tacoma](https://tacoma.game/)_, which connects to a resort on the moon. Now abandoned and in chaos, your job is to retrieve the station’s data, which contains the crew’s memories of their last days on board via augmented reality surveillance that captured every move and spoken word.
+
+If you couldn’t already tell, I love games that attempt to elicit empathy from the gamer, and rarely do I get a sci-fi story so steeped in character-driven narrative. _Tacoma_ almost made me feel like I was intruding on someone’s diary—their intimate and most vulnerable memories opened up before me with just the touch of a button. I’m sure that’s what Amy would have felt too, as the agent accessing all the data.
 
 ![Meet Amy.][image0]
 
 <figcaption>Meet Amy, Venturis Corporation agent.</figcaption>
 
-Are you ready to board *Tacoma*? Buckle up, because memory lane is sometimes an ugly beast to ride.
+Are you ready to board _Tacoma_? Buckle up, because memory lane is sometimes an ugly beast to ride.
 
 ## Meet the Crew
 
@@ -54,15 +55,15 @@ And the best part was that everything typed or voiced was written realistically.
 
 ## Back to Reality
 
-At its core, *Tacoma* is a game about relationships. Not just romantic relationships, but all the ones that come with the act of existing. Friends, families, lovers—this game has it all, and it wrapped me up in complexities that stayed with me for a long time. Human compassion is amazing in the wake of a crisis, and sometimes it takes something terrible to strengthen bonds. However, by no means do I believe terrible things need to happen for these things to occur, just that we’re at the world’s mercy—and each other’s. *Tacoma* does an awesome job of reminding us of not only the bad times, but also of the good moments that come in between the chaos.
+At its core, _Tacoma_ is a game about relationships. Not just romantic relationships, but all the ones that come with the act of existing. Friends, families, lovers—this game has it all, and it wrapped me up in complexities that stayed with me for a long time. Human compassion is amazing in the wake of a crisis, and sometimes it takes something terrible to strengthen bonds. However, by no means do I believe terrible things need to happen for these things to occur, just that we’re at the world’s mercy—and each other’s. _Tacoma_ does an awesome job of reminding us of not only the bad times, but also of the good moments that come in between the chaos.
 
 ![Nothing beats celebrating Obsolescence Day with the fam.][image3]
 
 <figcaption>Nothing beats celebrating Obsolescence Day with the fam.</figcaption>
 
-With that being said, here’s where Fullbright pulled out textbook narrative design: Everything that related to a character was shown in the space that they occupied. Books that the characters would read indicated what kind of person they were based on the titles, or the conversations and files stored away in their desktops would let me know who they were before *Tacoma*. Everything has its place in the game, and it’s all to make you get attached and hope they’re all okay. And, to be honest, it worked on me.
+With that being said, here’s where Fullbright pulled out textbook narrative design: Everything that related to a character was shown in the space that they occupied. Books that the characters would read indicated what kind of person they were based on the titles, or the conversations and files stored away in their desktops would let me know who they were before _Tacoma_. Everything has its place in the game, and it’s all to make you get attached and hope they’re all okay. And, to be honest, it worked on me.
 
-Fullbright also made sure not to be obnoxious when pointing to the next part of the narrative. They gave me ample space to explore and left enough hints to piece together the ending for myself before the game’s conclusion could show itself to me. *Tacoma* is a brilliant work of art by [Fullbright](https://fullbrig.ht/) that really shows what immersive multi-modal storytelling can do.
+Fullbright also made sure not to be obnoxious when pointing to the next part of the narrative. They gave me ample space to explore and left enough hints to piece together the ending for myself before the game’s conclusion could show itself to me. _Tacoma_ is a brilliant work of art by [Fullbright](https://fullbrig.ht/) that really shows what immersive multi-modal storytelling can do.
 
 [image0]: ../../../images/post/tacoma/tacoma0.png
 [image1]: ../../../images/post/tacoma/tacoma1.png

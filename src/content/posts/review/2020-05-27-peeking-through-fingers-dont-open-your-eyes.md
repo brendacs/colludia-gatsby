@@ -1,23 +1,24 @@
 ---
-pageType:     post
-game:         dontopenyoureyes
-slug:         /peeking-through-fingers-dont-open-your-eyes/
-tabTitle:     "Peeking Through Fingers in (Don't) Open Your Eyes"
-title:        "Peeking Through Fingers in <em class='game-title'>(Don't) Open Your Eyes</em>"
-postType:     [review]
-desc:         "Don't Open Your Eyes review: When I hear about horror visual novels, I am skeptical. It's easy to throw in jump scares and jolting noises to scare the player. However, Via took care in building player immersion for high quality tension."
-tagline:      "\"When I hear about horror visual novels, I am skeptical. It's easy to throw in jump scares and jolting noises to scare the player. However, Via took care in building player immersion for high quality tension.\""
-date:         2020-05-27
-releaseDate:  2019-03-29
-image:        DontOpenYourEyes.png
-author:       Devon Huge
-authorUrl:    devon
-categories:   [horror, "visual novel", review, story]
-tags:         ["Don't Open your Eyes", Via]
+pageType: post
+game: dontopenyoureyes
+slug: /peeking-through-fingers-dont-open-your-eyes/
+tabTitle: "Peeking Through Fingers in (Don't) Open Your Eyes"
+title: "Peeking Through Fingers in <em class='game-title'>(Don't) Open Your Eyes</em>"
+postType: [review]
+desc: "Don't Open Your Eyes review: When I hear about horror visual novels, I am skeptical. It's easy to throw in jump scares and jolting noises to scare the player. However, Via took care in building player immersion for high quality tension."
+tagline: '"When I hear about horror visual novels, I am skeptical. It''s easy to throw in jump scares and jolting noises to scare the player. However, Via took care in building player immersion for high quality tension."'
+date: 2020-05-27
+releaseDate: 2019-03-29
+image: DontOpenYourEyes.png
+author: Devon Huge
+authorUrl: devon
+categories: [horror, "visual novel", review, story]
+tags: ["Don't Open your Eyes", Via]
 ---
-Imagine a world where Build-A-Bear Workshop had a mobile delivery service. Now imagine if that service came to your bedside without you ever asking for it. I'm bad at constructing relevant metaphors, but Via’s [*(Don’t) Open Your Eyes*](https://via01.itch.io/dont-open-your-eyes) is exactly like that.
 
-*(Don’t) Open Your Eyes* is an atmospheric horror visual novel. It features a full, independent team. It was developed and written by [Daniel “Via” Cuturrufo](https://twitter.com/Lumino_Via). Carolina Cuturrufo created the monster design and general art, while [David Acosta](https://twitter.com/CardioPen) voiced the story’s feature demon. It was published in early 2019, but received an update last December.
+Imagine a world where Build-A-Bear Workshop had a mobile delivery service. Now imagine if that service came to your bedside without you ever asking for it. I'm bad at constructing relevant metaphors, but Via’s [_(Don’t) Open Your Eyes_](https://via01.itch.io/dont-open-your-eyes) is exactly like that.
+
+_(Don’t) Open Your Eyes_ is an atmospheric horror visual novel. It features a full, independent team. It was developed and written by [Daniel “Via” Cuturrufo](https://twitter.com/Lumino_Via). Carolina Cuturrufo created the monster design and general art, while [David Acosta](https://twitter.com/CardioPen) voiced the story’s feature demon. It was published in early 2019, but received an update last December.
 
 The game follows the main character whose home is invaded by a mysterious demon. It probes you, asking you to describe its appearance, and you slowly imagine the demon materializing in front of you. Every so often it’ll ask you to open your eyes. If you say yes, the experience ends and your character forgets anything ever happened. If you say no, you learn more and more about the demon in front of you, building your own horror as you answer its questions.
 

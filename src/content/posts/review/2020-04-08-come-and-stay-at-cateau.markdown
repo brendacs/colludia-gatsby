@@ -1,22 +1,23 @@
 ---
-pageType:     post
-game:         cateau
-slug:         /come-and-stay-at-cateau/
-tabTitle:     Come and Stay at Cateau
-title:        Come and Stay at <em class='game-title'>Cateau</em>
-postType:     [review]
-desc:         "Cateau review: The artwork, though simple, made the game stand out as much as its writing. The first picture I acquired of Gargantuan took my breath away."
-tagline:      "\"The artwork, though simple, made the game stand out as much as its writing. The first picture I acquired of Gargantuan took my breath away.\""
-date:         2020-04-08
-releaseDate:  2018-10-17
-image:        cateau.jpg
-video:        https://www.youtube.com/embed/E2dWf5PXlc0
-author:       Emily Tang
-authorUrl:    emily
-categories:   ["visual novel", review, story]
-tags:         [cateau, "lemon curd games", "choices matter"]
+pageType: post
+game: cateau
+slug: /come-and-stay-at-cateau/
+tabTitle: Come and Stay at Cateau
+title: Come and Stay at <em class='game-title'>Cateau</em>
+postType: [review]
+desc: "Cateau review: The artwork, though simple, made the game stand out as much as its writing. The first picture I acquired of Gargantuan took my breath away."
+tagline: '"The artwork, though simple, made the game stand out as much as its writing. The first picture I acquired of Gargantuan took my breath away."'
+date: 2020-04-08
+releaseDate: 2018-10-17
+image: cateau.jpg
+video: https://www.youtube.com/embed/E2dWf5PXlc0
+author: Emily Tang
+authorUrl: emily
+categories: ["visual novel", review, story]
+tags: [cateau, "lemon curd games", "choices matter"]
 ---
-During Steam’s visual novel sale a few weeks ago, where I scouted for all sorts of short games to play in between binging my FPS games, I was charmed by *[Cateau](https://www.lemoncurdgames.com/games-1)*. A short visual novel game made by [Lemon Curd Games](https://www.lemoncurdgames.com/), I was mostly enticed by the price tag—free. As someone who sinks way too much time into FPS games, I wanted something easy and stress-free.
+
+During Steam’s visual novel sale a few weeks ago, where I scouted for all sorts of short games to play in between binging my FPS games, I was charmed by _[Cateau](https://www.lemoncurdgames.com/games-1)_. A short visual novel game made by [Lemon Curd Games](https://www.lemoncurdgames.com/), I was mostly enticed by the price tag—free. As someone who sinks way too much time into FPS games, I wanted something easy and stress-free.
 
 I know I shouldn’t judge a book by its cover, but I just couldn’t stay away from the cat on the title card. Fortunately, I don't regret it one bit. Now let’s delve into what I love about this game!
 
@@ -24,11 +25,11 @@ I know I shouldn’t judge a book by its cover, but I just couldn’t stay away 
 
 ![My housemate Roselle.][image1]
 
-*Cateau* stars the player as the protagonist and Roselle’s housemate. Not much seems to be known about the protagonist, and it took more brainpower than I anticipated to deduce that I was playing a journalist who worked at night. The relationship between Roselle and the main character was just as hazy, but it's hinted that they were once close.
+_Cateau_ stars the player as the protagonist and Roselle’s housemate. Not much seems to be known about the protagonist, and it took more brainpower than I anticipated to deduce that I was playing a journalist who worked at night. The relationship between Roselle and the main character was just as hazy, but it's hinted that they were once close.
 
-From the get-go, Roselle looks exhausted, unhappy, and extremely busy. While her face does show annoyance, she isn’t anything but sweet. A likable character despite the negativity, I could see why she and the protagonist are close friends, and why the protagonist would like to help her get through this tough time. 
+From the get-go, Roselle looks exhausted, unhappy, and extremely busy. While her face does show annoyance, she isn’t anything but sweet. A likable character despite the negativity, I could see why she and the protagonist are close friends, and why the protagonist would like to help her get through this tough time.
 
-The thing about *Cateau*, I found, was that nothing needed to be specific in order to solve them. Though some would argue that a few details would help the story immensely, this game was meant to be relatable. Despite Roselle's problem being vaguely implied throughout the story until the end, I found myself identifying with Roselle’s mood, and perhaps this kind of empathy is what helps make the game accomplish what it set out to do—make connections through understanding.
+The thing about _Cateau_, I found, was that nothing needed to be specific in order to solve them. Though some would argue that a few details would help the story immensely, this game was meant to be relatable. Despite Roselle's problem being vaguely implied throughout the story until the end, I found myself identifying with Roselle’s mood, and perhaps this kind of empathy is what helps make the game accomplish what it set out to do—make connections through understanding.
 
 ## Welcome To Paris
 
@@ -56,9 +57,9 @@ With the game being bite-sized, Lemon Curd Games did an amazing job in making ev
 
 ## The Verdict
 
-All in all, *Cateau* was a short and sweet visual novel game. I was satisfied with the ending and all the choices I was able to make. The replay function that allowed me to rewind the scene to before my current choices was nice in a game that was only about an hour long. I didn't have to spend unnecessary time reloading game files since it was so short, nor did it take away from the story.
+All in all, _Cateau_ was a short and sweet visual novel game. I was satisfied with the ending and all the choices I was able to make. The replay function that allowed me to rewind the scene to before my current choices was nice in a game that was only about an hour long. I didn't have to spend unnecessary time reloading game files since it was so short, nor did it take away from the story.
 
-The artwork, though simple, made the game stand out as much as its writing. The first picture I acquired of Gargantuan took my breath away. It’s probably my favorite picture in the entire game, and the ending was sweet and cheerful. Not only is *Cateau* worth your money (read: it's free), it is definitely worth an hour of your time.
+The artwork, though simple, made the game stand out as much as its writing. The first picture I acquired of Gargantuan took my breath away. It’s probably my favorite picture in the entire game, and the ending was sweet and cheerful. Not only is _Cateau_ worth your money (read: it's free), it is definitely worth an hour of your time.
 
 ![Gargantuan, ruler of the streets, and my heart.][image4]
 

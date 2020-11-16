@@ -1,26 +1,36 @@
 ---
-pageType:     post
-game:         moonlighter
-slug:         /broom-to-roomba-moonlighter/
-tabTitle:     From Broom to Roomba in Moonlighter
-title:        From Broom to Roomba in <em class='game-title'>Moonlighter</em>
-postType:     [review]
-desc:         "Moonlighter review: From broom-wielder to Roomba-owner, you'll no doubt have fun fighting and selling your way to victory, glory, and wealth while revitalizing the town of Rynoka—and the world—as the humble shopkeeper Will."
-tagline:      "\"From broom-wielder to Roomba-owner, you'll no doubt have fun fighting and selling your way to victory, glory, and wealth while revitalizing the town of Rynoka—and the world—as the humble shopkeeper Will.\""
-date:         2020-04-05
-releaseDate:  2018-05-29
-image:        Moonlighter.jpg
-video:        https://www.youtube.com/embed/Hp7tNAH9Ox0
-author:       Brenda Zhang
-authorUrl:    brenda
-categories:   [action, adventure, rpg, roguelike, "not story", review]
-tags:         [moonlighter, "digital sun", rogue-lite, "dungeon crawler", 2D, pixel graphics, economy]
+pageType: post
+game: moonlighter
+slug: /broom-to-roomba-moonlighter/
+tabTitle: From Broom to Roomba in Moonlighter
+title: From Broom to Roomba in <em class='game-title'>Moonlighter</em>
+postType: [review]
+desc: "Moonlighter review: From broom-wielder to Roomba-owner, you'll no doubt have fun fighting and selling your way to victory, glory, and wealth while revitalizing the town of Rynoka—and the world—as the humble shopkeeper Will."
+tagline: '"From broom-wielder to Roomba-owner, you''ll no doubt have fun fighting and selling your way to victory, glory, and wealth while revitalizing the town of Rynoka—and the world—as the humble shopkeeper Will."'
+date: 2020-04-05
+releaseDate: 2018-05-29
+image: Moonlighter.jpg
+video: https://www.youtube.com/embed/Hp7tNAH9Ox0
+author: Brenda Zhang
+authorUrl: brenda
+categories: [action, adventure, rpg, roguelike, "not story", review]
+tags:
+  [
+    moonlighter,
+    "digital sun",
+    rogue-lite,
+    "dungeon crawler",
+    2D,
+    pixel graphics,
+    economy,
+  ]
 ---
-We all have our day jobs, but some also live with ambitious dreams of what could be. In *[Moonlighter](http://www.moonlighterthegame.com/)* the protagonist, a shopkeeper named Will, does more than just dream about his goals. In order to discover the secrets of the small town of Rynoka, he makes a living in his family's shop—The Moonlighter—by day and explores the dungeons by night, aiming to unlock the fifth and most dangerous one at the end of it all. His reckless bravery and desire to venture out no matter the circumstances lead him to end up facedown with a broom in hand, his only weapon at the beginning of his journey.
 
-## *Stardew Valley*... as an Action Game
+We all have our day jobs, but some also live with ambitious dreams of what could be. In _[Moonlighter](http://www.moonlighterthegame.com/)_ the protagonist, a shopkeeper named Will, does more than just dream about his goals. In order to discover the secrets of the small town of Rynoka, he makes a living in his family's shop—The Moonlighter—by day and explores the dungeons by night, aiming to unlock the fifth and most dangerous one at the end of it all. His reckless bravery and desire to venture out no matter the circumstances lead him to end up facedown with a broom in hand, his only weapon at the beginning of his journey.
 
-*Moonlighter* is an action-oriented alternate reality of *[Stardew Valley](https://www.stardewvalley.net/)*. Whereas on the farm, I grew crops, socialized with townspeople, and only spent a minor portion of my day in the mines, in Rynoka, I spent all night in the dungeons, only spending a bit of time in the day in the shop selling the wares I gathered by defeating dozens upon dozens of monsters the night before.
+## _Stardew Valley_... as an Action Game
+
+_Moonlighter_ is an action-oriented alternate reality of _[Stardew Valley](https://www.stardewvalley.net/)_. Whereas on the farm, I grew crops, socialized with townspeople, and only spent a minor portion of my day in the mines, in Rynoka, I spent all night in the dungeons, only spending a bit of time in the day in the shop selling the wares I gathered by defeating dozens upon dozens of monsters the night before.
 
 There is plenty to keep Will busy outside of his work, with four dungeons of different environments to progress through before gaining all the keys needed to unlock the fifth, most mysterious one. Each dungeon will house either Golem, Forest, Desert, or Tech, complete with their own set of enemies and bosses, and gradually increasing in difficulty.
 
@@ -50,7 +60,7 @@ In terms of weapons, there are two types: regular and elemental. The latter trad
 
 ## Personal Finance and Investment
 
-No, you're not on a finance site. You're still reading about *Moonlighter*, but this is seriously an important part of the game. A big selling point of this game is... well, the selling. Though Will dungeon-dives at night, he sells materials gained from monsters and bosses to appreciative townsfolk during the day. You'll spend a good portion of time in the store restocking items and figuring out the sweet spot for prices that suit the customers' demands. The Rynoka economy uses some basic economics here—if you give too much supply, the demand and price will go down. If you make the item appear more rare by hardly restocking it, the demand will go up and so will the price.
+No, you're not on a finance site. You're still reading about _Moonlighter_, but this is seriously an important part of the game. A big selling point of this game is... well, the selling. Though Will dungeon-dives at night, he sells materials gained from monsters and bosses to appreciative townsfolk during the day. You'll spend a good portion of time in the store restocking items and figuring out the sweet spot for prices that suit the customers' demands. The Rynoka economy uses some basic economics here—if you give too much supply, the demand and price will go down. If you make the item appear more rare by hardly restocking it, the demand will go up and so will the price.
 
 As time goes on and your store gets more popular, you'll have more trouble to deal with in the form of customers asking questions, or thieves and creatures getting into your store. These become mere nuisances that you might wish weren't there, but I personally found them charming, making the shop more realistic and less monotonous—I mean, imagine standing at the register all day pressing one button.
 
@@ -82,9 +92,9 @@ This portion of the game definitely had more potential, but there was at least e
 
 As you'll come to learn, I'm a sucker for pixel art, and the art and effects in this game were exactly my cup of tea—or my poison, considering how much of my attention games like this end up taking. When I found this gem browsing Steam, I watched Will roll around through dungeons, saw his cute little shop, and knew I couldn't resist. Once I started, I was a goner for weeks.
 
-The pull to open the next dungeon and see what new environments awaited me kept me glued to the game. I wondered how the next dungeon's theme, hinted at by its external facade and its name would affect the next wave of monsters and the dungeon's final boss. I wanted to see how much I could get away with selling the dungeon items for and what the next shop upgrade would look like. [Digital Sun](http://www.digitalsungames.com/)'s *Moonlighter* is one of the most simple and explicitly linear action RPGs I've played that wasn't a mobile game, yet packed with content that kept me saying "*just one more night, and I'll get off"* (I didn't).
+The pull to open the next dungeon and see what new environments awaited me kept me glued to the game. I wondered how the next dungeon's theme, hinted at by its external facade and its name would affect the next wave of monsters and the dungeon's final boss. I wanted to see how much I could get away with selling the dungeon items for and what the next shop upgrade would look like. [Digital Sun](http://www.digitalsungames.com/)'s _Moonlighter_ is one of the most simple and explicitly linear action RPGs I've played that wasn't a mobile game, yet packed with content that kept me saying "_just one more night, and I'll get off"_ (I didn't).
 
-Whether it's the fact that you start with a broom, or that you eventually get to have a little Roomba to kick around, it's the little things that really make game worlds like *Moonlighter* as exciting and amusing as they are. Seeing Will progress from broom-wielding ambitious shopkeeper to sword-wielding hero (who is probably a multi-millionaire) is a clear reflection of not only all the adventures you've been on, but also of Will and The Moonlighter's growth. From broom-wielder to Roomba-owner, you'll no doubt have fun fighting and selling your way to victory, glory, and wealth while revitalizing the town of Rynoka—and the world—as the humble shopkeeper Will.
+Whether it's the fact that you start with a broom, or that you eventually get to have a little Roomba to kick around, it's the little things that really make game worlds like _Moonlighter_ as exciting and amusing as they are. Seeing Will progress from broom-wielding ambitious shopkeeper to sword-wielding hero (who is probably a multi-millionaire) is a clear reflection of not only all the adventures you've been on, but also of Will and The Moonlighter's growth. From broom-wielder to Roomba-owner, you'll no doubt have fun fighting and selling your way to victory, glory, and wealth while revitalizing the town of Rynoka—and the world—as the humble shopkeeper Will.
 
 [image0]: ../../../images/post/moonlighter/Moonlighter0.png
 [image1]: ../../../images/post/moonlighter/Moonlighter1.png

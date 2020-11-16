@@ -1,20 +1,39 @@
 ---
-pageType:     post
-slug:         /7-beautiful-relaxing-indie-games-coming-2020/
-tabTitle:     7 Beautiful, Relaxing Indie Games Coming in 2020
-title:        7 Beautiful, Relaxing Indie Games Coming in 2020
-postType:     ["our picks"]
-desc:         "If I get to wish upon a star tonight in Animal Crossing, I'll wish for these games to come out sooner."
-tagline:      "\"If I get to wish upon a star tonight in Animal Crossing, I'll wish for these games to come out sooner.\""
-date:         2020-05-11
-releaseDate:  
-image:        7BeautifulIndieGames.jpg
-video:        https://www.youtube.com/embed/yPcw2DnWNz8
-author:       Brenda Zhang
-authorUrl:    brenda
-categories:   [adventure, rpg, simulation, "our picks", story]
-tags:         [Spiritfarer, "Thunder Lotus", Sable, Shedworks, "Garden Story", Picogram, "Mineko's Night Market", "Meowza Games", Ooblets, Glumberland, Eastward, Pixpil, Chicory, "Greg Lobanov", "beautiful indie games", "pixel art"]
+pageType: post
+slug: /7-beautiful-relaxing-indie-games-coming-2020/
+tabTitle: 7 Beautiful, Relaxing Indie Games Coming in 2020
+title: 7 Beautiful, Relaxing Indie Games Coming in 2020
+postType: ["our picks"]
+desc: "If I get to wish upon a star tonight in Animal Crossing, I'll wish for these games to come out sooner."
+tagline: '"If I get to wish upon a star tonight in Animal Crossing, I''ll wish for these games to come out sooner."'
+date: 2020-05-11
+releaseDate:
+image: 7BeautifulIndieGames.jpg
+video: https://www.youtube.com/embed/yPcw2DnWNz8
+author: Brenda Zhang
+authorUrl: brenda
+categories: [adventure, rpg, simulation, "our picks", story]
+tags:
+  [
+    Spiritfarer,
+    "Thunder Lotus",
+    Sable,
+    Shedworks,
+    "Garden Story",
+    Picogram,
+    "Mineko's Night Market",
+    "Meowza Games",
+    Ooblets,
+    Glumberland,
+    Eastward,
+    Pixpil,
+    Chicory,
+    "Greg Lobanov",
+    "beautiful indie games",
+    "pixel art",
+  ]
 ---
+
 What makes a good game?
 
 For me, the art and the soundtrack has always been among my top priorities when looking at titles, and with the smaller budget, high ambitions, and distinct style of indie developers and studios, the most innovative and unique ideas and stories come to fruition in the form of beautiful games with awe-inspiring art, soundtracks that make you smile (or cry) years later, and characters that become permanent residents in your heart. I also most enjoy games that allow me a relaxing escape into a unique and colorful world.
@@ -25,7 +44,7 @@ There are too many good indie games to list set to come out (crossing my fingers
 
 > Spiritfarer is a cozy management game about dying. As ferrymaster to the deceased, build a boat to explore the world, care for your spirit friends, and guide them across mystical seas to finally release them into the afterlife. What will you leave behind?
 
-Looking at the trailers and gameplay for *[Spritfarer](https://store.steampowered.com/app/972660/Spiritfarer/)*, by [Thunder Lotus Games](https://thunderlotusgames.com/), my heart already felt warm. From the music-making frog uncle to the comforting hugs to the beautiful sunsets on the boat, every scene looked like it could make me cry or otherwise laugh bittersweetly. And with so much to do, whether building, exploring, or helping your spirit friends and crying over each goodbye, it's safe to assume every minute of gameplay will be filled with something new to discover (and feel).
+Looking at the trailers and gameplay for _[Spritfarer](https://store.steampowered.com/app/972660/Spiritfarer/)_, by [Thunder Lotus Games](https://thunderlotusgames.com/), my heart already felt warm. From the music-making frog uncle to the comforting hugs to the beautiful sunsets on the boat, every scene looked like it could make me cry or otherwise laugh bittersweetly. And with so much to do, whether building, exploring, or helping your spirit friends and crying over each goodbye, it's safe to assume every minute of gameplay will be filled with something new to discover (and feel).
 
 <iframe loading="lazy" src="https://www.youtube.com/embed/6mfdampW-EQ?modestbranding=1" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -33,7 +52,7 @@ Looking at the trailers and gameplay for *[Spritfarer](https://store.steampowere
 
 > Sable is a coming-of-age tale of discovery through exploration across a strikingly rendered open world desert. Go on a deeply personal journey across an alien planet while learning its history and discovering Sable’s place in the world.
 
-Interesting tidbit: the small team of [Shedworks](https://www.shed-works.co.uk/) working on this game... works in a shed. There's not too much information about *[Sable](https://store.steampowered.com/app/757310/Sable/)* from the developers in the shed just yet, but from looking at the reveal trailers, it's obvious that both the art and animation are highly stylized. The game revolves around the story the developers want to tell about Sable who is leaving her clan and discovering the world—the open world. Nothing makes me more excited than stumbling (or hoverbiking) around a beautifully illustrated open world, discovering more about the land and the protagonist, but a world inspired by Moebius, Tintin, and Studio Ghibli? And that *song* from the reveal? I'm on the edge of my seat waiting for this one.
+Interesting tidbit: the small team of [Shedworks](https://www.shed-works.co.uk/) working on this game... works in a shed. There's not too much information about _[Sable](https://store.steampowered.com/app/757310/Sable/)_ from the developers in the shed just yet, but from looking at the reveal trailers, it's obvious that both the art and animation are highly stylized. The game revolves around the story the developers want to tell about Sable who is leaving her clan and discovering the world—the open world. Nothing makes me more excited than stumbling (or hoverbiking) around a beautifully illustrated open world, discovering more about the land and the protagonist, but a world inspired by Moebius, Tintin, and Studio Ghibli? And that _song_ from the reveal? I'm on the edge of my seat waiting for this one.
 
 <iframe loading="lazy" src="https://www.youtube.com/embed/-MoweRc-P0U" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -41,7 +60,7 @@ Interesting tidbit: the small team of [Shedworks](https://www.shed-works.co.uk/)
 
 > As the newly appointed village guardian, explore ways to help those around you. Garden Story is a Social Simulator/Adventure RPG that emphasizes helping the community. Traverse a broken island, protect its inhabitants, and solve mysteries while making friends with a fruity cast of characters.
 
-Ok, this one isn't as objectively beautiful as it is extremely cute, but I had to include *[Garden Story](https://store.steampowered.com/app/1062140/Garden_Story/)* because I'm really looking forward to playing the full game after playing the [demo](https://store.steampowered.com/app/1182550/Garden_Story_Autumn_Town_Demo/) which is available on Steam. As you may know by now, I'm a huge sucker for pixel art (who isn't), so I instantly fell in love with the little characters and the pixel town in its autumn galore. This game by [Picogram](https://www.picogram.co/) feels like another relaxing sim—Stardew Valley combined with Animal Crossing—but with the addition of more RPG and adventure elements than there are in either of those two games.
+Ok, this one isn't as objectively beautiful as it is extremely cute, but I had to include _[Garden Story](https://store.steampowered.com/app/1062140/Garden_Story/)_ because I'm really looking forward to playing the full game after playing the [demo](https://store.steampowered.com/app/1182550/Garden_Story_Autumn_Town_Demo/) which is available on Steam. As you may know by now, I'm a huge sucker for pixel art (who isn't), so I instantly fell in love with the little characters and the pixel town in its autumn galore. This game by [Picogram](https://www.picogram.co/) feels like another relaxing sim—Stardew Valley combined with Animal Crossing—but with the addition of more RPG and adventure elements than there are in either of those two games.
 
 <iframe loading="lazy" src="https://www.youtube.com/embed/kzKhvVMxVP0" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

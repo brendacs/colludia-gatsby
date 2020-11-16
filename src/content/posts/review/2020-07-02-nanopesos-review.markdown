@@ -1,21 +1,23 @@
 ---
-pageType:     post
-game:         nanopesos
-slug:         /nanopesos-review/
-tabTitle:     "Understanding Minimum Wage Living through Nanopesos, Budget Management Game"
-title:        "Understanding Minimum Wage Living through <em class='game-title'>Nanopesos</em>"
-postType:     [review]
-desc:         "Nanopesos review: This budget management game is short, but makes players feel the tight squeeze and dire consequences of a low minimum wage and lack of support. It is no doubt worth a play—and a discussion."
-tagline:      "\"This budget management game is short, but makes players feel the tight squeeze and dire consequences of a low minimum wage and lack of support. It is no doubt worth a play—and a discussion.\""
-date:         2020-07-02
-releaseDate:  2019-11-05
-image:        Nanopesos.png
-video:        
-author:       Brenda Zhang
-authorUrl:    brenda
-categories:   [management, review, story]
-tags:         ["Nanopesos", "Camila Gormaz", "minimum wage", "Chile", "budget", "pixel art"]
+pageType: post
+game: nanopesos
+slug: /nanopesos-review/
+tabTitle: "Understanding Minimum Wage Living through Nanopesos, Budget Management Game"
+title: "Understanding Minimum Wage Living through <em class='game-title'>Nanopesos</em>"
+postType: [review]
+desc: "Nanopesos review: This budget management game is short, but makes players feel the tight squeeze and dire consequences of a low minimum wage and lack of support. It is no doubt worth a play—and a discussion."
+tagline: '"This budget management game is short, but makes players feel the tight squeeze and dire consequences of a low minimum wage and lack of support. It is no doubt worth a play—and a discussion."'
+date: 2020-07-02
+releaseDate: 2019-11-05
+image: Nanopesos.png
+video:
+author: Brenda Zhang
+authorUrl: brenda
+categories: [management, review, story]
+tags:
+  ["Nanopesos", "Camila Gormaz", "minimum wage", "Chile", "budget", "pixel art"]
 ---
+
 [Nanopesos](https://laburatory.itch.io/nanopesos) is a simple and short budget management game taking place in a small cube of space consisting of only a few hundred pixels. Though it took only 15 minutes to play through once, I was immersed in each second and came to thoroughly understand the message that the developer [Camila Gormaz](https://twitter.com/Burasto) wanted to convey: it's very hard to live on minimum wage when trying to keep up with high living costs. Every action in life takes thorough thought about the amount of dollars and cents that would be required and almost all activities take a backseat to affording rent and and paying bills.
 
 ![Nanopesos small studio apartment with high rent][image0]
@@ -44,7 +46,7 @@ In most scenes, you are given choices about whether to spend, spend less, or not
 
 **Warning: ending outcome spoilers in this section. To skip, scroll ahead to the next section.**
 
-Though there is an option to choose between living on minimum wage ($301 USD) versus living on $400 USD, saving money to have enough rent for the end of the month was still a tight squeeze either way. The second time through, I played in the $400 USD mode, skipped almost all social events and made sacrifices in food, transportation, and overtime. Yet, I still ended the game with only 40% health and my savings in the negatives after rent, requiring me to take a loan on top of my student loans.
+Though there is an option to choose between living on minimum wage ($301 USD) versus living on $400 USD, saving money to have enough rent for the end of the month was still a tight squeeze either way. The second time through, I played in the \$400 USD mode, skipped almost all social events and made sacrifices in food, transportation, and overtime. Yet, I still ended the game with only 40% health and my savings in the negatives after rent, requiring me to take a loan on top of my student loans.
 
 The third time, I skipped every single social event completely, went to work in dripping clothes to avoid spending at the laundromat, got to work late to avoid paying for a cab, and accepted money from my poor grandmother. Only then did I end the game positive... with just 37 cents left after rent and 20% health.
 

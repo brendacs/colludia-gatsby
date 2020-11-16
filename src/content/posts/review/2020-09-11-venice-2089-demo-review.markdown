@@ -1,26 +1,35 @@
 ---
-pageType:     post
-game:         venice2089
-slug:         /venice-2089-demo-review/
-tabTitle:     "The Small Town Blues in Venice 2089"
-title:        "The Small Town Blues in <em class='game-title'>Venice 2089</em>"
-postType:     [demo, review]
-desc:         "Venice 2089 demo review: Venice 2089 is a romp through small town suburbia that taps into the feelings of youth in revolt, the small town blues, and modern meme culture."
-tagline:      "\"Venice 2089 is a romp through small town suburbia that taps into the feelings of youth in revolt, the small town blues, and modern meme culture.\""
-date:         2020-09-11
-releaseDate:  2020-08-06
-image:        Venice2089.png
-video:        https://www.youtube.com/embed/BAjtXBOcZ68
-author:       Josh Roque
-authorUrl:    josh
-categories:   [adventure, rpg, demo, review, story]
-tags:         ["Venice 2089", "Event Horizon Studios", environment, protest, hoverboard, suburbs]
+pageType: post
+game: venice2089
+slug: /venice-2089-demo-review/
+tabTitle: "The Small Town Blues in Venice 2089"
+title: "The Small Town Blues in <em class='game-title'>Venice 2089</em>"
+postType: [demo, review]
+desc: "Venice 2089 demo review: Venice 2089 is a romp through small town suburbia that taps into the feelings of youth in revolt, the small town blues, and modern meme culture."
+tagline: '"Venice 2089 is a romp through small town suburbia that taps into the feelings of youth in revolt, the small town blues, and modern meme culture."'
+date: 2020-09-11
+releaseDate: 2020-08-06
+image: Venice2089.png
+video: https://www.youtube.com/embed/BAjtXBOcZ68
+author: Josh Roque
+authorUrl: josh
+categories: [adventure, rpg, demo, review, story]
+tags:
+  [
+    "Venice 2089",
+    "Event Horizon Studios",
+    environment,
+    protest,
+    hoverboard,
+    suburbs,
+  ]
 ---
-I grew up in a relatively small city by the beach. No one had ever heard of my town while growing up, but if you had been there, you would know that it’s a beautiful but boring place to live. And that’s what my connection to *[Venice 2089](https://eventhorizonschool.itch.io/venice-2089)* boils down to: it captures the small town spirit in its sleepy, free-spirited mood. As I was cruising on my hoverboard  from one place to the next, stopping at whatever caught my interest, I felt like a teenager on a bicycle, enjoying the breeze again.
+
+I grew up in a relatively small city by the beach. No one had ever heard of my town while growing up, but if you had been there, you would know that it’s a beautiful but boring place to live. And that’s what my connection to _[Venice 2089](https://eventhorizonschool.itch.io/venice-2089)_ boils down to: it captures the small town spirit in its sleepy, free-spirited mood. As I was cruising on my hoverboard from one place to the next, stopping at whatever caught my interest, I felt like a teenager on a bicycle, enjoying the breeze again.
 
 ## So Cool!
 
-In *Venice 2089*, you play as Nova, a student who recently finished a round of exams and has come home for a small vacation. She hasn’t been home in about ten years, and it seems as though much has changed. I began the demo in Nova’s room, situated on the top of a boat: roomy, private, and extremely cool. I felt like I was living my old teenage paradise.
+In _Venice 2089_, you play as Nova, a student who recently finished a round of exams and has come home for a small vacation. She hasn’t been home in about ten years, and it seems as though much has changed. I began the demo in Nova’s room, situated on the top of a boat: roomy, private, and extremely cool. I felt like I was living my old teenage paradise.
 
 ![][image0]
 
@@ -44,7 +53,7 @@ Eager to explore her old town, Nova hops on her hoverboard, puts on a pair of sl
 
 I could walk through the town with the option to put my skateboard away, but I couldn't resist gliding down the streets of Venice on a hoverboard, doing tricks and grinds along the way. I also had control of my little drone, which could scare birds into giving me feathers or pick up distant items for me. The mechanics of this game are simple, yet fun to control. Going around corners shifts the perspective to the new street, with a slick transition that keeps the switch looking smooth.
 
-For the most part, *Venice 2089* keeps the “future” aspect to a respectable minimum. Aside from the hoverboard, drone, and Nova’s strange choice of clothing, there isn’t much different from a typical day in the life of a young person with nothing to do. One of the only indications is the overshadowing fact that Venice could sink and, in Nova’s words, “become the new Atlantis” any day now.
+For the most part, _Venice 2089_ keeps the “future” aspect to a respectable minimum. Aside from the hoverboard, drone, and Nova’s strange choice of clothing, there isn’t much different from a typical day in the life of a young person with nothing to do. One of the only indications is the overshadowing fact that Venice could sink and, in Nova’s words, “become the new Atlantis” any day now.
 
 ## The Venetians of 2089
 
@@ -74,13 +83,13 @@ Perhaps the real cherry on top of this game’s experience beyond its fantastic 
 
 ![][image7]
 
-I loved that Nova’s dialogue is filled references to meme culture. *Venice 2089* is steadfast that memes will live on well into the future. I’m sure that Grandpa passed the torch to Nova himself, as he even makes a “General Kenobi” reference on the second day. I think it creates a crucial bridge from 2020 to 2089 that ties our current world with the futuristic Venice of the game.
+I loved that Nova’s dialogue is filled references to meme culture. _Venice 2089_ is steadfast that memes will live on well into the future. I’m sure that Grandpa passed the torch to Nova himself, as he even makes a “General Kenobi” reference on the second day. I think it creates a crucial bridge from 2020 to 2089 that ties our current world with the futuristic Venice of the game.
 
 Although she’s sarcastic and a meme queen, Nova means well and has virtues that make her extremely likable. Although their opinions differ, Nova still cares about her grandfather and willfully helps him with errands around town. They have a solid relationship built on mutual trust, and Nova really cherishes her grandpa. When she talks to others in town, it’s never from a sense of superiority: she seems to view everyone equally, even though others in the town do not. The few citizens in town blame each other for Venice’s problems, but Nova never approaches a person with anger; she hears them out. She’s a bit cynical, yes, but a bad person she is not.
 
 ## Into The Sunset
 
-*Venice 2089* is a romp through small town suburbia that taps into the feelings of youth in revolt, the small town blues, and modern meme culture. Check out the demo and look out for the full release in the future. Who knows, there might even be a way to save the town—but for now, hop on your hoverboard and ride out the waning days of Venice in style.
+_Venice 2089_ is a romp through small town suburbia that taps into the feelings of youth in revolt, the small town blues, and modern meme culture. Check out the demo and look out for the full release in the future. Who knows, there might even be a way to save the town—but for now, hop on your hoverboard and ride out the waning days of Venice in style.
 
 ![][image8]
 

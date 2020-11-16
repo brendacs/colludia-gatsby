@@ -1,29 +1,36 @@
 ---
-pageType:     post
-game:         rosewater
-slug:         /rosewater-demo-review/
-tabTitle:     "Intricately Layered Adventure Awaits in Rosewater"
-title:        "Intricately Layered Adventure Awaits in <em class='game-title'>Rosewater</em>"
-postType:     [demo, review]
-desc:         "Rosewater demo review: Fantastic animation, complex characters and weighted interaction kept me gripped the whole time and set the perfect scene for the main adventure. The demo was just enough to reel you in, and I was reeled."
-tagline:      "\"Fantastic animation, complex characters and weighted interaction kept me gripped the whole time and set the perfect scene for the main adventure. The demo was just enough to reel you in, and I was reeled.\""
-date:         2020-09-24
-releaseDate:  2021-12-31
-image:        Rosewater.jpg
-video:        https://www.youtube.com/embed/12CsUjgxXfU
-author:       Pixie Poison
-authorUrl:    pixie
-categories:   [point-and-click, adventure, demo, review, story]
-tags:         ["Rosewater", "Grundislav Games", "Application Systems Heidelberg", puzzle, animation]
+pageType: post
+game: rosewater
+slug: /rosewater-demo-review/
+tabTitle: "Intricately Layered Adventure Awaits in Rosewater"
+title: "Intricately Layered Adventure Awaits in <em class='game-title'>Rosewater</em>"
+postType: [demo, review]
+desc: "Rosewater demo review: Fantastic animation, complex characters and weighted interaction kept me gripped the whole time and set the perfect scene for the main adventure. The demo was just enough to reel you in, and I was reeled."
+tagline: '"Fantastic animation, complex characters and weighted interaction kept me gripped the whole time and set the perfect scene for the main adventure. The demo was just enough to reel you in, and I was reeled."'
+date: 2020-09-24
+releaseDate: 2021-12-31
+image: Rosewater.jpg
+video: https://www.youtube.com/embed/12CsUjgxXfU
+author: Pixie Poison
+authorUrl: pixie
+categories: [point-and-click, adventure, demo, review, story]
+tags:
+  [
+    "Rosewater",
+    "Grundislav Games",
+    "Application Systems Heidelberg",
+    puzzle,
+    animation,
+  ]
 ---
 
-Five years ago, I discovered a developer by the name of Wadjet Eye Games—a name very familiar to frequenters of adventure games. A certain *Blackwell* bundle was bought, booted up, and my passion for 2D point-and-clicks was rekindled anew. I was on a quest to explore all the adventures Steam had to offer.
+Five years ago, I discovered a developer by the name of Wadjet Eye Games—a name very familiar to frequenters of adventure games. A certain _Blackwell_ bundle was bought, booted up, and my passion for 2D point-and-clicks was rekindled anew. I was on a quest to explore all the adventures Steam had to offer.
 
-Two years ago, I became acquainted with [Grundislav Games](http://www.grundislavgames.com) through *[Lamplight City](https://store.steampowered.com/app/761460/Lamplight_City/)*, a detective adventure set in the alternative Victorian steampunk world of Vespuccia. It ticked all of the boxes for me. Discovering the project was headed by Detective Sam Durkin himself, also known as developer Francisco Gonzalez, from the *Blackwell* series gave me a silly amount of joy. Think of the Zootopia scene where Clawhauser finds Chief Bogo watching Gazelle videos.
+Two years ago, I became acquainted with [Grundislav Games](http://www.grundislavgames.com) through _[Lamplight City](https://store.steampowered.com/app/761460/Lamplight_City/)_, a detective adventure set in the alternative Victorian steampunk world of Vespuccia. It ticked all of the boxes for me. Discovering the project was headed by Detective Sam Durkin himself, also known as developer Francisco Gonzalez, from the _Blackwell_ series gave me a silly amount of joy. Think of the Zootopia scene where Clawhauser finds Chief Bogo watching Gazelle videos.
 
-So, having seen that Grundislav’s newest project [*Rosewater*](https://store.steampowered.com/app/1226670/Rosewater/) had a demo available for Indie Arena Booth, I snapped it up quicker than a Hungry Hungry Hippo. A point-and-click adventure set in the same universe as *Lamplight City*? I’m all over it! 
+So, having seen that Grundislav’s newest project [_Rosewater_](https://store.steampowered.com/app/1226670/Rosewater/) had a demo available for Indie Arena Booth, I snapped it up quicker than a Hungry Hungry Hippo. A point-and-click adventure set in the same universe as _Lamplight City_? I’m all over it!
 
-Unlike *Lamplight City*, *Rosewater* is a western adventure centred around the sleepy town of the same name in Western Vespuccia. You are put in the crimson waistcoat and sturdy leather boots of Harley Leger, a writer fresh off the train from New Bretagne and seeking a writing position at the Rosewater Post. Straight away, the name Leger struck me as it harks back to the game’s predecessor. I won’t spoil the connection as I encourage anyone to play *Lamplight City*, but it’s not vital to know it; *Rosewater* can easily be played as a standalone adventure.
+Unlike _Lamplight City_, _Rosewater_ is a western adventure centred around the sleepy town of the same name in Western Vespuccia. You are put in the crimson waistcoat and sturdy leather boots of Harley Leger, a writer fresh off the train from New Bretagne and seeking a writing position at the Rosewater Post. Straight away, the name Leger struck me as it harks back to the game’s predecessor. I won’t spoil the connection as I encourage anyone to play _Lamplight City_, but it’s not vital to know it; _Rosewater_ can easily be played as a standalone adventure.
 
 ![][image0]
 
@@ -45,7 +52,7 @@ Mid-conversation, a street urchin uses the opportunity to try and pick Harley’
 
 ## Getting Our Bearings
 
-You soon have the opportunity to explore the town as Harley searches for the Rosewater Post. I spent so long exploring simply to take in the exquisite rotoscope animations and locations because they were just wonderful to look at. Many times they reminded me of the early *Broken Sword* games in their look and feel, something that always brings a smile to my face.
+You soon have the opportunity to explore the town as Harley searches for the Rosewater Post. I spent so long exploring simply to take in the exquisite rotoscope animations and locations because they were just wonderful to look at. Many times they reminded me of the early _Broken Sword_ games in their look and feel, something that always brings a smile to my face.
 
 As I do in every adventure game, I made a point of exploring every building and area and talking to everyone I could before heading where I needed to go. I spent a good amount of time with Doc Sedgwick in particular; I figured if we’re about to go on a wild west adventure, having a doctor as a buddy would be pretty handy!
 
@@ -67,9 +74,9 @@ My conscience clear and Harley’s good deed done for the day, we headed inside 
 
 ## Getting To Know You
 
-Reaching for the whiskey decanter after their eventful morning, Joan is androgynous, to-the-point, and forthright—except about exactly why an unfortunate gentleman ended up being propelled through the window. Hardly worth mentioning. I'm guessing this is not too out of the ordinary, if it barely raises an eyebrow from the townspeople either. 
+Reaching for the whiskey decanter after their eventful morning, Joan is androgynous, to-the-point, and forthright—except about exactly why an unfortunate gentleman ended up being propelled through the window. Hardly worth mentioning. I'm guessing this is not too out of the ordinary, if it barely raises an eyebrow from the townspeople either.
 
-I got to wondering who Joan was before becoming the Rosewater Post editor and what kind of life they came from—their identity pre-Rosewater. As to who they are now, all it takes is a single remark that Joan should be referred to by their first name only. To me, this was just right in its execution: not too subtle or too on the nose. In a live interview, Gonzalez spoke of his research into androgyny and trans people in The Old West, how commonplace it was for people to completely reinvent themselves and take on a new life and identity. 
+I got to wondering who Joan was before becoming the Rosewater Post editor and what kind of life they came from—their identity pre-Rosewater. As to who they are now, all it takes is a single remark that Joan should be referred to by their first name only. To me, this was just right in its execution: not too subtle or too on the nose. In a live interview, Gonzalez spoke of his research into androgyny and trans people in The Old West, how commonplace it was for people to completely reinvent themselves and take on a new life and identity.
 
 Thus: Joan.
 
@@ -97,7 +104,7 @@ Following the show, in differing ways depending on how the ticket encounter with
 
 <figcaption>What do you say?</figcaption>
 
-The *Rosewater* hype was high for me going into this demo and, happily, it did not disappoint. Fantastic animation, complex characters and weighted interaction kept me gripped the whole time and set the perfect scene for the main adventure. And, at an hour long, it was the perfect length with so much packed in, but somehow still not too much. It was just enough to reel you in, and I was *reeled*. Judging by this demo, 2021 is going to be a good year.
+The _Rosewater_ hype was high for me going into this demo and, happily, it did not disappoint. Fantastic animation, complex characters and weighted interaction kept me gripped the whole time and set the perfect scene for the main adventure. And, at an hour long, it was the perfect length with so much packed in, but somehow still not too much. It was just enough to reel you in, and I was _reeled_. Judging by this demo, 2021 is going to be a good year.
 
 [image0]: ../../../images/post/rosewater/Rosewater0.png
 [image1]: ../../../images/post/rosewater/Rosewater1.png

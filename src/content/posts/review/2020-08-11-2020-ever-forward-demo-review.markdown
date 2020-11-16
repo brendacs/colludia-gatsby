@@ -1,24 +1,25 @@
 ---
-pageType:     post
-game:         everforward
-slug:         /ever-forward-demo-review/
-tabTitle:     "Ever Forward: A Puzzling Dream About The Future"
-title:        "<em class='game-title'>Ever Forward:</em> A Puzzling Dream About The Future"
-postType:     [demo, review]
-desc:         "Demo review: Ever Forward tells a thought-provoking story with multiple interpretations and hits a sweet spot between minimalistic design and worldbuilding that is hard to come by. It’s a quiet, lonely game—but not empty."
-tagline:      "\"Ever Forward tells a thought-provoking story with multiple interpretations and hits a sweet spot between minimalistic design and worldbuilding that is hard to come by. It’s a quiet, lonely game—but not empty.\""
-date:         2020-08-11
-releaseDate:  2020-08-13
-image:        EverForward.jpg
-video:        https://www.youtube.com/embed/hERmokoAZoA
-author:       Josh Roque
-authorUrl:    josh
-categories:   [puzzle, demo, review, story]
-tags:         ["Pathea Games", "Ever Forward"]
+pageType: post
+game: everforward
+slug: /ever-forward-demo-review/
+tabTitle: "Ever Forward: A Puzzling Dream About The Future"
+title: "<em class='game-title'>Ever Forward:</em> A Puzzling Dream About The Future"
+postType: [demo, review]
+desc: "Demo review: Ever Forward tells a thought-provoking story with multiple interpretations and hits a sweet spot between minimalistic design and worldbuilding that is hard to come by. It’s a quiet, lonely game—but not empty."
+tagline: '"Ever Forward tells a thought-provoking story with multiple interpretations and hits a sweet spot between minimalistic design and worldbuilding that is hard to come by. It’s a quiet, lonely game—but not empty."'
+date: 2020-08-11
+releaseDate: 2020-08-13
+image: EverForward.jpg
+video: https://www.youtube.com/embed/hERmokoAZoA
+author: Josh Roque
+authorUrl: josh
+categories: [puzzle, demo, review, story]
+tags: ["Pathea Games", "Ever Forward"]
 ---
-I was looking through a list of demos on Steam when I came across [*Ever Forward*](https://store.steampowered.com/app/1325290/Ever_Forward_Prologue/) by [Pathea Games](https://pathea.net/). It had a minimal visual style that I just love seeing, with the added bonus of being a puzzle game. Seeing as the game releases on August 13, I thought it would be a good time to play the demo.
 
-*Ever Forward* tells a thought-provoking story with multiple interpretations (going as far as the demo would take me, anyway). I think the game hits a sweet spot between minimalistic design and worldbuilding that is hard to come by. It’s a quiet, lonely game—but not empty.
+I was looking through a list of demos on Steam when I came across [_Ever Forward_](https://store.steampowered.com/app/1325290/Ever_Forward_Prologue/) by [Pathea Games](https://pathea.net/). It had a minimal visual style that I just love seeing, with the added bonus of being a puzzle game. Seeing as the game releases on August 13, I thought it would be a good time to play the demo.
+
+_Ever Forward_ tells a thought-provoking story with multiple interpretations (going as far as the demo would take me, anyway). I think the game hits a sweet spot between minimalistic design and worldbuilding that is hard to come by. It’s a quiet, lonely game—but not empty.
 
 ## A Dream-Like Beginning
 
@@ -28,7 +29,7 @@ The demo starts with a relaxing beach setting. A girl in a plain white dress app
 
 <figcaption>The game has absolutely gorgeous landscapes.</figcaption>
 
-Then, the screen buzzes, and visual glitches start to appear in her eyes as data fills the screen. On my next blink, a strange, black and red ooze in the shape of a tree root pops up in front of me. It is pulsing red and with a single dainty bonsai tree inside of it. It was at this point that I knew *Ever Forward* would be telling its story with subtlety, and I would only be given small pieces of a bigger picture. But the start of the game filled me with so much curiosity that I just had to ask—what would learning the whole story cost me?
+Then, the screen buzzes, and visual glitches start to appear in her eyes as data fills the screen. On my next blink, a strange, black and red ooze in the shape of a tree root pops up in front of me. It is pulsing red and with a single dainty bonsai tree inside of it. It was at this point that I knew _Ever Forward_ would be telling its story with subtlety, and I would only be given small pieces of a bigger picture. But the start of the game filled me with so much curiosity that I just had to ask—what would learning the whole story cost me?
 
 The game answered in kind. I was teleported as soon as I approached the “corrupted” area of the beach—sent into an alien, unfamiliar and cold world. It lacked color or any natural objects, save for a few trees growing out of the stone-like structures. I wondered about its connection to the computerized screen that had flashed beforehand. The objective that lay ahead (and for many more rooms to come) was simple: solve the puzzle, move forward.
 
@@ -42,7 +43,7 @@ The game introduces its main challenge: avoiding robotic sentinels called Roundy
 
 <figcaption>Although more barren, the puzzle world is still quite beautiful.</figcaption>
 
-As a puzzle game, the developers crafted a sense of natural difficulty progression with a sensible level design meant to reward players for clever thinking. Although it sounds like a simple concept not at all unfamiliar to those who play puzzle games, *Ever Forward* still provided a few head-scratchers. There isn’t just one way to solve each puzzle, and I had a few “aha!” moments as I started applying the newly learned game mechanics to the puzzles that lay ahead.
+As a puzzle game, the developers crafted a sense of natural difficulty progression with a sensible level design meant to reward players for clever thinking. Although it sounds like a simple concept not at all unfamiliar to those who play puzzle games, _Ever Forward_ still provided a few head-scratchers. There isn’t just one way to solve each puzzle, and I had a few “aha!” moments as I started applying the newly learned game mechanics to the puzzles that lay ahead.
 
 ![A hard button puzzle, Maya stands on a button][image3]
 
@@ -52,7 +53,7 @@ As fun as the beginner puzzles were, what really kept me going through them was 
 
 ## Crafting A Bleak Future
 
-*Ever Forward*’s plot is crafted through memories supplied by a girl named Maya. She has a busy mother named Ann who works at the National Science Lab and seems to be working on some sort of critical technology.
+_Ever Forward_’s plot is crafted through memories supplied by a girl named Maya. She has a busy mother named Ann who works at the National Science Lab and seems to be working on some sort of critical technology.
 
 ![A flashback into the past when Maya's swing was fixed][image4]
 
@@ -64,7 +65,7 @@ During the first cutscene after the first round of puzzles, the player wakes up 
 
 <figcaption>Maya is the "Queen of Swing".</figcaption>
 
-Although brief, the cutscene acted as a major catalyst in my journey through the demo. I felt that *Ever Forward* had something important to say, and that it would relay this information in the form of Maya’s memories of Ann and herself. On my first time seeing this cutscene, I knew that Ann’s work for the National Science Lab would be critical to the plot—does Ann’s work have any relation to the strange interface that flashed in Maya’s eyes? Does it have some relation to the synthetic, robotic world I was transported to?
+Although brief, the cutscene acted as a major catalyst in my journey through the demo. I felt that _Ever Forward_ had something important to say, and that it would relay this information in the form of Maya’s memories of Ann and herself. On my first time seeing this cutscene, I knew that Ann’s work for the National Science Lab would be critical to the plot—does Ann’s work have any relation to the strange interface that flashed in Maya’s eyes? Does it have some relation to the synthetic, robotic world I was transported to?
 
 I felt that the game was speaking on the relationship of technology and nature, especially in its setting. Both worlds have encroached on each other—the world of technology appearing through black and red structures in the natural world of the beach, while the world within the puzzle areas is broken up with trees taking root in the structures.
 

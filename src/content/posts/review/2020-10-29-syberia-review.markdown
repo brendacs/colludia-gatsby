@@ -1,22 +1,23 @@
 ---
-pageType:     post
-game:         syberia
-slug:         /syberia-review/
-tabTitle:     "Follow Your Dreams to Syberia"
-title:        "Follow Your Dreams to Syberia <em class='game-title'>Syberia</em>"
-postType:     ["#tbt", review]
-desc:         "Syberia review: Without the voice acting, the story is enough to carry the game to success, but it's that push for more immersion that really made me love or hate the characters."
-tagline:      "\"Without the voice acting, the story is enough to carry the game to success, but it's that push for more immersion that really made me love or hate the characters.\""
-date:         2020-10-29
-releaseDate:  2017-04-20
-image:        Syberia.png
-video:        https://www.youtube.com/embed/69o6Vks0sKA
-author:       Emily Tang
-authorUrl:    emily
-categories:   [adventure, point-and-click, review, story]
-tags:         ["Syberia", "Microids", "Microids", puzzle, soundtrack]
+pageType: post
+game: syberia
+slug: /syberia-review/
+tabTitle: "Follow Your Dreams to Syberia"
+title: "Follow Your Dreams to Syberia <em class='game-title'>Syberia</em>"
+postType: ["#tbt", review]
+desc: "Syberia review: Without the voice acting, the story is enough to carry the game to success, but it's that push for more immersion that really made me love or hate the characters."
+tagline: '"Without the voice acting, the story is enough to carry the game to success, but it''s that push for more immersion that really made me love or hate the characters."'
+date: 2020-10-29
+releaseDate: 2017-04-20
+image: Syberia.png
+video: https://www.youtube.com/embed/69o6Vks0sKA
+author: Emily Tang
+authorUrl: emily
+categories: [adventure, point-and-click, review, story]
+tags: ["Syberia", "Microids", "Microids", puzzle, soundtrack]
 ---
-*Syberia*, first of its series made by Microids, is an adventure I’ve had the pleasure of tagging along with on the Nintendo Switch. Though a little dated, having originally been released in 2002, I’ve had my eye on it for years. However, as is the case with most old games and new PCs, I ran into the trouble of pesky bugs. Fortunately, I recently acquired a dedicated gaming machine and a new port of the game, so I was ecstatic to jump right in and figure out what was happening in Valadilene, a quaint town with a mystery—and a name that rolls off the tongue addictively well.
+
+_Syberia_, first of its series made by Microids, is an adventure I’ve had the pleasure of tagging along with on the Nintendo Switch. Though a little dated, having originally been released in 2002, I’ve had my eye on it for years. However, as is the case with most old games and new PCs, I ran into the trouble of pesky bugs. Fortunately, I recently acquired a dedicated gaming machine and a new port of the game, so I was ecstatic to jump right in and figure out what was happening in Valadilene, a quaint town with a mystery—and a name that rolls off the tongue addictively well.
 
 Playing as reliable American lawyer Kate Walker, my initial task was to make sure the Voralberg toy factory sale went well. This included finding Anna Voralberg and obtaining her signature, thereby saving her ailing company as technology continued to exponentially advance. Leaving behind New York, friends, family, and a fiancé, Kate traveled to Valadilene, where she is greeted by Anna Voralberg's funeral procession and the unwelcome knowledge of a secret heir—Hans Voralberg, Anna's younger brother who disappeared decades ago.
 
@@ -26,7 +27,7 @@ Playing as reliable American lawyer Kate Walker, my initial task was to make sur
 
 ## The Places
 
-The graphics and storyline have aged well, despite the story being unfinished (there’s three games and a fourth in the works!), so I felt right at home with the old feel of the game. Despite its age, I still couldn’t help marveling at how easy on the eyes the scenery looked. I was especially taken aback by Aralbad, the last stop in this installment of *Syberia*.
+The graphics and storyline have aged well, despite the story being unfinished (there’s three games and a fourth in the works!), so I felt right at home with the old feel of the game. Despite its age, I still couldn’t help marveling at how easy on the eyes the scenery looked. I was especially taken aback by Aralbad, the last stop in this installment of _Syberia_.
 
 Every time the train wound down just as we entered a new area, I encountered another stage in Hans’ life as he grew up and away from his family. Every location added layers to the story as Kate found out more about Hans and his wild goose chase for mammoths. But I'm getting ahead of myself—let's start from the beginning.
 
@@ -36,13 +37,13 @@ Every time the train wound down just as we entered a new area, I encountered ano
 
 There’s not a lot of people in Valadilene, but after the funeral procession, the quiet atmosphere of the small town took on a more somber meaning. I could almost feel the clear air as I made Kate jog down the cobbled street to scout out the appropriate people and discover more about Anna Voralberg and Hans. The only clues I had were thanks to a boy named Momo who resembled a young Hans and a rather particular automaton engineer named Oscar.
 
-Momo was kind enough to lead me to a cave along a very scenic path, where a small mammoth doll lay waiting. While exploring the toy factory itself, I found an audio recording hidden in Anna Voralberg's private office. With both items in tow and a wind-up train to ride, I was on my way to find out who—and most importantly, where—this Hans Voralberg was. 
+Momo was kind enough to lead me to a cave along a very scenic path, where a small mammoth doll lay waiting. While exploring the toy factory itself, I found an audio recording hidden in Anna Voralberg's private office. With both items in tow and a wind-up train to ride, I was on my way to find out who—and most importantly, where—this Hans Voralberg was.
 
 ![][image2]
 
 <figcaption>Anna Voralberg's funeral procession is made up of automatons.</figcaption>
 
-Barrockstadt University was an interesting follow-up to the peaceful and mysterious Valadilene.  Hans definitely spent plenty of time at the university, what with the shared interest he and a professor had with the mysterious mammoth doll. ****Here, I was running around trying to piece together clues involving rare birds and grapes. And at the same time, I was learning about mammoths and Youkols from the professor who was helping to hide an alcoholic secret.
+Barrockstadt University was an interesting follow-up to the peaceful and mysterious Valadilene. Hans definitely spent plenty of time at the university, what with the shared interest he and a professor had with the mysterious mammoth doll. \*\*\*\*Here, I was running around trying to piece together clues involving rare birds and grapes. And at the same time, I was learning about mammoths and Youkols from the professor who was helping to hide an alcoholic secret.
 
 Lightly (and rightly) blackmailing the university staff with their illegal manufacturing of wine on school grounds completes the infuriating run-around experience. Soon enough, I was finally on my way to the next location after the tough ordeal and no help from Oscar.
 
@@ -80,7 +81,7 @@ There were sides to Kate that I suspect all these people I’ve mentioned have r
 
 ### Oscar
 
-Oscar was probably the easiest character to adore in *Syberia*. While Oscar made sure I begrudgingly followed all the (useless) procedures in all efforts to uphold integrity and law on the wind-up train, I’m thankful in the end that he accompanied me from the beginning to the end of the game. Not only do we see Kate change during the journey, but Oscar too.
+Oscar was probably the easiest character to adore in _Syberia_. While Oscar made sure I begrudgingly followed all the (useless) procedures in all efforts to uphold integrity and law on the wind-up train, I’m thankful in the end that he accompanied me from the beginning to the end of the game. Not only do we see Kate change during the journey, but Oscar too.
 
 I loved how Kate tried to persuade him to help her at every inconvenience, only to be shot down by his consistent explanations of the limitations of his automaton body and programming. I was just as irritated as she was when he insisted on staying by the train because of the weather or some such reason, and just as incensed when I found him with his hands stolen by a mad fan of an opera singer.
 
@@ -100,7 +101,7 @@ Or maybe I was just reading too much into what was supposed to be a comedic obst
 
 ## That's the Sound of Adventure
 
-If the voice acting and music were taken away, *Syberia* would have layers of emotion stripped away that could never be recovered.
+If the voice acting and music were taken away, _Syberia_ would have layers of emotion stripped away that could never be recovered.
 
 Sharon Mann brought Kate Walker to life, while Oscar's distinct inflections made him all the more endearing, his programming be damned. Without the voice acting, the story is enough to carry the game to success, but it's that push for more immersion that really made me love or hate the characters. And the immersion was not only limited to the characters—the soundtrack itself made the experience feel that much more magical.
 

@@ -1,70 +1,68 @@
-.content {
-	&.md {
-		margin: 60px 23vw 60px 23vw;
-		background-color: #FFF;
+.md-info {
+  margin: 60px 23vw 60px 23vw;
+  background-color: #fff;
 
-		@media screen and (max-width: 1024px) {
-			margin: 60px 10vw 60px 10vw;
-		}
+  @media screen and (max-width: 1024px) {
+    margin: 60px 10vw 60px 10vw;
+  }
 
-		h1 {
-			font-size: $heading-size;
-		}
+  h1 {
+    font-size: $heading-size;
+  }
 
-		h2 {
-			font-size: $subtitle-size;
-			font-weight: 600;
-			margin: 20px 0;
+  h2 {
+    font-size: $subtitle-size;
+    font-weight: 600;
+    margin: 20px 0;
 
-			a {
-				font-size: $subtitle-size;
-			}
-		}
+    a {
+      font-size: $subtitle-size;
+    }
+  }
 
-		h3 {
-			font-size: $text-size + 2;
-			font-weight: 600;
-			margin: 20px 0;
-		}
+  h3 {
+    font-size: $text-size + 2;
+    font-weight: 600;
+    margin: 20px 0;
+  }
 
-		p {
-			margin: 30px 0;
-			text-align: left;
+  p {
+    margin: 30px 0;
+    text-align: left;
 
-			@media screen and (max-width: 768px) {
-				text-align: left;
-			}
-		}
+    @media screen and (max-width: 768px) {
+      text-align: left;
+    }
+  }
 
-		a {
-			color: $site-brand-color;
-			position: relative;
-			width: auto;
+  a {
+    color: $site-brand-color;
+    position: relative;
+    width: auto;
 
-			&:after {
-				@include link-animation-start;
-				position: absolute;
-				bottom: 2px;
-				left: 0;
-				opacity: 0.5;
-			}
+    &:after {
+      @include link-animation-start;
+      position: absolute;
+      bottom: 2px;
+      left: 0;
+      opacity: 0.5;
+    }
 
-			&:hover:after {
-				@include link-animation-end;
-			}
-		}
+    &:hover:after {
+      @include link-animation-end;
+    }
+  }
 
-		ul {
-			list-style-position: outside;
-			margin-left: 20px;
-			margin-bottom: 30px;
-		}
-	}
+  ul {
+    list-style-position: outside;
+    margin-left: 20px;
+    margin-bottom: 30px;
+  }
 }
 
-.substack-iframe {	
-	height: 320px;	
-	width: 100%;	
-	margin-top: 20px;	
-	border: 1px solid #EEE;	
+.substack-iframe {
+  height: 320px;
+  width: 100%;
+  margin-top: 20px;
+  border: 1px solid #eee;
 }

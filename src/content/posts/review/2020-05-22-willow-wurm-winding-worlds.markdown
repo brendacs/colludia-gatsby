@@ -1,22 +1,23 @@
 ---
-pageType:     post
-game:         windingworlds
-slug:         /willow-wurm-winding-worlds/
-tabTitle:     "Wandering With Willow and the Wurm in Winding Worlds"
-title:        "Wandering With Willow and the Wurm in <em class='game-title'>Winding Worlds</em>"
-postType:     [review]
-desc:         "Winding Worlds review: As you wander the world, you also wander the resident's mind and memories and help them to untangle their guilt, regret, or fear as you reflect on your own mental state."
-tagline:      "\"As you wander the world, you also wander the resident's mind and memories and help them to untangle their guilt, regret, or fear as you reflect on your own mental state.\""
-date:         2020-05-22
-releaseDate:  2020-05-15
-image:        WindingWorlds.png
-video:        https://www.youtube.com/embed/gIF1_aN4aHU
-author:       Brenda Zhang
-authorUrl:    brenda
-categories:   [puzzle, point-and-click, review, story]
-tags:         ["Winding Worlds", KO_OP, Willow, Wurm, 2D, iOS, adventure]
+pageType: post
+game: windingworlds
+slug: /willow-wurm-winding-worlds/
+tabTitle: "Wandering With Willow and the Wurm in Winding Worlds"
+title: "Wandering With Willow and the Wurm in <em class='game-title'>Winding Worlds</em>"
+postType: [review]
+desc: "Winding Worlds review: As you wander the world, you also wander the resident's mind and memories and help them to untangle their guilt, regret, or fear as you reflect on your own mental state."
+tagline: '"As you wander the world, you also wander the resident''s mind and memories and help them to untangle their guilt, regret, or fear as you reflect on your own mental state."'
+date: 2020-05-22
+releaseDate: 2020-05-15
+image: WindingWorlds.png
+video: https://www.youtube.com/embed/gIF1_aN4aHU
+author: Brenda Zhang
+authorUrl: brenda
+categories: [puzzle, point-and-click, review, story]
+tags: ["Winding Worlds", KO_OP, Willow, Wurm, 2D, iOS, adventure]
 ---
-*[Winding Worlds](https://windingworlds.com/)*, by [KO_OP](https://www.ko-opmode.com/) the creators of *GNOG*, was quite the trip. I discovered *Winding Worlds* through an email notifying me that a new game was released. I normally wouldn't pay much attention to release emails or other repetitive notifications, but the title of the game already piqued my curiosity. I wrapped up what I was doing and looked it up. Seeing the beautiful art, the variety of worlds, and the characters who looked like they each had a story to share, I could immediately tell that the game would be right up my alley and resolved to download it to try it out that same night.
+
+_[Winding Worlds](https://windingworlds.com/)_, by [KO_OP](https://www.ko-opmode.com/) the creators of _GNOG_, was quite the trip. I discovered _Winding Worlds_ through an email notifying me that a new game was released. I normally wouldn't pay much attention to release emails or other repetitive notifications, but the title of the game already piqued my curiosity. I wrapped up what I was doing and looked it up. Seeing the beautiful art, the variety of worlds, and the characters who looked like they each had a story to share, I could immediately tell that the game would be right up my alley and resolved to download it to try it out that same night.
 
 Little did I know, outside of the unique puzzles and diverse worlds to explore, there'd also be a deep story attached to each character I met along the way and a pointed purpose to the design of each world. I didn't expect to learn a lesson in each story, and I certainly didn't expect I'd have to learn to say goodbye to each quirky character. I came away from the game deeply affected and only wishing that there were more chapters of the story. At the same time, the pacing and length of each chapter and the entire story were perfect, and I wouldn't have changed anything about them.
 
@@ -26,7 +27,7 @@ Little did I know, outside of the unique puzzles and diverse worlds to explore, 
 
 ## Winding Down... or Up or Left or Right
 
-*Winding Worlds* starts with a beautifully rendered home—Willow's home. You play as Willow as you're smoothly introduced to the mechanics of the game by walking around Willow's personal globe and playing catch with her dog. To walk around, solve puzzles, and discover each world's story, there are only two movements necessary in the entire game: swiping up and down, or left and right, and pressing a button to confirm your solution.
+_Winding Worlds_ starts with a beautifully rendered home—Willow's home. You play as Willow as you're smoothly introduced to the mechanics of the game by walking around Willow's personal globe and playing catch with her dog. To walk around, solve puzzles, and discover each world's story, there are only two movements necessary in the entire game: swiping up and down, or left and right, and pressing a button to confirm your solution.
 
 ![Willow at home with her dog][image1]
 

@@ -1,24 +1,34 @@
 ---
-pageType:     post
-game:         chicory
-slug:         /chicory-demo-review/
-tabTitle:     "Chicory: A Colorful Tale Feels Like a Playable Coloring Book, Demo Review"
-title:        "<em class='game-title'>Chicory: A Colorful Tale</em> Feels Like a Playable Coloring Book"
-postType:     [demo, review]
-desc:         "Chicory demo review: What you choose to do after you've picked up the brush is as open-ended as your paintings. This demo convinced me I need to get Chicory the day it releases and find out what happens next in the adventure."
-tagline:      "\"What you choose to do after you've picked up the brush is as open-ended as your paintings. This demo convinced me I need to get Chicory the day it releases and find out what happens next in the adventure.\""
-date:         2020-07-08
-releaseDate:  2021-12-31
-image:        Chicory.jpg
-video:        https://www.youtube.com/embed/zcg1uzgVtXY
-author:       Brenda Zhang
-authorUrl:    brenda
-categories:   ["adventure", rpg, puzzle, demo, review, story]
-tags:         ["Chicory", "Greg Lobanov", illustration, dog, painting, "coloring book", cute]
+pageType: post
+game: chicory
+slug: /chicory-demo-review/
+tabTitle: "Chicory: A Colorful Tale Feels Like a Playable Coloring Book, Demo Review"
+title: "<em class='game-title'>Chicory: A Colorful Tale</em> Feels Like a Playable Coloring Book"
+postType: [demo, review]
+desc: "Chicory demo review: What you choose to do after you've picked up the brush is as open-ended as your paintings. This demo convinced me I need to get Chicory the day it releases and find out what happens next in the adventure."
+tagline: '"What you choose to do after you''ve picked up the brush is as open-ended as your paintings. This demo convinced me I need to get Chicory the day it releases and find out what happens next in the adventure."'
+date: 2020-07-08
+releaseDate: 2021-12-31
+image: Chicory.jpg
+video: https://www.youtube.com/embed/zcg1uzgVtXY
+author: Brenda Zhang
+authorUrl: brenda
+categories: ["adventure", rpg, puzzle, demo, review, story]
+tags:
+  [
+    "Chicory",
+    "Greg Lobanov",
+    illustration,
+    dog,
+    painting,
+    "coloring book",
+    cute,
+  ]
 ---
-*[Chicory: A Colorful Tale](http://chicorygame.com/)*, a unique and beautifully illustrated game, has been on my wishlist for a long time, and I've been waiting for a chance to play its demo. Upon learning about all the demos that would be available during Steam Summer Game Festival, I obviously jumped on the opportunity to play *Chicory*.
 
-Just from the screenshots alone I was enchanted by the idea of what was basically a playable coloring book starring a dog with a giant paintbrush and knew there definitely had to be a lot of depth in the game I couldn't see from screenshots and the trailer alone. With a developer like [Greg Lobanov](https://twitter.com/theBanov), the creator of *Wandersong*, and amazing composers and artists who worked on games like Celeste, I knew it couldn't go wrong in art, narrative, or gameplay mechanics.
+_[Chicory: A Colorful Tale](http://chicorygame.com/)_, a unique and beautifully illustrated game, has been on my wishlist for a long time, and I've been waiting for a chance to play its demo. Upon learning about all the demos that would be available during Steam Summer Game Festival, I obviously jumped on the opportunity to play _Chicory_.
+
+Just from the screenshots alone I was enchanted by the idea of what was basically a playable coloring book starring a dog with a giant paintbrush and knew there definitely had to be a lot of depth in the game I couldn't see from screenshots and the trailer alone. With a developer like [Greg Lobanov](https://twitter.com/theBanov), the creator of _Wandersong_, and amazing composers and artists who worked on games like Celeste, I knew it couldn't go wrong in art, narrative, or gameplay mechanics.
 
 ![Chicory the current wielder and mentor][image0]
 
@@ -36,7 +46,7 @@ The narrative then quickly begins with a bang, literally, and all the vibrant co
 
 <figcaption>A colorless calamity or did I just clean too hard?</figcaption>
 
-When using the paintbrush, I discovered *Chicory* is even more like a coloring book than I expected. Outside of quests, what I painted, what color I painted, and where I painted was 100% up to me. Even my own doggy body and clothes could be painted. All the basic painting functions, like strokes, bucket fill, brush size changing, erasing, and color changing, were present.
+When using the paintbrush, I discovered _Chicory_ is even more like a coloring book than I expected. Outside of quests, what I painted, what color I painted, and where I painted was 100% up to me. Even my own doggy body and clothes could be painted. All the basic painting functions, like strokes, bucket fill, brush size changing, erasing, and color changing, were present.
 
 However, different areas were sometimes limited to certain colors, which is actually a good thing because too much choice can ultimately lead to the player's demise. The limited color selection led to nicely tied together aesthetics in the creators' vision of how the area should look, yet it still felt like my own unique masterpiece. I really admired this design choice, which made each area a collaboration between the developers and the players. Take, for example, this autumn-themed forest I painted.
 
@@ -68,7 +78,7 @@ After successfully navigating my way to Blackberry, I was led to an area that wa
 
 <figcaption>Surprisingly dark boss battle with a purple eye.</figcaption>
 
-After defeating this boss, the demo was over much too quickly for my taste because I was already hooked and ready to play for the rest of the day. This demo convinced me that I need to get *Chicory* the day it comes out and find out what happens next in the adventure. Through playing this demo, I discovered that there's even more flexibility in both character and environment customization and more depth to the story than I had imagined. [Sign up for news and updates](https://phantasmaburbia.us5.list-manage.com/subscribe?u=a6f910bba13c5e5644ebbfc72&id=88dec3e30f) from the team so you can find out when their demo is available to play again, and definitely [wishlist *Chicory*](https://store.steampowered.com/app/1123450/Chicory_A_Colorful_Tale/) on Steam—I'm sure you'll love it.
+After defeating this boss, the demo was over much too quickly for my taste because I was already hooked and ready to play for the rest of the day. This demo convinced me that I need to get _Chicory_ the day it comes out and find out what happens next in the adventure. Through playing this demo, I discovered that there's even more flexibility in both character and environment customization and more depth to the story than I had imagined. [Sign up for news and updates](https://phantasmaburbia.us5.list-manage.com/subscribe?u=a6f910bba13c5e5644ebbfc72&id=88dec3e30f) from the team so you can find out when their demo is available to play again, and definitely [wishlist _Chicory_](https://store.steampowered.com/app/1123450/Chicory_A_Colorful_Tale/) on Steam—I'm sure you'll love it.
 
 ![End of demo screen][image8]
 

@@ -1,22 +1,23 @@
 ---
-pageType:     post
-game:         forthepeople
-slug:         /for-the-people-demo-review/
-tabTitle:     "For The People Goes Beyond Genre"
-title:        "<em class='game-title'>For The People</em> Goes Beyond Genre"
-postType:     [demo, review]
-desc:         "For The People demo review: With art styles reminiscent of Communist propaganda, fanfare music, and downtrodden faces of the general public, this game is as concerned with politics as it is with the story of a young man given immense power."
-tagline:      "\"With art styles reminiscent of Communist propaganda, fanfare music, and downtrodden faces of the general public, this game is as concerned with politics as it is with the story of a young man given immense power.\""
-date:         2020-08-10
-releaseDate:  2020-08-13
-image:        ForThePeople.jpg
-video:        https://www.youtube.com/embed/76sqB96yRVQ
-author:       Josh Roque
-authorUrl:    josh
-categories:   ["visual novel", strategy, management, demo, review, story]
-tags:         ["Bregz Studio", 101XP, "For the People", "resource management"]
+pageType: post
+game: forthepeople
+slug: /for-the-people-demo-review/
+tabTitle: "For The People Goes Beyond Genre"
+title: "<em class='game-title'>For The People</em> Goes Beyond Genre"
+postType: [demo, review]
+desc: "For The People demo review: With art styles reminiscent of Communist propaganda, fanfare music, and downtrodden faces of the general public, this game is as concerned with politics as it is with the story of a young man given immense power."
+tagline: '"With art styles reminiscent of Communist propaganda, fanfare music, and downtrodden faces of the general public, this game is as concerned with politics as it is with the story of a young man given immense power."'
+date: 2020-08-10
+releaseDate: 2020-08-13
+image: ForThePeople.jpg
+video: https://www.youtube.com/embed/76sqB96yRVQ
+author: Josh Roque
+authorUrl: josh
+categories: ["visual novel", strategy, management, demo, review, story]
+tags: ["Bregz Studio", 101XP, "For the People", "resource management"]
 ---
-I didn't do any research into [For The People](https://store.101xp.com/forthepeople/en/), developed by [Brezg Studio](https://twitter.com/forthepeoplegme), until I played the demo earlier this week. I like to dive into new games as blindly as possible, just as a personal preference, and *For The People*'s demo certainly left a unique impression. It's a game that wears many hats—visual novel, point-and-click adventure, resource management, morality checker, just to name a few. It’s a hybrid game that combines the best of its genres into a unified experience about living in an oppressive society, questioning how an individual might balance their morals with their duty to that society.
+
+I didn't do any research into [For The People](https://store.101xp.com/forthepeople/en/), developed by [Brezg Studio](https://twitter.com/forthepeoplegme), until I played the demo earlier this week. I like to dive into new games as blindly as possible, just as a personal preference, and _For The People_'s demo certainly left a unique impression. It's a game that wears many hats—visual novel, point-and-click adventure, resource management, morality checker, just to name a few. It’s a hybrid game that combines the best of its genres into a unified experience about living in an oppressive society, questioning how an individual might balance their morals with their duty to that society.
 
 The full game releases on [Steam](https://store.steampowered.com/app/1146600/For_the_People/) on August 13, 2020.
 
@@ -46,13 +47,13 @@ One citizen was concerned that the city's plan to build new roads in Iron-1 woul
 
 <figcaption>These requests from citizens can range from seemingly innocent to completely outrageous.</figcaption>
 
-That's how *For The People* sucks you in: being Francis River felt like I was personally adopting his newfound role in society—it was up to me to decide how I should navigate being the middle-man of those below, and those above. And, being a resource management game, my actions had clear consequences.
+That's how _For The People_ sucks you in: being Francis River felt like I was personally adopting his newfound role in society—it was up to me to decide how I should navigate being the middle-man of those below, and those above. And, being a resource management game, my actions had clear consequences.
 
 ## The "Novel" Aspect
 
-One of the things that drew me to *For The People* is that it calls itself a "social novel." I can understand how there could be doubt about this statement, given that the game is also a resource management title. But after playing the demo, I think it manages to do both quite well.
+One of the things that drew me to _For The People_ is that it calls itself a "social novel." I can understand how there could be doubt about this statement, given that the game is also a resource management title. But after playing the demo, I think it manages to do both quite well.
 
-*For The People* expands its story with beautiful, stylized drawings that resembles a graphic novel. At the end of some workdays, a cutscene plays that expands on Francis River's life beyond his work. I enjoyed its willingness to mix different types of gameplay, especially because it felt more natural than being tied to a desk day in and day out.
+_For The People_ expands its story with beautiful, stylized drawings that resembles a graphic novel. At the end of some workdays, a cutscene plays that expands on Francis River's life beyond his work. I enjoyed its willingness to mix different types of gameplay, especially because it felt more natural than being tied to a desk day in and day out.
 
 ![At a bar, socializing][image3]
 
@@ -68,7 +69,7 @@ The next day turns out to be incredibly busy: a number of city officials from di
 
 Even later, a surprising twist to the plot turns up: there's a recent string of murders in Iron-1, presumably done by a serial killer. I was extremely excited to find that the plot isn't completely reliant on the gameplay, and that there were multiple plotlines to resolve. An official comes to the office with pictures of the recent murders, asking me to find any leads. In each picture, some form of hand-made jewelry accompanies the body—and so the plot thickens.
 
-The demo ends there, after four days of immersive gameplay as a high-ranking official in a bleak, war-torn country. I really enjoyed *For The People*'s demo and it left me wanting more of the life of Francis River. I recommend trying out the demo even if you aren't particularly interested in either the visual novel or resource management genre—it looks like the full game will be an excellent blend of both.
+The demo ends there, after four days of immersive gameplay as a high-ranking official in a bleak, war-torn country. I really enjoyed _For The People_'s demo and it left me wanting more of the life of Francis River. I recommend trying out the demo even if you aren't particularly interested in either the visual novel or resource management genre—it looks like the full game will be an excellent blend of both.
 
 [image0]: ../../../images/post/forthepeople/ForThePeople0.jpg
 [image1]: ../../../images/post/forthepeople/ForThePeople1.jpg

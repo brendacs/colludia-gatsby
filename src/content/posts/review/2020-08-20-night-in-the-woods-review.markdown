@@ -1,24 +1,37 @@
 ---
-pageType:     post
-game:         nightinthewoods
-slug:         /night-in-the-woods-review/
-tabTitle:     "Night in the Woods: A Delightfully Candid Tale of Youthful Quirk"
-title:        "<em class='game-title'>Night in the Woods:</em> A Delightfully Candid Tale of Youthful Quirk"
-postType:     ["#tbt", review]
-desc:         "Review: Night in the Woods tackles a multitude of themes and real life issues, such as trauma, social awkwardness, mental health, and young adulthood in the most genuine ways possible."
-tagline:      "\"Night in the Woods tackles a multitude of themes and real life issues, such as trauma, social awkwardness, mental health, and young adulthood in the most genuine ways possible.\""
-date:         2020-08-20
-releaseDate:  2017-02-21
-image:        NightInTheWoods.jpg
-video:        https://www.youtube.com/embed/u17kM8oSz3k
-author:       Moses Concha
-authorUrl:    moses
-categories:   [adventure, atmospheric, review, story]
-tags:         ["Night in the Woods", "Infinite Fall", Finji, 2D, colorful, art, cats, dialogue, character, friendship]
+pageType: post
+game: nightinthewoods
+slug: /night-in-the-woods-review/
+tabTitle: "Night in the Woods: A Delightfully Candid Tale of Youthful Quirk"
+title: "<em class='game-title'>Night in the Woods:</em> A Delightfully Candid Tale of Youthful Quirk"
+postType: ["#tbt", review]
+desc: "Review: Night in the Woods tackles a multitude of themes and real life issues, such as trauma, social awkwardness, mental health, and young adulthood in the most genuine ways possible."
+tagline: '"Night in the Woods tackles a multitude of themes and real life issues, such as trauma, social awkwardness, mental health, and young adulthood in the most genuine ways possible."'
+date: 2020-08-20
+releaseDate: 2017-02-21
+image: NightInTheWoods.jpg
+video: https://www.youtube.com/embed/u17kM8oSz3k
+author: Moses Concha
+authorUrl: moses
+categories: [adventure, atmospheric, review, story]
+tags:
+  [
+    "Night in the Woods",
+    "Infinite Fall",
+    Finji,
+    2D,
+    colorful,
+    art,
+    cats,
+    dialogue,
+    character,
+    friendship,
+  ]
 ---
-Across the many forms of media designed to depict the coming-of-age nature of modern young adulthood, not many do it quite like Infinite Fall's [*Night in the Woods*](http://www.nightinthewoods.com/), a Kickstarter smash-hit that met its initial $50,000 goal within 26 hours.
 
-This game offers some of the most memorable, witty and honest writing I have personally experienced in a video game, and with its equally memorable supporting cast of colorful and diverse characters, players have no choice but to be fully enveloped in *Night in the Wood*'s quirky, yet still oddly familiar world of Possum Springs.
+Across the many forms of media designed to depict the coming-of-age nature of modern young adulthood, not many do it quite like Infinite Fall's [_Night in the Woods_](http://www.nightinthewoods.com/), a Kickstarter smash-hit that met its initial \$50,000 goal within 26 hours.
+
+This game offers some of the most memorable, witty and honest writing I have personally experienced in a video game, and with its equally memorable supporting cast of colorful and diverse characters, players have no choice but to be fully enveloped in _Night in the Wood_'s quirky, yet still oddly familiar world of Possum Springs.
 
 ![Mae looking at a picture that is new to the bus stop][image0]
 
@@ -40,7 +53,7 @@ For instance, when I learned that Mae couldn't climb that tree when she was youn
 
 And even though I already previously decided that getting to the top of the playground was reward enough, as I stood high up on that vantage point where it almost felt like I could see for miles, I was presented with another text bubble that opened up a whole new line of dialogue I could have completely missed if I hadn't attempted to scale that beast of a tree.
 
-*Night in the Woods* is absolutely riddled with these playful moments, and while some are often deliberate and cannot be missed, there are also just as many that hide in plain sight, eagerly waiting for the player to come and find them.
+_Night in the Woods_ is absolutely riddled with these playful moments, and while some are often deliberate and cannot be missed, there are also just as many that hide in plain sight, eagerly waiting for the player to come and find them.
 
 ![A police officer saying hi to Mae and that it's been a while][image2]
 
@@ -52,13 +65,13 @@ It turns out there was a complete misunderstanding—Mae's parents thought she w
 
 ## Lazy Days Leave Plenty of Room for Play
 
-After its eventful prologue, your own personalized adventure in *Night in the Woods* truly begins. Every in-game day is an opportunity to do whatever it is your little heart desires, be it jumping on power lines, conversing with the fellow anthropomorphic townsfolk or even just hanging out with friends.
+After its eventful prologue, your own personalized adventure in _Night in the Woods_ truly begins. Every in-game day is an opportunity to do whatever it is your little heart desires, be it jumping on power lines, conversing with the fellow anthropomorphic townsfolk or even just hanging out with friends.
 
-A majority of *Night in the Woods'* gameplay consists of idle in-game events triggered by the aforementioned text bubbles scattered across Possum Springs. These events can range from just a friendly (often times, humorous) interaction between Mae and one of the locals or even entire quest lines that, say, have Mae go to an old parking lot to smash some lightbulbs with a friend. Now, I use the phrase "quest lines" quite loosely here, just because there are no deliberate quests or even overhead mission descriptions like there are in most adventure-based games.
+A majority of _Night in the Woods'_ gameplay consists of idle in-game events triggered by the aforementioned text bubbles scattered across Possum Springs. These events can range from just a friendly (often times, humorous) interaction between Mae and one of the locals or even entire quest lines that, say, have Mae go to an old parking lot to smash some lightbulbs with a friend. Now, I use the phrase "quest lines" quite loosely here, just because there are no deliberate quests or even overhead mission descriptions like there are in most adventure-based games.
 
-Besides that, you can spend some time practicing guitar in your room, checking messages on your computer, or even playing *Night in the Woods'* game-within-a-game, Demontower, a 2D roguelike with its own set of nine levels (and a final boss) to beat! It is worth noting Demontower *looks* and *feels* like its own complete game, and it features fun, addictive combat and level design that will make you want to scratch that "just one more level" itch. When I first discovered it on Mae's computer, I admittedly spent at least a full half-hour *alone* working my way through the first 2-3 levels only to die and be forced to start it all over again... from the *very beginning*!
+Besides that, you can spend some time practicing guitar in your room, checking messages on your computer, or even playing _Night in the Woods'_ game-within-a-game, Demontower, a 2D roguelike with its own set of nine levels (and a final boss) to beat! It is worth noting Demontower _looks_ and _feels_ like its own complete game, and it features fun, addictive combat and level design that will make you want to scratch that "just one more level" itch. When I first discovered it on Mae's computer, I admittedly spent at least a full half-hour _alone_ working my way through the first 2-3 levels only to die and be forced to start it all over again... from the _very beginning_!
 
-For anyone wondering, *no* I have not been able to beat it myself, but that is *only* because I wanted to focus my energy on completing the game for the sake of this review—thank you very much!
+For anyone wondering, _no_ I have not been able to beat it myself, but that is _only_ because I wanted to focus my energy on completing the game for the sake of this review—thank you very much!
 
 After every significant in-game event, like completing Demontower, Mae records it in her personal journal, where she draws a cute picture describing that event.
 
@@ -68,13 +81,13 @@ After every significant in-game event, like completing Demontower, Mae records i
 
 Simply put, all these extra things to do are just that—more things to do.
 
-Alternatively, you can also do *none* of those things, and just move forward with the game's story as it is told. *Night in the Woods* puts the players' freedom of choice first, and a player's decision to NOT do anything besides than the main story is nothing more than another way of playing the game as intended.
+Alternatively, you can also do _none_ of those things, and just move forward with the game's story as it is told. _Night in the Woods_ puts the players' freedom of choice first, and a player's decision to NOT do anything besides than the main story is nothing more than another way of playing the game as intended.
 
 ![Mae breaking lights on top of a dumpster][image4]
 
 <figcaption>Breakin' bulbs and breakin' the law!</figcaption>
 
-And I do not know if I am just speaking for myself, but when a game chooses to opt against all these overused, superfluous summaries of what the game *expects* me to do, I immediately feel more immersed in the game's world, and in the case of *Night in the Woods,* I simply cannot help but just sit there, take in the world, and enjoy the ride for what it is.
+And I do not know if I am just speaking for myself, but when a game chooses to opt against all these overused, superfluous summaries of what the game _expects_ me to do, I immediately feel more immersed in the game's world, and in the case of _Night in the Woods,_ I simply cannot help but just sit there, take in the world, and enjoy the ride for what it is.
 
 Developers who make these conscious choices to help ease players into their world are to be cherished and lauded for their player-first mentality. Thanks to the folks at Infinite Fall*,* my choice to spend a day at Possum Springs feels just as real to me as if I were to take a stroll through my own Manhattan neighborhood, where I know I am just as likely to run into some similarly oddball characters or haplessly unexpected situations. And not only do these situations tend to mimic life so well, they double as an accurate, modern representation of what it is to be young and spontaneous, where there is no true shortage of new and exciting things to do.
 
@@ -84,7 +97,7 @@ Developers who make these conscious choices to help ease players into their worl
 
 ## Animals Make For Some Interesting People
 
-Slowly, yet ever so smoothly, you are introduced to the town's locals, many of whom held some form of relationship with Mae prior to her return to Possum Springs. Among these locals include Mae's longtime friends who you get to connect with and learn more about throughout the course of the game, which for me made for some of the most memorable parts of playing *Night in the Woods.*
+Slowly, yet ever so smoothly, you are introduced to the town's locals, many of whom held some form of relationship with Mae prior to her return to Possum Springs. Among these locals include Mae's longtime friends who you get to connect with and learn more about throughout the course of the game, which for me made for some of the most memorable parts of playing _Night in the Woods._
 
 One of the first people you encounter is Mae's best friend named Gregg, an overly-excited fox with an affinity for leather jackets and committing crimes. Soon after agreeing to be a part of Gregg's band session (yes, you are a part of a rockin' band that ALSO plays original songs using Guitar Hero-like mechanics), we get to meet even more of Mae's friends who play an essential part in her journey.
 
@@ -96,13 +109,13 @@ These other friends include Beatrice, better known as Bea, a gloomy crocodile wi
 
 Every one of these characters has something unique about them that makes them instantly unforgettable, and when you've found yourself playing this game for hours at a time, you begin to establish some very real connections to people you would not have otherwise thought twice about when you first met them.
 
-And that's the best part about *Night in the Woods'* cast: they are so terribly unsuspecting, so undeniably original, and their internal struggles and personal thoughts never come to the surface until you spend enough time with them to find that out. The most unfortunate thing about that tidbit, however, is that there are many instances where you will have to pick and choose who you hang out with on a given day, so you will only learn so much about a character by the end of the game's runtime.
+And that's the best part about _Night in the Woods'_ cast: they are so terribly unsuspecting, so undeniably original, and their internal struggles and personal thoughts never come to the surface until you spend enough time with them to find that out. The most unfortunate thing about that tidbit, however, is that there are many instances where you will have to pick and choose who you hang out with on a given day, so you will only learn so much about a character by the end of the game's runtime.
 
 ![Mae hanging out with Bea][image7]
 
 <figcaption>Bea and Mae recalling an unfortunate incident that occurred at the mall back when they were in high school.</figcaption>
 
-Even the most minute of character details stick out in some memorable way, like how Bea used to refer to Mae as "Maeday" while Mae referred to Bea as "Beebee" back when they were closer, not-so-distant childhood friends. It's the organic ways in which these characters reveal those details through idle conversation that make these small details that much more worth remembering. The youthful innocence attached to nicknames like these *feel* genuinely and inherently human, although they are attached to otherwise nonhuman fictional characters.
+Even the most minute of character details stick out in some memorable way, like how Bea used to refer to Mae as "Maeday" while Mae referred to Bea as "Beebee" back when they were closer, not-so-distant childhood friends. It's the organic ways in which these characters reveal those details through idle conversation that make these small details that much more worth remembering. The youthful innocence attached to nicknames like these _feel_ genuinely and inherently human, although they are attached to otherwise nonhuman fictional characters.
 
 ![Playing in a band with friends, where you use Guitar Hero-like mechanics to play][image8]
 
@@ -110,11 +123,11 @@ Even the most minute of character details stick out in some memorable way, like 
 
 ## An Adventure To Remember
 
-*Night in the Woods* tackles a multitude of themes and real life issues, such as trauma, social awkwardness, mental health, young adulthood and even more in the most genuine ways possible. It treats its characters like they are more than just gears and cogs meant to keep the story moving on a mechanical conveyor belt to be served to the player on a silver platter. It makes every instance of dialogue between characters, every idle act and every single unmarked "quest" not only entertaining, but, most importantly, relatable to the person playing.
+_Night in the Woods_ tackles a multitude of themes and real life issues, such as trauma, social awkwardness, mental health, young adulthood and even more in the most genuine ways possible. It treats its characters like they are more than just gears and cogs meant to keep the story moving on a mechanical conveyor belt to be served to the player on a silver platter. It makes every instance of dialogue between characters, every idle act and every single unmarked "quest" not only entertaining, but, most importantly, relatable to the person playing.
 
-Given the slew of activities in *Night in the Woods* and the potential for missing out on other in-game events, multiple playthroughs are encouraged, which actually gives the player a rather vast amount of content to look forward to in an absolute gem of an indie title.
+Given the slew of activities in _Night in the Woods_ and the potential for missing out on other in-game events, multiple playthroughs are encouraged, which actually gives the player a rather vast amount of content to look forward to in an absolute gem of an indie title.
 
-With its refreshing take on the coming-of-age genre, an abundance of things to do, and top-notch writing that made me think, feel and laugh—sometimes at the same time—*Night in the Woods* stands out as a one-of-a-kind adventure that will surely see me taking a few more stops in Possum Springs.
+With its refreshing take on the coming-of-age genre, an abundance of things to do, and top-notch writing that made me think, feel and laugh—sometimes at the same time—_Night in the Woods_ stands out as a one-of-a-kind adventure that will surely see me taking a few more stops in Possum Springs.
 
 ![Mae sitting on a bridge rail with a sun setting in the backdrop][image9]
 

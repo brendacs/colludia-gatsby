@@ -1,26 +1,27 @@
 ---
-pageType:     post
-game:         darksidedetective
-slug:         /spooky-silly-darkside-detective/
-tabTitle:     The Spooky Silly Darkside Detective
-title:        The Spooky Silly <em class='game-title'>Darkside Detective</em>
-postType:     ["#tbt", review]
-desc:         "Darkside Detective review: Once I did start playing (and laughing), I only regretted not getting it earlier. I felt like I was in a pixelated murder mystery, detective show, stand-up comedy hybrid. Needless to say, I will be getting Season 2 on my Switch the second it comes out."
-tagline:      "\"Once I did start playing (and laughing), I only regretted not getting it earlier. I felt like I was in a pixelated murder mystery, detective show, stand-up comedy hybrid. Needless to say, I will be getting Season 2 on my Switch the second it comes out.\""
-date:         2020-05-13
-releaseDate:  2017-07-27
-image:        DarksideDetective.png
-video:        https://www.youtube.com/embed/8fOjX-bxRg0
-author:       Brenda Zhang
-authorUrl:    brenda
-categories:   [mystery, point-and-click, adventure, review, story]
-tags:         ["the darkside detective", "spooky doorway", pixel graphics, puzzle, iOS]
+pageType: post
+game: darksidedetective
+slug: /spooky-silly-darkside-detective/
+tabTitle: The Spooky Silly Darkside Detective
+title: The Spooky Silly <em class='game-title'>Darkside Detective</em>
+postType: ["#tbt", review]
+desc: "Darkside Detective review: Once I did start playing (and laughing), I only regretted not getting it earlier. I felt like I was in a pixelated murder mystery, detective show, stand-up comedy hybrid. Needless to say, I will be getting Season 2 on my Switch the second it comes out."
+tagline: '"Once I did start playing (and laughing), I only regretted not getting it earlier. I felt like I was in a pixelated murder mystery, detective show, stand-up comedy hybrid. Needless to say, I will be getting Season 2 on my Switch the second it comes out."'
+date: 2020-05-13
+releaseDate: 2017-07-27
+image: DarksideDetective.png
+video: https://www.youtube.com/embed/8fOjX-bxRg0
+author: Brenda Zhang
+authorUrl: brenda
+categories: [mystery, point-and-click, adventure, review, story]
+tags: ["the darkside detective", "spooky doorway", pixel graphics, puzzle, iOS]
 ---
-Despite *[The Darkside Detective](http://darksidedetective.com/)* being released three years ago and being on my wishlist for a good long while, I didn't actually get around to playing it until a few months ago when I grabbed it during a sale. Once I start playing (and laughing), I only regretted not getting it earlier.
+
+Despite _[The Darkside Detective](http://darksidedetective.com/)_ being released three years ago and being on my wishlist for a good long while, I didn't actually get around to playing it until a few months ago when I grabbed it during a sale. Once I start playing (and laughing), I only regretted not getting it earlier.
 
 In this game by [Spooky Doorway](http://www.spookydoorway.com/), you join Detective Francis McQueen and Officer Dooley in solving all cases having to do with the supernatural by figuring out puzzles in various standalone cases. The ghost and goblin-filled scenarios would normally spook me, but I instead felt like I was in a pixelated murder mystery, detective show, stand-up comedy hybrid due to the jokes and quirks at every turn.
 
-Though the game was released in 2017, a [Kickstarter](https://www.kickstarter.com/projects/spookydoorway/the-darkside-detective-season-2) was recently completed for *[The Darkside Detective: Season 2](https://store.steampowered.com/app/795420/The_Darkside_Detective__Season_2/)*, which will be released later this year. Needless to say, I will be getting Season 2 on my Switch the second it comes out. Until then, let's talk more about this spooky silly detective game.
+Though the game was released in 2017, a [Kickstarter](https://www.kickstarter.com/projects/spookydoorway/the-darkside-detective-season-2) was recently completed for _[The Darkside Detective: Season 2](https://store.steampowered.com/app/795420/The_Darkside_Detective__Season_2/)_, which will be released later this year. Needless to say, I will be getting Season 2 on my Switch the second it comes out. Until then, let's talk more about this spooky silly detective game.
 
 ![Detective McQueen commenting on the flickering lights][image0]
 
@@ -54,7 +55,7 @@ Whether in a mansion, a train, or at a retirement party at work, cases can arise
 
 Along the way, you meet souls from the Darkside, peculiar monsters, famous ghosts, and sometimes actual human beings all of which either help or hinder your progress as you run around solving cases in the best ways possible—such as letting a purple toilet tentacle (yes, the same one McQueen became fond of and named) hold a key item to be flushed into another dimension.
 
-The puzzles in each case were all solved in similarly amusing ways, which is a large part of what makes this game unique. Most puzzles in games are fun to solve and have interesting premises, but the solutions in *The Darkside Detective* were more comical than in any other mystery or point-and-click adventure game I've played.
+The puzzles in each case were all solved in similarly amusing ways, which is a large part of what makes this game unique. Most puzzles in games are fun to solve and have interesting premises, but the solutions in _The Darkside Detective_ were more comical than in any other mystery or point-and-click adventure game I've played.
 
 ![A mansion in the game][image4]
 
@@ -73,7 +74,6 @@ The puzzles in each case were all solved in similarly amusing ways, which is a l
 Despite technically being horror and having a great soundtrack that adds to the air of mystery, the game is lighthearted in nature with dialogue, characters, and puzzle solutions that make you joyful rather than fearful. The scenarios in each case are very specific and the puzzles are mostly straightforward, so all the cases end up being short and sweet. Most won't take you more than 30 minutes, yet are dense in entertainment, bizarre characters, and punchlines that land.
 
 ![Detective McQueen and Dooley outside of the library talking][image7]
-
 
 [image0]: ../../../images/post/darksidedetective/DarksideDetective0.png
 [image1]: ../../../images/post/darksidedetective/DarksideDetective1.png

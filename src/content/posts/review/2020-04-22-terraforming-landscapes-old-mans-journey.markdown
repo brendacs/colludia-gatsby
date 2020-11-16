@@ -1,20 +1,20 @@
 ---
-pageType:     post
-game:         oldmansjourney
-slug:         /terraforming-landscapes-old-mans-journey/
-tabTitle:     "Terraforming Landscapes in Old Man's Journey"
-title:        "Terraforming Landscapes in <em class='game-title'>Old Man's Journey</em>"
-postType:     ["#tbt", review]
-desc:         "Old Man's Journey review: The trek was a true walk down memory lane, filled with as many ups and downs as the hills themselves."
-tagline:      "\"The trek was a true walk down memory lane, filled with as many ups and downs as the hills themselves.\""
-date:         2020-04-22
-releaseDate:  2017-05-17
-image:        OldMansJourney.png
-video:        https://www.youtube.com/embed/tJ29Ql3xDhY
-author:       Brenda Zhang
-authorUrl:    brenda
-categories:   [puzzle, adventure, review, story]
-tags:         ["Old Man's Journey", "Broken Rules", landscapes]
+pageType: post
+game: oldmansjourney
+slug: /terraforming-landscapes-old-mans-journey/
+tabTitle: "Terraforming Landscapes in Old Man's Journey"
+title: "Terraforming Landscapes in <em class='game-title'>Old Man's Journey</em>"
+postType: ["#tbt", review]
+desc: "Old Man's Journey review: The trek was a true walk down memory lane, filled with as many ups and downs as the hills themselves."
+tagline: '"The trek was a true walk down memory lane, filled with as many ups and downs as the hills themselves."'
+date: 2020-04-22
+releaseDate: 2017-05-17
+image: OldMansJourney.png
+video: https://www.youtube.com/embed/tJ29Ql3xDhY
+author: Brenda Zhang
+authorUrl: brenda
+categories: [puzzle, adventure, review, story]
+tags: ["Old Man's Journey", "Broken Rules", landscapes]
 ---
 
 [Old Man's Journey](http://www.oldmansjourney.com/) by [Broken Rules](http://brokenrul.es/) is a beautifully illustrated story where every scene and flashback is like a painting. Being a short game of 2 hours, I could finally fit it in my schedule recently when I had a bit of spare time before work, and it was no doubt a great way to start my day.

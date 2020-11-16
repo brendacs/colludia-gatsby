@@ -1,22 +1,32 @@
 ---
-pageType:     post
-game:         whenthepastwasaround
-slug:         /when-the-past-was-around-review-demo/
-tabTitle:     "Soothing Music and Symbolism in When the Past Was Around"
-title:        "Soothing Music and Symbolism in <em class='game-title'>When the Past Was Around</em>"
-postType:     [demo, review]
-desc:         "When the Past Was Around demo review: The scenes progressed at an even pace, and the narrative within them was ever-present yet left you with enough space to imagine and fill in the blanks. As you exit through the door, the demo ends leaving you wondering just what happened when the past was around."
-tagline:      "\"The scenes progressed at an even pace, and the narrative within them was ever-present yet left you with enough space to imagine and fill in the blanks. As you exit through the door, the demo ends leaving you wondering just what happened when the past was around.\""
-date:         2020-08-31
-releaseDate:  2020-09-21
-image:        WhenThePastWasAround.png
-video:        https://www.youtube.com/embed/keCwvoUGOgc
-author:       Brenda Zhang
-authorUrl:    brenda
-categories:   [point-and-click, puzzle, demo, review, story]
-tags:         ["When the Past Was Around", "Mojiken Studio", "Toge Productions", illustration, music, symbolism, relaxing]
+pageType: post
+game: whenthepastwasaround
+slug: /when-the-past-was-around-review-demo/
+tabTitle: "Soothing Music and Symbolism in When the Past Was Around"
+title: "Soothing Music and Symbolism in <em class='game-title'>When the Past Was Around</em>"
+postType: [demo, review]
+desc: "When the Past Was Around demo review: The scenes progressed at an even pace, and the narrative within them was ever-present yet left you with enough space to imagine and fill in the blanks. As you exit through the door, the demo ends leaving you wondering just what happened when the past was around."
+tagline: '"The scenes progressed at an even pace, and the narrative within them was ever-present yet left you with enough space to imagine and fill in the blanks. As you exit through the door, the demo ends leaving you wondering just what happened when the past was around."'
+date: 2020-08-31
+releaseDate: 2020-09-21
+image: WhenThePastWasAround.png
+video: https://www.youtube.com/embed/keCwvoUGOgc
+author: Brenda Zhang
+authorUrl: brenda
+categories: [point-and-click, puzzle, demo, review, story]
+tags:
+  [
+    "When the Past Was Around",
+    "Mojiken Studio",
+    "Toge Productions",
+    illustration,
+    music,
+    symbolism,
+    relaxing,
+  ]
 ---
-*When the Past Was Around*'s prologue opens with beautiful, sentimental piano and violin music, a soft introduction to the emotions you'll experience as you point and click your way through the intimate home of a girl and her partner, a faceless shadow of a man holding a shadow of a violin.
+
+_When the Past Was Around_'s prologue opens with beautiful, sentimental piano and violin music, a soft introduction to the emotions you'll experience as you point and click your way through the intimate home of a girl and her partner, a faceless shadow of a man holding a shadow of a violin.
 
 The game is beautifully illustrated, with soft colors and edges to match the background music, setting the nostalgic and tranquil mood of the story. As you tamper with various household items and instruments, solving puzzles and unlocking boxes, you'll find feathers which are always given to the shadow-man. This leads to him to walk out a door and into the next scene.
 
@@ -34,7 +44,7 @@ This is especially noticeable because it contrasts so starkly with the calm and 
 
 Eventually, you give a third and last feather to the man and his shadow-violin regains its color, becoming a full violin and leading to a beautiful closing scene for the prologue. As he plays the violin, the girl gets carried away by the music, literally.
 
-As she is carried away, she floats closer and closer to the man and his violin, then at last grasps the violin. But this is where the piano music jarringly strays from its soft tones to become a mess of a melody and the girl is jolted as if with an electric shock. She drops down heavily to where she is alone, with only a door in front of her. As you exit through the door, the demo ends leaving you wondering just what happened *when the past was around*.
+As she is carried away, she floats closer and closer to the man and his violin, then at last grasps the violin. But this is where the piano music jarringly strays from its soft tones to become a mess of a melody and the girl is jolted as if with an electric shock. She drops down heavily to where she is alone, with only a door in front of her. As you exit through the door, the demo ends leaving you wondering just what happened _when the past was around_.
 
 ![The girl being literally carried away by the owl masked man's violin music][image2]
 
