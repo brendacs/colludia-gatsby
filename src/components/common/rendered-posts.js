@@ -2,7 +2,7 @@
 import PropTypes from "prop-types"
 import React, { useState } from "react"
 import Tag from "./tag"
-import GenresDropdowns from "./genres-dropdowns/genres-dropdowns"
+import GenresDropdowns from "./genres-dropdowns"
 import { tagColors } from "../componentConstants"
 import "./rendered-posts.scss"
 
