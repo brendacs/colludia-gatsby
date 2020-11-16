@@ -9,7 +9,9 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
   const postTemplate = require.resolve(
     `./src/components/templates/post/post.js`
   )
-  const authorTemplate = require.resolve(`./src/components/templates/author.js`)
+  const authorTemplate = require.resolve(
+    `./src/components/templates/author/author.js`
+  )
   const infoTemplate = require.resolve(`./src/components/templates/info.js`)
   const result = await graphql(`
     {
@@ -22,6 +24,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
             frontmatter {
               slug
               pageType
+              author
             }
           }
         }

@@ -6,15 +6,17 @@ import GenresDropdowns from "./genres-dropdowns/genres-dropdowns"
 import { tagColors } from "../componentConstants"
 import "./rendered-posts.scss"
 
-const RenderedPosts = ({ data, page, sortable, limit }) => {
+const RenderedPosts = ({ data, page, author, sortable, limit }) => {
   const [sorted, setSorted] = useState(false)
   let count = 0
   let posts = data.allMarkdownRemark.edges
 
   return (
-    <div className={page}>
+    <div className={page || (author && "author-page")}>
       {page === "genres" && <GenresDropdowns />}
-      <section className="posts-container">
+      <section
+        className={`posts-container ${author && "posts-container-author"}`}
+      >
         {sortable && (
           <select
             className="dropdown article-list-dropdown"
@@ -32,49 +34,52 @@ const RenderedPosts = ({ data, page, sortable, limit }) => {
           </select>
         )}
         <div className="posts">
-          {posts.map(p => {
-            let post = p.node.frontmatter
-            if (
-              page === "latest" ||
-              page === "genres" ||
-              post.postType.includes(page)
-            ) {
-              count += 1
-            }
-            return (
-              (page === "latest" ||
+          {posts
+            .filter(p => (author ? p.node.frontmatter.author === author : p))
+            .map(p => {
+              let post = p.node.frontmatter
+              if (
+                page === "latest" ||
                 page === "genres" ||
-                post.postType.includes(page)) && (
-                <a
-                  className={`post ${count > limit && "row"}`}
-                  href={post.slug}
-                  name={`navigate to post titled ${post.title}`}
-                >
-                  <img
-                    alt="game header image"
-                    className="post-image"
-                    loading="lazy"
-                    src={require(`../../images/headers/small/${post.image}`)}
-                  />
-                  <div className="post-text-container">
-                    <h2
-                      className="post-title"
-                      dangerouslySetInnerHTML={{ __html: post.title }}
+                post.postType.includes(page)
+              ) {
+                count += 1
+              }
+              return (
+                (author ||
+                  page === "latest" ||
+                  page === "genres" ||
+                  post.postType.includes(page)) && (
+                  <a
+                    className={`post ${count > limit && "row"}`}
+                    href={post.slug}
+                    name={`navigate to post titled ${post.title}`}
+                  >
+                    <img
+                      alt="game header image"
+                      className="post-image"
+                      loading="lazy"
+                      src={require(`../../images/headers/small/${post.image}`)}
                     />
-                    <div className="post-info">
-                      <p className="post-author">{post.author}</p>
-                      <p className="post-date">{post.date}</p>
+                    <div className="post-text-container">
+                      <h2
+                        className="post-title"
+                        dangerouslySetInnerHTML={{ __html: post.title }}
+                      />
+                      <div className="post-info">
+                        <p className="post-author">{post.author}</p>
+                        <p className="post-date">{post.date}</p>
+                      </div>
                     </div>
-                  </div>
-                  <div className="post-type">
-                    {post.postType.map(tag => (
-                      <Tag name={tag} color={tagColors[tag]} />
-                    ))}
-                  </div>
-                </a>
+                    <div className="post-type">
+                      {post.postType.map(tag => (
+                        <Tag name={tag} color={tagColors[tag]} />
+                      ))}
+                    </div>
+                  </a>
+                )
               )
-            )
-          })}
+            })}
         </div>
       </section>
     </div>

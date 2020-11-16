@@ -1,6 +1,7 @@
 import React from "react"
 import { graphql } from "gatsby"
-import Tag from "../common/tag"
+import Tag from "../../common/tag"
+import AuthorPosts from "./author-posts"
 import "./author.scss"
 
 const SocialButton = ({ frontmatter, type }) => {
@@ -17,8 +18,8 @@ const SocialButton = ({ frontmatter, type }) => {
 
   return (
     <li>
-      <a class={type} href={domain + frontmatter[type]}>
-        <img alt={`${type} logo`} src={require(`../../images/${image}`)} />
+      <a className={type} href={domain + frontmatter[type]}>
+        <img alt={`${type} logo`} src={require(`../../../images/${image}`)} />
       </a>
     </li>
   )
@@ -30,32 +31,32 @@ const AuthorTemplate = ({ data }) => {
   const { frontmatter } = markdownRemark
   console.log(frontmatter)
   return (
-    <div class="author">
-      <div class="author-heading">
-        <div class="author-image-wrapper">
+    <div className="author">
+      <div className="author-heading">
+        <div className="author-image-wrapper">
           <img
             alt="author cute alien avatar"
             name="author cute alien avatar"
-            class="author-image"
-            src={require(`../../images/avatars/${frontmatter.avatar}.svg`)}
+            className="author-image"
+            src={require(`../../../images/avatars/${frontmatter.avatar}.svg`)}
           />
         </div>
-        <h1 class="author-name">{frontmatter.author}</h1>
+        <h1 className="author-name">{frontmatter.author}</h1>
         <div>
           {frontmatter.roles.map(role => (
             <Tag name={role} color="random" />
           ))}
         </div>
       </div>
-      <h2 class="subheading">About the Author</h2>
-      <hr class="line-break" />
-      <div class="author-email">
-        <a href="mailto:{{ page.email }}" class="animated-link">
+      <h2 className="subheading">About the Author</h2>
+      <hr className="line-break" />
+      <div className="author-email">
+        <a href="mailto:{{ page.email }}" className="animated-link">
           {frontmatter.email}
         </a>
       </div>
-      <p class="author-bio">{frontmatter.bio}</p>
-      <div class="author-links share-buttons">
+      <p className="author-bio">{frontmatter.bio}</p>
+      <div className="author-links share-buttons">
         {frontmatter.portfolio && (
           <SocialButton frontmatter={frontmatter} type="portfolio" />
         )}
@@ -66,25 +67,27 @@ const AuthorTemplate = ({ data }) => {
           <SocialButton frontmatter={frontmatter} type="instagram" />
         )}
         <li>
-          <a class="patreon" href="https://patreon.com/colludia">
-            <img alt="patreon logo" src={require("../../images/patreon.png")} />
+          <a className="patreon" href="https://patreon.com/colludia">
+            <img
+              alt="patreon logo"
+              src={require("../../../images/patreon.png")}
+            />
           </a>
         </li>
         <li>
-          <a class="discord" href="https://discord.gg/PG2qkZf">
-            <img alt="discord logo" src={require("../../images/discord.png")} />
+          <a className="discord" href="https://discord.gg/PG2qkZf">
+            <img
+              alt="discord logo"
+              src={require("../../../images/discord.png")}
+            />
           </a>
         </li>
       </div>
-      <h2 class="subheading">Articles by {frontmatter.author}</h2>
-      <hr class="line-break" />
-      <section class="author-posts">
-        <ul class="posts">
-          {/* {% for post in site.posts %}
-            {% if post.author == page.author %}
-              {% include post.html post=post %}
-            {% endif %}
-          {% endfor %} */}
+      <h2 className="subheading">Articles by {frontmatter.author}</h2>
+      <hr className="line-break" />
+      <section className="author-posts">
+        <ul className="posts">
+          <AuthorPosts author={frontmatter.author} />
         </ul>
       </section>
     </div>
