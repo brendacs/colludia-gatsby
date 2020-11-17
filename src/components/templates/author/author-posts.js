@@ -1,7 +1,7 @@
 import PropTypes from "prop-types"
 import React from "react"
 import { graphql, StaticQuery } from "gatsby"
-import RenderedPosts from "../../common/rendered-posts"
+import RenderedPosts from "../../common-ui/rendered-posts"
 
 const AuthorPosts = ({ author }) => {
   return (

@@ -1,6 +1,6 @@
 import React from "react"
 import { graphql } from "gatsby"
-import Tag from "../../common/tag"
+import Tag from "../../common-ui/tag"
 import AuthorPosts from "./author-posts"
 import "./author.scss"
 

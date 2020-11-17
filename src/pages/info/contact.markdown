@@ -2,10 +2,8 @@
 pageType: info
 slug: /contact/
 author: Colludia Indie Gaming
-tabTitle: Contact
 title: Contact
 desc: Colludia's Privacy Policy. Colludia is an indie gaming blog focused on games with stories to tell and the developers behind them.
-class: md
 image: colludia-banner-big.png
 ---
 

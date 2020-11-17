@@ -1,6 +1,6 @@
 import { graphql, StaticQuery } from "gatsby"
 import React from "react"
-import RenderedPosts from "../../common/rendered-posts"
+import RenderedPosts from "../../common-ui/rendered-posts"
 
 const Posts = props => {
   return (

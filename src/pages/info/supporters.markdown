@@ -2,10 +2,8 @@
 pageType: info
 slug: /supporters/
 author: Colludia Indie Gaming
-tabTitle: Supporters
 title: Supporters
 desc: We're extremely grateful for all of our Patreon supporters. Thank you! Colludia is an indie gaming blog focused on games with stories to tell and the developers behind them.
-class: md
 image: colludia-banner-big.png
 ---
 
