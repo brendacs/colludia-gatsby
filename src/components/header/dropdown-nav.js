@@ -54,7 +54,7 @@ const DropdownNav = () => (
           </Link>
         </li>
         <li>
-          <Link className="animated-link" href="/advertise">
+          <Link className="animated-link" href="/ads">
             Advertise
           </Link>
         </li>

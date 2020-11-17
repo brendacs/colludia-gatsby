@@ -123,7 +123,7 @@ const PostTemplate = ({ data }) => {
               <a href="https://patreon.com/colludia">Patreon</a> or buying us a
               coffee on <a href="https://ko-fi.com/colludia">Ko-fi</a>. To
               sponsor or advertise with us, visit{" "}
-              <a href="/advertise">Advertise</a>.
+              <a href="/ads">Advertise</a>.
             </p>
             <div id="disqus_thread"></div>
           </div>

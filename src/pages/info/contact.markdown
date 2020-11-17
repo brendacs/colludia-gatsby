@@ -51,7 +51,7 @@ The following pages contain our staff's emails and social media.
 
 [info]: mailto:info@colludia.com
 [request]: mailto:request@colludia.com
-[advertise]: /advertise
+[advertise]: /ads
 [writers]: /writers
 [brenda]: /author/brenda
 [emily]: /author/emily

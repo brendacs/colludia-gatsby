@@ -1,6 +1,6 @@
 ---
 pageType: info
-slug: /advertise/
+slug: /ads/
 author: Colludia Indie Gaming
 tabTitle: Advertise
 title: Advertise

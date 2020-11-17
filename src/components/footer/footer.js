@@ -22,7 +22,7 @@ const Footer = () => (
           </Link>
         </li>
         <li>
-          <Link className="animated-link" to="/advertise">
+          <Link className="animated-link" to="/ads">
             Advertise
           </Link>
         </li>
