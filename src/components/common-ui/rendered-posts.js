@@ -6,6 +6,7 @@ import GenresDropdowns from "./genres-dropdowns"
 import { tagColors } from "../componentConstants"
 import "./rendered-posts.scss"
 
+// TODO: dropdowns
 const RenderedPosts = ({ data, page, author, sortable, limit }) => {
   const [sorted, setSorted] = useState(false)
   let count = 0

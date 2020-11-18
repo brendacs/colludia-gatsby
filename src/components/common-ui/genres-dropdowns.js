@@ -7,7 +7,7 @@ const GenresDropdowns = () => (
       <option value="" disabled>
         Choose article type
       </option>
-      {/* {% assign sorted_cats = site.categories | sort %}
+      {/* TODO: {% assign sorted_cats = site.categories | sort %}
       {% assign special_cats = "spotlight,review,our picks,demo,opinion,interview" | split: ',' %}
       {% for category in sorted_cats %}
         {% assign cat = category | first %}

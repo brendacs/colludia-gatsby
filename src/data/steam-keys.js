@@ -1,4 +1,4 @@
-const steamKeys = [
+export const steamKeys = [
   {
     title: "Find these games in $1 bundles on Humble Bundle",
     link: "https://www.humblebundle.com/games/?partner=colludia",

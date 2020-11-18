@@ -1,6 +1,6 @@
 import React from "react"
 import SEO from "../components/seo"
-import summary from "../data/steam-keys"
+import { steamKeys } from "../data/steam-keys"
 import "../components/templates/info/info.scss"
 
 const KeysPage = () => (
@@ -36,8 +36,41 @@ const KeysPage = () => (
         Here are the keys for <span class="bold">October</span>! Scroll down to
         see keys we've already given away.
       </p>
-
-      <ul class="key-list"></ul>
+      {/** TODO: this */}
+      <ul class="key-list">
+        {steamKeys.map((key, idx) => {
+          return (
+            <a
+              className={`post ${count > limit && "row"}`}
+              href={post.slug}
+              name={`navigate to post titled ${post.title}`}
+              key={idx}
+            >
+              <img
+                alt="header game screenshot"
+                className="post-image"
+                loading="lazy"
+                src={require(`../../images/headers/small/${post.image}`)}
+              />
+              <div className="post-text-container">
+                <h2
+                  className="post-title"
+                  dangerouslySetInnerHTML={{ __html: post.title }}
+                />
+                <div className="post-info">
+                  <p className="post-author">{post.author}</p>
+                  <p className="post-date">{post.date}</p>
+                </div>
+              </div>
+              <div className="post-type">
+                {post.postType.map((tag, idx) => (
+                  <Tag name={tag} key={idx} color={tagColors[tag]} />
+                ))}
+              </div>
+            </a>
+          )
+        })}
+      </ul>
     </section>
   </>
 )
