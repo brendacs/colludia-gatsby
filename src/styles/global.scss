@@ -1,4 +1,5 @@
-html, body {
+html,
+body {
   height: auto;
   width: 100vw;
   color: $site-font-color;
@@ -14,7 +15,12 @@ html, body {
   }
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   @include header-font;
   font-weight: 600;
   line-height: 1.25;
@@ -24,26 +30,38 @@ h1 {
   line-height: 1;
 }
 
-p, a, li, label, span {
+p,
+a,
+li,
+label,
+span {
   @include primary-font;
 }
 
-button, a {
+button,
+a {
   cursor: pointer;
   font-size: inherit;
 }
 
-p, li {
+p,
+li {
   font-size: $text-size;
   line-height: 1.75;
 }
 
 @media screen and (max-width: 1024px) {
-  h1, h2, h3, h4, h5, h6 {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
     @include header-font;
   }
 
-  p, a {
+  p,
+  a {
     @include primary-font;
   }
 }
@@ -53,7 +71,9 @@ ul {
   line-height: 1.5;
 }
 
-input[type=text], input[type=email], input[type=search] {
+input[type="text"],
+input[type="email"],
+input[type="search"] {
   @include large-text-input;
 }
 
@@ -86,6 +106,10 @@ blockquote {
   background-color: $site-gray;
 }
 
+.bold {
+  font-weight: 600;
+}
+
 .invisible-input {
   opacity: 0;
   max-width: 10px;
@@ -116,23 +140,23 @@ blockquote {
 }
 
 .dropdown {
-	@include primary-dropdown;
-	@include minimal-dropdown;
-	margin-top: -30px;
-	margin-bottom: 32px;
-	margin-right: 8.7%;
+  @include primary-dropdown;
+  @include minimal-dropdown;
+  margin-top: -30px;
+  margin-bottom: 32px;
+  margin-right: 8.7%;
   align-self: flex-end;
 
   option div {
-		background-color: $site-brand-color;
+    background-color: $site-brand-color;
   }
-  
-  @media screen and (max-width: 1000px) {
-		margin-right: 8%;
-	}
 
-	@media screen and (max-width: 768px) {
-		margin-right: 0;
-		align-self: center;
-	}
+  @media screen and (max-width: 1000px) {
+    margin-right: 8%;
+  }
+
+  @media screen and (max-width: 768px) {
+    margin-right: 0;
+    align-self: center;
+  }
 }

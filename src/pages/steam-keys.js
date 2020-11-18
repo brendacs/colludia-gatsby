@@ -1,7 +1,8 @@
 import React from "react"
 import SEO from "../components/seo"
-import { steamKeys } from "../data/steam-keys"
-import "../components/templates/info/info.scss"
+import Tag from "../components/common-ui/tag"
+import { steamKeys, keyInfo } from "../data/steam-keys"
+// import "../components/templates/info/info.scss"
 import "./steam-keys.scss"
 
 const KeysPage = () => (
@@ -15,6 +16,7 @@ const KeysPage = () => (
           name="navigate to humble bundle"
         >
           <img
+            className="stamp"
             alt="humble pundle partner stamp"
             src={require("../images/PartnerStampRed.png")}
           />
@@ -37,32 +39,77 @@ const KeysPage = () => (
         Here are the keys for <span className="bold">October</span>! Scroll down
         to see keys we've already given away.
       </p>
-      {/** TODO: add twitter buttons, subscribe buttons, view buttons, tags */}
-      {/** TODO: create common component stylesheet */}
       <ul className="key-list">
         {steamKeys.map((key, idx) => {
+          let { subtitle, socialButton, viewButton } = keyInfo[key.tags[0]]
+          let used = key.tags.includes("used")
           return (
-            <a
-              className={`post row key ${
-                key.tags && key.tags[0] === "partner" && "key-ad"
-              } ${key.tags && key.tags.includes("used") && "used"}`}
-              href={key.link}
-              name={`navigate to ${key.title} game page`}
+            <li
+              className={`key ${used && "key-used"} ${
+                key.tags[0] === "partner" && "key-ad"
+              }`}
               key={idx}
             >
-              <img
-                alt="game cover"
-                className="post-image"
-                loading="lazy"
-                src={require(`../images/keys/${key.image}`)}
-              />
-              <div className="post-text-container">
+              <div className="key-text-container">
+                <div className="key-header">
+                  <h2 className="key-title">{key.title}</h2>
+                  {key.tags.map((tag, idx) => (
+                    <Tag name={tag} key={idx} />
+                  ))}
+                </div>
+
                 <h2
-                  className="post-title"
-                  dangerouslySetInnerHTML={{ __html: key.title }}
+                  className="key-subtitle"
+                  dangerouslySetInnerHTML={{ __html: subtitle }}
                 />
+
+                <div className="key-links">
+                  {!used && (
+                    <a href={socialButton.link}>
+                      <button
+                        className={`key-button ${key.tags[0]}`}
+                        name="action link"
+                      >
+                        <img
+                          loading="lazy"
+                          alt="image for social media button"
+                          src={require(`../images/${socialButton.image}`)}
+                        />
+                        {socialButton.text}
+                      </button>
+                    </a>
+                  )}
+                  {key.tags[0] !== "partner" && (
+                    <a href={key.link}>
+                      <button
+                        className={`key-button humble ${used && "used"}`}
+                        name="action link"
+                      >
+                        <img
+                          loading="lazy"
+                          alt="image for view game page button"
+                          src={require("../images/humble.png")}
+                        />
+                        <p>{viewButton.text}</p>
+                      </button>
+                    </a>
+                  )}
+                </div>
               </div>
-            </a>
+              <div className="key-image-container">
+                <img
+                  loading="lazy"
+                  alt="game cover image"
+                  className="key-image"
+                  src={require(`../images/keys/${key.image}`)}
+                />
+                {key.tags[0] !== "partner" && (
+                  <p className="key-share-text">
+                    Help us share our content @Colludia!
+                  </p>
+                )}
+              </div>
+            </li>
           )
         })}
       </ul>
