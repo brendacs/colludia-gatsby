@@ -1,5 +1,5 @@
 import React from "react"
-import SEO from '../../seo'
+import SEO from "../../seo"
 import { graphql } from "gatsby"
 import Tag from "../../common-ui/tag"
 import QuickSummary from "./quick-summary"
@@ -85,7 +85,10 @@ const PostTemplate = ({ data }) => {
                       href={`https://twitter.com/intent/tweet?text=Check%20out%20this%20article%20on%20Colludia%21&url=${window.location.href}`}
                       name="share on twitter"
                     >
-                      <img alt="twitter logo" src="../../../images/twitter.svg" />
+                      <img
+                        alt="twitter logo"
+                        src="../../../images/twitter.svg"
+                      />
                     </a>
                     <a
                       href={`https://facebook.com/sharer.php?u=https://colludia.com${frontmatter.slug}`}
@@ -121,12 +124,12 @@ const PostTemplate = ({ data }) => {
                 </div>
               </article>
               <p className="sponsor-blurb">
-                Help us pay our writers and maintain our high-quality website and
-                writing by supporting us on{" "}
-                <a href="https://patreon.com/colludia">Patreon</a> or buying us a
-                coffee on <a href="https://ko-fi.com/colludia">Ko-fi</a>. To
-                sponsor or advertise with us, visit{" "}
-                <a href="/ads">Advertise</a>.
+                Help us pay our writers and maintain our high-quality website
+                and writing by supporting us on{" "}
+                <a href="https://patreon.com/colludia">Patreon</a> or buying us
+                a coffee on <a href="https://ko-fi.com/colludia">Ko-fi</a>. To
+                sponsor or advertise with us, visit <a href="/ads">Advertise</a>
+                .
               </p>
               <div id="disqus_thread"></div>
             </div>

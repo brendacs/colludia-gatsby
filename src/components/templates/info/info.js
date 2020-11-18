@@ -10,10 +10,7 @@ const InfoTemplate = ({ data }) => {
   return (
     <>
       <SEO title={frontmatter.title} />
-      <div
-        className="md-info"
-        dangerouslySetInnerHTML={{ __html: html }}
-      />
+      <div className="md-info" dangerouslySetInnerHTML={{ __html: html }} />
     </>
   )
 }

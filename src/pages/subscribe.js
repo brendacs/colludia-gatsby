@@ -9,14 +9,37 @@ const SubscribePage = () => (
       <div>
         <form method="post">
           <h1>Subscribe</h1>
-          <h2>Receive <a href="https://colludia.substack.com/archives">monthly newsletters</a> with the most recent articles and get access to the subscriber-only Steam key giveaway.</h2>
+          <h2>
+            Receive{" "}
+            <a href="https://colludia.substack.com/archives">
+              monthly newsletters
+            </a>{" "}
+            with the most recent articles and get access to the subscriber-only
+            Steam key giveaway.
+          </h2>
           <p className="subtitle-paragraph">
-            Consider supporting us in the easiest way possible! If you're a busy person who doesn't have time to check back frequently for new articles, you can get our developer spotlights and featured articles of the month straight to your inbox with a summary.
+            Consider supporting us in the easiest way possible! If you're a busy
+            person who doesn't have time to check back frequently for new
+            articles, you can get our developer spotlights and featured articles
+            of the month straight to your inbox with a summary.
           </p>
           <p className="subtitle-paragraph">
-            Don't worry&mdash;monthly means monthly, so we won't spam you. To check out our previous issues, view them in our <a href="https://colludia.substack.com/archives">newsletter archive</a>. To stay updated on a more frequent basis, <a href="https://twitter.com/colludia">follow us on Twitter</a>.
+            Don't worry&mdash;monthly means monthly, so we won't spam you. To
+            check out our previous issues, view them in our{" "}
+            <a href="https://colludia.substack.com/archives">
+              newsletter archive
+            </a>
+            . To stay updated on a more frequent basis,{" "}
+            <a href="https://twitter.com/colludia">follow us on Twitter</a>.
           </p>
-          <iframe title="Substack" loading="lazy" className="substack-iframe" src="https://colludia.substack.com/embed" frameBorder="0" scrolling="no"></iframe>
+          <iframe
+            title="Substack"
+            loading="lazy"
+            className="substack-iframe"
+            src="https://colludia.substack.com/embed"
+            frameBorder="0"
+            scrolling="no"
+          ></iframe>
         </form>
       </div>
     </section>
