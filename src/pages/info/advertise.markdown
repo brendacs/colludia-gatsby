@@ -3,7 +3,6 @@ pageType: info
 slug: /ads/
 author: Colludia Indie Gaming
 title: Advertise
-desc: Colludia is an indie gaming blog focused on games with stories to tell and the developers behind them. We are a couple of friends who have a slight video game addiction, particularly when it comes to the story-heavy gems we find in the indie game scene. Our favorite games are those that tell a story and start a conversation and would love to bring more attention to the stories the developers behind the games want to tell. Colludia is tailored to prioritize just that, along with shining spotlight on indie developers and studios.
 image: colludia-banner-big.png
 ---
 

@@ -19,4 +19,6 @@ export const pageDescriptions = {
   opinion:
     "Opinion are opinion articles about games in general, but with a specific focus on indie games or games with narratives.",
   genres: "Filter by all the genres of games we write reviews or analyses on.",
+  subscribe:
+    "Receive monthly newsletters with the most recent indie game reviews, articles, and Steam keys!",
 }
