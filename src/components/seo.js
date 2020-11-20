@@ -9,8 +9,9 @@ import React from "react"
 import PropTypes from "prop-types"
 import { Helmet } from "react-helmet"
 import { useStaticQuery, graphql } from "gatsby"
+import { pageDescriptions } from "./constants"
 
-function SEO({ lang, meta, title, description, author, image }) {
+function SEO({ lang, meta, title, description, author, image, page }) {
   const { site } = useStaticQuery(
     graphql`
       query {
@@ -29,7 +30,14 @@ function SEO({ lang, meta, title, description, author, image }) {
   const defaultTitle = site.siteMetadata.title
   const defaultUrl = site.siteMetadata.siteUrl
 
-  const metaDescription = description || site.siteMetadata.description
+  const pageDescription =
+    pageDescriptions[page || title.toLowerCase()] &&
+    `${pageDescriptions.default} ${
+      pageDescriptions[page || title.toLowerCase()]
+    }`
+
+  const metaDescription =
+    description || pageDescription || site.siteMetadata.description
   const metaAuthor = author || site.siteMetadata.author
   const metaImage =
     image || require("../images/headers/colludia-banner-big.png")

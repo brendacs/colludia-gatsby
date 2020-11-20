@@ -5,7 +5,7 @@ import { featuredPost } from "../data/featured-posts"
 
 const IndexPage = () => (
   <>
-    <SEO title="Home" />
+    <SEO title="Home" page="latest" />
     <ArticleList featuredPost={featuredPost.latest} page="latest" />
   </>
 )

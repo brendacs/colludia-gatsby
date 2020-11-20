@@ -5,7 +5,7 @@ import { featuredPost } from "../data/featured-posts"
 
 const ReviewsPage = () => (
   <>
-    <SEO title="Reviews" />
+    <SEO title="Reviews" page="review" />
     <ArticleList featuredPost={featuredPost.review} page="review" sortable />
   </>
 )

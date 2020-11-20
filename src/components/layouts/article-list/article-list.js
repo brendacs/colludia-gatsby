@@ -3,13 +3,16 @@ import PropTypes from "prop-types"
 import React from "react"
 import FeaturedPost from "./featured-post"
 import Posts from "./posts"
-import { tooltips } from "../../componentConstants"
+import { pageDescriptions } from "../../constants"
 import "./article-list.scss"
 
 const ArticleList = ({ featuredPost, page, sortable, limit }) => (
   <>
     {featuredPost && (
-      <FeaturedPost featuredPost={featuredPost} tooltip={tooltips[page]} />
+      <FeaturedPost
+        featuredPost={featuredPost}
+        tooltip={pageDescriptions[page]}
+      />
     )}
     <Posts page={page} sortable={sortable} limit={limit} />
   </>

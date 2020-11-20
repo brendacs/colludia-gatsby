@@ -5,8 +5,12 @@ import { featuredPost } from "../data/featured-posts"
 
 const SpotlightPage = () => (
   <>
-    <SEO title="Developer Spotlights" />
-    <ArticleList featuredPost={featuredPost.spotlight} page="spotlight" limit={3} />
+    <SEO title="Developer Spotlights" page="spotlight" />
+    <ArticleList
+      featuredPost={featuredPost.spotlight}
+      page="spotlight"
+      limit={3}
+    />
   </>
 )
 

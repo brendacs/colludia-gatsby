@@ -5,7 +5,9 @@ export const tagColors = {
   opinion: "purple",
 }
 
-export const tooltips = {
+export const pageDescriptions = {
+  default:
+    "Colludia is an indie gaming blog focused on games with stories to tell and the developers behind them.",
   latest:
     "Our latest featured article about an indie game with a story to tell.",
   review:
@@ -16,4 +18,5 @@ export const tooltips = {
     "Our Picks are lists of indie games under a common theme or from a community event.",
   opinion:
     "Opinion are opinion articles about games in general, but with a specific focus on indie games or games with narratives.",
+  genres: "Filter by all the genres of games we write reviews or analyses on.",
 }
