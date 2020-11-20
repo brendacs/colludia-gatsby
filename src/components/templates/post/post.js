@@ -10,9 +10,23 @@ const PostTemplate = ({ data }) => {
   // this prop will be injected by the GraphQL query below
   const { markdownRemark } = data // data.markdownRemark holds your post data
   const { frontmatter, html } = markdownRemark
+  const {
+    tabTitle,
+    desc,
+    image,
+    slug,
+    title,
+    author,
+    authorUrl,
+    date,
+    postType,
+    categories,
+    tags,
+    video,
+  } = frontmatter
   return (
     <>
-      <SEO title={frontmatter.tabTitle} />
+      <SEO title={tabTitle} description={desc} />
       <main className="post-main">
         <section className="post-page">
           <header>
@@ -20,14 +34,14 @@ const PostTemplate = ({ data }) => {
               <img
                 alt="post header screenshot from game"
                 className="post-page-image"
-                src={require(`../../../images/headers/${frontmatter.image}`)}
+                src={require(`../../../images/headers/${image}`)}
               />
             </div>
           </header>
           <div className="article-wrapper">
             <div className="share-buttons vertical">
               <a
-                href={`https://twitter.com/intent/tweet?text=Check%20out%20this%20article%20on%20%40Colludia%21&url=https://colludia.com${frontmatter.slug}`}
+                href={`https://twitter.com/intent/tweet?text=Check%20out%20this%20article%20on%20%40Colludia%21&url=https://colludia.com${slug}`}
                 name="share on twitter"
               >
                 <img
@@ -66,18 +80,18 @@ const PostTemplate = ({ data }) => {
                 <div className="post-page-info">
                   <h1
                     className="post-page-title"
-                    dangerouslySetInnerHTML={{ __html: frontmatter.title }}
+                    dangerouslySetInnerHTML={{ __html: title }}
                   />
                   <div className="post-page-details">
                     <p>
                       <a
-                        href={`/author/${frontmatter.authorUrl}`}
+                        href={`/author/${authorUrl}`}
                         className="animated-link"
                       >
-                        {frontmatter.author}
+                        {author}
                       </a>
                     </p>
-                    <p>{frontmatter.date}</p>
+                    <p>{date}</p>
                     {/* <p className="minute-estimate">{{ page.content | number_of_words | times: 2 | divided_by: 500 | plus: 1 }} minute read</p> */}
                   </div>
                   <div className="share-buttons horizontal">
@@ -91,7 +105,7 @@ const PostTemplate = ({ data }) => {
                       />
                     </a>
                     <a
-                      href={`https://facebook.com/sharer.php?u=https://colludia.com${frontmatter.slug}`}
+                      href={`https://facebook.com/sharer.php?u=https://colludia.com${slug}`}
                       name="share on facebook"
                     >
                       <img
@@ -107,18 +121,16 @@ const PostTemplate = ({ data }) => {
                     </div>
                   </div>
                 </div>
-                {frontmatter.postType.includes("review") && (
-                  <QuickSummary data={data} />
-                )}
+                {postType.includes("review") && <QuickSummary data={data} />}
                 <div
                   className="blog-post-content"
                   dangerouslySetInnerHTML={{ __html: html }}
                 />
                 <div className="tags">
-                  {frontmatter.categories.map((category, idx) => (
+                  {categories.map((category, idx) => (
                     <Tag name={category} key={idx} color="random" />
                   ))}
-                  {frontmatter.tags.map((tag, idx) => (
+                  {tags.map((tag, idx) => (
                     <Tag name={tag} key={idx} color="random" />
                   ))}
                 </div>
@@ -137,13 +149,13 @@ const PostTemplate = ({ data }) => {
         </section>
         <input
           type="text"
-          value={`https://colludia.com${frontmatter.slug}`}
+          value={`https://colludia.com${slug}`}
           className="share-link-text invisible-input"
           autoCorrect="off"
           spellCheck="false"
           readOnly
         />
-        {frontmatter.video && (
+        {video && (
           <div className="post-video-iframe" id="youtube">
             <div className="play">
               <div className="triangle"></div>
@@ -151,7 +163,7 @@ const PostTemplate = ({ data }) => {
             <img
               alt="custom youtube video thumbnail with game screenshot"
               className="post-video-iframe-image"
-              src={require(`../../../images/headers/small/${frontmatter.image}`)}
+              src={require(`../../../images/headers/small/${image}`)}
             />
           </div>
         )}

@@ -7,9 +7,10 @@ const InfoTemplate = ({ data }) => {
   // this prop will be injected by the GraphQL query below
   const { markdownRemark } = data // data.markdownRemark holds your post data
   const { html, frontmatter } = markdownRemark
+  const { tabTitle, desc } = frontmatter
   return (
     <>
-      <SEO title={frontmatter.title} />
+      <SEO title={tabTitle} description={desc} />
       <div className="md-info" dangerouslySetInnerHTML={{ __html: html }} />
     </>
   )
@@ -23,6 +24,7 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
+        desc
       }
     }
   }
