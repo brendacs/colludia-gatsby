@@ -26,7 +26,12 @@ const PostTemplate = ({ data }) => {
   } = frontmatter
   return (
     <>
-      <SEO title={tabTitle} description={desc} />
+      <SEO
+        title={tabTitle}
+        description={desc}
+        author={author}
+        image={require(`../../../images/headers/${image}`)}
+      />
       <main className="post-main">
         <section className="post-page">
           <header>

@@ -10,7 +10,7 @@ import PropTypes from "prop-types"
 import { Helmet } from "react-helmet"
 import { useStaticQuery, graphql } from "gatsby"
 
-function SEO({ author, description, lang, meta, title }) {
+function SEO({ lang, meta, title, description, author, image }) {
   const { site } = useStaticQuery(
     graphql`
       query {
@@ -31,19 +31,20 @@ function SEO({ author, description, lang, meta, title }) {
 
   const metaDescription = description || site.siteMetadata.description
   const metaAuthor = author || site.siteMetadata.author
-  const metaTitle = title || "Home"
+  const metaImage =
+    image || require("../images/headers/colludia-banner-big.png")
 
   return (
     <Helmet
       htmlAttributes={{
         lang,
       }}
-      title={metaTitle}
+      title={title}
       titleTemplate={`%s | ${defaultTitle}`}
       meta={[
         {
           name: "title",
-          content: metaTitle,
+          content: title,
         },
         {
           name: "description",
@@ -55,11 +56,11 @@ function SEO({ author, description, lang, meta, title }) {
         },
         {
           name: "image",
-          content: "",
+          content: metaImage,
         },
         {
           name: "thumbnail",
-          content: "",
+          content: metaImage,
         },
         {
           property: "og:site_name",
@@ -75,7 +76,7 @@ function SEO({ author, description, lang, meta, title }) {
         },
         {
           property: "og:image",
-          content: "",
+          content: metaImage,
         },
         {
           property: "og:locale",
@@ -103,7 +104,7 @@ function SEO({ author, description, lang, meta, title }) {
         },
         {
           name: "twitter:creator",
-          content: site.siteMetadata?.author || "",
+          content: metaAuthor,
         },
         {
           name: "twitter:title",
@@ -111,7 +112,7 @@ function SEO({ author, description, lang, meta, title }) {
         },
         {
           name: "twitter:image",
-          content: "",
+          content: metaImage,
         },
         {
           name: "twitter:description",
@@ -126,13 +127,16 @@ SEO.propTypes = {
   description: PropTypes.string,
   lang: PropTypes.string,
   meta: PropTypes.arrayOf(PropTypes.object),
-  title: PropTypes.string.isRequired,
+  title: PropTypes.string,
+  image: PropTypes.string,
 }
 
 SEO.defaultProps = {
   lang: "en",
   meta: [],
-  description: "",
+  title: "Home",
+  description: null,
+  image: null,
 }
 
 export default SEO

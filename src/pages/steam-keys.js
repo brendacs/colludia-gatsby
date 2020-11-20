@@ -72,7 +72,7 @@ const KeysPage = () => (
                       >
                         <img
                           loading="lazy"
-                          alt="image for social media button"
+                          alt="social media button"
                           src={require(`../images/${socialButton.image}`)}
                         />
                         {socialButton.text}
@@ -87,7 +87,7 @@ const KeysPage = () => (
                       >
                         <img
                           loading="lazy"
-                          alt="image for view game page button"
+                          alt="view game page button"
                           src={require("../images/humble.png")}
                         />
                         <p>{viewButton.text}</p>
@@ -99,7 +99,7 @@ const KeysPage = () => (
               <div className="key-image-container">
                 <img
                   loading="lazy"
-                  alt="game cover image"
+                  alt="game cover"
                   className="key-image"
                   src={require(`../images/keys/${key.image}`)}
                 />
