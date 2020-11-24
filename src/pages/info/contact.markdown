@@ -23,11 +23,6 @@ The following pages contain our staff's emails and social media.
 
 - [Brenda Zhang][brenda]
 
-### Editors
-
-- [Emily Tang][emily]
-- [Moses Concha][moses]
-
 ### Contributing Writers
 
 - [Devon Huge][devon]
