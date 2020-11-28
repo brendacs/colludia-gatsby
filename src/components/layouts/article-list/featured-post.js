@@ -1,13 +1,13 @@
-// import { Link } from 'gatsby'
+import { Link } from "gatsby"
 import PropTypes from "prop-types"
 import React from "react"
 import "./featured-post.scss"
 
 const FeaturedPost = ({ featuredPost, tooltip }) => (
   <section className={`featured ${featuredPost.type}`}>
-    <a
+    <Link
       className="featured-post"
-      href={featuredPost.url}
+      to={featuredPost.url}
       name="navigate to featured post"
     >
       <div className="featured-text-container">
@@ -33,7 +33,7 @@ const FeaturedPost = ({ featuredPost, tooltip }) => (
           src={require(`../../../images/headers/${featuredPost.image}`)}
         />
       )}
-    </a>
+    </Link>
   </section>
 )
 

@@ -1537,6 +1537,54 @@ const summaries = {
       },
     ],
   },
+  lamentum: {
+    quote:
+      "Guide Victor Hartwell, a young aristocrat on a desperate journey to cure the deadly disease that afflicts his beloved wife, Alissa. Their last hope resides in the darkened halls of Grau Hill Mansion whose Earl has uncovered ancient secrets and forgotten sciences. He claims he can heal Alissa, but… at what price? Grau Hill mansion will open its doors and immerse you in a world of nightmares where you may be trapped forever.",
+    image: "post/lamentum/victor-hartwell.png",
+    points: [
+      {
+        question: "Genre",
+        answer: "Action, adventure, survival horror",
+      },
+      {
+        question: "Developer",
+        answer: "Obscure Tales",
+      },
+      {
+        question: "Publisher",
+        answer: "Another Indie",
+      },
+      {
+        question: "Main Character",
+        answer: " Victor Hartwell",
+      },
+      {
+        question: "Platforms",
+        answer: "Windows, Playstation 4, Xbox One, Nintendo Switch",
+      },
+      {
+        question: "Release Date",
+        answer: 2021,
+      },
+      {
+        question: "Time Spent",
+        answer: "45 minutes",
+      },
+      {
+        question: "Completion",
+        answer: "100% (demo)",
+      },
+      {
+        question: "Winning Traits",
+        answer: "Atmosphere, imagery, sound design",
+      },
+      {
+        question: "Recommended?",
+        answer:
+          "If you’re a fan of Lovecraftian vibes, chilling atmosphere and gritty horror, yes! Fair warning, it’s not for the faint of heart.",
+      },
+    ],
+  },
 }
 
 export default summaries

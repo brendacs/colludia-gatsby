@@ -1,6 +1,6 @@
 import React from "react"
 import SEO from "../../seo"
-import { graphql } from "gatsby"
+import { graphql, Link } from "gatsby"
 import Tag from "../../common-ui/tag"
 import QuickSummary from "./quick-summary"
 import "./post.scss"
@@ -89,12 +89,12 @@ const PostTemplate = ({ data }) => {
                   />
                   <div className="post-page-details">
                     <p>
-                      <a
-                        href={`/author/${authorUrl}`}
+                      <Link
+                        to={`/author/${authorUrl}`}
                         className="animated-link"
                       >
                         {author}
-                      </a>
+                      </Link>
                     </p>
                     <p>{date}</p>
                     {/* <p className="minute-estimate">{{ page.content | number_of_words | times: 2 | divided_by: 500 | plus: 1 }} minute read</p> */}
@@ -145,8 +145,8 @@ const PostTemplate = ({ data }) => {
                 and writing by supporting us on{" "}
                 <a href="https://patreon.com/colludia">Patreon</a> or buying us
                 a coffee on <a href="https://ko-fi.com/colludia">Ko-fi</a>. To
-                sponsor or advertise with us, visit <a href="/ads">Advertise</a>
-                .
+                sponsor or advertise with us, visit{" "}
+                <Link to="/ads">Advertise</Link>.
               </p>
               <div id="disqus_thread"></div>
             </div>

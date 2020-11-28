@@ -1,4 +1,4 @@
-// import { Link } from 'gatsby'
+import { Link } from "gatsby"
 import PropTypes from "prop-types"
 import React, { useState } from "react"
 import Tag from "./tag"
@@ -51,9 +51,9 @@ const RenderedPosts = ({ data, page, author, sortable, limit }) => {
                   page === "latest" ||
                   page === "genres" ||
                   post.postType.includes(page)) && (
-                  <a
+                  <Link
                     className={`post ${count > limit && "row"}`}
-                    href={post.slug}
+                    to={post.slug}
                     name={`navigate to post titled ${post.title}`}
                     key={idx}
                   >
@@ -78,7 +78,7 @@ const RenderedPosts = ({ data, page, author, sortable, limit }) => {
                         <Tag name={tag} key={idx} color={tagColors[tag]} />
                       ))}
                     </div>
-                  </a>
+                  </Link>
                 )
               )
             })}
