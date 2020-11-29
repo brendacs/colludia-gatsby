@@ -127,11 +127,11 @@ Most major updates will be posted [@frogsonggame](https://twitter.com/frogsongga
 
 <figcaption>Meet Basalt, one of the most awesome frogs in the game, apparently.</figcaption>
 
-[image0]: /images/post/frogsong/Frogsong0.png
-[image1]: /images/post/frogsong/Frogsong1.png
-[image2]: /images/post/frogsong/Frogsong2.png
-[image3]: /images/post/frogsong/Frogsong3.png
-[image4]: /images/post/frogsong/Frogsong4.png
-[image5]: /images/post/frogsong/Frogsong5.png
-[image6]: /images/post/frogsong/Frogsong6.png
-[basalt]: /images/post/frogsong/basalt.jpg
+[image0]: ../../..../../../images/post/frogsong/Frogsong0.png
+[image1]: ../../../images/post/frogsong/Frogsong1.png
+[image2]: ../../../images/post/frogsong/Frogsong2.png
+[image3]: ../../../images/post/frogsong/Frogsong3.png
+[image4]: ../../../images/post/frogsong/Frogsong4.png
+[image5]: ../../../images/post/frogsong/Frogsong5.png
+[image6]: ../../../images/post/frogsong/Frogsong6.png
+[basalt]: ../../../images/post/frogsong/basalt.jpg

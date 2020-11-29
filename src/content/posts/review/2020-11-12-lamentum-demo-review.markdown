@@ -108,11 +108,11 @@ As I said, my relationship with horror is complicated. But I can definitely see 
 
 Keep a straitjacket handy in 2021—your sanity is about to be tested!
 
-[image0]: /images/post/lamentum/Lamentum0.png
-[image1]: /images/post/lamentum/Lamentum1.png
-[image2]: /images/post/lamentum/Lamentum2.png
-[image3]: /images/post/lamentum/Lamentum3.png
-[image4]: /images/post/lamentum/Lamentum4.png
-[image5]: /images/post/lamentum/Lamentum5.png
-[image6]: /images/post/lamentum/Lamentum6.png
-[image7]: /images/post/lamentum/Lamentum7.png
+[image0]: ../../../images/post/lamentum/Lamentum0.png
+[image1]: ../../../images/post/lamentum/Lamentum1.png
+[image2]: ../../../images/post/lamentum/Lamentum2.png
+[image3]: ../../../images/post/lamentum/Lamentum3.png
+[image4]: ../../../images/post/lamentum/Lamentum4.png
+[image5]: ../../../images/post/lamentum/Lamentum5.png
+[image6]: ../../../images/post/lamentum/Lamentum6.png
+[image7]: ../../../images/post/lamentum/Lamentum7.png
