@@ -1,7 +1,6 @@
 import { Link } from "gatsby"
 import PropTypes from "prop-types"
 import React, { useState } from "react"
-import SubscribeBtn from "./subscribe-button"
 import "./header.scss"
 import DropdownNav from "./dropdown-nav"
 
@@ -55,7 +54,15 @@ const Header = ({ siteTitle, search }) => {
               <img alt="search" src={require("../../images/search.svg")} />
             </button>
           )}
-          <SubscribeBtn />
+          <Link className="action" to="/subscribe" name="subscribe">
+            <button name="subscribe" className="subscribe-button">
+              <img
+                alt="email envelope"
+                src={require("../../images/email.svg")}
+              />
+              <p className="subscribe-text">Subscribe</p>
+            </button>
+          </Link>
           <div
             className="ham-menu-wrapper action"
             role="button"

@@ -61,7 +61,8 @@
       padding: 0;
       border: none;
 
-      &, img {
+      &,
+      img {
         height: 24px;
         width: 24px;
       }
@@ -83,5 +84,33 @@
         margin-left: 20px;
       }
     }
+  }
+}
+
+.subscribe-button {
+  @include primary-button;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  img {
+    height: 18px;
+    margin: -1px 10px 0 0;
+
+    @media screen and (max-width: 1024px) {
+      margin-right: 0;
+    }
+  }
+
+  .subscribe-text {
+    @media screen and (max-width: 1024px) {
+      display: none;
+      padding: 0 10px;
+    }
+  }
+
+  @media screen and (max-width: 570px) {
+    min-width: 0;
+    padding: 0 10px;
   }
 }
