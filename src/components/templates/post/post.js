@@ -55,7 +55,7 @@ const PostTemplate = ({ data }) => {
                 />
               </a>
               <a
-                href={`https://facebook.com/sharer.php?u=${window.location.href}`}
+                href={`https://facebook.com/sharer.php?u=https://colludia.com${slug}`}
                 name="share on facebook"
               >
                 <img
@@ -101,7 +101,7 @@ const PostTemplate = ({ data }) => {
                   </div>
                   <div className="share-buttons horizontal">
                     <a
-                      href={`https://twitter.com/intent/tweet?text=Check%20out%20this%20article%20on%20Colludia%21&url=${window.location.href}`}
+                      href={`https://twitter.com/intent/tweet?text=Check%20out%20this%20article%20on%20Colludia%21&url=https://colludia.com${slug}`}
                       name="share on twitter"
                     >
                       <img

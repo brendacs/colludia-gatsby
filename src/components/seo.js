@@ -11,7 +11,7 @@ import { Helmet } from "react-helmet"
 import { useStaticQuery, graphql } from "gatsby"
 import { pageDescriptions } from "./constants"
 
-function SEO({ lang, meta, title, description, author, image, page }) {
+function SEO({ lang, meta, title, description, author, image, page, type }) {
   const { site } = useStaticQuery(
     graphql`
       query {
@@ -41,6 +41,7 @@ function SEO({ lang, meta, title, description, author, image, page }) {
   const metaAuthor = author || site.siteMetadata.author
   const metaImage =
     image || require("../images/headers/colludia-banner-big.png")
+  const metaType = type || "website"
 
   return (
     <Helmet
@@ -71,6 +72,10 @@ function SEO({ lang, meta, title, description, author, image, page }) {
           content: metaImage,
         },
         {
+          name: "type",
+          content: metaType,
+        },
+        {
           property: "og:site_name",
           content: "Colludia",
         },
@@ -96,7 +101,7 @@ function SEO({ lang, meta, title, description, author, image, page }) {
         },
         {
           property: "og:type",
-          content: "website",
+          content: metaType,
         },
         {
           property: "og:url",

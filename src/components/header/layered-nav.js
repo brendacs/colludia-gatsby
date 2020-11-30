@@ -52,7 +52,8 @@ const LayeredNav = ({ darkmode, setDarkmode }) => {
         name="darkmode"
         onClick={() => {
           setDarkmode(!darkmode)
-          window.localStorage.setItem("darkmode", !darkmode)
+          typeof window !== `undefined` &&
+            window.localStorage.setItem("darkmode", !darkmode)
         }}
       >
         {" "}

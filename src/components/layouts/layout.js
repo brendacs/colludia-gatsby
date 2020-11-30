@@ -12,6 +12,10 @@ import Header from "../header/header"
 import LayeredNav from "../header/layered-nav"
 import Footer from "../footer/footer"
 
+const storedDarkmode =
+  typeof window !== `undefined` &&
+  window.localStorage.getItem("darkmode") === "true"
+
 const Layout = ({ children }) => {
   const data = useStaticQuery(graphql`
     query SiteTitleQuery {
@@ -23,9 +27,7 @@ const Layout = ({ children }) => {
     }
   `)
 
-  const [darkmode, setDarkmode] = useState(
-    window.localStorage.getItem("darkmode") === "true" || false
-  )
+  const [darkmode, setDarkmode] = useState(storedDarkmode || false)
 
   return (
     <div id={darkmode ? "darkmode" : "lightmode"}>
