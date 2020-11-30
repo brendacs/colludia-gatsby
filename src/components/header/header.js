@@ -6,7 +6,6 @@ import DropdownNav from "./dropdown-nav"
 
 const Header = ({ siteTitle, search }) => {
   const [showDropdownNav, setShowDropdownNav] = useState(false)
-  const [showSearch, setShowSearch] = useState(false)
 
   // Below is code to hide dropdown nav on scroll, but not using this UX for now
 
@@ -51,14 +50,7 @@ const Header = ({ siteTitle, search }) => {
 
         <div className="main-nav-actions">
           {search && (
-            <button
-              className="search-btn action"
-              name="search"
-              onClick={() => {
-                setShowSearch(!showSearch)
-                setShowDropdownNav(false)
-              }}
-            >
+            <button className="search-btn action" name="search">
               <img alt="search" src={require("../../images/search.svg")} />
             </button>
           )}
@@ -75,14 +67,8 @@ const Header = ({ siteTitle, search }) => {
             className="ham-menu-wrapper action"
             role="button"
             tabIndex={0}
-            onClick={() => {
-              setShowDropdownNav(!showDropdownNav)
-              setShowSearch(false)
-            }}
-            onKeyDown={() => {
-              setShowDropdownNav(!showDropdownNav)
-              setShowSearch(false)
-            }}
+            onClick={() => setShowDropdownNav(!showDropdownNav)}
+            onKeyDown={() => setShowDropdownNav(!showDropdownNav)}
           >
             <img
               alt="hamburger menu"
@@ -94,7 +80,7 @@ const Header = ({ siteTitle, search }) => {
       </nav>
       <div className="search-wrapper">
         <input
-          className={`search ${showSearch ? "" : "hide"}`}
+          className="search hide"
           type="search"
           placeholder="Search by title, author, or article type e.g. review"
           spellCheck="false"
