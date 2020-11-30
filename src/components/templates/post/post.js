@@ -5,7 +5,6 @@ import Tag from "../../common-ui/tag"
 import QuickSummary from "./quick-summary"
 import "./post.scss"
 
-// TODO: word count
 const PostTemplate = ({ data }) => {
   // this prop will be injected by the GraphQL query below
   const { markdownRemark } = data // data.markdownRemark holds your post data
@@ -24,6 +23,9 @@ const PostTemplate = ({ data }) => {
     tags,
     video,
   } = frontmatter
+  const text = html.replace(/(<([^>]+)>)/gi, "")
+  const minutes = parseInt((text.split(" ").length * 2) / 500) + 1
+
   return (
     <>
       <SEO
@@ -97,7 +99,11 @@ const PostTemplate = ({ data }) => {
                       </Link>
                     </p>
                     <p>{date}</p>
-                    {/* <p className="minute-estimate">{{ page.content | number_of_words | times: 2 | divided_by: 500 | plus: 1 }} minute read</p> */}
+                    <p className="minute-estimate">{minutes} minute read</p>
+                    {/* <p className="minute-estimate">
+                      {console.log(html.replace(/(<([^>]+)>)/gi, ""))} minute
+                      read
+                    </p> */}
                   </div>
                   <div className="share-buttons horizontal">
                     <a

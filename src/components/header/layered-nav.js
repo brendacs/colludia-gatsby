@@ -45,7 +45,6 @@ const LayeredNav = ({ darkmode, setDarkmode }) => {
           All Genres
         </Link>
       </ul>
-      {/** TODO: this */}
       <button
         id="darkmode-button"
         className="action"
