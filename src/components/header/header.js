@@ -4,7 +4,7 @@ import React, { useState } from "react"
 import "./header.scss"
 import DropdownNav from "./dropdown-nav"
 
-const Header = ({ siteTitle, search }) => {
+const Header = ({ siteTitle }) => {
   const [showDropdownNav, setShowDropdownNav] = useState(false)
 
   // Below is code to hide dropdown nav on scroll, but not using this UX for now
@@ -49,11 +49,6 @@ const Header = ({ siteTitle, search }) => {
         </div>
 
         <div className="main-nav-actions">
-          {search && (
-            <button className="search-btn action" name="search">
-              <img alt="search" src={require("../../images/search.svg")} />
-            </button>
-          )}
           <Link className="action" to="/subscribe" name="subscribe">
             <button name="subscribe" className="subscribe-button">
               <img
@@ -78,14 +73,6 @@ const Header = ({ siteTitle, search }) => {
           </div>
         </div>
       </nav>
-      <div className="search-wrapper">
-        <input
-          className="search hide"
-          type="search"
-          placeholder="Search by title, author, or article type e.g. review"
-          spellCheck="false"
-        />
-      </div>
       {showDropdownNav && <DropdownNav />}
     </header>
   )
@@ -93,11 +80,6 @@ const Header = ({ siteTitle, search }) => {
 
 Header.propTypes = {
   siteTitle: PropTypes.string.isRequired,
-  search: PropTypes.bool,
-}
-
-Header.defaultProps = {
-  search: true,
 }
 
 export default Header

@@ -47,13 +47,6 @@
     color: $site-darkmode-font-color;
   }
 
-  input[type="search"].search {
-    background-color: $site-darkmode-gray;
-    color: $site-darkmode-font-color;
-    border-bottom: 1px solid lighten($site-darkmode-gray, 15%);
-    box-shadow: none;
-  }
-
   .secondary-nav {
     background-color: $site-darkmode-gray;
     border-bottom: 1px solid $site-darkmode-gray;

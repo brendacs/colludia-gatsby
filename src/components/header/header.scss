@@ -56,18 +56,6 @@
     flex-direction: row;
     align-items: center;
 
-    .search-btn {
-      background: transparent;
-      padding: 0;
-      border: none;
-
-      &,
-      img {
-        height: 24px;
-        width: 24px;
-      }
-    }
-
     .ham-menu {
       width: 25px;
       cursor: pointer;
