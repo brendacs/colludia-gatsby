@@ -87,6 +87,26 @@
   }
 }
 
+.search-wrapper {
+  width: 100vw;
+  position: absolute;
+  z-index: 100;
+}
+
+input[type="search"].search {
+  margin-right: 40px;
+  width: 100%;
+  font-size: $text-size;
+  padding: 30px 50px;
+  box-shadow: -4px 5px 10px -5px lighten($site-font-color, 15%);
+  border-bottom: none;
+
+  @media screen and (max-width: 425px) {
+    padding: 30px 10px;
+    font-size: $tiny-size;
+  }
+}
+
 .subscribe-button {
   @include primary-button;
   display: flex;
