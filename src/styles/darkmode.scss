@@ -1,4 +1,4 @@
-html#darkmode, body#darkmode {
+#darkmode {
   background-color: $site-font-color;
   color: $site-darkmode-font-color;
 
@@ -9,12 +9,15 @@ html#darkmode, body#darkmode {
   }
 }
 
-html#darkmode {
+#darkmode {
   .content {
     background-color: $site-font-color;
   }
 
-  &.about, &.contact, &.subscribe, &.author {
+  &.about,
+  &.contact,
+  &.subscribe,
+  &.author {
     background-color: $site-font-color;
     color: $site-darkmode-font-color;
   }
@@ -25,7 +28,8 @@ html#darkmode {
     }
   }
 
-  .main-nav, .layered-nav {
+  .main-nav,
+  .layered-nav {
     border-bottom: 1px solid $site-darkmode-gray;
     background-color: $site-font-color;
   }
@@ -43,7 +47,7 @@ html#darkmode {
     color: $site-darkmode-font-color;
   }
 
-  input[type=search].search {
+  input[type="search"].search {
     background-color: $site-darkmode-gray;
     color: $site-darkmode-font-color;
     border-bottom: 1px solid lighten($site-darkmode-gray, 15%);
@@ -69,7 +73,7 @@ html#darkmode {
     color: $site-text-highlight;
 
     &:before {
-      content: '★ LIGHT';
+      content: "★ LIGHT";
     }
   }
 
@@ -85,7 +89,9 @@ html#darkmode {
     background-color: lighten($site-darkmode-font-color, 5%);
 
     &:hover {
-			box-shadow: 0 2px 0 rgba(54,45,89,0.15), -0.1875rem -0.1875rem 0 0.1875rem $site-brand-color, 0 0 0 0.375rem $site-gray;
+      box-shadow: 0 2px 0 rgba(54, 45, 89, 0.15),
+        -0.1875rem -0.1875rem 0 0.1875rem $site-brand-color,
+        0 0 0 0.375rem $site-gray;
     }
   }
 
@@ -93,10 +99,17 @@ html#darkmode {
     background-color: $site-darkmode-gray;
     border: 1px solid $site-darkmode-font-color;
     color: $site-darkmode-font-color;
-    background-image:
-    linear-gradient(45deg, transparent 50%, $site-darkmode-font-color 50%),
-    linear-gradient(135deg, $site-darkmode-font-color 50%, transparent 50%),
-    linear-gradient(to right, $site-darkmode-font-color, $site-darkmode-font-color);
+    background-image: linear-gradient(
+        45deg,
+        transparent 50%,
+        $site-darkmode-font-color 50%
+      ),
+      linear-gradient(135deg, $site-darkmode-font-color 50%, transparent 50%),
+      linear-gradient(
+        to right,
+        $site-darkmode-font-color,
+        $site-darkmode-font-color
+      );
   }
 
   .post-main {
@@ -136,7 +149,8 @@ html#darkmode {
     color: $site-darkmode-font-color;
   }
 
-  .posts-container, .author-posts {
+  .posts-container,
+  .author-posts {
     background-color: $site-font-color;
   }
 
@@ -161,7 +175,9 @@ html#darkmode {
     }
 
     &:hover {
-      box-shadow: 0 2px 0 rgba(54,45,89,0.15), -0.1875rem -0.1875rem 0 0.1875rem $site-brand-color, 0 0 0 0.375rem $site-gray;
+      box-shadow: 0 2px 0 rgba(54, 45, 89, 0.15),
+        -0.1875rem -0.1875rem 0 0.1875rem $site-brand-color,
+        0 0 0 0.375rem $site-gray;
     }
   }
 
@@ -181,12 +197,24 @@ html#darkmode {
     }
   }
 
-  .substack-iframe {	
-    background-color: lighten($site-darkmode-font-color, 10%);	
+  .substack-iframe {
+    background-color: lighten($site-darkmode-font-color, 10%);
   }
 
   /* Amazon ad overrides for darkmode */
-  div#amzn-native-ad-0 div.amzn-native-product, .amzn-native-product-title-text, .amzn-native-product-image-container, .amzn-native-product-image-holder, .amzn-native-product-subtitle, .amzn-native-product-offer-price, .amzn-native-product-rating-text, .amzn-native-da-adchoices-link, .amzn-sprite.amzn-native-da-adchoices, .amzn-sprite.amzn-native-product-ad-notification, .amzn-native-product-ad-notification-tooltip, .amzn-native-product-ad-notification-text, .amzn-native-product-additional-info-menu-overlay {
+  div#amzn-native-ad-0 div.amzn-native-product,
+  .amzn-native-product-title-text,
+  .amzn-native-product-image-container,
+  .amzn-native-product-image-holder,
+  .amzn-native-product-subtitle,
+  .amzn-native-product-offer-price,
+  .amzn-native-product-rating-text,
+  .amzn-native-da-adchoices-link,
+  .amzn-sprite.amzn-native-da-adchoices,
+  .amzn-sprite.amzn-native-product-ad-notification,
+  .amzn-native-product-ad-notification-tooltip,
+  .amzn-native-product-ad-notification-text,
+  .amzn-native-product-additional-info-menu-overlay {
     background-color: $site-font-color !important;
     color: $site-darkmode-font-color !important;
 

@@ -2,7 +2,7 @@ import { Link } from "gatsby"
 import React from "react"
 import "./layered-nav.scss"
 
-const LayeredNav = () => {
+const LayeredNav = ({ darkmode, setDarkmode }) => {
   return (
     <nav className="layered-nav">
       <ul className="layered-nav-items">
@@ -46,7 +46,15 @@ const LayeredNav = () => {
         </Link>
       </ul>
       {/** TODO: this */}
-      <button id="darkmode-button" className="action" name="darkmode">
+      <button
+        id="darkmode-button"
+        className="action"
+        name="darkmode"
+        onClick={() => {
+          setDarkmode(!darkmode)
+          window.localStorage.setItem("darkmode", !darkmode)
+        }}
+      >
         {" "}
         MODE{" "}
       </button>
