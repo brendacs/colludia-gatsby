@@ -66,13 +66,14 @@ const PostTemplate = ({ data }) => {
                 />
               </a>
               {/** TODO: cp functionality */}
-              <div className="share-link-wrapper">
+              {/* <div className="share-link-wrapper">
                 <div className="tooltip hide">Copied!</div>
                 <a className="share-link" name="copy link to article to share">
                   <img alt="link" src={require("../../../images/link.svg")} />
                 </a>
-              </div>
-              <a
+              </div> */}
+              {/** TODO: disqus comments */}
+              {/* <a
                 className="jump-comments"
                 href="#disqus_thread"
                 name="jump to comments"
@@ -81,7 +82,7 @@ const PostTemplate = ({ data }) => {
                   alt="conment speech bubble"
                   src={require("../../../images/comment.svg")}
                 />
-              </a>
+              </a> */}
             </div>
             <div className="article">
               <article>
@@ -101,10 +102,6 @@ const PostTemplate = ({ data }) => {
                     </p>
                     <p>{date}</p>
                     <p className="minute-estimate">{minutes} minute read</p>
-                    {/* <p className="minute-estimate">
-                      {console.log(html.replace(/(<([^>]+)>)/gi, ""))} minute
-                      read
-                    </p> */}
                   </div>
                   <div className="share-buttons horizontal">
                     <a
@@ -125,12 +122,12 @@ const PostTemplate = ({ data }) => {
                         src="../../../images/facebook.svg"
                       />
                     </a>
-                    <div className="share-link-wrapper">
+                    {/* <div className="share-link-wrapper">
                       <div className="tooltip hide">Copied!</div>
                       <a className="share-link" name="copy link to share">
                         <img alt="link" src="../../../images/link.svg" />
                       </a>
-                    </div>
+                    </div> */}
                   </div>
                 </div>
                 {postType.includes("review") && <QuickSummary data={data} />}
