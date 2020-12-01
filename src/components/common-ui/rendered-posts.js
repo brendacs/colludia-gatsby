@@ -13,7 +13,15 @@ import "./rendered-posts.scss"
 import "./genres.scss"
 
 // TODO: dropdown functionality
-const RenderedPosts = ({ data, page, author, sortable, limit }) => {
+const RenderedPosts = ({
+  data,
+  page,
+  author,
+  categories,
+  tags,
+  sortable,
+  limit,
+}) => {
   const [sorted, setSorted] = useState(false)
   let count = 0
   let posts = data.allMarkdownRemark.edges

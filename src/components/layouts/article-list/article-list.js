@@ -6,7 +6,14 @@ import Posts from "./posts"
 import { pageDescriptions } from "../../constants"
 import "./article-list.scss"
 
-const ArticleList = ({ featuredPost, page, sortable, limit }) => (
+const ArticleList = ({
+  featuredPost,
+  page,
+  categories,
+  tags,
+  sortable,
+  limit,
+}) => (
   <>
     {featuredPost && (
       <FeaturedPost
@@ -14,7 +21,13 @@ const ArticleList = ({ featuredPost, page, sortable, limit }) => (
         tooltip={pageDescriptions[page]}
       />
     )}
-    <Posts page={page} sortable={sortable} limit={limit} />
+    <Posts
+      page={page}
+      categories={categories}
+      tags={tags}
+      sortable={sortable}
+      limit={limit}
+    />
   </>
 )
 
