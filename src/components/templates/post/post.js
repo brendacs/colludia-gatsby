@@ -65,6 +65,7 @@ const PostTemplate = ({ data }) => {
                   src={require("../../../images/facebook.svg")}
                 />
               </a>
+              {/** TODO: cp functionality */}
               <div className="share-link-wrapper">
                 <div className="tooltip hide">Copied!</div>
                 <a className="share-link" name="copy link to article to share">

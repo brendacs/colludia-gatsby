@@ -1,12 +1,18 @@
 import { Link } from "gatsby"
 import PropTypes from "prop-types"
 import React, { useState } from "react"
+import Dropdown from "./dropdown"
 import Tag from "./tag"
-import GenresDropdowns from "./genres-dropdowns"
-import { tagColors } from "../constants"
+import {
+  tagColors,
+  reviewPageDropdownOptions,
+  genresPageArticleTypeDropdownOptions,
+  genresPageGenreDropdownOptions,
+} from "../constants"
 import "./rendered-posts.scss"
+import "./genres.scss"
 
-// TODO: dropdowns
+// TODO: dropdown functionality
 const RenderedPosts = ({ data, page, author, sortable, limit }) => {
   const [sorted, setSorted] = useState(false)
   let count = 0
@@ -14,25 +20,23 @@ const RenderedPosts = ({ data, page, author, sortable, limit }) => {
 
   return (
     <div className={page || (author && "author-page")}>
-      {page === "genres" && <GenresDropdowns />}
+      {page === "genres" && (
+        <section className="all-categories">
+          <Dropdown
+            options={genresPageArticleTypeDropdownOptions}
+            defaultSelected
+          />
+          <Dropdown options={genresPageGenreDropdownOptions} defaultSelected />
+        </section>
+      )}
       <section
         className={`posts-container ${author && "posts-container-author"}`}
       >
         {sortable && (
-          <select
-            className="dropdown article-list-dropdown"
-            id="sort-select-list"
-          >
-            <option defaultValue="article" disabled>
-              Sort articles by
-            </option>
-            <option value="article" onSelect={() => setSorted(false)}>
-              Most recent article
-            </option>
-            <option value="release" onSelect={() => setSorted(true)}>
-              Most recent game release date
-            </option>
-          </select>
+          <Dropdown
+            options={reviewPageDropdownOptions}
+            onSelect={value => setSorted(value)}
+          />
         )}
         <div className="posts">
           {posts

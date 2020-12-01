@@ -22,3 +22,26 @@ export const pageDescriptions = {
   subscribe:
     "Receive monthly newsletters with the most recent indie game reviews, articles, and Steam keys!",
 }
+
+export const reviewPageDropdownOptions = [
+  { value: "default", label: "Sort articles by", disabled: true },
+  { value: "publishDate", label: "Most recent article" },
+  { value: "releaseDate", label: "Most recent game release date" },
+]
+
+export const genresPageArticleTypeDropdownOptions = [
+  { value: "default", label: "Filter by article type", disabled: true },
+  { value: "all", label: "All article types" },
+  { value: "demo", label: "Demo" },
+  { value: "interview", label: "Interview" },
+  { value: "our picks", label: "Our Picks" },
+  { value: "opinion", label: "Opinion" },
+  { value: "review", label: "Review" },
+  { value: "spotlight", label: "Spotlight" },
+  { value: "#tbt", label: "Throwback" },
+]
+
+export const genresPageGenreDropdownOptions = [
+  { value: "default", label: "Filter by game genre", disabled: true },
+  { value: "all", label: "All game genres" },
+]
