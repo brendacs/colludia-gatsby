@@ -13,7 +13,7 @@ image: UnboundWorldsApart.jpg
 video: https://www.youtube.com/embed/trna9Fhc6wU
 author: Moses Concha
 authorUrl: moses
-categories: [Puzzle platformer, metroidvania, demo, review, story]
+categories: [puzzle platformer, metroidvania, demo, review, story]
 tags:
   [
     "Unbound Worlds Apart",

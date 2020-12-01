@@ -7,7 +7,7 @@ import {
   tagColors,
   reviewPageDropdownOptions,
   genresPageArticleTypeDropdownOptions,
-  genresPageGenreDropdownOptions,
+  getDropdownOptionsFromCategories,
 } from "../constants"
 import "./rendered-posts.scss"
 import "./genres.scss"
@@ -18,11 +18,11 @@ const RenderedPosts = ({
   page,
   author,
   categories,
-  tags,
+  // tags,
   sortable,
   limit,
 }) => {
-  const [sorted, setSorted] = useState(false)
+  const [sortedByReleaseDate, setSortedByReleaseDate] = useState(false)
   let count = 0
   let posts = data.allMarkdownRemark.edges
 
@@ -34,7 +34,10 @@ const RenderedPosts = ({
             options={genresPageArticleTypeDropdownOptions}
             defaultSelected
           />
-          <Dropdown options={genresPageGenreDropdownOptions} defaultSelected />
+          <Dropdown
+            options={getDropdownOptionsFromCategories(categories)}
+            defaultSelected
+          />
         </section>
       )}
       <section
@@ -43,7 +46,7 @@ const RenderedPosts = ({
         {sortable && (
           <Dropdown
             options={reviewPageDropdownOptions}
-            onSelect={value => setSorted(value)}
+            onSelect={value => setSortedByReleaseDate(value)}
           />
         )}
         <div className="posts">

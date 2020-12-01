@@ -6,7 +6,7 @@ const Dropdown = ({ options, onSelect }) => (
   <select className="dropdown" defaultValue="">
     {options.map((option, idx) => (
       <option
-        value={option.value.toLowerCase()}
+        value={option.value}
         onChange={e => onSelect(e.target.value)}
         disabled={option.disabled}
         key={idx}

@@ -41,7 +41,21 @@ export const genresPageArticleTypeDropdownOptions = [
   { value: "#tbt", label: "Throwback" },
 ]
 
-export const genresPageGenreDropdownOptions = [
+export const categoriesDefaultDropdownOptions = [
   { value: "default", label: "Filter by game genre", disabled: true },
   { value: "all", label: "All game genres" },
 ]
+
+export const getDropdownOptionsFromCategories = categories => {
+  let options = categoriesDefaultDropdownOptions
+  categories.map(group => {
+    let category = group.category
+    options.push({
+      value: category.toLowerCase(),
+      label: `${category.charAt(0).toUpperCase()}${category.slice(1)} (${
+        group.totalCount
+      })`,
+    })
+  })
+  return options
+}
