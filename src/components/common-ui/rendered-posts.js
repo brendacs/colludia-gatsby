@@ -12,7 +12,6 @@ import {
 import "./rendered-posts.scss"
 import "./genres.scss"
 
-// TODO: dropdown functionality
 const RenderedPosts = ({
   data,
   page,
