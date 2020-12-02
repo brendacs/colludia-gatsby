@@ -22,7 +22,8 @@ const RenderedPosts = ({
   sortable,
   limit,
 }) => {
-  const [sortedByReleaseDate, setSortedByReleaseDate] = useState(false)
+  const [dateSortType, setDateSortType] = useState("publishDate")
+  const [genreFilter, setGenreFilter] = useState("all")
   let count = 0
   let posts = data.allMarkdownRemark.edges
 
@@ -32,11 +33,11 @@ const RenderedPosts = ({
         <section className="all-categories">
           <Dropdown
             options={genresPageArticleTypeDropdownOptions}
-            defaultSelected
+            onSelect={val => setGenreFilter(val)}
           />
           <Dropdown
             options={getDropdownOptionsFromCategories(categories)}
-            defaultSelected
+            onSelect={val => setGenreFilter(val)}
           />
         </section>
       )}
@@ -46,12 +47,26 @@ const RenderedPosts = ({
         {sortable && (
           <Dropdown
             options={reviewPageDropdownOptions}
-            onSelect={value => setSortedByReleaseDate(value)}
+            onSelect={setDateSortType}
           />
         )}
         <div className="posts">
           {posts
-            .filter(p => (author ? p.node.frontmatter.author === author : p))
+            .filter(p => {
+              if (author) return p.node.frontmatter.author === author
+              if (page === "genres" && genreFilter !== "all") {
+                return p.node.frontmatter.categories.includes(genreFilter)
+              }
+              return p
+            })
+            .sort((a, b) => {
+              if (!sortable || dateSortType === "publishDate") {
+                return 0
+              }
+              const ard = a.node.frontmatter.releaseDate
+              const brd = b.node.frontmatter.releaseDate
+              return ard > brd ? -1 : 1
+            })
             .map((p, idx) => {
               let post = p.node.frontmatter
               if (
@@ -67,7 +82,9 @@ const RenderedPosts = ({
                   page === "genres" ||
                   post.postType.includes(page)) && (
                   <Link
-                    className={`post ${count > limit && "row"}`}
+                    className={`post ${
+                      (count > limit || page === "genres") && "row"
+                    }`}
                     to={post.slug}
                     name={`navigate to post titled ${post.title}`}
                     key={idx}

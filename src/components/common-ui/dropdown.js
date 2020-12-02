@@ -3,14 +3,13 @@ import PropTypes from "prop-types"
 import "./dropdown.scss"
 
 const Dropdown = ({ options, onSelect }) => (
-  <select className="dropdown" defaultValue="">
+  <select
+    className="dropdown"
+    defaultValue=""
+    onChange={e => onSelect(e.target.value)}
+  >
     {options.map((option, idx) => (
-      <option
-        value={option.value}
-        onChange={e => onSelect(e.target.value)}
-        disabled={option.disabled}
-        key={idx}
-      >
+      <option value={option.value} disabled={option.disabled} key={idx}>
         {option.label}
       </option>
     ))}
