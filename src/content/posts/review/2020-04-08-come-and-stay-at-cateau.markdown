@@ -17,7 +17,7 @@ categories: ["visual novel", review, story]
 tags: [cateau, "lemon curd games", "choices matter"]
 ---
 
-During Steam’s visual novel sale a few weeks ago, where I scouted for all sorts of short games to play in between binging my FPS games, I was charmed by _[Cateau](https://www.lemoncurdgames.com/games-1)_. A short visual novel game made by [Lemon Curd Games](https://www.lemoncurdgames.com/), I was mostly enticed by the price tag—free. As someone who sinks way too much time into FPS games, I wanted something easy and stress-free.
+During Steam’s visual novel sale a few weeks ago, where I scouted for all sorts of short games to play in between binging my FPS games, I was charmed by [_Cateau](https://www.lemoncurdgames.com/games-1). A short visual novel game made by [Lemon Curd Games_](https://www.lemoncurdgames.com/), I was mostly enticed by the price tag—free. As someone who sinks way too much time into FPS games, I wanted something easy and stress-free.
 
 I know I shouldn’t judge a book by its cover, but I just couldn’t stay away from the cat on the title card. Fortunately, I don't regret it one bit. Now let’s delve into what I love about this game!
 

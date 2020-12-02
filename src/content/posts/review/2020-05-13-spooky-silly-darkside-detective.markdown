@@ -17,11 +17,11 @@ categories: [mystery, point-and-click, adventure, review, story]
 tags: ["the darkside detective", "spooky doorway", pixel graphics, puzzle, iOS]
 ---
 
-Despite _[The Darkside Detective](http://darksidedetective.com/)_ being released three years ago and being on my wishlist for a good long while, I didn't actually get around to playing it until a few months ago when I grabbed it during a sale. Once I start playing (and laughing), I only regretted not getting it earlier.
+Despite [_The Darkside Detective_](http://darksidedetective.com/) being released three years ago and being on my wishlist for a good long while, I didn't actually get around to playing it until a few months ago when I grabbed it during a sale. Once I start playing (and laughing), I only regretted not getting it earlier.
 
 In this game by [Spooky Doorway](http://www.spookydoorway.com/), you join Detective Francis McQueen and Officer Dooley in solving all cases having to do with the supernatural by figuring out puzzles in various standalone cases. The ghost and goblin-filled scenarios would normally spook me, but I instead felt like I was in a pixelated murder mystery, detective show, stand-up comedy hybrid due to the jokes and quirks at every turn.
 
-Though the game was released in 2017, a [Kickstarter](https://www.kickstarter.com/projects/spookydoorway/the-darkside-detective-season-2) was recently completed for _[The Darkside Detective: Season 2](https://store.steampowered.com/app/795420/The_Darkside_Detective__Season_2/)_, which will be released later this year. Needless to say, I will be getting Season 2 on my Switch the second it comes out. Until then, let's talk more about this spooky silly detective game.
+Though the game was released in 2017, a [Kickstarter](https://www.kickstarter.com/projects/spookydoorway/the-darkside-detective-season-2) was recently completed for [_The Darkside Detective: Season 2_](https://store.steampowered.com/app/795420/The_Darkside_Detective__Season_2/), which will be released later this year. Needless to say, I will be getting Season 2 on my Switch the second it comes out. Until then, let's talk more about this spooky silly detective game.
 
 ![Detective McQueen commenting on the flickering lights][image0]
 

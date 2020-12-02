@@ -17,7 +17,7 @@ categories: [mystery, point-and-click, review, story]
 tags: ["Tangle Tower", "SFB Games", 2D, puzzle, iOS]
 ---
 
-_[Tangle Tower](https://www.tangletowergame.com/)_ is not tangled only in name despite the two towers of the mansion not being tangled at all. In the Tangled Tower mansion, there is one tower for each family, the Fellows and the Pointers, residing inside. Though the towers themselves are fairly normal and untangled, the lives of the residents is where the true tangle lies.
+[_Tangle Tower_](https://www.tangletowergame.com/) is not tangled only in name despite the two towers of the mansion not being tangled at all. In the Tangled Tower mansion, there is one tower for each family, the Fellows and the Pointers, residing inside. Though the towers themselves are fairly normal and untangled, the lives of the residents is where the true tangle lies.
 
 ![Felix Fellow telling a story][image0]
 

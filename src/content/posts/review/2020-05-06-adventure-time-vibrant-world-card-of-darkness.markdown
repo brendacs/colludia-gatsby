@@ -17,7 +17,7 @@ categories: [adventure, strategy, roguelike, review, story]
 tags: ["Card of Darkness", "Zach Gage", "Pendleton Ward", card, iOS]
 ---
 
-If [Zach Gage](http://www.stfj.net/)'s aim was to make a unique, accessible, yet enticing and deep rouguelike game, he has more than succeeded. [_Card of Darkness_](http://www.cardofdarkness.com/) is unlike any other roguelike I've played. Stacks of cards are used to navigate through each floor of monsters the main character has to get through in order to defeat the boss of each environment. Ultimately, the goal is to find the Card of Darkness by defeating the final boss and saving the world, as any young hero randomly chosen by a frog should.
+If [Zach Gage](http://www.stfj.net/)'s aim was to make a unique, accessible, yet enticing and deep rouguelike game, he has more than succeeded. [_Card of Darkness__](http://www.cardofdarkness.com/) is unlike any other roguelike I've played. Stacks of cards are used to navigate through each floor of monsters the main character has to get through in order to defeat the boss of each environment. Ultimately, the goal is to find the Card of Darkness by defeating the final boss and saving the world, as any young hero randomly chosen by a frog should.
 
 Hand-illustrated and animated by [Pendleton Ward](https://twitter.com/buenothebear), the artist behind _Adventure Time_, the eight environments that our hero explores are vibrant and filled with different colors and nuances. The art and animations are lighthearted and lively, drawing our attention to the diversity of the landscapes, monsters, and bosses that look powerful and intimidating, yet silly and bright, all at once.
 

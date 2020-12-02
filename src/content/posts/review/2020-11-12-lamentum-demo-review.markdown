@@ -28,7 +28,7 @@ tags:
 
 I have a strange relationship with the horror genre: casual yet complex. We see each other every so often, but only in certain ways. Horror films don’t do much for me and horror games I'm rather picky about. However I do have a soft spot for Lovecraft and the Cthulhu mythos; in a horror setting, it never fails to give me a touch of the heebie-jeebies. Bonus points if the game is steeped in lore and storytelling.
 
-_[Lamentum](https://store.steampowered.com/app/1033950/Lamentum/)_ by [Obscure Tales](https://obscuretales.com) and published by [Another Indie](https://anotherindie.com) appeared to have these qualities, plus detailed pixel art in-game visuals (something I’ve been borderline obsessed with for some time). So I dove in and prepared to question my sanity for a while. Well, in a video game setting, that is.
+[_Lamentum](https://store.steampowered.com/app/1033950/Lamentum/) by [Obscure Tales](https://obscuretales.com) and published by [Another Indie_](https://anotherindie.com) appeared to have these qualities, plus detailed pixel art in-game visuals (something I’ve been borderline obsessed with for some time). So I dove in and prepared to question my sanity for a while. Well, in a video game setting, that is.
 
 ## Tinged Memories
 

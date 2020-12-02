@@ -36,7 +36,7 @@ This list for #PitchYaGame round 3 is made up of my favorite story rich games ou
 
 > Game Director Story is an unflinching and satirical look behind-the-scenes at how big-budget AAA games are made. Based on first-hand accounts by industry veterans, Players experience the emotional roller coaster of guiding a team through the agonizing decisions and compromises needed to ship a game.
 
-What better game to begin with than the aptly titled _[Game Director Story](https://store.steampowered.com/app/1305180/Game_Director_Story)_ developed by [Double Blit Games](https://www.doubleblit.com/)? This animal-filled story coming in late 2020 is not only super cute, but also has a story relatable to all in the game development industry.
+What better game to begin with than the aptly titled [_Game Director Story](https://store.steampowered.com/app/1305180/Game_Director_Story) developed by [Double Blit Games_](https://www.doubleblit.com/)? This animal-filled story coming in late 2020 is not only super cute, but also has a story relatable to all in the game development industry.
 
 When working and talking with a lot of indie game developers these days, I catch glimpses of their hardship in creating games, but I know I can't completely grasp just how much they go through to get their game to the finish line and on people's radars. Being able to experience the life of a game director no doubt appeals to me, and I can already tell I'll have to make hard decisions and juggle the emotions of my team with the tight deadlines of executives. But I'll have fun doing it with my cute animal team!
 
@@ -49,7 +49,7 @@ When working and talking with a lot of indie game developers these days, I catch
 
 > Verne: the shape of fantasy is a pixel art narrative experience based on the life and works of Jules Verne, which merges exploration, puzzles and interactive dialogues with the imagery of one of the most famous science fiction and adventure writers.
 
-_[Verne: the shape of fantasy](http://www.julesvernegame.com/)_ is another one of those really amazing looking pixel art games that immediately catch my eye and invoke my bias. On top of that, it's a non-linear narrative experience in a parallel world with puzzles, fantastical adventure, and interactive dialogue... Count me in!
+[_Verne: the shape of fantasy_](http://www.julesvernegame.com/) is another one of those really amazing looking pixel art games that immediately catch my eye and invoke my bias. On top of that, it's a non-linear narrative experience in a parallel world with puzzles, fantastical adventure, and interactive dialogue... Count me in!
 
 In this explorative game, you'll help Jules Verne—yes, the same one who authored of all those books on your childhood shelf—and his crew aboard the Nautilus face a petrifying enemy who threatens to wipe out imagination and creativity. Can't have that happening to all the indie devs and creatives out there, right? Check out [this game](http://www.julesvernegame.com/) and save our minds.
 
@@ -77,7 +77,7 @@ Alongside [A Frog's Tale](https://twitter.com/NRMNmusic), I now have two frog ga
 
 > Embody a violinist and awaken a gigantic, forsaken world in this highly poetic platformer! Using your violin and bow, move towards the core of the realm to understand your role in this universe and play the best Concerto!
 
-While _[Symphonia](https://www.symphonia-game.com/)_ is not directly story-driven, it is a very unique platformer where the music and the journey itself speaks to the narrative it embodies. You'll embark on a poetic adventure, follow the footsteps of past musicians, and move the world (literally) with your beautiful music.
+While [_Symphonia_](https://www.symphonia-game.com/) is not directly story-driven, it is a very unique platformer where the music and the journey itself speaks to the narrative it embodies. You'll embark on a poetic adventure, follow the footsteps of past musicians, and move the world (literally) with your beautiful music.
 
 As a musician who plays a variety of instruments, I have a feeling me, my ears, and my heart will thoroughly enjoy this one. Watch out for a full article on this in the future because I'll no doubt be playing it soon. And you can too... for [free](https://isart-digital.itch.io/symphonia)! I know, I couldn't believe it either because of the quality of the game. Believe me: there is no excuse to skip this one.
 
@@ -90,7 +90,7 @@ As a musician who plays a variety of instruments, I have a feeling me, my ears, 
 
 > A first person next-gen horror game taking place in New Orleans, Louisiana. It follows 2 cousins whose pasts are deeply intertwined with the notorious voodooo culture.
 
-Now I don't usually do horror and like to leave it to the other writers at Colludia, but the graphics of _[Divination](https://www.redgstudios.com/divination)_ made me do a double-take. They were beautiful, and it was no wonder the studio received an [Unreal Dev Grant](https://www.youtube.com/watch?v=TusCLwBEs34) in 2018. Despite my tendency to shy away from horror, there was no way I would _not_ include this.
+Now I don't usually do horror and like to leave it to the other writers at Colludia, but the graphics of [_Divination](https://www.redgstudios.com/divination) made me do a double-take. They were beautiful, and it was no wonder the studio received an [Unreal Dev Grant_](https://www.youtube.com/watch?v=TusCLwBEs34) in 2018. Despite my tendency to shy away from horror, there was no way I would _not_ include this.
 
 In this dark game with _very_ high quality graphics, you'll play as both Julian and Antoine, cousins who uncover their own history as well as that of New Orleans' voodoo culture when they become entangled in the dark craft. There's little other information about this game as of yet, and I haven't been able to find a trailer. However, I plan to dig deeper in an interview with the developers at [RedG Studios](https://www.redgstudios.com) soon enough because for once, I don't think I'm horrified enough to stay away.
 
@@ -107,7 +107,7 @@ I mean, just check out these [visuals](https://www.redgstudios.com/divination).
 
 > Greyhat is a hacker detective adventure where you solve mysteries by snooping around other people's computers. Clues, passwords & solutions are randomized and may change with each playthrough.
 
-Want to do some narrative driven snooping in a desktop UI reminiscent of the _[Emily is Away](https://colludia.com/heartbreak-emily-is-away/)_ series, but spookier? _[Greyhat](https://store.steampowered.com/app/1247940/Greyhat__A_Digital_Detective_Adventure/)_ is your game. If it isn't yours, it's certainly mine. I love a good mystery and pretending to hack—even though I am actually a software engineer outside of writing for Colludia.
+Want to do some narrative driven snooping in a desktop UI reminiscent of the [_Emily is Away](https://colludia.com/heartbreak-emily-is-away/) series, but spookier? [_Greyhat_](https://store.steampowered.com/app/1247940/Greyhat__A_Digital_Detective_Adventure/) is your game. If it isn't yours, it's certainly mine. I love a good mystery and pretending to hack—even though I am actually a software engineer outside of writing for Colludia.
 
 There's just something so enjoyable about doing computer stuff in a semi-realistic UI in a make-believe world where I have to solve some mysteries and uncover secrets. I've actually not found a good game to sate this craving in quite some time now, so I'm very glad this was brought to my attention. It is right up my alley, and I can't wait to try the demo and learn more about the game.
 
@@ -120,7 +120,7 @@ There's just something so enjoyable about doing computer stuff in a semi-realist
 
 > Live the adventures of being a wizard student in a magic world. Spend days learning spells, growing mysterious plants, meeting other students, exploring the world outside the academy!
 
-It's the decade of life sims and, apparently, witches. I've seen a good amount of witch-oriented games in these recent years, but it never gets old because each one is unique in their art styles and gameplay. The one I found out about most recently is _[Witchery Academy](https://twitter.com/Cubenary/status/1288430318085537792)_, which has the potential to be a very fun, relaxing, and visually appealing game with a narrative to boot.
+It's the decade of life sims and, apparently, witches. I've seen a good amount of witch-oriented games in these recent years, but it never gets old because each one is unique in their art styles and gameplay. The one I found out about most recently is [_Witchery Academy_](https://twitter.com/Cubenary/status/1288430318085537792), which has the potential to be a very fun, relaxing, and visually appealing game with a narrative to boot.
 
 From what we can currently see, _Witchery Academy_ doesn't look quite look like it's story rich, but that's because it's still early in development. This witch life sim will let you live a witch's life, farm and explore to your heart's desire, but will also eventually have a main story, quests to go along with it, and even side quests. If you're not convinced yet, just wait until you see the breathtaking image at the end of this article. I was blown away and completely convinced I need to follow this game's development.
 

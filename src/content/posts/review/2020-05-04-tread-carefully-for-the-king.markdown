@@ -17,7 +17,7 @@ categories: [turn-based, co-op, roguelike, rpg, "not story", review]
 tags: ["For The King", "IronOak Games", procedural]
 ---
 
-I was gifted _[For The King](https://ironoakgames.com/)_ by a good and kind friend of mine. While I enjoy thoughtful storylines, innovative gameplay, and unique art, I also grew up on turn-based RPG’s. Fighting to protect the realm from evil, defeating monsters that threaten Fahrul, accepting quests for rewards great and small… IronOak Games knew that all these points would make for a wonderful game, and these same points made the return to my roots a satisfying homecoming.
+I was gifted [_For The King_](https://ironoakgames.com/) by a good and kind friend of mine. While I enjoy thoughtful storylines, innovative gameplay, and unique art, I also grew up on turn-based RPG’s. Fighting to protect the realm from evil, defeating monsters that threaten Fahrul, accepting quests for rewards great and small… IronOak Games knew that all these points would make for a wonderful game, and these same points made the return to my roots a satisfying homecoming.
 
 The campaign is a simple one: the king was assassinated, the unknown murderer still roaming free. The queen, in her grieving state, looks to the loyal citizens of her realm to help her combat the chaotic energy that begins to plague Fahrul. With up to three adventurers under your control, you can embark on your epic adventure alone or with friends.
 

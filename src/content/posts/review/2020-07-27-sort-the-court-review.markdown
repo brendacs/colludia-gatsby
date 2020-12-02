@@ -28,7 +28,7 @@ tags:
 
 Sometimes you just want to sink into your chair, press a button every few seconds, and rule an entire kingdom.
 
-Developed by [Graeme Borland](https://twitter.com/graebor) and illustrated by [Amy Gerady](https://twitter.com/amymja), _[Sort the Court!](https://graebor.itch.io/sort-the-court)_ is a game based on the simple premise of answering yes-no questions, which are asked to the player every day. By simply answering yes or no, they are given the power to rule a cast of cute and colorful characters.
+Developed by [Graeme Borland](https://twitter.com/graebor) and illustrated by [Amy Gerady](https://twitter.com/amymja), [_Sort the Court!_](https://graebor.itch.io/sort-the-court) is a game based on the simple premise of answering yes-no questions, which are asked to the player every day. By simply answering yes or no, they are given the power to rule a cast of cute and colorful characters.
 
 **Warning: minor spoilers ahead!**
 

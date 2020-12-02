@@ -17,7 +17,7 @@ categories: ["walking sim", review, story]
 tags: [tacoma, "sci fi", "narrative driven", exploration, fullbright]
 ---
 
-Amitjyoti “Amy” Ferrier, the protagonist, is an agent sent by the company Venturis Corporation to board an orbital station, called _[Tacoma](https://tacoma.game/)_, which connects to a resort on the moon. Now abandoned and in chaos, your job is to retrieve the station’s data, which contains the crew’s memories of their last days on board via augmented reality surveillance that captured every move and spoken word.
+Amitjyoti “Amy” Ferrier, the protagonist, is an agent sent by the company Venturis Corporation to board an orbital station, called [_Tacoma_](https://tacoma.game/), which connects to a resort on the moon. Now abandoned and in chaos, your job is to retrieve the station’s data, which contains the crew’s memories of their last days on board via augmented reality surveillance that captured every move and spoken word.
 
 If you couldn’t already tell, I love games that attempt to elicit empathy from the gamer, and rarely do I get a sci-fi story so steeped in character-driven narrative. _Tacoma_ almost made me feel like I was intruding on someone’s diary—their intimate and most vulnerable memories opened up before me with just the touch of a button. I’m sure that’s what Amy would have felt too, as the agent accessing all the data.
 

@@ -81,7 +81,7 @@ Thanks a lot for having us in Colludia! I want to finish with some advice to our
 
 <span class="blue-q">Where can people follow or find you to keep up with _Symphonia_ updates?</span>
 
-You can find us under the name @symphonia_game on [Twitter](https://twitter.com/symphonia_game), which is our main social media account, and on [Instagram](https://www.instagram.com/symphonia_game/?hl=en). We’re also on [Facebook](https://www.facebook.com/symphoniagame) as “Symphonia - The Game. You can check out Team SPEAR's _Symphonia_ for free on [itch.io](https://isart-digital.itch.io/symphonia).
+You can find us under the name @symphonia*game on [Twitter](https://twitter.com/symphonia_game), which is our main social media account, and on [Instagram](https://www.instagram.com/symphonia_game/?hl=en). We’re also on [Facebook](https://www.facebook.com/symphoniagame) as “Symphonia - The Game. You can check out Team SPEAR's \_Symphonia* for free on [itch.io](https://isart-digital.itch.io/symphonia).
 
 ![][image8]
 

@@ -17,7 +17,7 @@ categories: [tactical, turn-based, mystery, spotlight, interview, story]
 tags: ["Gentle Troll", "Underdown", disabilities, diversity, thriller]
 ---
 
-A small game studio based in Germany, [Gentle Troll](https://twitter.com/GentleTroll) is creating a narrative driven tactical mystery-thriller named [_Underdown_](https://gentletroll.com/games/underdown), and I was fortunate enough to be able to connect with the game's creative director, Michel, for an hours-long talk.
+A small game studio based in Germany, [Gentle Troll](https://twitter.com/GentleTroll) is creating a narrative driven tactical mystery-thriller named [_Underdown__](https://gentletroll.com/games/underdown), and I was fortunate enough to be able to connect with the game's creative director, Michel, for an hours-long talk.
 
 _Underdown_, which follows four friends figuring their way out of a mine in the hopes of finding their lost friend, caught my eye out of dozens of other indie games during a #PitchYaGame round, where I was taken aback by its exceptional art and unique concept. However, the mere images didn't prepare me for the amount of sheer substance I found under wraps—they only scratched the surface.
 

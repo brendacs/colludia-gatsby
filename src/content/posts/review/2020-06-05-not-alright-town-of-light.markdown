@@ -17,7 +17,7 @@ categories: [horror, "walking sim", review, story]
 tags: ["Town of Light", psychological, "mental health"]
 ---
 
-_[The Town of Light](https://twitter.com/thetownoflight?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)_ enticed me with its hopeful title and mysterious trailer. Like a fly to the spider’s web, I was ensnared tightly by the art direction and snippets of story the psychological walking simulator allowed me to see.
+[_The Town of Light_](https://twitter.com/thetownoflight?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) enticed me with its hopeful title and mysterious trailer. Like a fly to the spider’s web, I was ensnared tightly by the art direction and snippets of story the psychological walking simulator allowed me to see.
 
 Despite knowing that I’m awful with psychological horror, I couldn’t help but be drawn to this tragic story. Set in late 1930's Italy, our protagonist Renée is confined to the psychiatric hospital called Ospedale Psichiatrico di Volterra. Based on real events and facts, be warned that this isn’t a tale for the faint of heart. In fact, the narrative is heartwrenching, horrific, and brutal in ways that, despite my expectations, made me feel awful witnessing.
 

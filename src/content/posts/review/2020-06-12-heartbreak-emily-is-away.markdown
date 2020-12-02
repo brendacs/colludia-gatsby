@@ -17,7 +17,7 @@ categories: ["visual novel", text-based, review, story]
 tags: ["Emily is Away", relatable, retro, messaging, coming-of-age]
 ---
 
-_[Emily is Away](https://store.steampowered.com/app/417860/Emily_is_Away/)_ is one of those games that reminds me of simpler times. The welcoming blue Windows login screen, the AIM messenger app, and all the sounds that accompanied them pulled me back to a time where I could afford to be more carefree.
+[_Emily is Away_](https://store.steampowered.com/app/417860/Emily_is_Away/) is one of those games that reminds me of simpler times. The welcoming blue Windows login screen, the AIM messenger app, and all the sounds that accompanied them pulled me back to a time where I could afford to be more carefree.
 
 Growing up with the Internet is an interesting childhood to look back on. I learned how to research the old-fashioned way with books and encyclopedias, while computers were set up in elementary schools to teach us how to surf the net. A lot can happen in 23 years, it seems, and it’s nostalgic to be able to look back and say, “Hey, I remember when things were like this!”
 

@@ -26,11 +26,11 @@ tags:
   ]
 ---
 
-We all have our day jobs, but some also live with ambitious dreams of what could be. In _[Moonlighter](http://www.moonlighterthegame.com/)_ the protagonist, a shopkeeper named Will, does more than just dream about his goals. In order to discover the secrets of the small town of Rynoka, he makes a living in his family's shop—The Moonlighter—by day and explores the dungeons by night, aiming to unlock the fifth and most dangerous one at the end of it all. His reckless bravery and desire to venture out no matter the circumstances lead him to end up facedown with a broom in hand, his only weapon at the beginning of his journey.
+We all have our day jobs, but some also live with ambitious dreams of what could be. In [_Moonlighter_](http://www.moonlighterthegame.com/) the protagonist, a shopkeeper named Will, does more than just dream about his goals. In order to discover the secrets of the small town of Rynoka, he makes a living in his family's shop—The Moonlighter—by day and explores the dungeons by night, aiming to unlock the fifth and most dangerous one at the end of it all. His reckless bravery and desire to venture out no matter the circumstances lead him to end up facedown with a broom in hand, his only weapon at the beginning of his journey.
 
 ## _Stardew Valley_... as an Action Game
 
-_Moonlighter_ is an action-oriented alternate reality of _[Stardew Valley](https://www.stardewvalley.net/)_. Whereas on the farm, I grew crops, socialized with townspeople, and only spent a minor portion of my day in the mines, in Rynoka, I spent all night in the dungeons, only spending a bit of time in the day in the shop selling the wares I gathered by defeating dozens upon dozens of monsters the night before.
+_Moonlighter_ is an action-oriented alternate reality of [_Stardew Valley_](https://www.stardewvalley.net/). Whereas on the farm, I grew crops, socialized with townspeople, and only spent a minor portion of my day in the mines, in Rynoka, I spent all night in the dungeons, only spending a bit of time in the day in the shop selling the wares I gathered by defeating dozens upon dozens of monsters the night before.
 
 There is plenty to keep Will busy outside of his work, with four dungeons of different environments to progress through before gaining all the keys needed to unlock the fifth, most mysterious one. Each dungeon will house either Golem, Forest, Desert, or Tech, complete with their own set of enemies and bosses, and gradually increasing in difficulty.
 

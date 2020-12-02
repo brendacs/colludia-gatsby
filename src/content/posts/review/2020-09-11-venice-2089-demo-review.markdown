@@ -25,7 +25,7 @@ tags:
   ]
 ---
 
-I grew up in a relatively small city by the beach. No one had ever heard of my town while growing up, but if you had been there, you would know that it’s a beautiful but boring place to live. And that’s what my connection to _[Venice 2089](https://eventhorizonschool.itch.io/venice-2089)_ boils down to: it captures the small town spirit in its sleepy, free-spirited mood. As I was cruising on my hoverboard from one place to the next, stopping at whatever caught my interest, I felt like a teenager on a bicycle, enjoying the breeze again.
+I grew up in a relatively small city by the beach. No one had ever heard of my town while growing up, but if you had been there, you would know that it’s a beautiful but boring place to live. And that’s what my connection to [_Venice 2089_](https://eventhorizonschool.itch.io/venice-2089) boils down to: it captures the small town spirit in its sleepy, free-spirited mood. As I was cruising on my hoverboard from one place to the next, stopping at whatever caught my interest, I felt like a teenager on a bicycle, enjoying the breeze again.
 
 ## So Cool!
 

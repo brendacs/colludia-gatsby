@@ -27,7 +27,7 @@ tags:
   ]
 ---
 
-The vivid scenes and emotional [music](https://open.spotify.com/album/1sknShaLT5Kf4LCkI7lfeY?si=VHAFfNpvSPOT1W7iJYWrhg) perfectly fit together with the bittersweet narrative of Eda's past romance and locked away memories in _[When the Past Was Around](https://store.steampowered.com/app/1164050/When_The_Past_Was_Around/)_. It was done so well that it nearly brought me to tears in a way no game has in a very long time.
+The vivid scenes and emotional [music](https://open.spotify.com/album/1sknShaLT5Kf4LCkI7lfeY?si=VHAFfNpvSPOT1W7iJYWrhg) perfectly fit together with the bittersweet narrative of Eda's past romance and locked away memories in [_When the Past Was Around_](https://store.steampowered.com/app/1164050/When_The_Past_Was_Around/). It was done so well that it nearly brought me to tears in a way no game has in a very long time.
 
 This point-and-click adventure from [Mojiken Studio](https://mojikenstudio.com/) and [Toge Productions](https://www.togeproductions.com/) felt like the room escape games I have a penchant for, combined with a narrative reminiscent of _Florence_. Filled with symbolism, lush illustrations, and amazing storytelling through gameplay, it also matched, if not topped, its quality.
 

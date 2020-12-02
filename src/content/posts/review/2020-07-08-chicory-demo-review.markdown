@@ -26,7 +26,7 @@ tags:
   ]
 ---
 
-_[Chicory: A Colorful Tale](http://chicorygame.com/)_, a unique and beautifully illustrated game, has been on my wishlist for a long time, and I've been waiting for a chance to play its demo. Upon learning about all the demos that would be available during Steam Summer Game Festival, I obviously jumped on the opportunity to play _Chicory_.
+[_Chicory: A Colorful Tale_](http://chicorygame.com/), a unique and beautifully illustrated game, has been on my wishlist for a long time, and I've been waiting for a chance to play its demo. Upon learning about all the demos that would be available during Steam Summer Game Festival, I obviously jumped on the opportunity to play _Chicory_.
 
 Just from the screenshots alone I was enchanted by the idea of what was basically a playable coloring book starring a dog with a giant paintbrush and knew there definitely had to be a lot of depth in the game I couldn't see from screenshots and the trailer alone. With a developer like [Greg Lobanov](https://twitter.com/theBanov), the creator of _Wandersong_, and amazing composers and artists who worked on games like Celeste, I knew it couldn't go wrong in art, narrative, or gameplay mechanics.
 

@@ -23,7 +23,7 @@ They're real (and no, not always in the "realistic" sense); they tend to supply 
 
 Most importantly, they show us that we're not alone in our failings and misfortunes. That we, as people, are not perfect, and not everything is as it seems.
 
-[Campo Santo](https://www.camposanto.com/)'s _[Firewatch](http://www.firewatchgame.com/)_ does all these things and more as it gives you a front-row seat to a Colorado man's summer filled to the brim with visual awe, beckoning mystery and the woefully unexpected.
+[Campo Santo](https://www.camposanto.com/)'s [_Firewatch_](http://www.firewatchgame.com/) does all these things and more as it gives you a front-row seat to a Colorado man's summer filled to the brim with visual awe, beckoning mystery and the woefully unexpected.
 
 ![Text-based intro][image0]
 

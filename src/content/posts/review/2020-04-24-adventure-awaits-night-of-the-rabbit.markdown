@@ -26,7 +26,7 @@ tags:
 
 Jerry Hazelnut, a young boy on his very last day of summer vacation, has always wanted to be a magician. With the help of a particular white rabbit (or, is Jerry helping the rabbit?), his once in a lifetime chance to fulfill his dream has come. Suddenly, the mundane world that he’s so used to living in is full of a different kind of life—a mystical kind of life.
 
-As a writer who dreamed a whole bunch as a child, _[The Night of the Rabbit](https://store.steampowered.com/app/230820/The_Night_of_the_Rabbit/)_ made me relive the time when I had nothing to worry about except how to spend my summer days. If I could describe this game in one sentence, it is setting out on an adventure without worrying when you’ll be back, full of energy and the potential to change the world.
+As a writer who dreamed a whole bunch as a child, [_The Night of the Rabbit_](https://store.steampowered.com/app/230820/The_Night_of_the_Rabbit/) made me relive the time when I had nothing to worry about except how to spend my summer days. If I could describe this game in one sentence, it is setting out on an adventure without worrying when you’ll be back, full of energy and the potential to change the world.
 
 ![This is where your story begins.][image0]
 

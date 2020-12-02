@@ -16,13 +16,13 @@ categories: [visual novel, spotlight, story]
 tags: ["Angela He", "mental health", lgbtq, illustration, developer]
 ---
 
-A year or two ago, my friend Emily raved about a game called _[there's this girl](https://zephyo.itch.io/theres-this-girl)_. Obviously I had to pick it up and play. As the characters in that story fell in love, I too fell in love with the beautiful illustrations and well-written story. On top of that, the main characters weren't the typical straight couple you see in many romances, but they also weren't unrealistic or over-sexualized like in many LGBTQ+ oriented stories.
+A year or two ago, my friend Emily raved about a game called [_there's this girl_](https://zephyo.itch.io/theres-this-girl). Obviously I had to pick it up and play. As the characters in that story fell in love, I too fell in love with the beautiful illustrations and well-written story. On top of that, the main characters weren't the typical straight couple you see in many romances, but they also weren't unrealistic or over-sexualized like in many LGBTQ+ oriented stories.
 
 ![Angela He's visual novel titled there's this girl][image0]
 
 The visuals novel was also distinctly light on words and dialogue unlike most story-focused games, but it clearly proved that pictures are worth a thousand words. Little did I know, the developer and artist [Angela He](https://angelahe.dev/) had many others like it with even more intense stories—and all based on real life experiences at that.
 
-In time for pride month, I finally discovered and got around to playing the rest of her LGBTQ+ and mental health-oriented games and visual novels, including her most recent title, _[a new life](https://zephyo.itch.io/a-new-life)_. Each one I played was more amazing than the last in terms of depth, storytelling, and powerful messages, yet the dialogue remained realistic and relatable rather than overdramatic or stale unlike a lot of other visual novel dialogue.
+In time for pride month, I finally discovered and got around to playing the rest of her LGBTQ+ and mental health-oriented games and visual novels, including her most recent title, [_a new life_](https://zephyo.itch.io/a-new-life). Each one I played was more amazing than the last in terms of depth, storytelling, and powerful messages, yet the dialogue remained realistic and relatable rather than overdramatic or stale unlike a lot of other visual novel dialogue.
 
 ![Screenshot from Angela He's visual novel you left me][image2]
 
@@ -34,13 +34,13 @@ Though I tried to keep the spoilers mostly minimal and vague, and I don't think 
 
 ## _there's this girl_
 
-The love story of _[there's this girl](https://zephyo.itch.io/theres-this-girl)_ is told through beautiful illustrations. As two people meet by chance and find out they have a lot in common, they slowly spend more time with each other and fall in love, only to start growing apart as they both deal with their own lives, career choices, and realities. Though there are nearly no words or dialogue in the game, the story and creative images elicited strong emotions and attachment to the characters and their relationship. At the end, a fateful event gives you a choice. Both choices lead to scenes that will keep you pondering and imagining what happened next... but in the best way possible.
+The love story of [_there's this girl_](https://zephyo.itch.io/theres-this-girl) is told through beautiful illustrations. As two people meet by chance and find out they have a lot in common, they slowly spend more time with each other and fall in love, only to start growing apart as they both deal with their own lives, career choices, and realities. Though there are nearly no words or dialogue in the game, the story and creative images elicited strong emotions and attachment to the characters and their relationship. At the end, a fateful event gives you a choice. Both choices lead to scenes that will keep you pondering and imagining what happened next... but in the best way possible.
 
 ![The main characters of Angela He's game there's this girl getting closer][image3]
 
 ## _I woke up next to you again_
 
-At first sight, the near-monochromatic game, _[I woke up next to you again](https://zephyo.itch.io/i-woke-up)_, appears to be another romance-focused visual novel, and it can be interpreted that way, but as I played through one storyline and then another, it became clear to me that there was a deeper meaning and a metaphor to be discovered. The story goes that you meet this girl (or guy) who you have what was supposed to be a one-night stand with, but one night turns into two and three and so on until a deeper attachment is formed. Depending on your choices, you either fight this attachment with the support of others or give in to temptation.
+At first sight, the near-monochromatic game, [_I woke up next to you again_](https://zephyo.itch.io/i-woke-up), appears to be another romance-focused visual novel, and it can be interpreted that way, but as I played through one storyline and then another, it became clear to me that there was a deeper meaning and a metaphor to be discovered. The story goes that you meet this girl (or guy) who you have what was supposed to be a one-night stand with, but one night turns into two and three and so on until a deeper attachment is formed. Depending on your choices, you either fight this attachment with the support of others or give in to temptation.
 
 ![Dialogue and choices in Angela He's visual novel I woke up next to you again][image4]
 
@@ -52,7 +52,7 @@ From some of the pointed dialogue towards the end, I personally deduced that thi
 
 ## _missed messages_
 
-The third game I played was yet another take on mental health, this one more intense than the last. In _[missed messages](https://zephyo.itch.io/missed-message)_, the player is a college student with work to do while distractions abound on their screen and in their dorm room. The synopsis of the story is intentionally misleading in that it describes the game as the player receiving an AirDropped meme from 'goth gf's iPhone' and being able to choose whether or not to answer it. To my surprise, the real essence of the story was actually in the interactions with the player's sweet but troubled—to say the least—roommate, May.
+The third game I played was yet another take on mental health, this one more intense than the last. In [_missed messages_](https://zephyo.itch.io/missed-message), the player is a college student with work to do while distractions abound on their screen and in their dorm room. The synopsis of the story is intentionally misleading in that it describes the game as the player receiving an AirDropped meme from 'goth gf's iPhone' and being able to choose whether or not to answer it. To my surprise, the real essence of the story was actually in the interactions with the player's sweet but troubled—to say the least—roommate, May.
 
 ![gif of player trying to do work on her Macbook but getting distracted with AirDrops from a stranger in visual novel missed messages][image6]
 
@@ -62,13 +62,13 @@ It was definitely unclear in the first playthrough that I could do anything mean
 
 ## _you left me_
 
-A game about loss, grief, and moving on, _[you left me](https://zephyo.itch.io/you-left-me)_ hit the hardest of all the games and was the only game out of the five that sent chills down my spine, not out of horror but out of admiration of the symbolism hidden in the colors and the abstract environments. The cryptic, emotion-heavy images spoke to me louder than words ever could. As the main character in the story deals with the loss of her loved one through a quirky world she enters when she's supposed to be asleep, you help her navigate through the strange environment and eventually either guide her to her escape or remember and accept. Or, you could just stay in bed and chat with the dad-joke-telling moon and one-eyed cat.
+A game about loss, grief, and moving on, [_you left me_](https://zephyo.itch.io/you-left-me) hit the hardest of all the games and was the only game out of the five that sent chills down my spine, not out of horror but out of admiration of the symbolism hidden in the colors and the abstract environments. The cryptic, emotion-heavy images spoke to me louder than words ever could. As the main character in the story deals with the loss of her loved one through a quirky world she enters when she's supposed to be asleep, you help her navigate through the strange environment and eventually either guide her to her escape or remember and accept. Or, you could just stay in bed and chat with the dad-joke-telling moon and one-eyed cat.
 
 ![An emotional image on the train in you left me][image8]
 
 ## _a new life_
 
-The most recent game by Angela He, _[a new life](https://zephyo.itch.io/a-new-life)_, is about a very real relationship between two girls and all the different life paths they can take based on the smallest choices they make. Such choices as sitting next to each other at a table or staying longer at a grocery store could change the course of their lives for decades. Each time you begin the game again, there truly could be a completely different life that plays out.
+The most recent game by Angela He, [_a new life_](https://zephyo.itch.io/a-new-life), is about a very real relationship between two girls and all the different life paths they can take based on the smallest choices they make. Such choices as sitting next to each other at a table or staying longer at a grocery store could change the course of their lives for decades. Each time you begin the game again, there truly could be a completely different life that plays out.
 
 The things I loved most about this game, other than each small choice mattering, were the relevance to our current world situation—coronavirus and quarantine—along with realistic dialogue and text messaging of a couple, relatable ups and downs, and accurate depiction of the excitements of a new relationship and comfort of a long-term one. I'd recommend this to anyone who wants a cute, very gay love story and is down with crying a few times in one day.
 
