@@ -7,54 +7,54 @@ const DropdownNav = () => (
     <div className="pages-wrapper">
       <ul className="main hidden">
         <li>
-          <Link href="/">Latest Articles</Link>
+          <Link to="/">Latest Articles</Link>
         </li>
         <li>
-          <Link href="/reviews">Reviews</Link>
+          <Link to="/reviews">Reviews</Link>
         </li>
         <li>
-          <Link href="/dev-spotlights">Dev Spotlights</Link>
+          <Link to="/dev-spotlights">Dev Spotlights</Link>
         </li>
         <li>
-          <Link href="/our-picks">Our Picks</Link>
+          <Link to="/our-picks">Our Picks</Link>
         </li>
         <li>
-          <Link href="/opinion">Opinion</Link>
+          <Link to="/opinion">Opinion</Link>
         </li>
         <li>
-          <Link href="/genres">All Genres</Link>
+          <Link to="/genres">All Genres</Link>
         </li>
       </ul>
       <ul>
         <li>
-          <Link className="animated-link" href="/about">
+          <Link className="animated-link" to="/about">
             About Us
           </Link>
         </li>
         <li>
-          <Link className="animated-link" href="/supporters">
+          <Link className="animated-link" to="/supporters">
             Supporters
           </Link>
         </li>
         <li>
-          <Link className="animated-link" href="/steam-keys">
+          <Link className="animated-link" to="/steam-keys">
             Free Keys
           </Link>
         </li>
       </ul>
       <ul>
         <li>
-          <Link className="animated-link" href="/contact">
+          <Link className="animated-link" to="/contact">
             Contact Us
           </Link>
         </li>
         <li>
-          <Link className="animated-link" href="/writers">
+          <Link className="animated-link" to="/writers">
             Become a Writer
           </Link>
         </li>
         <li>
-          <Link className="animated-link" href="/ads">
+          <Link className="animated-link" to="/ads">
             Advertise
           </Link>
         </li>
