@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "colludia-gatsby",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "Colludia is an indie gaming website focused on games with stories to tell and the developers behind them",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Brenda Zhang <brenda.zhang2@gmail.com>",
   "dependencies": {
     "gatsby": "^2.24.91",
     "gatsby-image": "^2.4.21",
@@ -34,6 +34,7 @@
   "license": "0BSD",
   "scripts": {
     "build": "gatsby build",
+    "deploy": "gatsby build && gh-pages -d public -b master",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
     "start": "npm run develop",
