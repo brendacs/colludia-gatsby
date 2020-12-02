@@ -39,7 +39,7 @@ I got to play a plethora of equally excellent puzzle games in my lifetime, but t
 
 I feel compelled to mention these games because they all have one thing in common between them: innovative mechanics. This, to me, separates the "okay" puzzlers from the absolute brain-ticklers gamers come back to again and again, all in the hopes of finding the solution to that one tricky puzzle they couldn't quite solve.
 
-Even after spending a mere 30 minutes with its prologue, I could tell [_Unbound: Worlds Apart](https://unboundthegame.com/) by [Alien Pixel Studios_](https://www.facebook.com/AlienPixel/) had potential to spare, and with it, plenty of imaginative ways to spice up the modern puzzle platforming formula. Its faithful inspirations oozed from its very seams with every intentional mechanic, platform to leap, and puzzle the player is expected to navigate.
+Even after spending a mere 30 minutes with its prologue, I could tell [_Unbound: Worlds Apart_](https://unboundthegame.com/) by [Alien Pixel Studios](https://www.facebook.com/AlienPixel/) had potential to spare, and with it, plenty of imaginative ways to spice up the modern puzzle platforming formula. Its faithful inspirations oozed from its very seams with every intentional mechanic, platform to leap, and puzzle the player is expected to navigate.
 
 ![][image0]
 

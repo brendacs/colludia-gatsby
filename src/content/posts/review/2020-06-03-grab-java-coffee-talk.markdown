@@ -19,7 +19,7 @@ tags: ["Coffee Talk", "Toge Productions", contemporary, "pixel graphics"]
 
 There’s something magical about being the owner and barista of my own chill coffee shop. No, I’m not talking about the customers, who consist of elves, orcs, vampires, and werewolves, among others. I’m not talking about the mundane, nonhuman, everyday problems they bring into the shop, either. I’m talking about being behind the bar making drinks, hearing the stories, and watching these people grow in more ways than one. It’s even better that the coffee shop is one that opens during the late hours till dawn, mimicking my own sleep cycle.
 
-I’ve been wanting to play [_Coffee Talk](http://coffeetalk.info/) for a while, so when I saw it on sale for the Nintendo Switch, I jumped at the chance. Nowadays, video game pixel art has really stepped it up a notch. But what really left a lasting impression was the story the devs at [Toge Productions_](https://www.togeproductions.com/) wove together. Though of course, like with any well-crafted three-dimensional characters, there will always be flaws in good work.
+I’ve been wanting to play [_Coffee Talk_](http://coffeetalk.info/) for a while, so when I saw it on sale for the Nintendo Switch, I jumped at the chance. Nowadays, video game pixel art has really stepped it up a notch. But what really left a lasting impression was the story the devs at [Toge Productions](https://www.togeproductions.com/) wove together. Though of course, like with any well-crafted three-dimensional characters, there will always be flaws in good work.
 
 ![Start the day.][image0]
 

@@ -19,7 +19,7 @@ tags: ["Aviary Attorney", "Sketchy Logic", attorney, historical, mystery, puns]
 
 Who doesn’t want to experience 19th century France? The streets of Paris are filled with murder and mystery, and it’s up to Jayjay Falcon to restore order. With his trusty sidekick Sparrowson, I helped the fowl lawyer collect evidence and settle cases, coming closer to a bigger picture that looms over the already fragile peace of the city.
 
-[_Aviary Attorney](http://aviaryattorney.com/), developed by [Sketchy Logic_](https://twitter.com/aviaryattorney?lang=en), is a quirky visual novel with an interesting premise. I’ll admit, I saw the words “bird lawyer” and the deal was sealed for me. There’s nothing more entertaining than seeing how the storyline, comedy and all, can be taken so seriously. I’ve never played or seen much of the Ace Attorney series, but I would imagine that the atmosphere is similar. That being said, I encourage _Ace Attorney_ fans to give this game a try.
+[_Aviary Attorney_](http://aviaryattorney.com/), developed by [Sketchy Logic](https://twitter.com/aviaryattorney?lang=en), is a quirky visual novel with an interesting premise. I’ll admit, I saw the words “bird lawyer” and the deal was sealed for me. There’s nothing more entertaining than seeing how the storyline, comedy and all, can be taken so seriously. I’ve never played or seen much of the Ace Attorney series, but I would imagine that the atmosphere is similar. That being said, I encourage _Ace Attorney_ fans to give this game a try.
 
 Anyhow, let’s journey to 1848, Paris.
 

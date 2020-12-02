@@ -18,7 +18,7 @@ categories:
 tags: [forager, hopfrog, "pixel art", crafting, exploration]
 ---
 
-Do you have a love-hate relationship with the concept of grinding in games? Or maybe just hate? Yeah, me too. You'd think then that [_Forager](https://hopfrogsa.net/forager), developed by [HopFrog_](https://hopfrogsa.net/), wouldn't be on my favorites list, yet it holds a place at the top. Because of the game mechanics, progression, and expansion system in _Forager_, what could be considered "grinding" is actually extremely enjoyable crafting, foraging, and puzzle solving.
+Do you have a love-hate relationship with the concept of grinding in games? Or maybe just hate? Yeah, me too. You'd think then that [_Forager_](https://hopfrogsa.net/forager), developed by [HopFrog](https://hopfrogsa.net/), wouldn't be on my favorites list, yet it holds a place at the top. Because of the game mechanics, progression, and expansion system in _Forager_, what could be considered "grinding" is actually extremely enjoyable crafting, foraging, and puzzle solving.
 
 As a disclaimer, I played _Forager_ on my Switch, and it doesn't have all the features of the PC version just yet, so I may miss small things here and there.
 

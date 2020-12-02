@@ -17,7 +17,7 @@ categories: [puzzle, demo, review, story]
 tags: ["Pathea Games", "Ever Forward"]
 ---
 
-I was looking through a list of demos on Steam when I came across [_Ever Forward_](https://store.steampowered.com/app/1325290/Ever_Forward_Prologue/) by [Pathea Games_](https://pathea.net/). It had a minimal visual style that I just love seeing, with the added bonus of being a puzzle game. Seeing as the game releases on August 13, I thought it would be a good time to play the demo.
+I was looking through a list of demos on Steam when I came across [_Ever Forward_](https://store.steampowered.com/app/1325290/Ever_Forward_Prologue/) by [Pathea Games](https://pathea.net/). It had a minimal visual style that I just love seeing, with the added bonus of being a puzzle game. Seeing as the game releases on August 13, I thought it would be a good time to play the demo.
 
 _Ever Forward_ tells a thought-provoking story with multiple interpretations (going as far as the demo would take me, anyway). I think the game hits a sweet spot between minimalistic design and worldbuilding that is hard to come by. It’s a quiet, lonely game—but not empty.
 

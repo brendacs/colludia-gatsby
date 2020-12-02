@@ -29,7 +29,7 @@ tags:
   ]
 ---
 
-Across the many forms of media designed to depict the coming-of-age nature of modern young adulthood, not many do it quite like Infinite Fall's [_Night in the Woods__](http://www.nightinthewoods.com/), a Kickstarter smash-hit that met its initial \$50,000 goal within 26 hours.
+Across the many forms of media designed to depict the coming-of-age nature of modern young adulthood, not many do it quite like Infinite Fall's [_Night in the Woods_](http://www.nightinthewoods.com/), a Kickstarter smash-hit that met its initial \$50,000 goal within 26 hours.
 
 This game offers some of the most memorable, witty and honest writing I have personally experienced in a video game, and with its equally memorable supporting cast of colorful and diverse characters, players have no choice but to be fully enveloped in _Night in the Wood_'s quirky, yet still oddly familiar world of Possum Springs.
 

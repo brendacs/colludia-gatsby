@@ -24,7 +24,7 @@ _One night, hot springs_ is the first game of a trilogy. The visual novel game f
 
 ![Haru looking in the mirror][image0]
 
-The game's follow-up, [_last day of spring](https://npckc.itch.io/last-day-of-spring), follows one of Haru's friends, Erika, who ends up getting to know Haru after they return from the hot springs. And the third game of the trilogy, called [_spring leaves no flowers_](https://npckc.itch.io/spring-leaves-no-flowers), follows Manami, Haru’s best friend. I won’t get into the details, but if you enjoyed _one night, hot springs_, the extra installments give more definition to the girls’ relationships with each other. Even with just half an hour each, npckc was able to form a storyline that served to be educational and validating, giving players a brighter option for LGBTQ+ narratives than the ones that tend to circulate the mainstream market today.
+The game's follow-up, [_last day of spring_](https://npckc.itch.io/last-day-of-spring), follows one of Haru's friends, Erika, who ends up getting to know Haru after they return from the hot springs. And the third game of the trilogy, called [_spring leaves no flowers_](https://npckc.itch.io/spring-leaves-no-flowers), follows Manami, Haru’s best friend. I won’t get into the details, but if you enjoyed _one night, hot springs_, the extra installments give more definition to the girls’ relationships with each other. Even with just half an hour each, npckc was able to form a storyline that served to be educational and validating, giving players a brighter option for LGBTQ+ narratives than the ones that tend to circulate the mainstream market today.
 
 ![Erika saying to Haru that she is fine][image1]
 

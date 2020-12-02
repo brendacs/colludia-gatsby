@@ -35,7 +35,7 @@ Many of these games are ones I found from various #PitchYaGame rounds, and I'm o
 
 > Moonshell Island is a pixel art action RPG featuring charming characters & a heartwarming tale of achieving dreams, building a community & saving the island from a mysterious foe.
 
-I've actually been following [_Moonshell Island](http://www.cheekynauts.com/) for a long time now because it's one of my favorite pixel art styles I've ever seen. I'm constantly lurking on the artists' [Twitters_](https://twitter.com/Cheekynauts) wondering when I'll get to play a demo. The developers put a high emphasis on charming graphics and social interactions between in-game characters to help build story in all their titles. Not to mention the gameplay itself, which is fun and simple while still being complex enough to be challenging and interesting.
+I've actually been following [_Moonshell Island_](http://www.cheekynauts.com/) for a long time now because it's one of my favorite pixel art styles I've ever seen. I'm constantly lurking on the artists' [Twitters](https://twitter.com/Cheekynauts) wondering when I'll get to play a demo. The developers put a high emphasis on charming graphics and social interactions between in-game characters to help build story in all their titles. Not to mention the gameplay itself, which is fun and simple while still being complex enough to be challenging and interesting.
 
 I can't wait to roam around the vibrant world of _Moonshell Island_ and uncover the heartwarming tale they mention while also building community and having an adventure.
 
@@ -48,7 +48,7 @@ I can't wait to roam around the vibrant world of _Moonshell Island_ and uncover 
 
 > In Weaving Tides you ride on the backs of carpet dragons! Set out on a journey to explore ancient dungeons, solve puzzles and patch up a world made of magic and textile! Conquer Zelda-like dungeons and unveil hidden mysteries packed in a charming story.
 
-I remember [_Weaving Tides](https://weavingtides.com) all the way back from its [successful Kickstarter_](https://www.kickstarter.com/projects/rendem/weaving-tides) where I watched a girl riding on a dragon weaving carpets and other textiles. If that description doesn't make you curious, I don't know what would. With beautiful graphics and a truly unique concept for a puzzle adventure, _Weaving Tides_ promises to be a game with a story to remember for dragon, textile, adventure, and puzzle lovers alike. Wow—come to think of it, it's the only one I know of that can appeal to all those categories at once!
+I remember [_Weaving Tides_](https://weavingtides.com) all the way back from its [successful Kickstarter](https://www.kickstarter.com/projects/rendem/weaving-tides) where I watched a girl riding on a dragon weaving carpets and other textiles. If that description doesn't make you curious, I don't know what would. With beautiful graphics and a truly unique concept for a puzzle adventure, _Weaving Tides_ promises to be a game with a story to remember for dragon, textile, adventure, and puzzle lovers alike. Wow—come to think of it, it's the only one I know of that can appeal to all those categories at once!
 
 <iframe loading="lazy" src="https://www.youtube.com/embed/6uUzqJ4VxV8?modestbranding=1" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -70,7 +70,7 @@ I've been seeing this one everywhere and for good reason! With the most unique c
 
 > Play as Lumen, the Soul Warden, a demigod from the Underworld. After a demon ambush strips his power and blocks all the Soul Passages Lumen must reopen them and find his way back home!
 
-[_LUMEN](https://www.butterygames.com/lumen) is darker than all the previous ones so far, but not any less in terms of art or story. Inspired by Castlevania and Super Metroid, with a Hollow Knight feel, this metroidvania has a distinct visual style that matches its dark story of demons and demigods. As Lumen, you'll have to relight soul passages in the mortal realm after a demon ambush. Now, excuse me while I join their [Discord_](https://discord.com/invite/KWwbHD2) to scout out the demo so I can try it out (you should too).
+[_LUMEN_](https://www.butterygames.com/lumen) is darker than all the previous ones so far, but not any less in terms of art or story. Inspired by Castlevania and Super Metroid, with a Hollow Knight feel, this metroidvania has a distinct visual style that matches its dark story of demons and demigods. As Lumen, you'll have to relight soul passages in the mortal realm after a demon ambush. Now, excuse me while I join their [Discord](https://discord.com/invite/KWwbHD2) to scout out the demo so I can try it out (you should too).
 
 <iframe loading="lazy" src="https://www.youtube.com/embed/8KcCJzVp5Jk?modestbranding=1" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

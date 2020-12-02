@@ -26,7 +26,7 @@ tags:
   ]
 ---
 
-With [_Risk of Rain 2](http://hopoogames.com/) coming out fairly recently, and my personal purchase of it on the Switch just a few weeks ago, I thought it'd be fitting to review the original [_Risk of Rain_](https://store.steampowered.com/app/248820/Risk_of_Rain/), released in 2013, which is revisited in my Steam library plenty and still my favorite action platformer to this day. I remember spending long nights on the couch with friends screaming in agony about permanent deaths that meant all our work went to waste, only to come back in the next run and relish in the power of our characters.
+With [_Risk of Rain 2_](http://hopoogames.com/) coming out fairly recently, and my personal purchase of it on the Switch just a few weeks ago, I thought it'd be fitting to review the original [_Risk of Rain_](https://store.steampowered.com/app/248820/Risk_of_Rain/), released in 2013, which is revisited in my Steam library plenty and still my favorite action platformer to this day. I remember spending long nights on the couch with friends screaming in agony about permanent deaths that meant all our work went to waste, only to come back in the next run and relish in the power of our characters.
 
 After every run, we each began again with a different character—my favorite has always been the extremely mobile Huntress. We were unable to pull ourselves from the chaos of another challenging fight as we hung from ropes and threw meteors at hoards of monsters nipping at our feet. The insanity brought our characters pain and made us sweat, but clearing it all out and getting to the next teleporter boosted our egos, allowing us to think that maybe we won't die in the next area despite the difficulty increasing at every turn.
 
