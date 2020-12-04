@@ -1,9 +1,15 @@
-import React from "react"
+import React, { useState } from "react"
 import SEO from "../../seo"
 import { graphql, Link } from "gatsby"
 import Tag from "../../common-ui/tag"
 import QuickSummary from "./quick-summary"
 import "./post.scss"
+
+const copyLink = () => {
+  const input = document.getElementById("invisible-input")
+  input.select()
+  document.execCommand("copy")
+}
 
 const PostTemplate = ({ data }) => {
   // this prop will be injected by the GraphQL query below
@@ -25,6 +31,8 @@ const PostTemplate = ({ data }) => {
   } = frontmatter
   const text = html.replace(/(<([^>]+)>)/gi, "")
   const minutes = parseInt((text.split(" ").length * 2) / 500) + 1
+
+  const [linkCopied, setLinkCopied] = useState(false)
 
   return (
     <>
@@ -65,13 +73,22 @@ const PostTemplate = ({ data }) => {
                   src={require("../../../images/facebook.svg")}
                 />
               </a>
-              {/** TODO: cp functionality */}
-              {/* <div className="share-link-wrapper">
-                <div className="tooltip hide">Copied!</div>
-                <a className="share-link" name="copy link to article to share">
+              <div className="share-link-wrapper">
+                <div className={`tooltip ${linkCopied ? "" : "hide"}`}>
+                  Copied!
+                </div>
+                <a
+                  onClick={() => {
+                    copyLink()
+                    setLinkCopied(true)
+                    setTimeout(() => setLinkCopied(false), 3000)
+                  }}
+                  className="share-link"
+                  name="copy link to article to share"
+                >
                   <img alt="link" src={require("../../../images/link.svg")} />
                 </a>
-              </div> */}
+              </div>
               {/** TODO: disqus comments */}
               {/* <a
                 className="jump-comments"
@@ -110,7 +127,7 @@ const PostTemplate = ({ data }) => {
                     >
                       <img
                         alt="twitter logo"
-                        src="../../../images/twitter.svg"
+                        src={require("../../../images/twitter.svg")}
                       />
                     </a>
                     <a
@@ -119,15 +136,28 @@ const PostTemplate = ({ data }) => {
                     >
                       <img
                         alt="facebook logo"
-                        src="../../../images/facebook.svg"
+                        src={require("../../../images/facebook.svg")}
                       />
                     </a>
-                    {/* <div className="share-link-wrapper">
-                      <div className="tooltip hide">Copied!</div>
-                      <a className="share-link" name="copy link to share">
-                        <img alt="link" src="../../../images/link.svg" />
+                    <div className="share-link-wrapper">
+                      <div className={`tooltip ${linkCopied ? "" : "hide"}`}>
+                        Copied!
+                      </div>
+                      <a
+                        onClick={() => {
+                          copyLink()
+                          setLinkCopied(true)
+                          setTimeout(() => setLinkCopied(false), 3000)
+                        }}
+                        className="share-link"
+                        name="copy link to article to share"
+                      >
+                        <img
+                          alt="link"
+                          src={require("../../../images/link.svg")}
+                        />
                       </a>
-                    </div> */}
+                    </div>
                   </div>
                 </div>
                 {postType.includes("review") && <QuickSummary data={data} />}
@@ -160,6 +190,7 @@ const PostTemplate = ({ data }) => {
           type="text"
           value={`https://colludia.com${slug}`}
           className="share-link-text invisible-input"
+          id="invisible-input"
           autoCorrect="off"
           spellCheck="false"
           readOnly
