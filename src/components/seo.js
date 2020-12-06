@@ -11,7 +11,6 @@ import { Helmet } from "react-helmet"
 import { useStaticQuery, graphql } from "gatsby"
 import { pageDescriptions } from "./constants"
 
-// TODO: google analytics
 function SEO({ lang, meta, title, description, author, image, page, type }) {
   const { site } = useStaticQuery(
     graphql`
