@@ -1,6 +1,7 @@
 import React, { useState } from "react"
 import SEO from "../../seo"
 import { graphql, Link } from "gatsby"
+import { Disqus } from "gatsby-plugin-disqus"
 import Tag from "../../common-ui/tag"
 import QuickSummary from "./quick-summary"
 import "./post.scss"
@@ -16,6 +17,7 @@ const PostTemplate = ({ data }) => {
   const { markdownRemark } = data // data.markdownRemark holds your post data
   const { frontmatter, html } = markdownRemark
   const {
+    game,
     tabTitle,
     desc,
     image,
@@ -24,6 +26,7 @@ const PostTemplate = ({ data }) => {
     author,
     authorUrl,
     date,
+    pageType,
     postType,
     categories,
     tags,
@@ -33,6 +36,12 @@ const PostTemplate = ({ data }) => {
   const minutes = parseInt((text.split(" ").length * 2) / 500) + 1
 
   const [linkCopied, setLinkCopied] = useState(false)
+
+  const disqusConfig = {
+    url: `https://colludia.com${slug}`,
+    identifier: `${pageType + game}`,
+    title: tabTitle,
+  }
 
   return (
     <>
@@ -89,8 +98,7 @@ const PostTemplate = ({ data }) => {
                   <img alt="link" src={require("../../../images/link.svg")} />
                 </a>
               </div>
-              {/** TODO: disqus comments */}
-              {/* <a
+              <a
                 className="jump-comments"
                 href="#disqus_thread"
                 name="jump to comments"
@@ -99,7 +107,7 @@ const PostTemplate = ({ data }) => {
                   alt="conment speech bubble"
                   src={require("../../../images/comment.svg")}
                 />
-              </a> */}
+              </a>
             </div>
             <div className="article">
               <article>
@@ -182,7 +190,7 @@ const PostTemplate = ({ data }) => {
                 sponsor or advertise with us, visit{" "}
                 <Link to="/ads">Advertise</Link>.
               </p>
-              <div id="disqus_thread"></div>
+              <Disqus config={disqusConfig} />
             </div>
           </div>
         </section>
