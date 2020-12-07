@@ -60,7 +60,9 @@ const RenderedPosts = ({
             })
             .sort((a, b) => {
               if (!sortable || dateSortType === "publishDate") {
-                return 0
+                const apd = a.node.frontmatter.date
+                const bpd = b.node.frontmatter.date
+                return apd > bpd ? -1 : 1
               }
               const ard = a.node.frontmatter.releaseDate
               const brd = b.node.frontmatter.releaseDate

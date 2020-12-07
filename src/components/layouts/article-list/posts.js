@@ -23,8 +23,8 @@ const Posts = props => {
                   postType
                   desc
                   tagline
-                  date(formatString: "MMMM DD, YYYY")
-                  releaseDate(formatString: "YYYYDDMM")
+                  date(formatString: "YYYYMMDD")
+                  releaseDate(formatString: "YYYYMMDD")
                   image
                   author
                   categories
