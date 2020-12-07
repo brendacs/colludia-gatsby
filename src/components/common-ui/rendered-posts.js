@@ -4,6 +4,7 @@ import React, { useState } from "react"
 import Dropdown from "./dropdown"
 import Tag from "./tag"
 import {
+  months,
   tagColors,
   reviewPageDropdownOptions,
   genresPageArticleTypeDropdownOptions,
@@ -77,6 +78,11 @@ const RenderedPosts = ({
               ) {
                 count += 1
               }
+              const year = post.date.substring(0, 4)
+              const month = post.date.substring(4, 6)
+              const day = post.date.substring(6)
+              const dateString = `${month} ${day}, ${year}`
+              const date = new Date(dateString)
               return (
                 (author ||
                   page === "latest" ||
@@ -103,7 +109,9 @@ const RenderedPosts = ({
                       />
                       <div className="post-info">
                         <p className="post-author">{post.author}</p>
-                        <p className="post-date">{post.date}</p>
+                        <p className="post-date">{`${
+                          months[date.getMonth()]
+                        } ${date.getDate()}, ${date.getFullYear()}`}</p>
                       </div>
                     </div>
                     <div className="post-type">
