@@ -39,8 +39,9 @@ function SEO({ lang, meta, title, description, author, image, page, type }) {
   const metaDescription =
     description || pageDescription || site.siteMetadata.description
   const metaAuthor = author || site.siteMetadata.author
-  const metaImage =
-    image || require("../images/headers/colludia-banner-big.png")
+  const metaImage = `https://colludia.com/images/${
+    image || "colludia-banner-big.png"
+  }`
   const metaType = type || "website"
 
   return (
