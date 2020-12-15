@@ -21,7 +21,6 @@ const Posts = props => {
                   slug
                   title
                   postType
-                  desc
                   tagline
                   date(formatString: "YYYYMMDD")
                   releaseDate(formatString: "YYYYMMDD")

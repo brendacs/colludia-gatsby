@@ -5,14 +5,12 @@ slug: /gametopia-verne-interview/
 tabTitle: "Verne: 20,000 Leagues Under the Sea With Gametopia"
 title: "<em class='game-title'>Verne</em>: 20,000 Leagues Under the Sea With Gametopia"
 postType: [interview, spotlight]
-desc: "Verne interview: If there’s one thing that all his books have, it is adventure, the wonder of discovery and hope."
-tagline: '"If there’s one thing that all his books have, it is adventure, the wonder of discovery and hope."'
+tagline: "Verne interview: If there’s one thing that all his books have, it is adventure, the wonder of discovery and hope."
 date: 2020-09-16
 releaseDate: 2021-12-31
 image: Verne.png
 video: https://www.youtube.com/embed/kC5waqfC-7Q
 author: Josh Roque
-authorUrl: josh
 categories: [adventure, puzzle, interview, spotlight, story]
 tags: ["Verne", "Gametopia", "pixel art", "classic authors"]
 ---

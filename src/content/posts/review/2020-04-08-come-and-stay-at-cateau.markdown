@@ -5,14 +5,12 @@ slug: /come-and-stay-at-cateau/
 tabTitle: Come and Stay at Cateau
 title: Come and Stay at <em class='game-title'>Cateau</em>
 postType: [review]
-desc: "Cateau review: The artwork, though simple, made the game stand out as much as its writing. The first picture I acquired of Gargantuan took my breath away."
-tagline: '"The artwork, though simple, made the game stand out as much as its writing. The first picture I acquired of Gargantuan took my breath away."'
+tagline: "Cateau review: The artwork, though simple, made the game stand out as much as its writing. The first picture I acquired of Gargantuan took my breath away."
 date: 2020-04-08
 releaseDate: 2018-10-17
 image: cateau.jpg
 video: https://www.youtube.com/embed/E2dWf5PXlc0
 author: Emily Tang
-authorUrl: emily
 categories: ["visual novel", review, story]
 tags: [cateau, "lemon curd games", "choices matter"]
 ---

@@ -5,14 +5,12 @@ slug: /3-quirky-nostalgic-social-media-games/
 tabTitle: "3 Quirky, Nostalgic Social Media Simulator Indie Games"
 title: "3 Quirky, Nostalgic Social Media Simulator Indie Games"
 postType: ["our picks"]
-desc: "With these types of heavily text-based and narrative driven games, it's not easy to get the art direction, narrative, and emotional poignancy just right. However, I think these ones hit the spot—they have unique art, a distinctly non-generic twist on social media usage, and employ the framework of technology to tell their story well."
-tagline: '"With these types of heavily text-based and narrative driven games, it''s not easy to get the art direction, narrative, and emotional poignancy just right. However, I think these ones hit the spot—they have unique art, a distinctly non-generic twist on social media usage, and employ the framework of technology to tell their story well."'
+tagline: "With these types of heavily text-based and narrative driven games, it's not easy to get the art direction, narrative, and emotional poignancy just right. However, I think these ones hit the spot—they have unique art, a distinctly non-generic twist on social media usage, and employ the framework of technology to tell their story well."
 date: 2020-10-07
 releaseDate:
 image: 3QuirkyNostalgicSocialMediaGames.jpeg
 video: https://www.youtube.com/embed/gcKcaLWOM5A
 author: Brenda Zhang
-authorUrl: brenda
 categories: ["visual novel", simulation, mystery, puzzle, "our picks", story]
 tags:
   [

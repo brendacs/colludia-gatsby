@@ -5,14 +5,12 @@ slug: /spooky-silly-darkside-detective/
 tabTitle: The Spooky Silly Darkside Detective
 title: The Spooky Silly <em class='game-title'>Darkside Detective</em>
 postType: ["#tbt", review]
-desc: "Darkside Detective review: Once I did start playing (and laughing), I only regretted not getting it earlier. I felt like I was in a pixelated murder mystery, detective show, stand-up comedy hybrid. Needless to say, I will be getting Season 2 on my Switch the second it comes out."
-tagline: '"Once I did start playing (and laughing), I only regretted not getting it earlier. I felt like I was in a pixelated murder mystery, detective show, stand-up comedy hybrid. Needless to say, I will be getting Season 2 on my Switch the second it comes out."'
+tagline: "Darkside Detective review: Once I did start playing (and laughing), I only regretted not getting it earlier. I felt like I was in a pixelated murder mystery, detective show, stand-up comedy hybrid. Needless to say, I will be getting Season 2 on my Switch the second it comes out."
 date: 2020-05-13
 releaseDate: 2017-07-27
 image: DarksideDetective.png
 video: https://www.youtube.com/embed/8fOjX-bxRg0
 author: Brenda Zhang
-authorUrl: brenda
 categories: [mystery, point-and-click, adventure, review, story]
 tags: ["the darkside detective", "spooky doorway", pixel graphics, puzzle, iOS]
 ---

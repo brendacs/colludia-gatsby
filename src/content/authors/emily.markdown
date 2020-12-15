@@ -4,7 +4,7 @@ slug: /author/emily/
 author: Emily Tang
 tabTitle: Emily Tang
 title: Emily Tang
-desc: Read about our author and editor Emily Tang. Colludia is an indie gaming blog focused on games with stories to tell and the developers behind them.
+tagline: Read about our author and editor Emily Tang. Colludia is an indie gaming blog focused on games with stories to tell and the developers behind them.
 class: author
 roles: [author, editor]
 avatar: avatar-4

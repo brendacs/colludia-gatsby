@@ -4,14 +4,12 @@ slug: /difficulty-with-difficult-games/
 tabTitle: The Difficulty With Difficult Games
 title: The Difficulty With Difficult Games
 postType: [opinion]
-desc: "There’s enough pressure from having to deal with angry customers, uncooperative managers or pandemic woes in real life without having to navigate a screen full of billions of death pixels."
-tagline: '"There’s enough pressure from having to deal with angry customers, uncooperative managers or pandemic woes in real life without having to navigate a screen full of billions of death pixels."'
+tagline: "There’s enough pressure from having to deal with angry customers, uncooperative managers or pandemic woes in real life without having to navigate a screen full of billions of death pixels."
 date: 2020-08-05
 releaseDate:
 image: DifficultyDifficultGames.png
 video:
 author: Warren Lee
-authorUrl: warren
 categories:
   [adventure, rpg, simulation, point-and-click, mystery, "opinion", story]
 tags:

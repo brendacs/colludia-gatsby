@@ -4,7 +4,7 @@ slug: /author/pixie/
 author: Pixie Poison
 tabTitle: Pixie Poison
 title: Pixie Poison
-desc: Read about our author Pixie Poison. Colludia is an indie gaming blog focused on games with stories to tell and the developers behind them.
+tagline: Read about our author Pixie Poison. Colludia is an indie gaming blog focused on games with stories to tell and the developers behind them.
 class: author
 roles: [author]
 avatar: avatar-1

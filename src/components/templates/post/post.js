@@ -19,12 +19,11 @@ const PostTemplate = ({ data }) => {
   const {
     game,
     tabTitle,
-    desc,
+    tagline,
     image,
     slug,
     title,
     author,
-    authorUrl,
     date,
     pageType,
     postType,
@@ -45,7 +44,12 @@ const PostTemplate = ({ data }) => {
 
   return (
     <>
-      <SEO title={tabTitle} description={desc} author={author} image={image} />
+      <SEO
+        title={tabTitle}
+        description={tagline}
+        author={author}
+        image={image}
+      />
       <main className="post-main">
         <section className="post-page">
           <header>
@@ -114,7 +118,7 @@ const PostTemplate = ({ data }) => {
                   <div className="post-page-details">
                     <p>
                       <Link
-                        to={`/author/${authorUrl}`}
+                        to={`/author/${author?.split(" ")[0].toLowerCase()}`}
                         className="animated-link"
                       >
                         {author}
@@ -228,14 +232,12 @@ export const pageQuery = graphql`
         tabTitle
         title
         postType
-        desc
         tagline
         date(formatString: "MMMM DD, YYYY")
         releaseDate(formatString: "MMMM DD, YYYY")
         image
         video
         author
-        authorUrl
         categories
         tags
       }

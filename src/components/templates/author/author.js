@@ -32,7 +32,7 @@ const AuthorTemplate = ({ data }) => {
   const { frontmatter } = markdownRemark
   const {
     tabTitle,
-    desc,
+    tagline,
     author,
     avatar,
     bio,
@@ -44,7 +44,7 @@ const AuthorTemplate = ({ data }) => {
   } = frontmatter
   return (
     <>
-      <SEO title={tabTitle} description={desc} />
+      <SEO title={tabTitle} description={tagline} />
       <div className="author">
         <div className="author-heading">
           <div className="author-image-wrapper">
@@ -119,7 +119,7 @@ export const pageQuery = graphql`
         author
         tabTitle
         title
-        desc
+        tagline
         class
         roles
         avatar

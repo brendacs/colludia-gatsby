@@ -5,14 +5,12 @@ slug: meet-takeshi-and-hiroshi
 tabTitle: Meet Passionate Gamers, Takeshi and Hiroshi
 title: Meet Passionate Gamers, <em class='game-title'>Takeshi and Hiroshi</em>
 postType: [review]
-desc: "Takeshi and Hiroshi review: If you're willing to sit through a bit of repetitive gameplay to get to the heart of a touching story, take a moment to learn more about the lives of Takeshi and his cute little brother Hiroshi, who loves games as much as we do."
-tagline: '"If you''re willing to sit through a bit of repetitive gameplay to get to the heart of a touching story, take a moment to learn more about the lives of Takeshi and his cute little brother Hiroshi, who loves games as much as we do."'
+tagline: "Takeshi and Hiroshi review: If you're willing to sit through a bit of repetitive gameplay to get to the heart of a touching story, take a moment to learn more about the lives of Takeshi and his cute little brother Hiroshi, who loves games as much as we do."
 date: 2020-05-10
 releaseDate: 2019-11-01
 image: TakeshiAndHiroshi.png
 video: https://www.youtube.com/embed/A8KrPQEaOpM
 author: Brenda Zhang
-authorUrl: brenda
 categories: ["visual novel", strategy, review, story]
 tags: ["Takeshi and Hiroshi", "Oink Games", "puppet animation", iOS]
 ---

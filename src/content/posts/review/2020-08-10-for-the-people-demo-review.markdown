@@ -5,14 +5,12 @@ slug: /for-the-people-demo-review/
 tabTitle: "For The People Goes Beyond Genre"
 title: "<em class='game-title'>For The People</em> Goes Beyond Genre"
 postType: [demo, review]
-desc: "For The People demo review: With art styles reminiscent of Communist propaganda, fanfare music, and downtrodden faces of the general public, this game is as concerned with politics as it is with the story of a young man given immense power."
-tagline: '"With art styles reminiscent of Communist propaganda, fanfare music, and downtrodden faces of the general public, this game is as concerned with politics as it is with the story of a young man given immense power."'
+tagline: "For The People demo review: With art styles reminiscent of Communist propaganda, fanfare music, and downtrodden faces of the general public, this game is as concerned with politics as it is with the story of a young man given immense power."
 date: 2020-08-10
 releaseDate: 2020-08-13
 image: ForThePeople.jpg
 video: https://www.youtube.com/embed/76sqB96yRVQ
 author: Josh Roque
-authorUrl: josh
 categories: ["visual novel", strategy, management, demo, review, story]
 tags: ["Bregz Studio", 101XP, "For the People", "resource management"]
 ---

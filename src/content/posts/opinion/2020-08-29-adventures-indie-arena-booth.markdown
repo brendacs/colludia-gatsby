@@ -4,14 +4,12 @@ slug: /indie-arena-booth-adventures/
 tabTitle: Adventures at Indie Arena Booth
 title: Adventures at Indie Arena Booth
 postType: [events, opinion]
-desc: "While Emily and I couldn't do in-person photo ops, we visited dozens of booths in-game and took plenty of photos of our experience as if we were actually there together—because we were, in spirit and in a Discord call. We walked down the black and white city in Genesis Noir, traversed the watchful blue streets of Orwell, and wandered the colorless paths of Chicory: A Colorful Tale."
-tagline: '"While Emily and I couldn''t do in-person photo ops, we visited dozens of booths in-game and took plenty of photos of our experience as if we were actually there together—because we were, in spirit and in a Discord call. We walked down the black and white city in Genesis Noir, traversed the watchful blue streets of Orwell, and wandered the colorless paths of Chicory: A Colorful Tale."'
+tagline: "While Emily and I couldn't do in-person photo ops, we visited dozens of booths in-game and took plenty of photos of our experience as if we were actually there together—because we were, in spirit and in a Discord call. We walked down the black and white city in Genesis Noir, traversed the watchful blue streets of Orwell, and wandered the colorless paths of Chicory: A Colorful Tale."
 date: 2020-08-29
 releaseDate:
 image: IndieArenaBooth.png
 video: https://www.youtube.com/embed/_hgTOw11oLc
 author: Brenda Zhang
-authorUrl: brenda
 categories: [adventure, events, "opinion", story]
 tags: ["Gamescom", "Indie Arena Booth"]
 ---

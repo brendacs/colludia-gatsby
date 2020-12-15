@@ -5,14 +5,12 @@ slug: /symphonia-team-interview/
 tabTitle: "Symphonia: Behind the Stage With Team SPEAR"
 title: "<em class='game-title'>Symphonia:</em> Behind the Stage With Team SPEAR"
 postType: [interview, spotlight]
-desc: "Symphonia interview: It was clear that the team had great synergy during production, having created a well-focused game unified in its story, art, sound design, and gameplay."
-tagline: '"It was clear that the team had great synergy during production, having created a well-focused game unified in its story, art, sound design, and gameplay."'
+tagline: "Symphonia interview: It was clear that the team had great synergy during production, having created a well-focused game unified in its story, art, sound design, and gameplay."
 date: 2020-08-24
 releaseDate: 2020-06-23
 image: Symphonia.png
 video: https://www.youtube.com/embed/cQA9iiWxZBU
 author: Josh Roque
-authorUrl: josh
 categories: [platformer, rpg, spotlight, interview, story]
 tags: ["ISART Digital", Symphonia, music]
 ---
@@ -81,7 +79,7 @@ Thanks a lot for having us in Colludia! I want to finish with some advice to our
 
 <span class="blue-q">Where can people follow or find you to keep up with _Symphonia_ updates?</span>
 
-You can find us under the name @symphonia_game on [Twitter](https://twitter.com/symphonia_game), which is our main social media account, and on [Instagram](https://www.instagram.com/symphonia_game/?hl=en). We’re also on [Facebook](https://www.facebook.com/symphoniagame) as "Symphonia - The Game". You can check out Team SPEAR's _Symphonia_ for free on [itch.io](https://isart-digital.itch.io/symphonia).
+You can find us under the name @symphonia*game on [Twitter](https://twitter.com/symphonia_game), which is our main social media account, and on [Instagram](https://www.instagram.com/symphonia_game/?hl=en). We’re also on [Facebook](https://www.facebook.com/symphoniagame) as "Symphonia - The Game". You can check out Team SPEAR's \_Symphonia* for free on [itch.io](https://isart-digital.itch.io/symphonia).
 
 ![][image8]
 

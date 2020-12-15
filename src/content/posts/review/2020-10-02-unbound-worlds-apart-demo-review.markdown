@@ -5,14 +5,12 @@ slug: /unbound-worlds-apart-review-demo/
 tabTitle: "Worlds Collide as Evil Encroaches in Unbound: Worlds Apart"
 title: "Worlds Collide as Evil Encroaches in <em class='game-title'>Unbound Worlds Apart</em>"
 postType: [demo, review]
-desc: "Unbound Worlds Apart demo review: Unbound: Worlds Apart's faithful inspirations oozed from its very seams with every intentional mechanic, platform to leap, and puzzle the player is expected to navigate."
-tagline: '"Unbound: Worlds Apart''s faithful inspirations oozed from its very seams with every intentional mechanic, platform to leap, and puzzle the player is expected to navigate."'
+tagline: "Unbound Worlds Apart demo review: Unbound: Worlds Apart's faithful inspirations oozed from its very seams with every intentional mechanic, platform to leap, and puzzle the player is expected to navigate."
 date: 2020-10-02
 releaseDate: 2021-06-01
 image: UnboundWorldsApart.jpg
 video: https://www.youtube.com/embed/trna9Fhc6wU
 author: Moses Concha
-authorUrl: moses
 categories: [puzzle platformer, metroidvania, demo, review, story]
 tags:
   [

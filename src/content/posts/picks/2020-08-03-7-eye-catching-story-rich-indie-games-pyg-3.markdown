@@ -4,14 +4,12 @@ slug: /7-eye-catching-story-rich-indie-games/
 tabTitle: "7 Eye-Catching Story Rich Indie Games From #PitchYaGame 3"
 title: "7 Eye-Catching Story Rich Indie Games From #PitchYaGame 3"
 postType: ["our picks"]
-desc: "It takes a lot of effort and heart to create indie games, and we know it takes even more guts to put your game out there for the world to see and pitch it to anyone who will listen. This list for #PitchYaGame round 3 is made up of my favorite story rich games out of the dozens that were pitched directly to Colludia."
-tagline: '"It takes a lot of effort and heart to create indie games, and we know it takes even more guts to put your game out there for the world to see and pitch it to anyone who will listen. This list for #PitchYaGame round 3 is made up of my favorite story rich games out of the dozens that were pitched directly to Colludia."'
+tagline: "It takes a lot of effort and heart to create indie games, and we know it takes even more guts to put your game out there for the world to see and pitch it to anyone who will listen. This list for #PitchYaGame round 3 is made up of my favorite story rich games out of the dozens that were pitched directly to Colludia."
 date: 2020-08-03
 releaseDate:
 image: 7eyecatchingindiegamesPYG.png
 video:
 author: Brenda Zhang
-authorUrl: brenda
 categories:
   [adventure, rpg, simulation, mystery, platformer, horror, "our picks", story]
 tags:

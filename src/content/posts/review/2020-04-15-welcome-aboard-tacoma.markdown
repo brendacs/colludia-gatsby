@@ -5,14 +5,12 @@ slug: /welcome-aboard-tacoma/
 tabTitle: Welcome Aboard Tacoma
 title: Welcome Aboard <em class='game-title'>Tacoma</em>
 postType: ["#tbt", review]
-desc: "Tacoma review: Tacoma is a brilliant work of art that really shows what immersive multi-modal storytelling can do."
-tagline: '"Tacoma is a brilliant work of art that really shows what immersive multi-modal storytelling can do."'
+tagline: "Tacoma review: Tacoma is a brilliant work of art that really shows what immersive multi-modal storytelling can do."
 date: 2020-04-15
 releaseDate: 2017-08-02
 image: tacoma.png
 video: https://www.youtube.com/embed/7QrjsQaKG3c
 author: Emily Tang
-authorUrl: emily
 categories: ["walking sim", review, story]
 tags: [tacoma, "sci fi", "narrative driven", exploration, fullbright]
 ---

@@ -4,7 +4,7 @@ slug: /author/brenda/
 author: Brenda Zhang
 tabTitle: Brenda Zhang
 title: Brenda Zhang
-desc: Read about our author and editor Brenda Zhang. Colludia is an indie gaming blog focused on games with stories to tell and the developers behind them.
+tagline: Read about our author and editor Brenda Zhang. Colludia is an indie gaming blog focused on games with stories to tell and the developers behind them.
 class: author
 roles: [author, editor]
 avatar: avatar-2

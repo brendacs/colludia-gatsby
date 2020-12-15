@@ -5,14 +5,12 @@ slug: /night-in-the-woods-review/
 tabTitle: "Night in the Woods: A Delightfully Candid Tale of Youthful Quirk"
 title: "<em class='game-title'>Night in the Woods:</em> A Delightfully Candid Tale of Youthful Quirk"
 postType: ["#tbt", review]
-desc: "Review: Night in the Woods tackles a multitude of themes and real life issues, such as trauma, social awkwardness, mental health, and young adulthood in the most genuine ways possible."
-tagline: '"Night in the Woods tackles a multitude of themes and real life issues, such as trauma, social awkwardness, mental health, and young adulthood in the most genuine ways possible."'
+tagline: "Review: Night in the Woods tackles a multitude of themes and real life issues, such as trauma, social awkwardness, mental health, and young adulthood in the most genuine ways possible."
 date: 2020-08-20
 releaseDate: 2017-02-21
 image: NightInTheWoods.jpg
 video: https://www.youtube.com/embed/u17kM8oSz3k
 author: Moses Concha
-authorUrl: moses
 categories: [adventure, atmospheric, review, story]
 tags:
   [

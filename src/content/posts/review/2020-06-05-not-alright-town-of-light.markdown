@@ -5,14 +5,12 @@ slug: /not-alright-town-of-light/
 tabTitle: "It's Not Alright in the Town of Light"
 title: "It's Not Alright in the <em class='game-title'>Town of Light</em>"
 postType: ["#tbt", review]
-desc: "Review: The Town of Light is an excellent example of how storytelling in games can bring the more messy and taboo topics to light with immersion, great narrative design, and intensive research."
-tagline: '"The Town of Light is an excellent example of how storytelling in games can bring the more messy and taboo topics to light with immersion, great narrative design, and intensive research."'
+tagline: "Review: The Town of Light is an excellent example of how storytelling in games can bring the more messy and taboo topics to light with immersion, great narrative design, and intensive research."
 date: 2020-06-05
 releaseDate: 2016-02-26
 image: TownOfLight.png
 video: https://www.youtube.com/embed/Wg3ji0yw6hM
 author: Emily Tang
-authorUrl: emily
 categories: [horror, "walking sim", review, story]
 tags: ["Town of Light", psychological, "mental health"]
 ---

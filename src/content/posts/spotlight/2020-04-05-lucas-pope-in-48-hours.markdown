@@ -4,14 +4,12 @@ slug: /lucas-pope-in-48-hours/
 tabTitle: Lucas Pope in 48 Hours
 title: Lucas Pope in 48 Hours
 postType: [spotlight]
-desc: "Developer spotlight: The styles of each Lucas Pope game are just as simple and intuitive to navigate as Papers, Please. Dangerously, they are also equally as simple to pick up, conducive to replay, and difficult to put down."
-tagline: '"The styles of each Lucas Pope game are just as simple and intuitive to navigate as Papers, Please. Dangerously, they are also equally as simple to pick up, conducive to replay, and difficult to put down."'
+tagline: "Developer spotlight: The styles of each Lucas Pope game are just as simple and intuitive to navigate as Papers, Please. Dangerously, they are also equally as simple to pick up, conducive to replay, and difficult to put down."
 date: 2020-04-05
 releaseDate: 2018-10-17
 image: LucasPope.png
 video: https://www.youtube.com/embed/_QP5X6fcukM
 author: Brenda Zhang
-authorUrl: brenda
 categories: [strategy, puzzle, dystopian, spotlight]
 tags: ["lucas pope", "3909 LLC", 2D, pixel graphics, developer]
 ---

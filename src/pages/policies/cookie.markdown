@@ -3,7 +3,7 @@ pageType: info
 slug: /cookie-policy/
 tabTitle: Cookie Policy
 title: Cookie Policy
-desc: Colludia's Cookie Policy. Shining a spotlight on indie games and developers, whether popular or obscure.
+tagline: Colludia's Cookie Policy. Shining a spotlight on indie games and developers, whether popular or obscure.
 class: md
 image: colludia-banner-big.png
 ---

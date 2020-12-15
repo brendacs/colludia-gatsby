@@ -5,14 +5,12 @@ slug: /lamentum-demo-review/
 tabTitle: "Macabre Imagery and Terrifying Soundscapes Pulse Through Lamentum"
 title: "Macabre Imagery and Terrifying Soundscapes Pulse Through <em class='game-title'>Lamentum</em>"
 postType: [demo, review]
-desc: "Lamentum demo review: The macabre yet evocative imagery, the wonderfully unsettling sound design and hard-hitting subtext make for a terrifying descent into darkness."
-tagline: '"The macabre yet evocative imagery, the wonderfully unsettling sound design and hard-hitting subtext make for a terrifying descent into darkness."'
+tagline: "Lamentum demo review: The macabre yet evocative imagery, the wonderfully unsettling sound design and hard-hitting subtext make for a terrifying descent into darkness."
 date: 2020-11-12
 releaseDate: 2021-12-31
 image: Lamentum.png
 video: https://www.youtube.com/embed/KHbh3B_EkBY
 author: Pixie Poison
-authorUrl: pixie
 categories: ["survival horror", "pixel art", puzzle, demo, review, story]
 tags:
   [

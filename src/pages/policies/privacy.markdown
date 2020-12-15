@@ -3,7 +3,7 @@ pageType: info
 slug: /privacy-policy/
 tabTitle: Privacy Policy
 title: Privacy Policy
-desc: Colludia's Privacy Policy. Shining a spotlight on indie games and developers, whether popular or obscure.
+tagline: Colludia's Privacy Policy. Shining a spotlight on indie games and developers, whether popular or obscure.
 class: md
 image: colludia-banner-big.png
 ---

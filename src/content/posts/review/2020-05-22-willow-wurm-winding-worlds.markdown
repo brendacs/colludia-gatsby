@@ -5,14 +5,12 @@ slug: /willow-wurm-winding-worlds/
 tabTitle: "Wandering With Willow and the Wurm in Winding Worlds"
 title: "Wandering With Willow and the Wurm in <em class='game-title'>Winding Worlds</em>"
 postType: [review]
-desc: "Winding Worlds review: As you wander the world, you also wander the resident's mind and memories and help them to untangle their guilt, regret, or fear as you reflect on your own mental state."
-tagline: '"As you wander the world, you also wander the resident''s mind and memories and help them to untangle their guilt, regret, or fear as you reflect on your own mental state."'
+tagline: "Winding Worlds review: As you wander the world, you also wander the resident's mind and memories and help them to untangle their guilt, regret, or fear as you reflect on your own mental state."
 date: 2020-05-22
 releaseDate: 2020-05-15
 image: WindingWorlds.png
 video: https://www.youtube.com/embed/gIF1_aN4aHU
 author: Brenda Zhang
-authorUrl: brenda
 categories: [puzzle, point-and-click, review, story]
 tags: ["Winding Worlds", KO_OP, Willow, Wurm, 2D, iOS, adventure]
 ---

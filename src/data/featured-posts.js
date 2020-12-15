@@ -2,14 +2,14 @@ export const featuredPost = {
   latest: {
     title: "The Beauty of Letting Go in When the Past Was Around",
     tagline:
-      '"When The Past Was Around review: The vivid scenes and emotional music that perfectly fit together with the bittersweet narrative of Eda\'s past romance and locked away memories in When the Past Was Around nearly brought me to tears in a way no game has in a very long time."',
+      '"The vivid scenes and emotional music that perfectly fit together with the bittersweet narrative of Eda\'s past romance and locked away memories in When the Past Was Around nearly brought me to tears in a way no game has in a very long time."',
     image: "WhenThePastWasAroundFull.jpeg",
     url: "/when-the-past-was-around-review/",
   },
   review: {
     title: "Worlds Collide as Evil Encroaches in Unbound: Worlds Apart",
     tagline:
-      '"Unbound Worlds Apart demo review: Unbound: Worlds Apart\'s faithful inspirations oozed from its very seams with every intentional mechanic, platform to leap, and puzzle the player is expected to navigate."',
+      '"Unbound: Worlds Apart\'s faithful inspirations oozed from its very seams with every intentional mechanic, platform to leap, and puzzle the player is expected to navigate."',
     image: "UnboundWorldsApart.jpg",
     url: "/unbound-worlds-apart-review-demo/",
   },

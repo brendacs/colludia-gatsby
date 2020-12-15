@@ -4,7 +4,7 @@ slug: /author/moses/
 author: Moses Concha
 tabTitle: Moses Concha
 title: Moses Concha
-desc: Read about our author Moses Concha. Colludia is an indie gaming blog focused on games with stories to tell and the developers behind them.
+tagline: Read about our author Moses Concha. Colludia is an indie gaming blog focused on games with stories to tell and the developers behind them.
 class: author
 roles: [author, editor]
 avatar: avatar-1

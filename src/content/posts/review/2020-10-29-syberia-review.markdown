@@ -5,14 +5,12 @@ slug: /syberia-review/
 tabTitle: "Follow Your Dreams to Syberia"
 title: "Follow Your Dreams to Syberia <em class='game-title'>Syberia</em>"
 postType: ["#tbt", review]
-desc: "Syberia review: Without the voice acting, the story is enough to carry the game to success, but it's that push for more immersion that really made me love or hate the characters."
-tagline: '"Without the voice acting, the story is enough to carry the game to success, but it''s that push for more immersion that really made me love or hate the characters."'
+tagline: "Syberia review: Without the voice acting, the story is enough to carry the game to success, but it's that push for more immersion that really made me love or hate the characters."
 date: 2020-10-29
 releaseDate: 2017-04-20
 image: Syberia.png
 video: https://www.youtube.com/embed/69o6Vks0sKA
 author: Emily Tang
-authorUrl: emily
 categories: [adventure, point-and-click, review, story]
 tags: ["Syberia", "Microids", "Microids", puzzle, soundtrack]
 ---

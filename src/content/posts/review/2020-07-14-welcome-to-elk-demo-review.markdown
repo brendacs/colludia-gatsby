@@ -5,14 +5,12 @@ slug: /welcome-to-elk-demo-review/
 tabTitle: "Quirky Art and Mini-Games Make for a Warm Welcome to Elk, Demo Review"
 title: "Quirky Art and Mini-Games Make for a Warm <em class='game-title'>Welcome to Elk</em>"
 postType: [demo, review]
-desc: "Welcome to Elk demo review: With simple yet engaging mini-games, the developers fully utilize the potential of video games as a medium for storytelling and absorbing the player into the world of Elk."
-tagline: '"With simple yet engaging mini-games, the developers fully utilize the potential of video games as a medium for storytelling and absorbing the player into the world of Elk."'
+tagline: "Welcome to Elk demo review: With simple yet engaging mini-games, the developers fully utilize the potential of video games as a medium for storytelling and absorbing the player into the world of Elk."
 date: 2020-07-14
 releaseDate: 2020-09-17
 image: WelcomeToElk.png
 video: https://www.youtube.com/embed/e69Tr8Zi87c
 author: Brenda Zhang
-authorUrl: brenda
 categories: ["adventure", "atmospheric", rpg, demo, review, story]
 tags: ["Welcome to Elk", "Triple Topping", mini-games, illustration, cartoon]
 ---

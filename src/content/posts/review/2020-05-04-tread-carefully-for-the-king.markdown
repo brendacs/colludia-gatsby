@@ -5,14 +5,12 @@ slug: /tread-carefully-for-the-king/
 tabTitle: Tread Carefully For The King
 title: Tread Carefully <em class='game-title'>For The King</em>
 postType: ["#tbt", review]
-desc: "For The King review: For The King embodies the classic turn-based RPG, with a multiplayer co-op up to two other players. In a party of three, it’s a bite-sized adventure that scales in difficulty should you choose to challenge yourself. Add in the good ol’ RNG, and I couldn’t ask for anything more."
-tagline: '"For The King embodies the classic turn-based RPG, with a multiplayer co-op up to two other players. In a party of three, it’s a bite-sized adventure that scales in difficulty should you choose to challenge yourself. Add in the good ol’ RNG, and I couldn’t ask for anything more."'
+tagline: "For The King review: For The King embodies the classic turn-based RPG, with a multiplayer co-op up to two other players. In a party of three, it’s a bite-sized adventure that scales in difficulty should you choose to challenge yourself. Add in the good ol’ RNG, and I couldn’t ask for anything more."
 date: 2020-05-04
 releaseDate: 2017-02-28
 image: ForTheKing.png
 video: https://www.youtube.com/embed/XwnkmWBpyBU
 author: Emily Tang
-authorUrl: emily
 categories: [turn-based, co-op, roguelike, rpg, "not story", review]
 tags: ["For The King", "IronOak Games", procedural]
 ---

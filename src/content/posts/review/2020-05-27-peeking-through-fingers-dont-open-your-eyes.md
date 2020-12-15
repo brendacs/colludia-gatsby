@@ -5,13 +5,11 @@ slug: /peeking-through-fingers-dont-open-your-eyes/
 tabTitle: "Peeking Through Fingers in (Don't) Open Your Eyes"
 title: "Peeking Through Fingers in <em class='game-title'>(Don't) Open Your Eyes</em>"
 postType: [review]
-desc: "Don't Open Your Eyes review: When I hear about horror visual novels, I am skeptical. It's easy to throw in jump scares and jolting noises to scare the player. However, Via took care in building player immersion for high quality tension."
-tagline: '"When I hear about horror visual novels, I am skeptical. It''s easy to throw in jump scares and jolting noises to scare the player. However, Via took care in building player immersion for high quality tension."'
+tagline: "Don't Open Your Eyes review: When I hear about horror visual novels, I am skeptical. It's easy to throw in jump scares and jolting noises to scare the player. However, Via took care in building player immersion for high quality tension."
 date: 2020-05-27
 releaseDate: 2019-03-29
 image: DontOpenYourEyes.png
 author: Devon Huge
-authorUrl: devon
 categories: [horror, "visual novel", review, story]
 tags: ["Don't Open your Eyes", Via]
 ---

@@ -5,14 +5,12 @@ slug: /adventure-awaits-night-of-the-rabbit/
 tabTitle: Adventure Awaits in Night of the Rabbit
 title: Adventure Awaits in <em class='game-title'>Night of the Rabbit</em>
 postType: ["#tbt", review]
-desc: "Night of the Rabbit review: If I could describe this game in one sentence, it is setting out on an adventure without worrying when you’ll be back, full of energy and the potential to change the world."
-tagline: '"If I could describe this game in one sentence, it is setting out on an adventure without worrying when you’ll be back, full of energy and the potential to change the world."'
+tagline: "Night of the Rabbit review: If I could describe this game in one sentence, it is setting out on an adventure without worrying when you’ll be back, full of energy and the potential to change the world."
 date: 2020-04-24
 releaseDate: 2013-05-28
 image: nightofrabbit.png
 video: https://www.youtube.com/embed/dTZHzetlkLI
 author: Emily Tang
-authorUrl: emily
 categories: [point-and-click, review, story]
 tags:
   [

@@ -5,14 +5,12 @@ slug: /frogsong-interview-spotlight/
 tabTitle: "Frogsong Grapples With Identity Through the Lens of a Tiny Frog"
 title: "<em class='game-title'>Frogsong</em> Grapples With Identity Through the Lens of a Tiny Frog"
 postType: [interview, spotlight]
-desc: "Frogsong interview spotlight: A frog with a knife on an adventure: a simple concept with lively art. However, despite the lighthearted appearance, the game has narrative depth hidden under its cute and colorful layers."
-tagline: '"A frog with a knife on an adventure: a simple concept with lively art. However, despite the lighthearted appearance, the game has narrative depth hidden under its cute and colorful layers."'
+tagline: "Frogsong interview spotlight: A frog with a knife on an adventure: a simple concept with lively art. However, despite the lighthearted appearance, the game has narrative depth hidden under its cute and colorful layers."
 date: 2020-11-24
 releaseDate: 2021-12-31
 image: Frogsong.png
 video: https://www.youtube.com/embed/WwsRl4FwUbw
 author: Brenda Zhang
-authorUrl: brenda
 categories: [adventure, interview, spotlight, story]
 tags:
   [

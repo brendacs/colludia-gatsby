@@ -5,14 +5,12 @@ slug: adventure-time-vibrant-world-card-of-darkness
 tabTitle: Adventure Time in the Vibrant World of Card of Darkness
 title: Adventure Time in the Vibrant World of <em class='game-title'>Card of Darkness</em>
 postType: [review]
-desc: "Review: Card of Darkness was at once straightforward and undemanding while somehow managing to be layered with the same complexities of a fully-formed roguelike game."
-tagline: '"Card of Darkness was at once straightforward and undemanding while somehow managing to be layered with the same complexities of a fully-formed roguelike game."'
+tagline: "Review: Card of Darkness was at once straightforward and undemanding while somehow managing to be layered with the same complexities of a fully-formed roguelike game."
 date: 2020-05-06
 releaseDate: 2019-10-07
 image: CardOfDarkness.png
 video: https://www.youtube.com/embed/YfR5RC58Rjs
 author: Brenda Zhang
-authorUrl: brenda
 categories: [adventure, strategy, roguelike, review, story]
 tags: ["Card of Darkness", "Zach Gage", "Pendleton Ward", card, iOS]
 ---
