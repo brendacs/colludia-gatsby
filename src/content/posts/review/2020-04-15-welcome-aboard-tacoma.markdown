@@ -2,7 +2,6 @@
 pageType: post
 game: tacoma
 slug: /welcome-aboard-tacoma/
-tabTitle: Welcome Aboard Tacoma
 title: Welcome Aboard <em class='game-title'>Tacoma</em>
 postType: ["#tbt", review]
 tagline: "Tacoma review: Tacoma is a brilliant work of art that really shows what immersive multi-modal storytelling can do."

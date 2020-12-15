@@ -1,7 +1,6 @@
 ---
 pageType: post
 slug: /9-heartwarming-narrative-games/
-tabTitle: "9 Beautiful, Heartwarming Narrative Driven Games to Follow"
 title: "9 Beautiful, Heartwarming Narrative Driven Games to Follow"
 postType: ["our picks"]
 tagline: "These 9 visually appealing games are beautiful in more than one way—the story and relationships in each are charming, heartwarming, and sometimes very personal. The games here are very diverse in art and genre, but their distinct, stylized art and moving story are the common thread between them all."

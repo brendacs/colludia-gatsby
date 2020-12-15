@@ -2,7 +2,6 @@
 pageType: post
 game: rosewater
 slug: /rosewater-demo-review/
-tabTitle: "Intricately Layered Adventure Awaits in Rosewater"
 title: "Intricately Layered Adventure Awaits in <em class='game-title'>Rosewater</em>"
 postType: [demo, review]
 tagline: "Rosewater demo review: Fantastic animation, complex characters and weighted interaction kept me gripped the whole time and set the perfect scene for the main adventure. The demo was just enough to reel you in, and I was reeled."

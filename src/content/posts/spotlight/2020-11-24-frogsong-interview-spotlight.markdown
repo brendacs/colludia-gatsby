@@ -2,7 +2,6 @@
 pageType: post
 game: frogsong
 slug: /frogsong-interview-spotlight/
-tabTitle: "Frogsong Grapples With Identity Through the Lens of a Tiny Frog"
 title: "<em class='game-title'>Frogsong</em> Grapples With Identity Through the Lens of a Tiny Frog"
 postType: [interview, spotlight]
 tagline: "Frogsong interview spotlight: A frog with a knife on an adventure: a simple concept with lively art. However, despite the lighthearted appearance, the game has narrative depth hidden under its cute and colorful layers."

@@ -1,7 +1,6 @@
 ---
 pageType: info
 slug: /cookie-policy/
-tabTitle: Cookie Policy
 title: Cookie Policy
 tagline: Colludia's Cookie Policy. Shining a spotlight on indie games and developers, whether popular or obscure.
 class: md

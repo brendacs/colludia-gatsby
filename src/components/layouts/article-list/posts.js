@@ -17,7 +17,6 @@ const Posts = props => {
                 excerpt(pruneLength: 100)
                 frontmatter {
                   pageType
-                  game
                   slug
                   title
                   postType

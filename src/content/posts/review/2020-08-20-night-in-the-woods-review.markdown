@@ -2,7 +2,6 @@
 pageType: post
 game: nightinthewoods
 slug: /night-in-the-woods-review/
-tabTitle: "Night in the Woods: A Delightfully Candid Tale of Youthful Quirk"
 title: "<em class='game-title'>Night in the Woods:</em> A Delightfully Candid Tale of Youthful Quirk"
 postType: ["#tbt", review]
 tagline: "Review: Night in the Woods tackles a multitude of themes and real life issues, such as trauma, social awkwardness, mental health, and young adulthood in the most genuine ways possible."

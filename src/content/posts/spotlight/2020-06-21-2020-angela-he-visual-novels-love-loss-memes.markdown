@@ -1,7 +1,6 @@
 ---
 pageType: post
 slug: /angela-he-visual-novels-love-loss-memes/
-tabTitle: "Angela He's Visual Novels: Love, Loss, and Memes"
 title: "Angela He's Visual Novels: Love, Loss, and Memes"
 postType: [spotlight]
 tagline: "Developer spotlight: Play all of Angela He's visual novels and cry and smile as you glimpse the lives of those in pain and those in love through the lens of these beautifully illustrated playable stories."

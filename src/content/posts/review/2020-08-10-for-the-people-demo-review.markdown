@@ -2,7 +2,6 @@
 pageType: post
 game: forthepeople
 slug: /for-the-people-demo-review/
-tabTitle: "For The People Goes Beyond Genre"
 title: "<em class='game-title'>For The People</em> Goes Beyond Genre"
 postType: [demo, review]
 tagline: "For The People demo review: With art styles reminiscent of Communist propaganda, fanfare music, and downtrodden faces of the general public, this game is as concerned with politics as it is with the story of a young man given immense power."

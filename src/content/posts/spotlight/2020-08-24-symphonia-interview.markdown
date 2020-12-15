@@ -2,7 +2,6 @@
 pageType: post
 game: symphonia
 slug: /symphonia-team-interview/
-tabTitle: "Symphonia: Behind the Stage With Team SPEAR"
 title: "<em class='game-title'>Symphonia:</em> Behind the Stage With Team SPEAR"
 postType: [interview, spotlight]
 tagline: "Symphonia interview: It was clear that the team had great synergy during production, having created a well-focused game unified in its story, art, sound design, and gameplay."

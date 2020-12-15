@@ -117,7 +117,6 @@ export const pageQuery = graphql`
         pageType
         slug
         author
-        tabTitle
         title
         tagline
         class

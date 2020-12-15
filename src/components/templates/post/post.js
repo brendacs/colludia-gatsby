@@ -17,15 +17,12 @@ const PostTemplate = ({ data }) => {
   const { markdownRemark } = data // data.markdownRemark holds your post data
   const { frontmatter, html } = markdownRemark
   const {
-    game,
-    tabTitle,
     tagline,
     image,
     slug,
     title,
     author,
     date,
-    pageType,
     postType,
     categories,
     tags,
@@ -36,16 +33,24 @@ const PostTemplate = ({ data }) => {
 
   const [linkCopied, setLinkCopied] = useState(false)
 
+  // Cleans out the html tag for game title
+  const cleanTitle =
+    title.indexOf("game-title") !== -1
+      ? title.split("<em class='game-title'>")[0] +
+        title.split("<em class='game-title'>")[1]?.split("</em>")[0] +
+        title.split("<em class='game-title'>")[1]?.split("</em>")[1]
+      : title
+
   const disqusConfig = {
     url: `https://colludia.com${slug}`,
-    identifier: `${pageType + game}`,
-    title: tabTitle,
+    identifier: slug,
+    title: cleanTitle,
   }
 
   return (
     <>
       <SEO
-        title={tabTitle}
+        title={cleanTitle}
         description={tagline}
         author={author}
         image={image}
@@ -226,10 +231,8 @@ export const pageQuery = graphql`
     markdownRemark(frontmatter: { slug: { eq: $slug } }) {
       html
       frontmatter {
-        pageType
         game
         slug
-        tabTitle
         title
         postType
         tagline

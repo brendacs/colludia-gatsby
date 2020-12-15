@@ -2,7 +2,6 @@
 pageType: post
 game: moonlighter
 slug: /broom-to-roomba-moonlighter/
-tabTitle: From Broom to Roomba in Moonlighter
 title: From Broom to Roomba in <em class='game-title'>Moonlighter</em>
 postType: [review]
 tagline: "Moonlighter review: From broom-wielder to Roomba-owner, you'll no doubt have fun fighting and selling your way to victory, glory, and wealth while revitalizing the town of Rynoka—and the world—as the humble shopkeeper Will."

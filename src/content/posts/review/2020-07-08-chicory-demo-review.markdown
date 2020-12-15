@@ -2,7 +2,6 @@
 pageType: post
 game: chicory
 slug: /chicory-demo-review/
-tabTitle: "Chicory: A Colorful Tale Feels Like a Playable Coloring Book, Demo Review"
 title: "<em class='game-title'>Chicory: A Colorful Tale</em> Feels Like a Playable Coloring Book"
 postType: [demo, review]
 tagline: "Chicory demo review: What you choose to do after you've picked up the brush is as open-ended as your paintings. This demo convinced me I need to get Chicory the day it releases and find out what happens next in the adventure."

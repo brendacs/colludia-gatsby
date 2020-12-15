@@ -2,7 +2,6 @@
 pageType: post
 game: cardofdarkness
 slug: adventure-time-vibrant-world-card-of-darkness
-tabTitle: Adventure Time in the Vibrant World of Card of Darkness
 title: Adventure Time in the Vibrant World of <em class='game-title'>Card of Darkness</em>
 postType: [review]
 tagline: "Review: Card of Darkness was at once straightforward and undemanding while somehow managing to be layered with the same complexities of a fully-formed roguelike game."

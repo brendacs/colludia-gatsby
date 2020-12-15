@@ -2,7 +2,6 @@
 pageType: post
 game: verne
 slug: /gametopia-verne-interview/
-tabTitle: "Verne: 20,000 Leagues Under the Sea With Gametopia"
 title: "<em class='game-title'>Verne</em>: 20,000 Leagues Under the Sea With Gametopia"
 postType: [interview, spotlight]
 tagline: "Verne interview: If there’s one thing that all his books have, it is adventure, the wonder of discovery and hope."

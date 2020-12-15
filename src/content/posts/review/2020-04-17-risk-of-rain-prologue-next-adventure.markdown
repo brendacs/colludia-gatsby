@@ -2,7 +2,6 @@
 pageType: post
 game: riskofrain
 slug: /risk-of-rain-prologue-next-adventure/
-tabTitle: "Risk of Rain: A Prologue to My Next Adventure"
 title: "<em class='game-title'>Risk of Rain</em>: A Prologue to My Next Adventure"
 postType: ["#tbt", review]
 tagline: "Risk of Rain review: It's hard to put this game down after one run. When you amass a huge collection of items and acquire ice, spikes, missiles, lasers, and have unlimited health at your disposal, it'll be so fun that you'll never want to teleport to the final boss as you stay alive longer and longer to see just how powerful your character can become."

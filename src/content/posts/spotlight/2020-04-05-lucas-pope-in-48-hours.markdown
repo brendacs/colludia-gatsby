@@ -1,7 +1,6 @@
 ---
 pageType: post
 slug: /lucas-pope-in-48-hours/
-tabTitle: Lucas Pope in 48 Hours
 title: Lucas Pope in 48 Hours
 postType: [spotlight]
 tagline: "Developer spotlight: The styles of each Lucas Pope game are just as simple and intuitive to navigate as Papers, Please. Dangerously, they are also equally as simple to pick up, conducive to replay, and difficult to put down."

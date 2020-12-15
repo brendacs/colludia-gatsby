@@ -2,7 +2,6 @@
 pageType: author
 slug: /author/warren/
 author: Warren Lee
-tabTitle: Warren Lee
 title: Warren Lee
 tagline: Read about our author Warren Lee. Colludia is an indie gaming blog focused on games with stories to tell and the developers behind them.
 class: author

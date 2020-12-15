@@ -2,7 +2,6 @@
 pageType: author
 slug: /author/devon/
 author: Devon Huge
-tabTitle: Devon Huge
 title: Devon Huge
 tagline: Read about our author Devon Huge. Colludia is an indie gaming blog focused on games with stories to tell and the developers behind them.
 class: author

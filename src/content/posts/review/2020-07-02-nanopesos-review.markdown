@@ -2,7 +2,6 @@
 pageType: post
 game: nanopesos
 slug: /nanopesos-review/
-tabTitle: "Understanding Minimum Wage Living through Nanopesos, Budget Management Game"
 title: "Understanding Minimum Wage Living through <em class='game-title'>Nanopesos</em>"
 postType: [review]
 tagline: "Nanopesos review: This budget management game is short, but makes players feel the tight squeeze and dire consequences of a low minimum wage and lack of support. It is no doubt worth a play—and a discussion."

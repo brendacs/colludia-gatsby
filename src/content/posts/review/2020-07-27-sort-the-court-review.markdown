@@ -2,7 +2,6 @@
 pageType: post
 game: sortthecourt
 slug: /sort-the-court-review/
-tabTitle: "Courting Decisions in Sort the Court!"
 title: "Courting Decisions in <em class='game-title'>Sort the Court!</em>"
 postType: ["#tbt", review]
 tagline: "Sort the Court review: The quirky character designs were endearing. The custom music, composed by Bogdan Rybek, fit the relaxed gameplay. I easily finished my first playthrough in one session. I would recommend this free title to anybody looking for a calm game to pass time during quarantine."

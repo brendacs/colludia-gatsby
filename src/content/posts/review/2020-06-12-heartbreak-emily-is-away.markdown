@@ -2,7 +2,6 @@
 pageType: post
 game: emilyisaway
 slug: /heartbreak-emily-is-away/
-tabTitle: "Expect Heartbreak When Emily Is Away"
 title: "Expect Heartbreak When <em class='game-title'>Emily Is Away</em>"
 postType: ["#tbt", review]
 tagline: "Emily is Away review: Emily Is Away is one of those games that reminds me of simpler times. The welcoming blue Windows login screen, the AIM messenger app, and all the sounds that accompany them pulled me back to a time where I could afford to be more carefree."

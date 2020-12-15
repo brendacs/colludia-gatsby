@@ -2,7 +2,6 @@
 pageType: post
 game: darksidedetective
 slug: /spooky-silly-darkside-detective/
-tabTitle: The Spooky Silly Darkside Detective
 title: The Spooky Silly <em class='game-title'>Darkside Detective</em>
 postType: ["#tbt", review]
 tagline: "Darkside Detective review: Once I did start playing (and laughing), I only regretted not getting it earlier. I felt like I was in a pixelated murder mystery, detective show, stand-up comedy hybrid. Needless to say, I will be getting Season 2 on my Switch the second it comes out."

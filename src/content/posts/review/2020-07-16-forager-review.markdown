@@ -2,7 +2,6 @@
 pageType: post
 game: forager
 slug: /forager-switch-review/
-tabTitle: From Grinding Gatherer to Millionaire Tycoon in Forager
 title: From Grinding Gatherer to Millionaire Tycoon in <em class='game-title'>Forager</em>
 postType: [review]
 tagline: "Forager review: Because Forager is so open-ended, with so much freedom, content, and ability to suit all play styles, the sky is truly the limit. Treat it as a mini-Stardew Valley and farm, harvest, and play with chickens all day, or treat it as a mini-Zelda and dungeon crawl and fight monsters all day."

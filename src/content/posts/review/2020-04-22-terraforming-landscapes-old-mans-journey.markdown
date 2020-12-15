@@ -2,7 +2,6 @@
 pageType: post
 game: oldmansjourney
 slug: /terraforming-landscapes-old-mans-journey/
-tabTitle: "Terraforming Landscapes in Old Man's Journey"
 title: "Terraforming Landscapes in <em class='game-title'>Old Man's Journey</em>"
 postType: ["#tbt", review]
 tagline: "Old Man's Journey review: The trek was a true walk down memory lane, filled with as many ups and downs as the hills themselves."

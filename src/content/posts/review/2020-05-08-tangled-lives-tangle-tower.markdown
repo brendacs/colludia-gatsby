@@ -2,7 +2,6 @@
 pageType: post
 game: tangletower
 slug: /tangled-lives-tangle-tower/
-tabTitle: The Tangled Lives of the Fellows in Tangle Tower
 title: The Tangled Lives of the Fellows in <em class='game-title'>Tangle Tower</em>
 postType: [review]
 tagline: "Tangle Tower review: The character animations are on point, the puzzles were at just the right pacing and difficulty, and the plot was thick. I couldn't put this game down and played all six hours one sitting."

@@ -2,7 +2,6 @@
 pageType: post
 game: townoflight
 slug: /not-alright-town-of-light/
-tabTitle: "It's Not Alright in the Town of Light"
 title: "It's Not Alright in the <em class='game-title'>Town of Light</em>"
 postType: ["#tbt", review]
 tagline: "Review: The Town of Light is an excellent example of how storytelling in games can bring the more messy and taboo topics to light with immersion, great narrative design, and intensive research."

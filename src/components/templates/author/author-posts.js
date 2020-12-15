@@ -18,7 +18,6 @@ const AuthorPosts = ({ author }) => {
                 excerpt(pruneLength: 100)
                 frontmatter {
                   pageType
-                  game
                   slug
                   title
                   postType

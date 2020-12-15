@@ -2,7 +2,6 @@
 pageType: author
 slug: /author/josh/
 author: Josh Roque
-tabTitle: Josh Roque
 title: Josh Roque
 tagline: Read about our author Josh Roque. Colludia is an indie gaming blog focused on games with stories to tell and the developers behind them.
 class: author

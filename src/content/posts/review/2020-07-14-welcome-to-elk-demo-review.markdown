@@ -2,7 +2,6 @@
 pageType: post
 game: welcometoelk
 slug: /welcome-to-elk-demo-review/
-tabTitle: "Quirky Art and Mini-Games Make for a Warm Welcome to Elk, Demo Review"
 title: "Quirky Art and Mini-Games Make for a Warm <em class='game-title'>Welcome to Elk</em>"
 postType: [demo, review]
 tagline: "Welcome to Elk demo review: With simple yet engaging mini-games, the developers fully utilize the potential of video games as a medium for storytelling and absorbing the player into the world of Elk."

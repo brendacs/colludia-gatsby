@@ -2,7 +2,6 @@
 pageType: post
 game: eliza
 slug: /eliza-empathy-ethics-tech-driven-world/
-tabTitle: Eliza, Empathy and Ethics in a Tech-Driven World
 title: <em class='game-title'>Eliza</em>, Empathy and Ethics in a Tech-Driven World
 postType: [review]
 tagline: "Eliza review: The perspectives of those we meet along the way in the world of Eliza encourage us to reflect on the state our own world and the choices we make in our lives that determine the path technology will take. It is on us to deeply ponder if the decisions we make are the right ones for humanity, just as Evelyn did."

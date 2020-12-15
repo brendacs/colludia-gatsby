@@ -2,7 +2,6 @@
 pageType: post
 game: lamentum
 slug: /lamentum-demo-review/
-tabTitle: "Macabre Imagery and Terrifying Soundscapes Pulse Through Lamentum"
 title: "Macabre Imagery and Terrifying Soundscapes Pulse Through <em class='game-title'>Lamentum</em>"
 postType: [demo, review]
 tagline: "Lamentum demo review: The macabre yet evocative imagery, the wonderfully unsettling sound design and hard-hitting subtext make for a terrifying descent into darkness."

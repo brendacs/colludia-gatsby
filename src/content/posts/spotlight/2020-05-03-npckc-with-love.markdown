@@ -1,7 +1,6 @@
 ---
 pageType: post
 slug: /npckc-with-love/
-tabTitle: npckc, With Love
 title: npckc, With Love
 postType: [spotlight]
 tagline: "Developer spotlight: All the games by npckc have had one central theme in common: identity. They also advertise their games as LGBTQ+ friendly, and I can say for a fact they certainly are. As for the artwork, not only is it cute, but it is also uniquely different in each game."

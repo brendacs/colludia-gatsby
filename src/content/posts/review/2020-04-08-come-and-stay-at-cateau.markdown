@@ -2,7 +2,6 @@
 pageType: post
 game: cateau
 slug: /come-and-stay-at-cateau/
-tabTitle: Come and Stay at Cateau
 title: Come and Stay at <em class='game-title'>Cateau</em>
 postType: [review]
 tagline: "Cateau review: The artwork, though simple, made the game stand out as much as its writing. The first picture I acquired of Gargantuan took my breath away."

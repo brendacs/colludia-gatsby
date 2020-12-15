@@ -1,7 +1,6 @@
 ---
 pageType: post
 slug: /difficulty-with-difficult-games/
-tabTitle: The Difficulty With Difficult Games
 title: The Difficulty With Difficult Games
 postType: [opinion]
 tagline: "There’s enough pressure from having to deal with angry customers, uncooperative managers or pandemic woes in real life without having to navigate a screen full of billions of death pixels."

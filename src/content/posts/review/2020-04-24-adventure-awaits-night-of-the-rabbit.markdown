@@ -2,7 +2,6 @@
 pageType: post
 game: thenightoftherabbit
 slug: /adventure-awaits-night-of-the-rabbit/
-tabTitle: Adventure Awaits in Night of the Rabbit
 title: Adventure Awaits in <em class='game-title'>Night of the Rabbit</em>
 postType: ["#tbt", review]
 tagline: "Night of the Rabbit review: If I could describe this game in one sentence, it is setting out on an adventure without worrying when you’ll be back, full of energy and the potential to change the world."
