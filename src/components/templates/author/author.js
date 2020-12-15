@@ -31,7 +31,7 @@ const AuthorTemplate = ({ data }) => {
   const { markdownRemark } = data // data.markdownRemark holds your post data
   const { frontmatter } = markdownRemark
   const {
-    tabTitle,
+    title,
     tagline,
     author,
     avatar,
@@ -44,7 +44,7 @@ const AuthorTemplate = ({ data }) => {
   } = frontmatter
   return (
     <>
-      <SEO title={tabTitle} description={tagline} />
+      <SEO title={title} description={tagline} />
       <div className="author">
         <div className="author-heading">
           <div className="author-image-wrapper">
