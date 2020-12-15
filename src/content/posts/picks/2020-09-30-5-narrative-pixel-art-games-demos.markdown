@@ -10,8 +10,9 @@ releaseDate:
 image: 5NarrativePixelArtGamesDemos.png
 video:
 author: Brenda Zhang
-categories: [adventure, point-and-click, platformer, "our picks", story]
-tags: ["???", "???", pixel art, indie dev]
+categories:
+  [adventure, point-and-click, platformer, simulation, "our picks", story]
+tags: [raccoon, relatable, pixel art, indie dev]
 ---
 
 Don't you hate when every single game you want to play right now is not released yet? Luckily, there is the respite of demos for upcoming games to give you a taste of the forbidden (or in-development) fruit. Just try to forget about the fact that most of them will leave you at a cliffhanger and anxious to throw your money at even more games.
