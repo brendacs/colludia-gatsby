@@ -14,12 +14,12 @@ export const featuredPost = {
     url: "/unbound-worlds-apart-review-demo/",
   },
   spotlight: {
-    title: "How Underdown Empowers With Diverse Characters",
+    title: "Frogsong Grapples With Identity Through the Lens of a Tiny Frog",
     tagline:
-      '"In games, we cling to our stereotypes even more than Hollywood does. What you see all the time is what you consider normal, and if we don\'t start changing what you see then other things will never be normal."',
-    image: "Underdown.png",
+      '"A frog with a knife on an adventure: a simple concept with lively art. However, despite the lighthearted appearance, the game has narrative depth hidden under its cute and colorful layers."',
+    image: "Frogsong.png",
     type: "spotlight",
-    url: "/underdown-interview/",
+    url: "/frogsong-interview-spotlight/",
   },
   "our picks": {
     title: "5 Narrative Driven Pixel Art Indie Games With Playable Demos",
