@@ -6,7 +6,7 @@ postType: [opinion]
 tagline: "There’s enough pressure from having to deal with angry customers, uncooperative managers or pandemic woes in real life without having to navigate a screen full of billions of death pixels."
 date: 2020-08-05
 releaseDate:
-image: DifficultyDifficultGames.png
+image: DifficultyDifficultGames.webp
 video:
 author: Warren Lee
 categories:
@@ -65,7 +65,7 @@ If fun is defined by exploration, storytelling and a laid-back game mechanic, co
 
 We can look forward to the remainder of 2020 and beyond for titles that will bring relaxing and rewarding titles that emphasize story and soothing gameplay over frustration. So let’s head on over to the Nintendo eShop, Steam Store, PlayStation Store, XBox Store, Epic Games Store, Good Old Games Store and find the next amazing game experience.
 
-[image1]: ../../../images/post/difficultydifficultgames/DifficultyDifficultGames1.png
-[image3]: ../../../images/post/difficultydifficultgames/DifficultyDifficultGames3.png
-[image4]: ../../../images/post/difficultydifficultgames/DifficultyDifficultGames4.png
-[image5]: ../../../images/post/difficultydifficultgames/DifficultyDifficultGames5.png
+[image1]: ../../../images/post/difficultydifficultgames/DifficultyDifficultGames1.webp
+[image3]: ../../../images/post/difficultydifficultgames/DifficultyDifficultGames3.webp
+[image4]: ../../../images/post/difficultydifficultgames/DifficultyDifficultGames4.webp
+[image5]: ../../../images/post/difficultydifficultgames/DifficultyDifficultGames5.webp

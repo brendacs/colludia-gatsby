@@ -6,7 +6,7 @@ postType: ["our picks"]
 tagline: "If I get to wish upon a star tonight in Animal Crossing, I'll wish for these games to come out sooner."
 date: 2020-05-11
 releaseDate:
-image: 7BeautifulIndieGames.jpg
+image: 7BeautifulIndieGames.webp
 video: https://www.youtube.com/embed/yPcw2DnWNz8
 author: Brenda Zhang
 categories: [adventure, rpg, simulation, "our picks", story]
@@ -101,4 +101,4 @@ As we know, indie developers are on a tight schedule and games don't always get 
 
 ![Wishing upon a shooting star in Animal Crossing][image0]
 
-[image0]: ../../../images/post/7beautifulindiegames/shootingstar.jpeg
+[image0]: ../../../images/post/7beautifulindiegames/shootingstar.webp

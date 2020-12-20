@@ -3,7 +3,7 @@ pageType: info
 slug: /writers/
 author: Colludia Indie Gaming
 title: Become a Writer
-image: colludia-banner-big.png
+image: colludia-banner-big.webp
 ---
 
 # Become a Writer at Colludia

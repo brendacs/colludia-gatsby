@@ -7,7 +7,7 @@ postType: [demo, review]
 tagline: "Welcome to Elk demo review: With simple yet engaging mini-games, the developers fully utilize the potential of video games as a medium for storytelling and absorbing the player into the world of Elk."
 date: 2020-07-14
 releaseDate: 2020-09-17
-image: WelcomeToElk.png
+image: WelcomeToElk.webp
 video: https://www.youtube.com/embed/e69Tr8Zi87c
 author: Brenda Zhang
 categories: ["adventure", "atmospheric", rpg, demo, review, story]
@@ -124,16 +124,16 @@ _Welcome to Elk_ was a spontaneous addition to my wishlist. I only added it beca
 
 Though it appears the particular demo I played is no longer available, I highly recommend following along and checking out their new official demo [_Welcome to Elk: First Stories_](https://store.steampowered.com/app/1330260/Welcome_to_Elk_The_First_Stories/), signing up for [closed beta](https://www.welcometoelk.com/#betatest) and, of course, [wishlisting](https://store.steampowered.com/app/1015940/Welcome_to_Elk/) the game. You don't want to miss what else _Welcome to Elk_ has in store. I sure won't.
 
-[image0]: ../../../images/post/welcometoelk/WelcomeToElk0.png
-[image1]: ../../../images/post/welcometoelk/WelcomeToElk1.png
-[image2]: ../../../images/post/welcometoelk/WelcomeToElk2.png
-[image3]: ../../../images/post/welcometoelk/WelcomeToElk3.png
-[image4]: ../../../images/post/welcometoelk/WelcomeToElk4.png
-[image5]: ../../../images/post/welcometoelk/WelcomeToElk5.png
-[image6]: ../../../images/post/welcometoelk/WelcomeToElk6.png
-[image7]: ../../../images/post/welcometoelk/WelcomeToElk7.png
-[image8]: ../../../images/post/welcometoelk/WelcomeToElk8.png
-[image9]: ../../../images/post/welcometoelk/WelcomeToElk9.png
-[image10]: ../../../images/post/welcometoelk/WelcomeToElk10.png
-[image11]: ../../../images/post/welcometoelk/WelcomeToElk11.png
-[image12]: ../../../images/post/welcometoelk/WelcomeToElk12.png
+[image0]: ../../../images/post/welcometoelk/WelcomeToElk0.webp
+[image1]: ../../../images/post/welcometoelk/WelcomeToElk1.webp
+[image2]: ../../../images/post/welcometoelk/WelcomeToElk2.webp
+[image3]: ../../../images/post/welcometoelk/WelcomeToElk3.webp
+[image4]: ../../../images/post/welcometoelk/WelcomeToElk4.webp
+[image5]: ../../../images/post/welcometoelk/WelcomeToElk5.webp
+[image6]: ../../../images/post/welcometoelk/WelcomeToElk6.webp
+[image7]: ../../../images/post/welcometoelk/WelcomeToElk7.webp
+[image8]: ../../../images/post/welcometoelk/WelcomeToElk8.webp
+[image9]: ../../../images/post/welcometoelk/WelcomeToElk9.webp
+[image10]: ../../../images/post/welcometoelk/WelcomeToElk10.webp
+[image11]: ../../../images/post/welcometoelk/WelcomeToElk11.webp
+[image12]: ../../../images/post/welcometoelk/WelcomeToElk12.webp

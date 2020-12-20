@@ -7,7 +7,7 @@ postType: ["#tbt", review]
 tagline: "Night of the Rabbit review: If I could describe this game in one sentence, it is setting out on an adventure without worrying when you’ll be back, full of energy and the potential to change the world."
 date: 2020-04-24
 releaseDate: 2013-05-28
-image: nightofrabbit.png
+image: nightofrabbit.webp
 video: https://www.youtube.com/embed/dTZHzetlkLI
 author: Emily Tang
 categories: [point-and-click, review, story]
@@ -55,7 +55,7 @@ I really loved playing _The Night of the Rabbit_ from start to finish. One of th
 
 <figcaption>Welcome home.</figcaption>
 
-[image0]: ../../../images/post/nightoftherabbit/rabbit0.png
-[image1]: ../../../images/post/nightoftherabbit/rabbit1.png
-[image2]: ../../../images/post/nightoftherabbit/rabbit2.png
-[image3]: ../../../images/post/nightoftherabbit/rabbit3.png
+[image0]: ../../../images/post/nightoftherabbit/rabbit0.webp
+[image1]: ../../../images/post/nightoftherabbit/rabbit1.webp
+[image2]: ../../../images/post/nightoftherabbit/rabbit2.webp
+[image3]: ../../../images/post/nightoftherabbit/rabbit3.webp

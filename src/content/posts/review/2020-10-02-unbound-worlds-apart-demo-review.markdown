@@ -7,7 +7,7 @@ postType: [demo, review]
 tagline: "Unbound Worlds Apart demo review: Unbound: Worlds Apart's faithful inspirations oozed from its very seams with every intentional mechanic, platform to leap, and puzzle the player is expected to navigate."
 date: 2020-10-02
 releaseDate: 2021-06-01
-image: UnboundWorldsApart.jpg
+image: UnboundWorldsApart.webp
 video: https://www.youtube.com/embed/trna9Fhc6wU
 author: Moses Concha
 categories: [puzzle platformer, metroidvania, demo, review, story]
@@ -126,12 +126,12 @@ The demo for _Unbound: Worlds Apart_ is available on Steam, for the low-low pric
 
 <figcaption>Portals can do more than just see into another world. Play the demo to find out what else they can do!</figcaption>
 
-[image0]: ../../../images/post/unboundworldsapart/UnboundWorldsApart0.jpg
-[image1]: ../../../images/post/unboundworldsapart/UnboundWorldsApart1.jpg
-[image2]: ../../../images/post/unboundworldsapart/UnboundWorldsApart2.jpg
-[image3]: ../../../images/post/unboundworldsapart/UnboundWorldsApart3.jpg
-[image4]: ../../../images/post/unboundworldsapart/UnboundWorldsApart4.jpg
-[image5]: ../../../images/post/unboundworldsapart/UnboundWorldsApart5.jpg
-[image6]: ../../../images/post/unboundworldsapart/UnboundWorldsApart6.jpg
-[image-extra0]: ../../../images/post/unboundworldsapart/Unbound-portal.jpg
-[image-extra1]: ../../../images/post/unboundworldsapart/Unbound-dialogue.jpg
+[image0]: ../../../images/post/unboundworldsapart/UnboundWorldsApart0.webp
+[image1]: ../../../images/post/unboundworldsapart/UnboundWorldsApart1.webp
+[image2]: ../../../images/post/unboundworldsapart/UnboundWorldsApart2.webp
+[image3]: ../../../images/post/unboundworldsapart/UnboundWorldsApart3.webp
+[image4]: ../../../images/post/unboundworldsapart/UnboundWorldsApart4.webp
+[image5]: ../../../images/post/unboundworldsapart/UnboundWorldsApart5.webp
+[image6]: ../../../images/post/unboundworldsapart/UnboundWorldsApart6.webp
+[image-extra0]: ../../../images/post/unboundworldsapart/Unbound-portal.webp
+[image-extra1]: ../../../images/post/unboundworldsapart/Unbound-dialogue.webp

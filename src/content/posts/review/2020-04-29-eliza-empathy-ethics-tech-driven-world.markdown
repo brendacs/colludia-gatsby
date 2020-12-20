@@ -7,7 +7,7 @@ postType: [review]
 tagline: "Eliza review: The perspectives of those we meet along the way in the world of Eliza encourage us to reflect on the state our own world and the choices we make in our lives that determine the path technology will take. It is on us to deeply ponder if the decisions we make are the right ones for humanity, just as Evelyn did."
 date: 2020-04-29
 releaseDate: 2019-08-12
-image: Eliza.png
+image: Eliza.webp
 video: https://www.youtube.com/embed/UfrS8fbhHSw
 author: Brenda Zhang
 categories: ["visual novel", review, story]
@@ -65,7 +65,7 @@ It feels as if there should be more of a choice than either being absorbed by th
 
 The perspectives of those we meet along the way in the world of _Eliza_ encourage us to reflect on the state our own world and the choices we make in our lives that determine the path technology will take. It is on us to deeply ponder if the decisions we make are the right ones for humanity, just as Evelyn did. Although some loose ends including those around the ethics of personal data collection and the fate of a few other characters could have been tied up better in the endings, it is still worth the play time, as long as you check out the other endings as some of them are a bit disappointing. I recommend this to anyone who has thought at all about how technology has affected the state of humanity, and especially to those who work in the tech industry as I do. It's worth a playthrough if you yearn for both relatable and differing perspectives on technology and a world that reflects your own reality back at you for deeper thought.
 
-[image0]: ../../../images/post/eliza/Eliza0.png
-[image1]: ../../../images/post/eliza/Eliza1.png
-[image2]: ../../../images/post/eliza/Eliza2.png
-[image3]: ../../../images/post/eliza/Eliza3.png
+[image0]: ../../../images/post/eliza/Eliza0.webp
+[image1]: ../../../images/post/eliza/Eliza1.webp
+[image2]: ../../../images/post/eliza/Eliza2.webp
+[image3]: ../../../images/post/eliza/Eliza3.webp

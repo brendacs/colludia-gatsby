@@ -68,7 +68,7 @@ const DropdownNav = () => (
             href="https://store.steampowered.com/curator/37254837/"
             name="steam curator"
           >
-            <img alt="steam logo" src={require("../../images/steam.png")} />
+            <img alt="steam logo" src={require("../../images/steam.webp")} />
           </a>
         </li>
         <li>
@@ -88,7 +88,10 @@ const DropdownNav = () => (
             href="https://patreon.com/colludia"
             name="colludia patreon"
           >
-            <img alt="patreon logo" src={require("../../images/patreon.png")} />
+            <img
+              alt="patreon logo"
+              src={require("../../images/patreon.webp")}
+            />
           </a>
         </li>
         <li>
@@ -97,7 +100,10 @@ const DropdownNav = () => (
             href="https://discord.gg/PG2qkZf"
             name="colludia discord server"
           >
-            <img alt="discord logo" src={require("../../images/discord.png")} />
+            <img
+              alt="discord logo"
+              src={require("../../images/discord.webp")}
+            />
           </a>
         </li>
       </div>

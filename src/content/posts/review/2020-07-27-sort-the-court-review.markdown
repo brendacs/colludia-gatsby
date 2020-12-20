@@ -7,7 +7,7 @@ postType: ["#tbt", review]
 tagline: "Sort the Court review: The quirky character designs were endearing. The custom music, composed by Bogdan Rybek, fit the relaxed gameplay. I easily finished my first playthrough in one session. I would recommend this free title to anybody looking for a calm game to pass time during quarantine."
 date: 2020-07-27
 releaseDate: 2015-12-14
-image: SortTheCourt.jpg
+image: SortTheCourt.webp
 author: Devon Huge
 categories: [simulation, "not story", review]
 tags:
@@ -75,9 +75,9 @@ With all my complaints, it might sound like I’m a cranky old gamer ready to wh
 
 ![Remember robot by his souvenir cog][image5]
 
-[image0]: ../../../images/post/sortthecourt/SortTheCourt0.png
-[image1]: ../../../images/post/sortthecourt/SortTheCourt1.png
-[image2]: ../../../images/post/sortthecourt/SortTheCourt2.png
-[image3]: ../../../images/post/sortthecourt/SortTheCourt3.png
-[image4]: ../../../images/post/sortthecourt/SortTheCourt4.png
-[image5]: ../../../images/post/sortthecourt/SortTheCourt5.png
+[image0]: ../../../images/post/sortthecourt/SortTheCourt0.webp
+[image1]: ../../../images/post/sortthecourt/SortTheCourt1.webp
+[image2]: ../../../images/post/sortthecourt/SortTheCourt2.webp
+[image3]: ../../../images/post/sortthecourt/SortTheCourt3.webp
+[image4]: ../../../images/post/sortthecourt/SortTheCourt4.webp
+[image5]: ../../../images/post/sortthecourt/SortTheCourt5.webp

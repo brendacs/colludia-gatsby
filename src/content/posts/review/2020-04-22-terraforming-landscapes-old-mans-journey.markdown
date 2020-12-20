@@ -7,7 +7,7 @@ postType: ["#tbt", review]
 tagline: "Old Man's Journey review: The trek was a true walk down memory lane, filled with as many ups and downs as the hills themselves."
 date: 2020-04-22
 releaseDate: 2017-05-17
-image: OldMansJourney.png
+image: OldMansJourney.webp
 video: https://www.youtube.com/embed/tJ29Ql3xDhY
 author: Brenda Zhang
 categories: [puzzle, adventure, review, story]
@@ -56,9 +56,9 @@ Eventually, the storm does clear, and the old man's journey comes to an end—as
 
 ![Sunset and sailboat in Old Man's Journey][image5]
 
-[image0]: ../../../images/post/oldmansjourney/OldMansJourney0.png
-[image1]: ../../../images/post/oldmansjourney/OldMansJourney1.png
-[image2]: ../../../images/post/oldmansjourney/OldMansJourney2.png
-[image3]: ../../../images/post/oldmansjourney/OldMansJourney3.png
-[image4]: ../../../images/post/oldmansjourney/OldMansJourney4.png
-[image5]: ../../../images/post/oldmansjourney/OldMansJourney5.png
+[image0]: ../../../images/post/oldmansjourney/OldMansJourney0.webp
+[image1]: ../../../images/post/oldmansjourney/OldMansJourney1.webp
+[image2]: ../../../images/post/oldmansjourney/OldMansJourney2.webp
+[image3]: ../../../images/post/oldmansjourney/OldMansJourney3.webp
+[image4]: ../../../images/post/oldmansjourney/OldMansJourney4.webp
+[image5]: ../../../images/post/oldmansjourney/OldMansJourney5.webp

@@ -6,7 +6,7 @@ postType: ["our picks"]
 tagline: "It takes a lot of effort and heart to create indie games, and we know it takes even more guts to put your game out there for the world to see and pitch it to anyone who will listen. This list for #PitchYaGame round 3 is made up of my favorite story rich games out of the dozens that were pitched directly to Colludia."
 date: 2020-08-03
 releaseDate:
-image: 7eyecatchingindiegamesPYG.png
+image: 7eyecatchingindiegamesPYG.webp
 video:
 author: Brenda Zhang
 categories:
@@ -140,5 +140,5 @@ I'll leave you now with this beautiful image from _Witchery Academy_. Here's to 
 
 <figcaption>An image from <em class='game-title'>Witchery Academy</em>, given as a sneak peek on <a href="https://discord.com/invite/JunXh9C" class="animated-link">its Discord server</a>, which you should totally join!</figcaption>
 
-[image0]: ../../../images/post/7eyecatchingindiegamesPYG/7eyecatchingindiegamesPYG0.png
-[image1]: ../../../images/post/7eyecatchingindiegamesPYG/7eyecatchingindiegamesPYG1.png
+[image0]: ../../../images/post/7eyecatchingindiegamesPYG/7eyecatchingindiegamesPYG0.webp
+[image1]: ../../../images/post/7eyecatchingindiegamesPYG/7eyecatchingindiegamesPYG1.webp

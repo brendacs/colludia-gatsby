@@ -7,7 +7,7 @@ postType: ["#tbt", review]
 tagline: "Syberia review: Without the voice acting, the story is enough to carry the game to success, but it's that push for more immersion that really made me love or hate the characters."
 date: 2020-10-29
 releaseDate: 2017-04-20
-image: Syberia.png
+image: Syberia.webp
 video: https://www.youtube.com/embed/69o6Vks0sKA
 author: Emily Tang
 categories: [adventure, point-and-click, review, story]
@@ -106,10 +106,10 @@ I never thought I'd find such cinematic and fitting music to make the scenes soa
 
 After everything that's happened, there's still a long way to go before this story is finished. And while I have yet to reach the mythical Syberia, it's inspiring to say that whatever truth is awaiting me, one day I will get there.
 
-[image0]: ../../../images/post/syberia/Syberia0.png
-[image1]: ../../../images/post/syberia/Syberia1.png
-[image2]: ../../../images/post/syberia/Syberia2.png
-[image3]: ../../../images/post/syberia/Syberia3.png
-[image4]: ../../../images/post/syberia/Syberia4.png
-[image5]: ../../../images/post/syberia/Syberia5.png
-[image6]: ../../../images/post/syberia/Syberia6.png
+[image0]: ../../../images/post/syberia/Syberia0.webp
+[image1]: ../../../images/post/syberia/Syberia1.webp
+[image2]: ../../../images/post/syberia/Syberia2.webp
+[image3]: ../../../images/post/syberia/Syberia3.webp
+[image4]: ../../../images/post/syberia/Syberia4.webp
+[image5]: ../../../images/post/syberia/Syberia5.webp
+[image6]: ../../../images/post/syberia/Syberia6.webp

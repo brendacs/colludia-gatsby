@@ -4,7 +4,7 @@ slug: /privacy-policy/
 title: Privacy Policy
 tagline: Colludia's Privacy Policy. Shining a spotlight on indie games and developers, whether popular or obscure.
 class: md
-image: colludia-banner-big.png
+image: colludia-banner-big.webp
 ---
 
 # Privacy Policy

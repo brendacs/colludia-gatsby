@@ -7,7 +7,7 @@ postType: ["#tbt", review]
 tagline: "Darkside Detective review: Once I did start playing (and laughing), I only regretted not getting it earlier. I felt like I was in a pixelated murder mystery, detective show, stand-up comedy hybrid. Needless to say, I will be getting Season 2 on my Switch the second it comes out."
 date: 2020-05-13
 releaseDate: 2017-07-27
-image: DarksideDetective.png
+image: DarksideDetective.webp
 video: https://www.youtube.com/embed/8fOjX-bxRg0
 author: Brenda Zhang
 categories: [mystery, point-and-click, adventure, review, story]
@@ -72,11 +72,11 @@ Despite technically being horror and having a great soundtrack that adds to the 
 
 ![Detective McQueen and Dooley outside of the library talking][image7]
 
-[image0]: ../../../images/post/darksidedetective/DarksideDetective0.png
-[image1]: ../../../images/post/darksidedetective/DarksideDetective1.png
-[image2]: ../../../images/post/darksidedetective/DarksideDetective2.png
-[image3]: ../../../images/post/darksidedetective/DarksideDetective3.png
-[image4]: ../../../images/post/darksidedetective/DarksideDetective4.png
-[image5]: ../../../images/post/darksidedetective/DarksideDetective5.png
-[image6]: ../../../images/post/darksidedetective/DarksideDetective6.png
-[image7]: ../../../images/post/darksidedetective/DarksideDetective7.png
+[image0]: ../../../images/post/darksidedetective/DarksideDetective0.webp
+[image1]: ../../../images/post/darksidedetective/DarksideDetective1.webp
+[image2]: ../../../images/post/darksidedetective/DarksideDetective2.webp
+[image3]: ../../../images/post/darksidedetective/DarksideDetective3.webp
+[image4]: ../../../images/post/darksidedetective/DarksideDetective4.webp
+[image5]: ../../../images/post/darksidedetective/DarksideDetective5.webp
+[image6]: ../../../images/post/darksidedetective/DarksideDetective6.webp
+[image7]: ../../../images/post/darksidedetective/DarksideDetective7.webp

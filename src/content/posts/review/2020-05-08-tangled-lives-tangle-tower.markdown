@@ -7,7 +7,7 @@ postType: [review]
 tagline: "Tangle Tower review: The character animations are on point, the puzzles were at just the right pacing and difficulty, and the plot was thick. I couldn't put this game down and played all six hours one sitting."
 date: 2020-05-08
 releaseDate: 2019-09-19
-image: TangleTower.png
+image: TangleTower.webp
 video: https://www.youtube.com/embed/3JEliSJ859I
 author: Brenda Zhang
 categories: [mystery, point-and-click, review, story]
@@ -70,12 +70,12 @@ Honestly though, no amount of words I can put on this page will do this game jus
 
 ![Fifi Fellow saying that one's self can't be summarized in a single response][image8]
 
-[image0]: ../../../images/post/tangletower/TangleTower0.png
-[image1]: ../../../images/post/tangletower/TangleTower1.png
-[image2]: ../../../images/post/tangletower/TangleTower2.png
-[image3]: ../../../images/post/tangletower/TangleTower3.png
-[image4]: ../../../images/post/tangletower/TangleTower4.png
-[image5]: ../../../images/post/tangletower/TangleTower5.png
-[image6]: ../../../images/post/tangletower/TangleTower6.png
-[image7]: ../../../images/post/tangletower/TangleTower7.png
-[image8]: ../../../images/post/tangletower/TangleTower8.png
+[image0]: ../../../images/post/tangletower/TangleTower0.webp
+[image1]: ../../../images/post/tangletower/TangleTower1.webp
+[image2]: ../../../images/post/tangletower/TangleTower2.webp
+[image3]: ../../../images/post/tangletower/TangleTower3.webp
+[image4]: ../../../images/post/tangletower/TangleTower4.webp
+[image5]: ../../../images/post/tangletower/TangleTower5.webp
+[image6]: ../../../images/post/tangletower/TangleTower6.webp
+[image7]: ../../../images/post/tangletower/TangleTower7.webp
+[image8]: ../../../images/post/tangletower/TangleTower8.webp

@@ -3,7 +3,7 @@ pageType: info
 slug: /about/
 author: Colludia Indie Gaming
 title: About
-image: colludia-banner-big.png
+image: colludia-banner-big.webp
 ---
 
 # Welcome to Colludia

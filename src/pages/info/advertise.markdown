@@ -3,7 +3,7 @@ pageType: info
 slug: /ads/
 author: Colludia Indie Gaming
 title: Advertise
-image: colludia-banner-big.png
+image: colludia-banner-big.webp
 ---
 
 # Advertise With Colludia

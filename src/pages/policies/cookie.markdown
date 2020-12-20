@@ -4,7 +4,7 @@ slug: /cookie-policy/
 title: Cookie Policy
 tagline: Colludia's Cookie Policy. Shining a spotlight on indie games and developers, whether popular or obscure.
 class: md
-image: colludia-banner-big.png
+image: colludia-banner-big.webp
 ---
 
 # Cookie Policy

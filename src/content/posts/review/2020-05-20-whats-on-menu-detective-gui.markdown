@@ -7,7 +7,7 @@ postType: [review]
 tagline: "Detective GUI review: The game has the player enter with traditional platforming mechanics and familiar 8-bit sprites, only for them to find out those familiarities are not necessary to progress through the game. The crux of Detective GUI is in the player’s ability to think outside the box."
 date: 2020-05-20
 releaseDate: 2020-05-13
-image: DetectiveGui.png
+image: DetectiveGui.webp
 author: Devon Huge
 categories: [puzzle, platformer, "not story", review]
 tags:
@@ -44,6 +44,6 @@ So far, the game looks like it has everything you want from a puzzle game. Level
 
 _Detective GUI_’s first chapter is a quick playthrough, but it's got a lot of content and a lot of potential. If you’re a fan of puzzles, you’re sure to have a fun time.
 
-[image0]: ../../../images/post/detectivegui/DetectiveGui0.png
-[image1]: ../../../images/post/detectivegui/DetectiveGui1.png
-[image2]: ../../../images/post/detectivegui/DetectiveGui2.png
+[image0]: ../../../images/post/detectivegui/DetectiveGui0.webp
+[image1]: ../../../images/post/detectivegui/DetectiveGui1.webp
+[image2]: ../../../images/post/detectivegui/DetectiveGui2.webp

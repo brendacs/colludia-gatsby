@@ -7,7 +7,7 @@ postType: ["#tbt", review]
 tagline: "Firewatch review: Just about everything comes together to allow this game to be what it is: a mini-masterpiece in modern storytelling. It calls out to you to explore it, to uncover its many secrets and untold stories that lay right under your nose."
 date: 2020-07-20
 releaseDate: 2016-02-09
-image: Firewatch.jpg
+image: Firewatch.webp
 video: https://www.youtube.com/embed/d02lhvvVSy8
 author: Moses Concha
 categories: [adventure, atmospheric, mystery, review, story]
@@ -134,12 +134,12 @@ Yes. That, in fact, has made all the difference.
 
 <figcaption>Thanks for everything.</figcaption>
 
-[image0]: ../../../images/post/firewatch/Firewatch0.jpg
-[image1]: ../../../images/post/firewatch/Firewatch1.jpg
-[image2]: ../../../images/post/firewatch/Firewatch2.jpg
-[image3]: ../../../images/post/firewatch/Firewatch3.jpg
-[image4]: ../../../images/post/firewatch/Firewatch4.jpg
-[image5]: ../../../images/post/firewatch/Firewatch5.jpg
-[image6]: ../../../images/post/firewatch/Firewatch6.jpg
-[image7]: ../../../images/post/firewatch/Firewatch7.jpg
-[image8]: ../../../images/post/firewatch/Firewatch8.jpg
+[image0]: ../../../images/post/firewatch/Firewatch0.webp
+[image1]: ../../../images/post/firewatch/Firewatch1.webp
+[image2]: ../../../images/post/firewatch/Firewatch2.webp
+[image3]: ../../../images/post/firewatch/Firewatch3.webp
+[image4]: ../../../images/post/firewatch/Firewatch4.webp
+[image5]: ../../../images/post/firewatch/Firewatch5.webp
+[image6]: ../../../images/post/firewatch/Firewatch6.webp
+[image7]: ../../../images/post/firewatch/Firewatch7.webp
+[image8]: ../../../images/post/firewatch/Firewatch8.webp

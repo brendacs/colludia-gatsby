@@ -2,7 +2,7 @@ const summaries = {
   moonlighter: {
     quote:
       "During a long-passed archaeological excavation, a set of Gates were discovered. People quickly realized that these ancient passages lead to different realms and dimensions – providing brave and reckless adventurers with treasures beyond measure. Rynoka, a small commercial village, was founded near the excavation site providing refuge and a place for adventurers to sell their hard-earned riches.",
-    image: "post/moonlighter/Will.jpg",
+    image: "post/moonlighter/Will.webp",
     points: [
       {
         question: "Genre",
@@ -49,7 +49,7 @@ const summaries = {
   cateau: {
     quote:
       "Set in Paris, <em class='game-title'>Cateau</em> is a visual novel that takes the idea of friendship and investigates it through a particular lens – what it might take to actually be a friend in more than concept alone. As the protagonist, you come to understand that your friend and roommate Roselle is unwell. You take it upon yourself to try and rekindle that spark of life that seems to have gone out by engaging in one of her former interests, cats.",
-    image: "post/cateau/PeeWee.jpg",
+    image: "post/cateau/PeeWee.webp",
     points: [
       {
         question: "Genre",
@@ -88,7 +88,7 @@ const summaries = {
   tacoma: {
     quote:
       "<em class='game-title'>Tacoma</em> is a narrative adventure set aboard a high-tech space station in the year 2088. As you go about your mission, you’ll explore every detail of how the station’s crew lived and worked, finding the clues that add up to a gripping story of trust, fear, and resolve in the face of disaster.",
-    image: "post/tacoma/amy.jpg",
+    image: "post/tacoma/amy.webp",
     points: [
       {
         question: "Genre",
@@ -132,7 +132,7 @@ const summaries = {
   riskofrain: {
     quote:
       "<em class='game-title'>Risk of Rain</em> is an action platformer with roguelike elements. With permanent death as a primary feature, players will have to play their best to get as far as possible. Fight on a mysterious planet with randomly spawning enemies and bosses, either alone or with 3 friends in online co-op.",
-    image: "post/riskofrain/commando.png",
+    image: "post/riskofrain/commando.webp",
     points: [
       {
         question: "Genre",
@@ -171,7 +171,7 @@ const summaries = {
   coffeetalk: {
     quote:
       "<em class='game-title'>Coffee Talk</em> is a game about listening to people’s problems and helping them by serving up a warm drink out of the ingredients you have in stock. It is a game that depicts lives as humanly as possible, while having a cast that is more than just humans.",
-    image: "post/coffeetalk/neil.jpg",
+    image: "post/coffeetalk/neil.webp",
     points: [
       {
         question: "Genre",
@@ -215,7 +215,7 @@ const summaries = {
   thenightoftherabbit: {
     quote:
       "Lose yourself in a tale of magic and wonder, where anything is possible and where nothing is quite as it seems; join young Jerry and follow a peculiar white rabbit to the wondrous realm of Mousewood, a land where critters can speak and where mystery abounds.",
-    image: "post/nightoftherabbit/magician.jpg",
+    image: "post/nightoftherabbit/magician.webp",
     points: [
       {
         question: "Genre",
@@ -260,7 +260,7 @@ const summaries = {
   eliza: {
     quote:
       "<em class='game-title'>Eliza</em> is a visual novel about an AI counseling program, the people who develop it, and the people who use it. Follow Evelyn Ishino-Aubrey as she reconnects with people from her past, gets to know the people of Seattle who use Eliza for counseling, and decides the course of her future.",
-    image: "post/eliza/evelyn.png",
+    image: "post/eliza/evelyn.webp",
     points: [
       {
         question: "Genre",
@@ -303,7 +303,7 @@ const summaries = {
   aviaryattorney: {
     quote:
       "The year is 1848. Paris is on the brink of yet another revolution, and the prisons are overflowing with guilty and innocent alike. One man stands for justice amid society's chaos. No. One bird... Play the role of Monsieur Jayjay Falcon, a bird of prey with a good heart and questionable lawyering expertise. Join him and his witty apprentice, Sparrowson, as the two take on clients, interview witnesses, collect evidence, and deliver justice to the guilty.",
-    image: "post/aviaryattorney/jayjay.png",
+    image: "post/aviaryattorney/jayjay.webp",
     points: [
       {
         question: "Genre",
@@ -342,7 +342,7 @@ const summaries = {
   cardofdarkness: {
     quote:
       "Many stacks of cards lie before you filled with monsters, treasures, weapons, potions, and spells. You can only see the top card of each stack — what lies beneath is a mystery. Cast powerful spells, slay fantastic monsters, discover ancient secrets, and ultimately save the world — just by picking up the right cards. Card of Darkness is a full-featured adventure designed around an accessible, minimalist, card game core.",
-    image: "post/cardofdarkness/cod.png",
+    image: "post/cardofdarkness/cod.webp",
     points: [
       {
         question: "Genre",
@@ -389,7 +389,7 @@ const summaries = {
   tangletower: {
     quote:
       "Unravel a thrilling mystery by exploring a strange and twisted mansion, discovering curious clues, interrogating peculiar suspects and solving unique puzzles. Freya Fellow has been murdered. The lead suspect? A shadowy figure found looming over her body, wielding a knife. The problem? That suspect... is just a painting.",
-    image: "post/tangletower/grimoire.png",
+    image: "post/tangletower/grimoire.webp",
     points: [
       {
         question: "Genre",
@@ -437,7 +437,7 @@ const summaries = {
   fortheking: {
     quote:
       "<em class='game-title'>For The King</em> is a Procedural Turn-Based RPG that features Solo and Co-op play. Featuring a blend of Roguelike, Boardgame and JRPG Combat mechanics, For The King has a unique feel and aesthetic. Players must survive cunning enemies and creatures, wicked weather and brutal traps in their quest to solve the mysterious death of the king and bring order to the land.",
-    image: "post/fortheking/fortheking.png",
+    image: "post/fortheking/fortheking.webp",
     points: [
       {
         question: "Genre",
@@ -480,7 +480,7 @@ const summaries = {
   takeshiandhiroshi: {
     quote:
       "<em class='game-title'>Takeshi and Hiroshi</em> combines the two worlds of puppet animation and Role Playing Game. It tells the story of two brothers and their daily life. The 14-year-old Takeshi, a game designer to-be, is creating a game for his weak little brother Hiroshi who always wants to play the next chapter of the game as soon as possible. As the game is still in the making, Takeshi has to improvise and secretly plays some of the monster roles himself.",
-    image: "post/takeshiandhiroshi/takeshi.png",
+    image: "post/takeshiandhiroshi/takeshi.webp",
     points: [
       {
         question: "Genre",
@@ -527,7 +527,7 @@ const summaries = {
   darksidedetective: {
     quote:
       "Join The <em class='game-title'>Darkside Detective</em>, Francis McQueen, as he investigates the bizarre, the supernatural and those missing cat cases that keep getting dropped on his desk.",
-    image: "post/darksidedetective/francismcqueen.png",
+    image: "post/darksidedetective/francismcqueen.webp",
     points: [
       {
         question: "Genre",
@@ -570,7 +570,7 @@ const summaries = {
   detectivegui: {
     quote:
       "Following the adventures of Barky, <em class='game-title'>Detective GUI</em> is a quick, creative puzzle platformer that asks the player to think outside the box.",
-    image: "post/detectivegui/barky.png",
+    image: "post/detectivegui/barky.webp",
     points: [
       {
         question: "Genre",
@@ -617,7 +617,7 @@ const summaries = {
   windingworlds: {
     quote:
       "You're far from home. You're not sure how you got here. But you do know one thing: it's your calling to help your new friends, however you can. But not all of them are being cooperative... From the award-winning studio that brought you GNOG comes <em class='game-title'>Winding Worlds</em>, a finger-wiggling puzzle-adventure about a girl, a Wurm, and how to say goodbye.",
-    image: "post/windingworlds/willow.png",
+    image: "post/windingworlds/willow.webp",
     points: [
       {
         question: "Genre",
@@ -661,7 +661,7 @@ const summaries = {
   dontopenyoureyes: {
     quote:
       "You are trying to fall asleep. In the midst of a silent night, a shadowy being approaches your bed. You can't see it... but across the darkness of your eyelids, a silhouette forms nonetheless. It seeks one thing: for you to open your eyes, and tell them how they look. Will you comply? Or will you refuse to see them for what they are? The choice is yours.",
-    image: "post/dontopenyoureyes/demon.jpg",
+    image: "post/dontopenyoureyes/demon.webp",
     points: [
       {
         question: "Genre",
@@ -708,7 +708,7 @@ const summaries = {
   oldmansjourney: {
     quote:
       "<em class='game-title'>Old Man’s Journey</em>, a soul-searching puzzle adventure, tells a story of life, loss, and hope. Interacting with the world around you, you'll shape the landscape to create the old man's path forward. Experience heartache and hope as you embark on a heartfelt journey through a sunkissed world.",
-    image: "post/oldmansjourney/oldman.png",
+    image: "post/oldmansjourney/oldman.webp",
     points: [
       {
         question: "Genre",
@@ -755,7 +755,7 @@ const summaries = {
   townoflight: {
     quote:
       "12 March 1938, Renée, 16, was ripped out of her world, her only fault was that of not knowing her place in the world.",
-    image: "post/townoflight/renee.png",
+    image: "post/townoflight/renee.webp",
     points: [
       {
         question: "Genre",
@@ -800,7 +800,7 @@ const summaries = {
   emilyisaway: {
     quote:
       "<em class='game-title'>Emily is Away</em> is an interactive story. Create a screenname and choose your path through the branching narrative.",
-    image: "post/emilyisaway/screen.png",
+    image: "post/emilyisaway/screen.webp",
     points: [
       {
         question: "Genre",
@@ -844,7 +844,7 @@ const summaries = {
   nanopesos: {
     quote:
       "<em class='game-title'>Nanopesos</em> is a budget management simulator inspired by the low salaries and high living costs in Chile.",
-    image: "post/nanopesos/nanopesos-girl.png",
+    image: "post/nanopesos/nanopesos-girl.webp",
     points: [
       {
         question: "Genre",
@@ -887,7 +887,7 @@ const summaries = {
   chicory: {
     quote:
       "You're a dog wielding a magic brush! Use painting powers to explore, solve puzzles and make friends in this top-town adventure game. From creators on Wandersong + Celeste.",
-    image: "post/chicory/chicory-dog.png",
+    image: "post/chicory/chicory-dog.webp",
     points: [
       {
         question: "Genre",
@@ -934,7 +934,7 @@ const summaries = {
   welcometoelk: {
     quote:
       "<em class='game-title'>Welcome to Elk</em> is a biographical adventure set on an island like no other, where every character you encounter has a story to tell. From the weird and wonderful to the dark and desperate, all the tales told on Elk are based on true stories of life on the road less traveled.",
-    image: "post/welcometoelk/frigg.png",
+    image: "post/welcometoelk/frigg.webp",
     points: [
       {
         question: "Genre",
@@ -982,7 +982,7 @@ const summaries = {
   forager: {
     quote:
       'The highly popular and quirky "idle game that you want to actively keep playing". Explore, craft, gather & manage resources, find secrets and build your base out of nothing! Buy land to explore and expand!',
-    image: "post/forager/forager-dude.png",
+    image: "post/forager/forager-dude.webp",
     points: [
       {
         question: "Genre",
@@ -1025,7 +1025,7 @@ const summaries = {
   firewatch: {
     quote:
       "<em class='game-title'>Firewatch</em> is a mystery set in the Wyoming wilderness, where your only emotional lifeline is the person on the other end of a handheld radio.",
-    image: "post/firewatch/firewatch-board.jpg",
+    image: "post/firewatch/firewatch-board.webp",
     points: [
       {
         question: "Genre",
@@ -1073,7 +1073,7 @@ const summaries = {
   sortthecourt: {
     quote:
       "Grow your kingdom by giving your decree in the form of simple yes/no answers.",
-    image: "post/sortthecourt/courtqueen.jpg",
+    image: "post/sortthecourt/courtqueen.webp",
     points: [
       {
         question: "Genre",
@@ -1120,7 +1120,7 @@ const summaries = {
   forthepeople: {
     quote:
       "Congratulations, dear comrade! From now on, you are the head of a small but important industrial center bearing the proud name of Iron-1. Your task will be to manage and rebuild it amidst the formation of a new totalitarian regime, currently faced with the consequences of the recent revolution, such as a deepening social crisis and an utter economic deficit. Yet we remain confident that it is young specialists such as yourself, who will lead this county to a stable and prosperous future.",
-    image: "post/forthepeople/forthepeople.png",
+    image: "post/forthepeople/forthepeople.webp",
     points: [
       {
         question: "Genre",
@@ -1163,7 +1163,7 @@ const summaries = {
   everforward: {
     quote:
       "A girl trapped in a strange world somewhere between reality and imagination. Help her find her way in this adventure puzzle game.",
-    image: "post/everforward/maya.jpg",
+    image: "post/everforward/maya.webp",
     points: [
       {
         question: "Genre",
@@ -1206,7 +1206,7 @@ const summaries = {
   nightinthewoods: {
     quote:
       "<em class='game-title'>Night in the Woods</em> is an adventure game focused on exploration, story, and character, featuring dozens of characters to meet and lots to do across a lush, vibrant world.",
-    image: "post/nightinthewoods/catdrive.jpg",
+    image: "post/nightinthewoods/catdrive.webp",
     points: [
       {
         question: "Genre",
@@ -1254,7 +1254,7 @@ const summaries = {
   whenthepastwasaround: {
     quote:
       "<em class='game-title'>When the Past was Around</em> is an adventure point-and-click puzzle game about love, moving on, letting go, and the joy and pain of everything in between.",
-    image: "post/whenthepastwasaround/wtpwa.png",
+    image: "post/whenthepastwasaround/wtpwa.webp",
     points: [
       {
         question: "Genre",
@@ -1302,7 +1302,7 @@ const summaries = {
   venice2089: {
     quote:
       "The city of Venice, once a significant tourism destination but now almost uninhabited, is struggling with the unpredictable behaviour of tides. In <em class='game-title'>Venice 2089</em>, you'll explore the city through the eyes of Nova, a bored teenager who has currently no clue about what to do in life and just wants to relax from the stress of their usual routine.",
-    image: "post/venice2089/venice.png",
+    image: "post/venice2089/venice.webp",
     points: [
       {
         question: "Genre",
@@ -1349,7 +1349,7 @@ const summaries = {
   whenthepastwasaroundfull: {
     quote:
       "When the Past was Around is an adventure point-and-click puzzle game about love, moving on, letting go, and the joy and pain of everything in between.",
-    image: "post/whenthepastwasaroundfull/wpwa.png",
+    image: "post/whenthepastwasaroundfull/wpwa.webp",
     points: [
       {
         question: "Genre",
@@ -1396,7 +1396,7 @@ const summaries = {
   rosewater: {
     quote:
       "It's been several years since Harley Leger left New Bretagne and headed west, hoping to leave the past behind and make her way as a freelance writer. After arriving in the sleepy border town of Rosewater, a seemingly trivial assignment for the local paper leads to the hunt for a missing man's fortune - and the story of the century.",
-    image: "post/rosewater/rosewater.png",
+    image: "post/rosewater/rosewater.webp",
     points: [
       {
         question: "Genre",
@@ -1444,7 +1444,7 @@ const summaries = {
   unboundworldsapart: {
     quote:
       "Venture into beautiful realities by conjuring magical portals in order to save your kind from the evil that ravage your world.",
-    image: "post/unboundworldsapart/soli.jpg",
+    image: "post/unboundworldsapart/soli.webp",
     points: [
       {
         question: "Genre",
@@ -1492,7 +1492,7 @@ const summaries = {
   syberia: {
     quote:
       "Join Kate Walker as she travels to remote locations and time periods in this timeless voyage to discover her true destiny.",
-    image: "post/syberia/kate-walker.jpg",
+    image: "post/syberia/kate-walker.webp",
     points: [
       {
         question: "Genre",
@@ -1540,7 +1540,7 @@ const summaries = {
   lamentum: {
     quote:
       "Guide Victor Hartwell, a young aristocrat on a desperate journey to cure the deadly disease that afflicts his beloved wife, Alissa. Their last hope resides in the darkened halls of Grau Hill Mansion whose Earl has uncovered ancient secrets and forgotten sciences. He claims he can heal Alissa, but… at what price? Grau Hill mansion will open its doors and immerse you in a world of nightmares where you may be trapped forever.",
-    image: "post/lamentum/victor-hartwell.png",
+    image: "post/lamentum/victor-hartwell.webp",
     points: [
       {
         question: "Genre",

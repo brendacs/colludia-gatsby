@@ -7,7 +7,7 @@ postType: [demo, review]
 tagline: "For The People demo review: With art styles reminiscent of Communist propaganda, fanfare music, and downtrodden faces of the general public, this game is as concerned with politics as it is with the story of a young man given immense power."
 date: 2020-08-10
 releaseDate: 2020-08-13
-image: ForThePeople.jpg
+image: ForThePeople.webp
 video: https://www.youtube.com/embed/76sqB96yRVQ
 author: Josh Roque
 categories: ["visual novel", strategy, management, demo, review, story]
@@ -68,8 +68,8 @@ Even later, a surprising twist to the plot turns up: there's a recent string of 
 
 The demo ends there, after four days of immersive gameplay as a high-ranking official in a bleak, war-torn country. I really enjoyed _For The People_'s demo and it left me wanting more of the life of Francis River. I recommend trying out the demo even if you aren't particularly interested in either the visual novel or resource management genre—it looks like the full game will be an excellent blend of both.
 
-[image0]: ../../../images/post/forthepeople/ForThePeople0.jpg
-[image1]: ../../../images/post/forthepeople/ForThePeople1.jpg
-[image2]: ../../../images/post/forthepeople/ForThePeople2.jpg
-[image3]: ../../../images/post/forthepeople/ForThePeople3.jpg
-[image4]: ../../../images/post/forthepeople/ForThePeople4.jpg
+[image0]: ../../../images/post/forthepeople/ForThePeople0.webp
+[image1]: ../../../images/post/forthepeople/ForThePeople1.webp
+[image2]: ../../../images/post/forthepeople/ForThePeople2.webp
+[image3]: ../../../images/post/forthepeople/ForThePeople3.webp
+[image4]: ../../../images/post/forthepeople/ForThePeople4.webp

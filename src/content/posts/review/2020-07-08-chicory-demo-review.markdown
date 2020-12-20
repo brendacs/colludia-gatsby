@@ -7,7 +7,7 @@ postType: [demo, review]
 tagline: "Chicory demo review: What you choose to do after you've picked up the brush is as open-ended as your paintings. This demo convinced me I need to get Chicory the day it releases and find out what happens next in the adventure."
 date: 2020-07-08
 releaseDate: 2021-12-31
-image: Chicory.jpg
+image: Chicory.webp
 video: https://www.youtube.com/embed/zcg1uzgVtXY
 author: Brenda Zhang
 categories: ["adventure", rpg, puzzle, demo, review, story]
@@ -79,12 +79,12 @@ After defeating this boss, the demo was over much too quickly for my taste becau
 
 ![End of demo screen][image8]
 
-[image0]: ../../../images/post/chicory/Chicory0.png
-[image1]: ../../../images/post/chicory/Chicory1.png
-[image2]: ../../../images/post/chicory/Chicory2.png
-[image3]: ../../../images/post/chicory/Chicory3.png
-[image4]: ../../../images/post/chicory/Chicory4.png
+[image0]: ../../../images/post/chicory/Chicory0.webp
+[image1]: ../../../images/post/chicory/Chicory1.webp
+[image2]: ../../../images/post/chicory/Chicory2.webp
+[image3]: ../../../images/post/chicory/Chicory3.webp
+[image4]: ../../../images/post/chicory/Chicory4.webp
 [image5]: ../../../images/post/chicory/Chicory5.gif
-[image6]: ../../../images/post/chicory/Chicory6.png
-[image7]: ../../../images/post/chicory/Chicory7.png
-[image8]: ../../../images/post/chicory/Chicory8.png
+[image6]: ../../../images/post/chicory/Chicory6.webp
+[image7]: ../../../images/post/chicory/Chicory7.webp
+[image8]: ../../../images/post/chicory/Chicory8.webp

@@ -6,7 +6,7 @@ postType: [spotlight]
 tagline: "Developer spotlight: The styles of each Lucas Pope game are just as simple and intuitive to navigate as Papers, Please. Dangerously, they are also equally as simple to pick up, conducive to replay, and difficult to put down."
 date: 2020-04-05
 releaseDate: 2018-10-17
-image: LucasPope.png
+image: LucasPope.webp
 video: https://www.youtube.com/embed/_QP5X6fcukM
 author: Brenda Zhang
 categories: [strategy, puzzle, dystopian, spotlight]
@@ -83,11 +83,11 @@ After playing any game that I love, I relished in the satisfaction and enjoyment
 
 And again, they were all created in 48 hours. Think about that.
 
-[image0]: ../../../images/post/lucaspope/LucasPope0.png
-[image1]: ../../../images/post/lucaspope/LucasPope1.png
-[image2]: ../../../images/post/lucaspope/LucasPope2.png
-[image3]: ../../../images/post/lucaspope/LucasPope3.png
-[image4]: ../../../images/post/lucaspope/LucasPope4.png
-[image5]: ../../../images/post/lucaspope/LucasPope5.png
-[image6]: ../../../images/post/lucaspope/LucasPope6.png
-[image7]: ../../../images/post/lucaspope/LucasPope7.png
+[image0]: ../../../images/post/lucaspope/LucasPope0.webp
+[image1]: ../../../images/post/lucaspope/LucasPope1.webp
+[image2]: ../../../images/post/lucaspope/LucasPope2.webp
+[image3]: ../../../images/post/lucaspope/LucasPope3.webp
+[image4]: ../../../images/post/lucaspope/LucasPope4.webp
+[image5]: ../../../images/post/lucaspope/LucasPope5.webp
+[image6]: ../../../images/post/lucaspope/LucasPope6.webp
+[image7]: ../../../images/post/lucaspope/LucasPope7.webp

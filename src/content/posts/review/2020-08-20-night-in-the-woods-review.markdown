@@ -7,7 +7,7 @@ postType: ["#tbt", review]
 tagline: "Review: Night in the Woods tackles a multitude of themes and real life issues, such as trauma, social awkwardness, mental health, and young adulthood in the most genuine ways possible."
 date: 2020-08-20
 releaseDate: 2017-02-21
-image: NightInTheWoods.jpg
+image: NightInTheWoods.webp
 video: https://www.youtube.com/embed/u17kM8oSz3k
 author: Moses Concha
 categories: [adventure, atmospheric, review, story]
@@ -130,13 +130,13 @@ With its refreshing take on the coming-of-age genre, an abundance of things to d
 
 <figcaption>'Til we meet again, old friend.</figcaption>
 
-[image0]: ../../../images/post/nightinthewoods/NightInTheWoods0.png
-[image1]: ../../../images/post/nightinthewoods/NightInTheWoods1.png
-[image2]: ../../../images/post/nightinthewoods/NightInTheWoods2.png
-[image3]: ../../../images/post/nightinthewoods/NightInTheWoods3.png
-[image4]: ../../../images/post/nightinthewoods/NightInTheWoods4.png
-[image5]: ../../../images/post/nightinthewoods/NightInTheWoods5.png
-[image6]: ../../../images/post/nightinthewoods/NightInTheWoods6.png
-[image7]: ../../../images/post/nightinthewoods/NightInTheWoods7.png
-[image8]: ../../../images/post/nightinthewoods/NightInTheWoods8.png
-[image9]: ../../../images/post/nightinthewoods/NightInTheWoods9.png
+[image0]: ../../../images/post/nightinthewoods/NightInTheWoods0.webp
+[image1]: ../../../images/post/nightinthewoods/NightInTheWoods1.webp
+[image2]: ../../../images/post/nightinthewoods/NightInTheWoods2.webp
+[image3]: ../../../images/post/nightinthewoods/NightInTheWoods3.webp
+[image4]: ../../../images/post/nightinthewoods/NightInTheWoods4.webp
+[image5]: ../../../images/post/nightinthewoods/NightInTheWoods5.webp
+[image6]: ../../../images/post/nightinthewoods/NightInTheWoods6.webp
+[image7]: ../../../images/post/nightinthewoods/NightInTheWoods7.webp
+[image8]: ../../../images/post/nightinthewoods/NightInTheWoods8.webp
+[image9]: ../../../images/post/nightinthewoods/NightInTheWoods9.webp

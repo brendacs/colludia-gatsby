@@ -7,7 +7,7 @@ postType: ["our picks"]
 tagline: "While none of these games are out yet, the demos will surely tide you over until they are. Bide your time, since such quality pixel art indie games with touching stories like these take quite a while for small teams to produce. They'll no doubt be worth the wait!"
 date: 2020-09-30
 releaseDate:
-image: 5NarrativePixelArtGamesDemos.png
+image: 5NarrativePixelArtGamesDemos.webp
 video:
 author: Brenda Zhang
 categories:
@@ -92,4 +92,4 @@ While you're chipping away at all the tasks to be done, don't forget to sit back
 
 While none of these games are out yet, the demos will surely tide you over until they are. Bide your time, since such quality pixel art indie games with touching stories like these take quite a while for small teams to produce. They'll no doubt be worth the wait!
 
-[image0]: ../../../images/post/5pixelartgamedemos/asftu.jpeg
+[image0]: ../../../images/post/5pixelartgamedemos/asftu.webp

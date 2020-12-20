@@ -39,7 +39,7 @@ const Header = ({ siteTitle }) => {
           <Link className="main-nav-logo" to="/" name="colludia home">
             <img
               alt="colludia logo"
-              src={require("../../images/gamepad-book.png")}
+              src={require("../../images/gamepad-book.webp")}
             />
             <h1 className="name">
               {siteTitle}

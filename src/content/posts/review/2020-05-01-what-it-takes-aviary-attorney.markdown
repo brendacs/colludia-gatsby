@@ -7,7 +7,7 @@ postType: ["#tbt", review]
 tagline: "Review: Aviary Attorney is an excellent example of a serious narrative with fitting comedy. Morals will be challenged, hilariously and seriously—and the puns will always find you. Being straightforward can sometimes punish instead of reward, while choosing a more tactful response could uncover something to help Jayjay’s stance in court."
 date: 2020-05-01
 releaseDate: 2015-12-22
-image: AviaryAttorney.png
+image: AviaryAttorney.webp
 video: https://www.youtube.com/embed/zuGJOdyoLo4
 author: Emily Tang
 categories: ["mystery", "visual novel", review, story]
@@ -44,7 +44,7 @@ While initially the lovely artwork, historical setting, and clashing anthromorph
 
 ![Sparrowson's reaction and dialogue with the pun: "Wing it"][image3]
 
-[image0]: ../../../images/post/aviaryattorney/AviaryAttorney0.png
-[image1]: ../../../images/post/aviaryattorney/AviaryAttorney1.png
-[image2]: ../../../images/post/aviaryattorney/AviaryAttorney2.png
-[image3]: ../../../images/post/aviaryattorney/AviaryAttorney3.png
+[image0]: ../../../images/post/aviaryattorney/AviaryAttorney0.webp
+[image1]: ../../../images/post/aviaryattorney/AviaryAttorney1.webp
+[image2]: ../../../images/post/aviaryattorney/AviaryAttorney2.webp
+[image3]: ../../../images/post/aviaryattorney/AviaryAttorney3.webp

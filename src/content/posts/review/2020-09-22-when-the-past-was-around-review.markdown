@@ -7,7 +7,7 @@ postType: [review]
 tagline: "When The Past Was Around review: The vivid scenes and emotional music that perfectly fit together with the bittersweet narrative of Eda's past romance and locked away memories in When the Past Was Around nearly brought me to tears in a way no game has in a very long time."
 date: 2020-09-22
 releaseDate: 2020-09-22
-image: WhenThePastWasAroundFull.jpeg
+image: WhenThePastWasAroundFull.webp
 video: https://www.youtube.com/embed/ZnpO8z0yMCQ
 author: Brenda Zhang
 categories: [puzzle, "room escape", adventure, review, story]
@@ -112,13 +112,13 @@ Maybe you can help me figure out why the man is an owl.
 
 ![Eda looks into the sunset purple sky, next to a campfire, holding a scarf.][image9]
 
-[image0]: ../../../images/post/whenthepastwasaroundfull/WhenThePastWasAround0.jpeg
-[image1]: ../../../images/post/whenthepastwasaroundfull/WhenThePastWasAround1.jpg
-[image2]: ../../../images/post/whenthepastwasaroundfull/WhenThePastWasAround2.jpg
-[image3]: ../../../images/post/whenthepastwasaroundfull/WhenThePastWasAround3.jpg
-[image4]: ../../../images/post/whenthepastwasaroundfull/WhenThePastWasAround4.jpg
-[image5]: ../../../images/post/whenthepastwasaroundfull/WhenThePastWasAround5.jpg
-[image6]: ../../../images/post/whenthepastwasaroundfull/WhenThePastWasAround6.jpg
-[image7]: ../../../images/post/whenthepastwasaroundfull/WhenThePastWasAround7.jpg
-[image8]: ../../../images/post/whenthepastwasaroundfull/WhenThePastWasAround8.jpg
-[image9]: ../../../images/post/whenthepastwasaroundfull/WhenThePastWasAround9.jpg
+[image0]: ../../../images/post/whenthepastwasaroundfull/WhenThePastWasAround0.webp
+[image1]: ../../../images/post/whenthepastwasaroundfull/WhenThePastWasAround1.webp
+[image2]: ../../../images/post/whenthepastwasaroundfull/WhenThePastWasAround2.webp
+[image3]: ../../../images/post/whenthepastwasaroundfull/WhenThePastWasAround3.webp
+[image4]: ../../../images/post/whenthepastwasaroundfull/WhenThePastWasAround4.webp
+[image5]: ../../../images/post/whenthepastwasaroundfull/WhenThePastWasAround5.webp
+[image6]: ../../../images/post/whenthepastwasaroundfull/WhenThePastWasAround6.webp
+[image7]: ../../../images/post/whenthepastwasaroundfull/WhenThePastWasAround7.webp
+[image8]: ../../../images/post/whenthepastwasaroundfull/WhenThePastWasAround8.webp
+[image9]: ../../../images/post/whenthepastwasaroundfull/WhenThePastWasAround9.webp

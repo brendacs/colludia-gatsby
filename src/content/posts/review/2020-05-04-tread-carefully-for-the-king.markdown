@@ -7,7 +7,7 @@ postType: ["#tbt", review]
 tagline: "For The King review: For The King embodies the classic turn-based RPG, with a multiplayer co-op up to two other players. In a party of three, it’s a bite-sized adventure that scales in difficulty should you choose to challenge yourself. Add in the good ol’ RNG, and I couldn’t ask for anything more."
 date: 2020-05-04
 releaseDate: 2017-02-28
-image: ForTheKing.png
+image: ForTheKing.webp
 video: https://www.youtube.com/embed/XwnkmWBpyBU
 author: Emily Tang
 categories: [turn-based, co-op, roguelike, rpg, "not story", review]
@@ -44,7 +44,7 @@ _For The King_ embodies the classic turn-based RPG, with a multiplayer co-op up 
 
 ![Adventurers fighting a mimic][image3]
 
-[image0]: ../../../images/post/fortheking/ForTheKing0.png
-[image1]: ../../../images/post/fortheking/ForTheKing1.png
-[image2]: ../../../images/post/fortheking/ForTheKing2.png
-[image3]: ../../../images/post/fortheking/ForTheKing3.png
+[image0]: ../../../images/post/fortheking/ForTheKing0.webp
+[image1]: ../../../images/post/fortheking/ForTheKing1.webp
+[image2]: ../../../images/post/fortheking/ForTheKing2.webp
+[image3]: ../../../images/post/fortheking/ForTheKing3.webp

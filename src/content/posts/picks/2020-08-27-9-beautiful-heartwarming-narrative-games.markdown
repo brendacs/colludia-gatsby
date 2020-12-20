@@ -6,7 +6,7 @@ postType: ["our picks"]
 tagline: "These 9 visually appealing games are beautiful in more than one way—the story and relationships in each are charming, heartwarming, and sometimes very personal. The games here are very diverse in art and genre, but their distinct, stylized art and moving story are the common thread between them all."
 date: 2020-08-27
 releaseDate:
-image: 9HeartwarmingGames.png
+image: 9HeartwarmingGames.webp
 video:
 author: Brenda Zhang
 categories: [adventure, rpg, platformer, "visual novel", "our picks", story]
@@ -122,5 +122,5 @@ In [_Letters_](https://www.letters-game.com/), a young girl named Sarah uses the
 
 If you're looking for personal stories about friendship, family, growing up, adulthood, and anything in between, I would highly recommend starting your search with these heartwarming games. They're all powerful and diverse stories with unique mechanics for conveying their important messages and uplifting those who play them.
 
-[image0]: ../../../images/post/9heartwarminggames/9heartwarminggames0.png
-[image1]: ../../../images/post/9heartwarminggames/9heartwarminggames1.png
+[image0]: ../../../images/post/9heartwarminggames/9heartwarminggames0.webp
+[image1]: ../../../images/post/9heartwarminggames/9heartwarminggames1.webp

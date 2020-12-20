@@ -7,7 +7,7 @@ postType: [demo, review]
 tagline: "Venice 2089 demo review: Venice 2089 is a romp through small town suburbia that taps into the feelings of youth in revolt, the small town blues, and modern meme culture."
 date: 2020-09-11
 releaseDate: 2020-08-06
-image: Venice2089.png
+image: Venice2089.webp
 video: https://www.youtube.com/embed/BAjtXBOcZ68
 author: Josh Roque
 categories: [adventure, rpg, demo, review, story]
@@ -90,12 +90,12 @@ _Venice 2089_ is a romp through small town suburbia that taps into the feelings 
 
 ![][image8]
 
-[image0]: ../../../images/post/venice2089/venice20890.png
-[image1]: ../../../images/post/venice2089/venice20891.png
-[image2]: ../../../images/post/venice2089/venice20892.png
-[image3]: ../../../images/post/venice2089/venice20893.png
-[image4]: ../../../images/post/venice2089/venice20894.png
-[image5]: ../../../images/post/venice2089/venice20895.png
-[image6]: ../../../images/post/venice2089/venice20896.png
-[image7]: ../../../images/post/venice2089/venice20897.png
-[image8]: ../../../images/post/venice2089/venice20898.png
+[image0]: ../../../images/post/venice2089/venice20890.webp
+[image1]: ../../../images/post/venice2089/venice20891.webp
+[image2]: ../../../images/post/venice2089/venice20892.webp
+[image3]: ../../../images/post/venice2089/venice20893.webp
+[image4]: ../../../images/post/venice2089/venice20894.webp
+[image5]: ../../../images/post/venice2089/venice20895.webp
+[image6]: ../../../images/post/venice2089/venice20896.webp
+[image7]: ../../../images/post/venice2089/venice20897.webp
+[image8]: ../../../images/post/venice2089/venice20898.webp

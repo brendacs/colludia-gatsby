@@ -6,7 +6,7 @@ postType: [spotlight]
 tagline: "Developer spotlight: All the games by npckc have had one central theme in common: identity. They also advertise their games as LGBTQ+ friendly, and I can say for a fact they certainly are. As for the artwork, not only is it cute, but it is also uniquely different in each game."
 date: 2020-05-03
 releaseDate: 2019-08-31
-image: npckc.png
+image: npckc.webp
 video: https://www.youtube.com/embed/wxeNgIcfylQ
 author: Emily Tang
 categories: ["visual novel", spotlight, story]
@@ -47,8 +47,8 @@ Another game that has a similar barista theme is [_Penguin Café_](https://npckc
 
 Npckc have proven themselves to be capable of making short and sweet narratives, especially around stigmatized topics, for those who need them. Like the mood-adjusted brews in _Tavern for Tea_, these games are made just right for whatever the player needs, even if they don’t think that’s what they’re looking for. I am most impressed with npckc’s ability to establish their point easily and respectfully in each game, encouraging understanding instead of inviting argument. And for all the effort they’ve put into these games, they’re all free to download — but they accept donations, which I strongly encourage, to thank them for these wonderful pieces of art.
 
-[image0]: ../../../images/post/npckc/npckc0.png
-[image1]: ../../../images/post/npckc/npckc1.png
-[image2]: ../../../images/post/npckc/npckc2.png
-[image3]: ../../../images/post/npckc/npckc3.png
-[image4]: ../../../images/post/npckc/npckc4.png
+[image0]: ../../../images/post/npckc/npckc0.webp
+[image1]: ../../../images/post/npckc/npckc1.webp
+[image2]: ../../../images/post/npckc/npckc2.webp
+[image3]: ../../../images/post/npckc/npckc3.webp
+[image4]: ../../../images/post/npckc/npckc4.webp

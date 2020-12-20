@@ -15,7 +15,7 @@ const NotFoundPage = () => (
       <img
         alt="colludia logo"
         className="error-image"
-        src={require("../images/gamepad-book-square.png")}
+        src={require("../images/gamepad-book-square.webp")}
       />
       <Link className="error-go-home" to="/">
         Go to Home

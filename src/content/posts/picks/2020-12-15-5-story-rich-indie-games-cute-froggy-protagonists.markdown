@@ -7,7 +7,7 @@ postType: ["our picks"]
 tagline: "With these types of heavily text-based and narrative driven games, it's not easy to get the art direction, narrative, and emotional poignancy just right. However, I think these ones hit the spot—they have unique art, a distinctly non-generic twist on social media usage, and employ the framework of technology to tell their story well."
 date: 2020-12-15
 releaseDate: 2021-12-31
-image: 5StoryRichIndieGamesCuteFroggyProtagonists.jpeg
+image: 5StoryRichIndieGamesCuteFroggyProtagonists.webp
 video: https://www.youtube.com/embed/tz5xDGCJYn8
 author: Brenda Zhang
 categories:
@@ -97,5 +97,5 @@ The art, colors, and gameplay is very zen, a nice break from the chaotic world a
 
 With a surprising number of games with frog protagonists, frog-lovers and animal-lovers alike have plenty of frog-filled adventures to keep them busy. From touching to funny to adorable to relaxing, there's enough breadth and variety for any story-rich game lover who just wants to play as a charming frog once in a while.
 
-[image0]: ../../../images/post/5storyrichindiegamescutefroggyprotagonists/5StoryRichIndieGamesCuteFroggyProtagonists0.jpeg
-[image1]: ../../../images/post/5storyrichindiegamescutefroggyprotagonists/5StoryRichIndieGamesCuteFroggyProtagonists1.png
+[image0]: ../../../images/post/5storyrichindiegamescutefroggyprotagonists/5StoryRichIndieGamesCuteFroggyProtagonists0.webp
+[image1]: ../../../images/post/5storyrichindiegamescutefroggyprotagonists/5StoryRichIndieGamesCuteFroggyProtagonists1.webp

@@ -7,7 +7,7 @@ postType: ["#tbt", review]
 tagline: "Tacoma review: Tacoma is a brilliant work of art that really shows what immersive multi-modal storytelling can do."
 date: 2020-04-15
 releaseDate: 2017-08-02
-image: tacoma.png
+image: tacoma.webp
 video: https://www.youtube.com/embed/7QrjsQaKG3c
 author: Emily Tang
 categories: ["walking sim", review, story]
@@ -62,7 +62,7 @@ With that being said, here’s where Fullbright pulled out textbook narrative de
 
 Fullbright also made sure not to be obnoxious when pointing to the next part of the narrative. They gave me ample space to explore and left enough hints to piece together the ending for myself before the game’s conclusion could show itself to me. _Tacoma_ is a brilliant work of art by [Fullbright](https://fullbrig.ht/) that really shows what immersive multi-modal storytelling can do.
 
-[image0]: ../../../images/post/tacoma/tacoma0.png
-[image1]: ../../../images/post/tacoma/tacoma1.png
-[image2]: ../../../images/post/tacoma/tacoma2.png
-[image3]: ../../../images/post/tacoma/tacoma3.png
+[image0]: ../../../images/post/tacoma/tacoma0.webp
+[image1]: ../../../images/post/tacoma/tacoma1.webp
+[image2]: ../../../images/post/tacoma/tacoma2.webp
+[image3]: ../../../images/post/tacoma/tacoma3.webp

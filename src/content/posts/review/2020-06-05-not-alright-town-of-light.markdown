@@ -7,7 +7,7 @@ postType: ["#tbt", review]
 tagline: "Review: The Town of Light is an excellent example of how storytelling in games can bring the more messy and taboo topics to light with immersion, great narrative design, and intensive research."
 date: 2020-06-05
 releaseDate: 2016-02-26
-image: TownOfLight.png
+image: TownOfLight.webp
 video: https://www.youtube.com/embed/Wg3ji0yw6hM
 author: Emily Tang
 categories: [horror, "walking sim", review, story]
@@ -46,9 +46,9 @@ _The Town of Light_ is an excellent example of how storytelling in games can bri
 
 ![Photo of woman on bench outside][image4]
 
-[image0]: ../../../images/post/townoflight/TownOfLight0.png
-[image1]: ../../../images/post/townoflight/TownOfLight1.png
-[image2]: ../../../images/post/townoflight/TownOfLight2.png
-[image3]: ../../../images/post/townoflight/TownOfLight3.png
-[image4]: ../../../images/post/townoflight/TownOfLight4.png
-[image5]: ../../../images/post/townoflight/TownOfLight5.png
+[image0]: ../../../images/post/townoflight/TownOfLight0.webp
+[image1]: ../../../images/post/townoflight/TownOfLight1.webp
+[image2]: ../../../images/post/townoflight/TownOfLight2.webp
+[image3]: ../../../images/post/townoflight/TownOfLight3.webp
+[image4]: ../../../images/post/townoflight/TownOfLight4.webp
+[image5]: ../../../images/post/townoflight/TownOfLight5.webp

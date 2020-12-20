@@ -5,8 +5,8 @@ module.exports = {
     author: `Colludia Indie Gaming`,
     siteUrl: `https://colludia.com`,
     description: `Colludia is an indie gaming blog focused on games with stories to tell and the developers behind them. Our favorite games are those that tell a story and start a conversation and would love to bring more attention to the stories the developers behind the games want to tell. Colludia is tailored to prioritize just that, along with shining spotlight on indie developers and studios.`,
-    image: `colludia-banner-big.png`,
-    thumbnail: `colludia-banner-big.png`,
+    image: `colludia-banner-big.webp`,
+    thumbnail: `colludia-banner-big.webp`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -19,7 +19,7 @@ module.exports = {
         name: `gatsby-starter-default`,
         short_name: `starter`,
         start_url: `/`,
-        icon: `src/images/gamepad-book-square.png`, // This path is relative to the root of the site.
+        icon: `src/images/gamepad-book-square.webp`, // This path is relative to the root of the site.
       },
     },
     {

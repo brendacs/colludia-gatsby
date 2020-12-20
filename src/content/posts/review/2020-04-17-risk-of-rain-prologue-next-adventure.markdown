@@ -7,7 +7,7 @@ postType: ["#tbt", review]
 tagline: "Risk of Rain review: It's hard to put this game down after one run. When you amass a huge collection of items and acquire ice, spikes, missiles, lasers, and have unlimited health at your disposal, it'll be so fun that you'll never want to teleport to the final boss as you stay alive longer and longer to see just how powerful your character can become."
 date: 2020-04-17
 releaseDate: 2013-11-08
-image: RiskOfRain.png
+image: RiskOfRain.webp
 video: https://www.youtube.com/embed/Cia3haHicFU
 author: Brenda Zhang
 categories: [action, platformer, "not story", review]
@@ -59,7 +59,7 @@ It's hard to put this game down after one run. When you amass a huge collection 
 
 <figcaption>A loaded up Commando in <em class='game-title'>Risk of Rain 2</em>.</figcaption>
 
-[image0]: ../../../images/post/riskofrain/RiskOfRain0.png
-[image1]: ../../../images/post/riskofrain/RiskOfRain1.png
-[image2]: ../../../images/post/riskofrain/RiskOfRain2.png
-[image3]: ../../../images/post/riskofrain/RiskOfRain3.png
+[image0]: ../../../images/post/riskofrain/RiskOfRain0.webp
+[image1]: ../../../images/post/riskofrain/RiskOfRain1.webp
+[image2]: ../../../images/post/riskofrain/RiskOfRain2.webp
+[image3]: ../../../images/post/riskofrain/RiskOfRain3.webp

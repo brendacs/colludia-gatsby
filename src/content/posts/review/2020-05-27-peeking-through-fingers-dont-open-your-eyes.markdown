@@ -7,7 +7,7 @@ postType: [review]
 tagline: "Don't Open Your Eyes review: When I hear about horror visual novels, I am skeptical. It's easy to throw in jump scares and jolting noises to scare the player. However, Via took care in building player immersion for high quality tension."
 date: 2020-05-27
 releaseDate: 2019-03-29
-image: DontOpenYourEyes.png
+image: DontOpenYourEyes.webp
 author: Devon Huge
 categories: [horror, "visual novel", review, story]
 tags: ["Don't Open your Eyes", Via]
@@ -49,8 +49,8 @@ The first playthrough of any game is key to its experience and how players will 
 
 With all that said, the writing is unique and the work done to build immersion is top notch. Most of the time, I was cowering at the game behind parted fingers. I would recommend any horror or visual novel fans with free time to take a peek at it.
 
-[image0]: ../../../images/post/dontopenyoureyes/DontOpenYourEyes0.png
-[image1]: ../../../images/post/dontopenyoureyes/DontOpenYourEyes1.png
-[image2]: ../../../images/post/dontopenyoureyes/DontOpenYourEyes2.png
-[image3]: ../../../images/post/dontopenyoureyes/DontOpenYourEyes3.png
-[image4]: ../../../images/post/dontopenyoureyes/DontOpenYourEyes4.png
+[image0]: ../../../images/post/dontopenyoureyes/DontOpenYourEyes0.webp
+[image1]: ../../../images/post/dontopenyoureyes/DontOpenYourEyes1.webp
+[image2]: ../../../images/post/dontopenyoureyes/DontOpenYourEyes2.webp
+[image3]: ../../../images/post/dontopenyoureyes/DontOpenYourEyes3.webp
+[image4]: ../../../images/post/dontopenyoureyes/DontOpenYourEyes4.webp

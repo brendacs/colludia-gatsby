@@ -18,7 +18,7 @@ const KeysPage = () => (
           <img
             className="stamp"
             alt="humble pundle partner stamp"
-            src={require("../images/PartnerStampRed.png")}
+            src={require("../images/PartnerStampRed.webp")}
           />
         </a>
       </div>
@@ -88,7 +88,7 @@ const KeysPage = () => (
                         <img
                           loading="lazy"
                           alt="view game page button"
-                          src={require("../images/humble.png")}
+                          src={require("../images/humble.webp")}
                         />
                         <p>{viewButton.text}</p>
                       </button>

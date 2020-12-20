@@ -7,7 +7,7 @@ postType: [interview, spotlight]
 tagline: "Symphonia interview: It was clear that the team had great synergy during production, having created a well-focused game unified in its story, art, sound design, and gameplay."
 date: 2020-08-24
 releaseDate: 2020-06-23
-image: Symphonia.png
+image: Symphonia.webp
 video: https://www.youtube.com/embed/cQA9iiWxZBU
 author: Josh Roque
 categories: [platformer, rpg, spotlight, interview, story]
@@ -82,10 +82,10 @@ You can find us under the name @symphonia*game on [Twitter](https://twitter.com/
 
 ![][image8]
 
-[image0]: ../../../images/post/symphonia/Symphonia0.png
-[image1]: ../../../images/post/symphonia/Symphonia4.png
-[image3]: ../../../images/post/symphonia/Symphonia1.png
-[image5]: ../../../images/post/symphonia/Symphonia5.png
-[image6]: ../../../images/post/symphonia/Symphonia6.png
-[image7]: ../../../images/post/symphonia/Symphonia7.png
-[image8]: ../../../images/post/symphonia/Symphonia-end.png
+[image0]: ../../../images/post/symphonia/Symphonia0.webp
+[image1]: ../../../images/post/symphonia/Symphonia4.webp
+[image3]: ../../../images/post/symphonia/Symphonia1.webp
+[image5]: ../../../images/post/symphonia/Symphonia5.webp
+[image6]: ../../../images/post/symphonia/Symphonia6.webp
+[image7]: ../../../images/post/symphonia/Symphonia7.webp
+[image8]: ../../../images/post/symphonia/Symphonia-end.webp

@@ -7,7 +7,7 @@ postType: [demo, review]
 tagline: "Demo review: Ever Forward tells a thought-provoking story with multiple interpretations and hits a sweet spot between minimalistic design and worldbuilding that is hard to come by. It’s a quiet, lonely game—but not empty."
 date: 2020-08-11
 releaseDate: 2020-08-13
-image: EverForward.jpg
+image: EverForward.webp
 video: https://www.youtube.com/embed/hERmokoAZoA
 author: Josh Roque
 categories: [puzzle, demo, review, story]
@@ -98,12 +98,12 @@ I was left in awe at the game's open-endedness. I really enjoyed not knowing wha
 
 Oh, and good luck on the demo's last puzzle. It took me an hour and a Youtube video to get through.
 
-[image0]: ../../../images/post/everforward/EverForward0.jpg
-[image1]: ../../../images/post/everforward/EverForward1.jpg
-[image2]: ../../../images/post/everforward/EverForward2.jpg
-[image3]: ../../../images/post/everforward/EverForward3.jpg
-[image4]: ../../../images/post/everforward/EverForward4.jpg
-[image5]: ../../../images/post/everforward/EverForward5.jpg
-[image6]: ../../../images/post/everforward/EverForward6.jpg
-[image7]: ../../../images/post/everforward/EverForward7.jpg
-[image8]: ../../../images/post/everforward/EverForward8.jpg
+[image0]: ../../../images/post/everforward/EverForward0.webp
+[image1]: ../../../images/post/everforward/EverForward1.webp
+[image2]: ../../../images/post/everforward/EverForward2.webp
+[image3]: ../../../images/post/everforward/EverForward3.webp
+[image4]: ../../../images/post/everforward/EverForward4.webp
+[image5]: ../../../images/post/everforward/EverForward5.webp
+[image6]: ../../../images/post/everforward/EverForward6.webp
+[image7]: ../../../images/post/everforward/EverForward7.webp
+[image8]: ../../../images/post/everforward/EverForward8.webp

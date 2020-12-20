@@ -7,7 +7,7 @@ postType: [review]
 tagline: "Moonlighter review: From broom-wielder to Roomba-owner, you'll no doubt have fun fighting and selling your way to victory, glory, and wealth while revitalizing the town of Rynoka—and the world—as the humble shopkeeper Will."
 date: 2020-04-05
 releaseDate: 2018-05-29
-image: Moonlighter.jpg
+image: Moonlighter.webp
 video: https://www.youtube.com/embed/Hp7tNAH9Ox0
 author: Brenda Zhang
 categories: [action, adventure, rpg, roguelike, "not story", review]
@@ -93,9 +93,9 @@ The pull to open the next dungeon and see what new environments awaited me kept 
 
 Whether it's the fact that you start with a broom, or that you eventually get to have a little Roomba to kick around, it's the little things that really make game worlds like _Moonlighter_ as exciting and amusing as they are. Seeing Will progress from broom-wielding ambitious shopkeeper to sword-wielding hero (who is probably a multi-millionaire) is a clear reflection of not only all the adventures you've been on, but also of Will and The Moonlighter's growth. From broom-wielder to Roomba-owner, you'll no doubt have fun fighting and selling your way to victory, glory, and wealth while revitalizing the town of Rynoka—and the world—as the humble shopkeeper Will.
 
-[image0]: ../../../images/post/moonlighter/Moonlighter0.png
-[image1]: ../../../images/post/moonlighter/Moonlighter1.png
-[image2]: ../../../images/post/moonlighter/Moonlighter2.png
-[image3]: ../../../images/post/moonlighter/Moonlighter3.png
-[image4]: ../../../images/post/moonlighter/Moonlighter4.png
-[image5]: ../../../images/post/moonlighter/Moonlighter5.png
+[image0]: ../../../images/post/moonlighter/Moonlighter0.webp
+[image1]: ../../../images/post/moonlighter/Moonlighter1.webp
+[image2]: ../../../images/post/moonlighter/Moonlighter2.webp
+[image3]: ../../../images/post/moonlighter/Moonlighter3.webp
+[image4]: ../../../images/post/moonlighter/Moonlighter4.webp
+[image5]: ../../../images/post/moonlighter/Moonlighter5.webp

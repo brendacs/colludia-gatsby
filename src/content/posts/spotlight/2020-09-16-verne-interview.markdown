@@ -7,7 +7,7 @@ postType: [interview, spotlight]
 tagline: "Verne interview: If there’s one thing that all his books have, it is adventure, the wonder of discovery and hope."
 date: 2020-09-16
 releaseDate: 2021-12-31
-image: Verne.png
+image: Verne.webp
 video: https://www.youtube.com/embed/kC5waqfC-7Q
 author: Josh Roque
 categories: [adventure, puzzle, interview, spotlight, story]
@@ -111,11 +111,11 @@ These will be predefined actions that you can use at certain moments in the game
 ![][image7]
 
 [image0]: ../../../images/post/verne/Verne0.gif
-[image1]: ../../../images/post/verne/Verne1.png
-[image2]: ../../../images/post/verne/Verne2.png
-[image3]: ../../../images/post/verne/Verne3.png
-[image4]: ../../../images/post/verne/Verne4.png
-[image5]: ../../../images/post/verne/Verne5.png
-[image6]: ../../../images/post/verne/Verne6.png
-[image7]: ../../../images/post/verne/Verne7.png
-[image-extra]: ../../../images/post/verne/Verne-design-level.png
+[image1]: ../../../images/post/verne/Verne1.webp
+[image2]: ../../../images/post/verne/Verne2.webp
+[image3]: ../../../images/post/verne/Verne3.webp
+[image4]: ../../../images/post/verne/Verne4.webp
+[image5]: ../../../images/post/verne/Verne5.webp
+[image6]: ../../../images/post/verne/Verne6.webp
+[image7]: ../../../images/post/verne/Verne7.webp
+[image-extra]: ../../../images/post/verne/Verne-design-level.webp

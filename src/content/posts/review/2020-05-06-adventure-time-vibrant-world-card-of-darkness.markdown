@@ -7,7 +7,7 @@ postType: [review]
 tagline: "Review: Card of Darkness was at once straightforward and undemanding while somehow managing to be layered with the same complexities of a fully-formed roguelike game."
 date: 2020-05-06
 releaseDate: 2019-10-07
-image: CardOfDarkness.png
+image: CardOfDarkness.webp
 video: https://www.youtube.com/embed/YfR5RC58Rjs
 author: Brenda Zhang
 categories: [adventure, strategy, roguelike, review, story]
@@ -82,10 +82,10 @@ Let's end with another gem of a quote from Zach Gage describing _Card of Darknes
 
 ![Art displaying all the stuff in Card of Darkness][image6]
 
-[image0]: ../../../images/post/cardofdarkness/CardOfDarkness0.png
-[image1]: ../../../images/post/cardofdarkness/CardOfDarkness1.png
-[image2]: ../../../images/post/cardofdarkness/CardOfDarkness2.png
-[image3]: ../../../images/post/cardofdarkness/CardOfDarkness3.png
-[image4]: ../../../images/post/cardofdarkness/CardOfDarkness4.png
-[image5]: ../../../images/post/cardofdarkness/CardOfDarkness5.png
-[image6]: ../../../images/post/cardofdarkness/CardOfDarkness6.png
+[image0]: ../../../images/post/cardofdarkness/CardOfDarkness0.webp
+[image1]: ../../../images/post/cardofdarkness/CardOfDarkness1.webp
+[image2]: ../../../images/post/cardofdarkness/CardOfDarkness2.webp
+[image3]: ../../../images/post/cardofdarkness/CardOfDarkness3.webp
+[image4]: ../../../images/post/cardofdarkness/CardOfDarkness4.webp
+[image5]: ../../../images/post/cardofdarkness/CardOfDarkness5.webp
+[image6]: ../../../images/post/cardofdarkness/CardOfDarkness6.webp

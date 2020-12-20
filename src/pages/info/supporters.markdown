@@ -4,7 +4,7 @@ slug: /supporters/
 author: Colludia Indie Gaming
 title: Supporters
 tagline: We're extremely grateful for all of our Patreon supporters. Thank you for supporting Colludia, an indie gaming blog focused on games with stories to tell and the developers behind them.
-image: colludia-banner-big.png
+image: colludia-banner-big.webp
 ---
 
 # Thank you for your support.

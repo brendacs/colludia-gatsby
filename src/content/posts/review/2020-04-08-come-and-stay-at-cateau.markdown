@@ -7,7 +7,7 @@ postType: [review]
 tagline: "Cateau review: The artwork, though simple, made the game stand out as much as its writing. The first picture I acquired of Gargantuan took my breath away."
 date: 2020-04-08
 releaseDate: 2018-10-17
-image: cateau.jpg
+image: cateau.webp
 video: https://www.youtube.com/embed/E2dWf5PXlc0
 author: Emily Tang
 categories: ["visual novel", review, story]
@@ -62,8 +62,8 @@ The artwork, though simple, made the game stand out as much as its writing. The 
 
 <figcaption>Gargantuan, ruler of my heart.</figcaption>
 
-[image0]: ../../../images/post/cateau/cateau0.png
-[image1]: ../../../images/post/cateau/cateau1.png
-[image2]: ../../../images/post/cateau/cateau2.png
-[image3]: ../../../images/post/cateau/cateau3.png
-[image4]: ../../../images/post/cateau/cateau4.png
+[image0]: ../../../images/post/cateau/cateau0.webp
+[image1]: ../../../images/post/cateau/cateau1.webp
+[image2]: ../../../images/post/cateau/cateau2.webp
+[image3]: ../../../images/post/cateau/cateau3.webp
+[image4]: ../../../images/post/cateau/cateau4.webp

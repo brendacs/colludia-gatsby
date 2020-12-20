@@ -7,7 +7,7 @@ postType: [demo, review]
 tagline: "Lamentum demo review: The macabre yet evocative imagery, the wonderfully unsettling sound design and hard-hitting subtext make for a terrifying descent into darkness."
 date: 2020-11-12
 releaseDate: 2021-12-31
-image: Lamentum.png
+image: Lamentum.webp
 video: https://www.youtube.com/embed/KHbh3B_EkBY
 author: Pixie Poison
 categories: ["survival horror", "pixel art", puzzle, demo, review, story]
@@ -105,11 +105,11 @@ As I said, my relationship with horror is complicated. But I can definitely see 
 
 Keep a straitjacket handy in 2021—your sanity is about to be tested!
 
-[image0]: ../../../images/post/lamentum/Lamentum0.png
-[image1]: ../../../images/post/lamentum/Lamentum1.png
-[image2]: ../../../images/post/lamentum/Lamentum2.png
-[image3]: ../../../images/post/lamentum/Lamentum3.png
-[image4]: ../../../images/post/lamentum/Lamentum4.png
-[image5]: ../../../images/post/lamentum/Lamentum5.png
-[image6]: ../../../images/post/lamentum/Lamentum6.png
-[image7]: ../../../images/post/lamentum/Lamentum7.png
+[image0]: ../../../images/post/lamentum/Lamentum0.webp
+[image1]: ../../../images/post/lamentum/Lamentum1.webp
+[image2]: ../../../images/post/lamentum/Lamentum2.webp
+[image3]: ../../../images/post/lamentum/Lamentum3.webp
+[image4]: ../../../images/post/lamentum/Lamentum4.webp
+[image5]: ../../../images/post/lamentum/Lamentum5.webp
+[image6]: ../../../images/post/lamentum/Lamentum6.webp
+[image7]: ../../../images/post/lamentum/Lamentum7.webp

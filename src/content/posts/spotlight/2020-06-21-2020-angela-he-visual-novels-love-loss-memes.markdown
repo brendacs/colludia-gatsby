@@ -6,7 +6,7 @@ postType: [spotlight]
 tagline: "Developer spotlight: Play all of Angela He's visual novels and cry and smile as you glimpse the lives of those in pain and those in love through the lens of these beautifully illustrated playable stories."
 date: 2020-06-21
 releaseDate: 2020-05-15
-image: AngelaHe.png
+image: AngelaHe.webp
 video: https://www.youtube.com/embed/4T4GVDxoXvo
 author: Brenda Zhang
 categories: [visual novel, spotlight, story]
@@ -123,17 +123,17 @@ Need a good way to wrap up pride month as much as I need a good way to wrap up t
 
 ![Saying goodbye in I woke up next to you again][image14]
 
-[image0]: ../../../images/post/angelahe/AngelaHe0.png
-[image2]: ../../../images/post/angelahe/AngelaHe2.png
-[image3]: ../../../images/post/angelahe/AngelaHe3.png
-[image4]: ../../../images/post/angelahe/AngelaHe4.png
-[image5]: ../../../images/post/angelahe/AngelaHe5.png
-[image6]: ../../../images/post/angelahe/AngelaHe6.png
-[image7]: ../../../images/post/angelahe/AngelaHe7.png
-[image8]: ../../../images/post/angelahe/AngelaHe8.png
-[image9]: ../../../images/post/angelahe/AngelaHe9.png
-[image10]: ../../../images/post/angelahe/AngelaHe10.png
-[image11]: ../../../images/post/angelahe/AngelaHe11.png
-[image12]: ../../../images/post/angelahe/AngelaHe12.png
-[image13]: ../../../images/post/angelahe/AngelaHe13.png
-[image14]: ../../../images/post/angelahe/AngelaHe14.png
+[image0]: ../../../images/post/angelahe/AngelaHe0.webp
+[image2]: ../../../images/post/angelahe/AngelaHe2.webp
+[image3]: ../../../images/post/angelahe/AngelaHe3.webp
+[image4]: ../../../images/post/angelahe/AngelaHe4.webp
+[image5]: ../../../images/post/angelahe/AngelaHe5.webp
+[image6]: ../../../images/post/angelahe/AngelaHe6.webp
+[image7]: ../../../images/post/angelahe/AngelaHe7.webp
+[image8]: ../../../images/post/angelahe/AngelaHe8.webp
+[image9]: ../../../images/post/angelahe/AngelaHe9.webp
+[image10]: ../../../images/post/angelahe/AngelaHe10.webp
+[image11]: ../../../images/post/angelahe/AngelaHe11.webp
+[image12]: ../../../images/post/angelahe/AngelaHe12.webp
+[image13]: ../../../images/post/angelahe/AngelaHe13.webp
+[image14]: ../../../images/post/angelahe/AngelaHe14.webp

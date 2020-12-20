@@ -7,7 +7,7 @@ postType: ["#tbt", review]
 tagline: "Emily is Away review: Emily Is Away is one of those games that reminds me of simpler times. The welcoming blue Windows login screen, the AIM messenger app, and all the sounds that accompany them pulled me back to a time where I could afford to be more carefree."
 date: 2020-06-12
 releaseDate: 2015-11-20
-image: EmilyIsAway.png
+image: EmilyIsAway.webp
 video: https://www.youtube.com/embed/LHpf9k1O01c
 author: Emily Tang
 categories: ["visual novel", text-based, review, story]
@@ -50,7 +50,7 @@ Since _Emily is Away Too_ has been made, I'm excited to see what's been improved
 
 ![The profile of Emily on the instant messaging app][image3]
 
-[image0]: ../../../images/post/emilyisaway/EmilyIsAway0.png
-[image1]: ../../../images/post/emilyisaway/EmilyIsAway1.png
-[image2]: ../../../images/post/emilyisaway/EmilyIsAway2.png
-[image3]: ../../../images/post/emilyisaway/EmilyIsAway3.png
+[image0]: ../../../images/post/emilyisaway/EmilyIsAway0.webp
+[image1]: ../../../images/post/emilyisaway/EmilyIsAway1.webp
+[image2]: ../../../images/post/emilyisaway/EmilyIsAway2.webp
+[image3]: ../../../images/post/emilyisaway/EmilyIsAway3.webp

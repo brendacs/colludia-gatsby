@@ -13,7 +13,7 @@ const SocialButton = ({ frontmatter, type }) => {
     image = "twitter.svg"
     domain = `https://${type}.com/`
   } else if (type === "instagram") {
-    image = "instagram.png"
+    image = "instagram.webp"
     domain = `https://${type}.com/`
   }
 
@@ -82,7 +82,7 @@ const AuthorTemplate = ({ data }) => {
             <a className="patreon" href="https://patreon.com/colludia">
               <img
                 alt="patreon logo"
-                src={require("../../../images/patreon.png")}
+                src={require("../../../images/patreon.webp")}
               />
             </a>
           </li>
@@ -90,7 +90,7 @@ const AuthorTemplate = ({ data }) => {
             <a className="discord" href="https://discord.gg/PG2qkZf">
               <img
                 alt="discord logo"
-                src={require("../../../images/discord.png")}
+                src={require("../../../images/discord.webp")}
               />
             </a>
           </li>

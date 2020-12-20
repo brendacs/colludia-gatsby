@@ -7,7 +7,7 @@ postType: [interview, spotlight]
 tagline: "Gentle Troll Underdown interview: In games, we cling to our stereotypes even more than Hollywood does. What you see all the time is what you consider normal, and if we don't start changing what you see then other things will never be normal."
 date: 2020-08-18
 releaseDate: 2022-12-31
-image: Underdown.png
+image: Underdown.webp
 video: https://www.youtube.com/embed/9gjHeZBmOzg
 author: Brenda Zhang
 categories: [tactical, turn-based, mystery, spotlight, interview, story]
@@ -114,10 +114,10 @@ But what I do know is that there is so much to discover about the game and chara
 
 To follow along in the game's development, as I have been, follow the [Gentle Troll Twitter](https://twitter.com/GentleTroll) or join their [Discord server](https://discord.gg/38qJgu). They're a friendly bunch!
 
-[image0]: ../../../images/post/underdown/Underdown0.png
-[image1]: ../../../images/post/underdown/Underdown1.png
-[image2]: ../../../images/post/underdown/Underdown2.jpeg
-[image3]: ../../../images/post/underdown/Underdown3.png
-[image4]: ../../../images/post/underdown/Underdown4.png
-[image5]: ../../../images/post/underdown/Underdown5.png
-[image-extra]: ../../../images/post/underdown/Underdown-extra.jpeg
+[image0]: ../../../images/post/underdown/Underdown0.webp
+[image1]: ../../../images/post/underdown/Underdown1.webp
+[image2]: ../../../images/post/underdown/Underdown2.webp
+[image3]: ../../../images/post/underdown/Underdown3.webp
+[image4]: ../../../images/post/underdown/Underdown4.webp
+[image5]: ../../../images/post/underdown/Underdown5.webp
+[image-extra]: ../../../images/post/underdown/Underdown-extra.webp

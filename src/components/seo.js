@@ -40,7 +40,7 @@ function SEO({ lang, meta, title, description, author, image, page, type }) {
     description || pageDescription || site.siteMetadata.description
   const metaAuthor = author || site.siteMetadata.author
   const metaImage = `https://colludia.com/images/${
-    image || "colludia-banner-big.png"
+    image || "colludia-banner-big.webp"
   }`
   const metaType = type || "website"
 

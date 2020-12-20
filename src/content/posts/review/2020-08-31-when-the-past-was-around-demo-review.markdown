@@ -7,7 +7,7 @@ postType: [demo, review]
 tagline: "When the Past Was Around demo review: The scenes progressed at an even pace, and the narrative within them was ever-present yet left you with enough space to imagine and fill in the blanks. As you exit through the door, the demo ends leaving you wondering just what happened when the past was around."
 date: 2020-08-31
 releaseDate: 2020-09-21
-image: WhenThePastWasAround.png
+image: WhenThePastWasAround.webp
 video: https://www.youtube.com/embed/keCwvoUGOgc
 author: Brenda Zhang
 categories: [point-and-click, puzzle, demo, review, story]
@@ -53,6 +53,6 @@ Most of all, the piano and violin accompanying the journey was beautiful and per
 
 This was a thoroughly enjoyable though short playthrough, leaving me as relaxed as a head massage would but with a lot of questions left to be answered as I couldn't decipher all of its cryptic symbolism. I have been thoroughly convincing me to get the full game when it's released later this year in 2020 and would highly recommend checking out the prologue before then to get a taste of this relaxing, heartstring-tugging game.
 
-[image0]: ../../../images/post/whenthepastwasaround/WhenThePastWasAround0.png
-[image1]: ../../../images/post/whenthepastwasaround/WhenThePastWasAround1.png
-[image2]: ../../../images/post/whenthepastwasaround/WhenThePastWasAround2.png
+[image0]: ../../../images/post/whenthepastwasaround/WhenThePastWasAround0.webp
+[image1]: ../../../images/post/whenthepastwasaround/WhenThePastWasAround1.webp
+[image2]: ../../../images/post/whenthepastwasaround/WhenThePastWasAround2.webp
