@@ -81,8 +81,6 @@ const RenderedPosts = ({
               const year = post.date.substring(0, 4)
               const month = post.date.substring(4, 6)
               const day = post.date.substring(6)
-              const dateString = `${month} ${day}, ${year}`
-              const date = new Date(dateString)
               return (
                 (author ||
                   page === "latest" ||
@@ -110,8 +108,8 @@ const RenderedPosts = ({
                       <div className="post-info">
                         <p className="post-author">{post.author}</p>
                         <p className="post-date">{`${
-                          months[date.getMonth()]
-                        } ${date.getDate()}, ${date.getFullYear()}`}</p>
+                          months[month - 1]
+                        } ${day}, ${year}`}</p>
                       </div>
                     </div>
                     <div className="post-type">
