@@ -114,7 +114,11 @@ const RenderedPosts = ({
                     </div>
                     <div className="post-type">
                       {post.postType.map((tag, idx) => (
-                        <Tag name={tag} key={idx} color={tagColors[tag]} />
+                        <Tag
+                          name={`${tag === "picks" && "our "}${tag}`}
+                          key={idx}
+                          color={tagColors[tag]}
+                        />
                       ))}
                     </div>
                   </Link>

@@ -1,0 +1,66 @@
+backend:
+  name: git-gateway
+  branch: master # Branch to update (optional; defaults to master)
+publish_mode: editorial_workflow
+media_folder: "images/uploads"
+collections:
+  - name: "post" # Used in routes, e.g., /admin/collections/post
+    label: "Blog Post" # Used in the UI
+    folder: "src/content/posts/{{postType}}" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {
+          label: "Page Type",
+          name: "pageType",
+          widget: "hidden",
+          default: "post",
+        }
+      - { label: "Slug", name: "slug", widget: "string", default: "/" }
+      - { label: "Title", name: "title", widget: "string" }
+      - {
+          label: "Post Type",
+          name: "postType",
+          widget: "select",
+          options:
+            - { label: "Review", value: "review" }
+            - { label: "Spotlight", value: "spotlight" }
+            - { label: "Our Picks", value: "picks" }
+            - { label: "Opinion", value: "opinion" }
+        }
+      - { label: "Tagline", name: "tagline", widget: "string" }
+      - {
+          label: "Publish Date",
+          name: "date",
+          widget: "datetime",
+          date_format: "YYYY-MM-DD",
+        }
+      - {
+          label: "Release Date",
+          name: "releaseDate",
+          widget: "datetime",
+          date_format: "YYYY-MM-DD",
+          required: false
+        }
+      - { label: "Featured Image", name: "image", widget: "string" }
+      - {
+          label: "Video",
+          name: "video",
+          widget: "string",
+          default: https://youtube.com/embed/,
+          required: false
+        }
+      - {
+          label: "Author",
+          name: "author",
+          widget: "string",
+          default: "Full Name",
+        }
+      - {
+          label: "Categories",
+          name: "categories",
+          widget: "list",
+          default: ["{{postType}}", "story"],
+        }
+      - { label: "Categories", name: "categories", widget: "list" }
+      - { label: "Body", name: "body", widget: "markdown" }

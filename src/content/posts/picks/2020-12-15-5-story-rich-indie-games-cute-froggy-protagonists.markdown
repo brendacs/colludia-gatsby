@@ -3,7 +3,7 @@ pageType: post
 game: 5storyrichindiegamescutefrogprotagonists
 slug: /5-story-rich-games-cute-frog-protagonists/
 title: "5 Story Rich Indie Games With Cute Froggy Protagonists"
-postType: ["our picks"]
+postType: ["picks"]
 tagline: "With these types of heavily text-based and narrative driven games, it's not easy to get the art direction, narrative, and emotional poignancy just right. However, I think these ones hit the spot—they have unique art, a distinctly non-generic twist on social media usage, and employ the framework of technology to tell their story well."
 date: 2020-12-15
 releaseDate: 2021-12-31

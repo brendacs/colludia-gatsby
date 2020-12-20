@@ -21,7 +21,7 @@ export const featuredPost = {
     type: "spotlight",
     url: "/frogsong-interview-spotlight/",
   },
-  "our picks": {
+  picks: {
     title: "5 Narrative Driven Pixel Art Indie Games With Playable Demos",
     tagline:
       '"While none of these games are out yet, the demos will surely tide you over until they are. Bide your time, since such quality pixel art indie games with touching stories like these take quite a while for small teams to produce. They\'ll no doubt be worth the wait!"',

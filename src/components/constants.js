@@ -15,7 +15,7 @@ export const months = [
 
 export const tagColors = {
   review: "red",
-  "our picks": "green",
+  picks: "green",
   spotlight: "blue",
   opinion: "purple",
 }
@@ -29,7 +29,7 @@ export const pageDescriptions = {
     "Our articles in the Reviews discuss indie games we love, especially those with a good story to tell.",
   spotlight:
     "Our Spotlights shine a light on our favorite indie game developers and studios. We review indie devs' best games and distinct style as well as give interviews to dive deeper into their process, design, or plans.",
-  "our picks":
+  picks:
     "Our Picks are lists of indie games under a common theme or from a community event.",
   opinion:
     "Opinion are opinion articles about games in general, but with a specific focus on indie games or games with narratives.",
@@ -49,7 +49,7 @@ export const genresPageArticleTypeDropdownOptions = [
   { value: "all", label: "All article types" },
   { value: "demo", label: "Demo" },
   { value: "interview", label: "Interview" },
-  { value: "our picks", label: "Our Picks" },
+  { value: "picks", label: "Our Picks" },
   { value: "opinion", label: "Opinion" },
   { value: "review", label: "Review" },
   { value: "spotlight", label: "Spotlight" },
