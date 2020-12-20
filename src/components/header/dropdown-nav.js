@@ -2,59 +2,79 @@ import { Link } from "gatsby"
 import React from "react"
 import "./dropdown-nav.scss"
 
-const DropdownNav = () => (
+const DropdownNav = ({ onLinkClick }) => (
   <div className="secondary-nav">
     <div className="pages-wrapper">
       <ul className="main hidden">
         <li>
-          <Link to="/">Latest Articles</Link>
+          <Link to="/" onClick={onLinkClick}>
+            Latest Articles
+          </Link>
         </li>
         <li>
-          <Link to="/reviews">Reviews</Link>
+          <Link to="/reviews" onClick={onLinkClick}>
+            Reviews
+          </Link>
         </li>
         <li>
-          <Link to="/dev-spotlights">Dev Spotlights</Link>
+          <Link to="/dev-spotlights" onClick={onLinkClick}>
+            Dev Spotlights
+          </Link>
         </li>
         <li>
-          <Link to="/our-picks">Our Picks</Link>
+          <Link to="/our-picks" onClick={onLinkClick}>
+            Our Picks
+          </Link>
         </li>
         <li>
-          <Link to="/opinion">Opinion</Link>
+          <Link to="/opinion" onClick={onLinkClick}>
+            Opinion
+          </Link>
         </li>
         <li>
-          <Link to="/genres">All Genres</Link>
+          <Link to="/genres" onClick={onLinkClick}>
+            All Genres
+          </Link>
         </li>
       </ul>
       <ul>
         <li>
-          <Link className="animated-link" to="/about">
+          <Link className="animated-link" to="/about" onClick={onLinkClick}>
             About Us
           </Link>
         </li>
         <li>
-          <Link className="animated-link" to="/supporters">
+          <Link
+            className="animated-link"
+            to="/supporters"
+            onClick={onLinkClick}
+          >
             Supporters
           </Link>
         </li>
         <li>
-          <Link className="animated-link" to="/steam-keys">
+          <Link
+            className="animated-link"
+            to="/steam-keys"
+            onClick={onLinkClick}
+          >
             Free Keys
           </Link>
         </li>
       </ul>
       <ul>
         <li>
-          <Link className="animated-link" to="/contact">
+          <Link className="animated-link" to="/contact" onClick={onLinkClick}>
             Contact Us
           </Link>
         </li>
         <li>
-          <Link className="animated-link" to="/writers">
+          <Link className="animated-link" to="/writers" onClick={onLinkClick}>
             Become a Writer
           </Link>
         </li>
         <li>
-          <Link className="animated-link" to="/ads">
+          <Link className="animated-link" to="/ads" onClick={onLinkClick}>
             Advertise
           </Link>
         </li>

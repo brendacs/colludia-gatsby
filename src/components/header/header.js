@@ -73,7 +73,13 @@ const Header = ({ siteTitle }) => {
           </div>
         </div>
       </nav>
-      {showDropdownNav && <DropdownNav />}
+      {showDropdownNav && (
+        <DropdownNav
+          onLinkClick={() => {
+            setShowDropdownNav(false)
+          }}
+        />
+      )}
     </header>
   )
 }
