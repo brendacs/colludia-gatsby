@@ -6,11 +6,21 @@ import { Helmet } from "react-helmet"
 
 const IndexPage = () => (
   <>
-    <Helmet>
-      <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-    </Helmet>
     <SEO title="Home" page="latest" />
     <ArticleList featuredPost={featuredPost.latest} page="latest" />
+    <script
+      dangerouslySetInnerHTML={{
+        __html: `if (window.netlifyIdentity) {
+          window.netlifyIdentity.on("init", user => {
+            if (!user) {
+              window.netlifyIdentity.on("login", () => {
+                document.location.href = "/admin/";
+              });
+            }
+          });
+        }`,
+      }}
+    />
   </>
 )
 
