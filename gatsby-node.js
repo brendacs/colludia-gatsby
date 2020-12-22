@@ -12,7 +12,9 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
   const authorTemplate = require.resolve(
     `./src/components/templates/author/author.js`
   )
-  const infoTemplate = require.resolve(`./src/components/templates/info/info.js`)
+  const infoTemplate = require.resolve(
+    `./src/components/templates/info/info.js`
+  )
   const result = await graphql(`
     {
       allMarkdownRemark(

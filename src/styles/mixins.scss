@@ -1,16 +1,19 @@
 @import "variables";
 
 @mixin header-font {
-  font-family: 'Inter',-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI 
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica,
+    Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI;
 }
 
 @mixin primary-font {
-  font-family: 'Inter', Helvetica,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;
+  font-family: "Inter", Helvetica, -apple-system, BlinkMacSystemFont, Segoe UI,
+    Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji,
+    Segoe UI Symbol;
   font-size: $text-size;
 }
 
 @mixin secondary-font {
-  font-family: 'Inter', sans-serif;
+  font-family: "Inter", sans-serif;
   font-size: $text-size;
 }
 
@@ -31,7 +34,11 @@
   user-select: none;
 }
 
-@mixin disabled($color: $site-gray, $background-color: transparent, $border-color: transparent) {
+@mixin disabled(
+  $color: $site-gray,
+  $background-color: transparent,
+  $border-color: transparent
+) {
   color: $color;
   background-color: $background-color;
   border-color: $border-color;
@@ -40,7 +47,7 @@
 
 @mixin link-animation-start {
   @include shorter-transition;
-  content: '';
+  content: "";
   width: 0px;
   height: 4px;
   display: block;
@@ -56,7 +63,7 @@
   @include short-transition;
   height: 22px;
   margin: -20px 0 0 -5px;
-  background-color: rgba(0, 193, 224, .75);
+  background-color: rgba(0, 193, 224, 0.75);
 }
 
 @mixin highlight-animation-end {
@@ -72,7 +79,7 @@
   height: 35px;
   padding: 0 20px;
   border: none;
-  color: #FFF;
+  color: #fff;
   font-weight: 600;
   cursor: pointer;
   white-space: nowrap;
@@ -90,25 +97,23 @@
   width: 260px;
   border-radius: 5px;
   padding: 6px 15px 6px 15px;
-  background-color: darken(#FFF, 3%);
+  background-color: darken(#fff, 3%);
   border: 1px solid $site-brand-color;
   color: $site-brand-color;
   font-size: $tiny-size - 2;
 }
 
 @mixin minimal-dropdown {
-  background-image:
-    linear-gradient(45deg, transparent 50%, $site-brand-color 50%),
+  background-image: linear-gradient(
+      45deg,
+      transparent 50%,
+      $site-brand-color 50%
+    ),
     linear-gradient(135deg, $site-brand-color 50%, transparent 50%),
     linear-gradient(to right, $site-brand-color, $site-brand-color);
-  background-position:
-    calc(100% - 15px) calc(1em - 1.5px),
-    calc(100% - 10px) calc(1em - 1.5px),
-    calc(100% - 2.5em) 0.38em;
-  background-size:
-    5px 5px,
-    5px 5px,
-    1px 1.5em;
+  background-position: calc(100% - 15px) calc(1em - 1.5px),
+    calc(100% - 10px) calc(1em - 1.5px), calc(100% - 2.5em) 0.38em;
+  background-size: 5px 5px, 5px 5px, 1px 1.5em;
   background-repeat: no-repeat;
 }
 

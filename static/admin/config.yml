@@ -1,12 +1,13 @@
 backend:
-  name: git-gateway
+  # name: git-gateway
+  name: test-repo
   branch: master # Branch to update (optional; defaults to master)
 publish_mode: editorial_workflow
-media_folder: "images/uploads"
+media_folder: "/static/images/"
 collections:
   - name: "post" # Used in routes, e.g., /admin/collections/post
     label: "Blog Post" # Used in the UI
-    folder: "src/content/posts/{{postType}}" # The path to the folder where the documents are stored
+    folder: "/src/content/posts/" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
@@ -38,7 +39,7 @@ collections:
           date_format: "YYYY-MM-DD",
           required: false,
         }
-      - { label: "Featured Image", name: "image", widget: "string" }
+      - { label: "Featured Image", name: "image", widget: "image" }
       - {
           label: "Video",
           name: "video",

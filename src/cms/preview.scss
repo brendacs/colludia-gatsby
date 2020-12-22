@@ -1,0 +1,134 @@
+@import "../styles/reset.scss";
+@import "../styles/variables.scss";
+@import "../styles/mixins.scss";
+@import "../styles/global.scss";
+
+.article {
+  margin: 10px 0;
+  max-width: 1104px;
+  background-color: #fff;
+  padding: 40px;
+  border-radius: 5px;
+
+  @media screen and (max-width: 768px) {
+    padding: 0;
+  }
+
+  &-title {
+    font-size: $heading-size;
+    font-weight: 600;
+
+    @media screen and (max-width: 768px) {
+      font-size: $mobile-heading-size + 7;
+    }
+
+    @media screen and (max-width: 600px) {
+      font-size: $mobile-heading-size;
+    }
+
+    @media screen and (max-width: 425px) {
+      font-size: $mobile-heading-size - 4;
+    }
+
+    @media screen and (max-width: 375px) {
+      font-size: $mobile-heading-size - 7;
+    }
+  }
+
+  h2 {
+    font-size: $subtitle-size;
+    font-weight: 600;
+    margin-top: 50px;
+  }
+
+  h3 {
+    font-size: $text-size + 2;
+    font-weight: 600;
+    margin-top: 40px;
+  }
+
+  p {
+    margin: 20px 0;
+    text-align: left;
+
+    &,
+    & a {
+      @media screen and (max-width: 425px) {
+        font-size: $tiny-size;
+      }
+    }
+  }
+
+  p a,
+  li a,
+  span a {
+    color: $site-brand-color;
+    position: relative;
+    width: auto;
+
+    &:after {
+      @include link-animation-start;
+      position: absolute;
+      bottom: 2px;
+      left: 0;
+      opacity: 0.5;
+    }
+
+    &:hover:after {
+      @include link-animation-end;
+    }
+  }
+
+  span a.gatsby-resp-image-link {
+    color: rgba(0, 0, 0, 0);
+    cursor: default;
+
+    &:hover:after {
+      width: 0px;
+    }
+  }
+
+  ul {
+    margin-top: 20px;
+    width: inherit;
+  }
+
+  blockquote {
+    margin: 20px 0;
+  }
+
+  em {
+    font-style: italic;
+  }
+
+  strong {
+    font-weight: 600;
+  }
+
+  img {
+    width: 100%;
+    border-radius: 5px;
+  }
+
+  figcaption {
+    @include primary-font;
+    color: darken($site-gray, 20%);
+    font-size: $tiny-size;
+    line-height: 1.25;
+    margin-top: -5px;
+
+    a.animated-link {
+      font-size: $tiny-size;
+    }
+  }
+
+  iframe,
+  video {
+    width: 100%;
+    min-height: 400px;
+  }
+
+  span.blue-q {
+    color: darken($site-brand-color, 10%);
+  }
+}
