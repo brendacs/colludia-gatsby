@@ -66,7 +66,8 @@ const Footer = () => (
         </a>
       </div>
       <p className="copyright">
-        Copyright &copy; 2020 Colludia. All Rights Reserved.
+        Copyright &copy; {new Date().getFullYear()} Colludia. All Rights
+        Reserved.
       </p>
     </div>
   </footer>
