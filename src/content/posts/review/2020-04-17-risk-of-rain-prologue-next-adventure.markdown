@@ -10,7 +10,7 @@ releaseDate: 2013-11-08
 image: RiskOfRain.webp
 video: https://www.youtube.com/embed/Cia3haHicFU
 author: Brenda Zhang
-categories: [action, platformer, "not story", review]
+categories: [action, platformer, "#tbt", "not story", review]
 tags:
   [
     risk of rain,

@@ -10,7 +10,7 @@ releaseDate: 2015-12-22
 image: AviaryAttorney.webp
 video: https://www.youtube.com/embed/zuGJOdyoLo4
 author: Emily Tang
-categories: ["mystery", "visual novel", review, story]
+categories: ["mystery", "visual novel", "#tbt", review, story]
 tags: ["Aviary Attorney", "Sketchy Logic", attorney, historical, mystery, puns]
 ---
 

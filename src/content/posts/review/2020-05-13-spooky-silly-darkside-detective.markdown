@@ -10,7 +10,7 @@ releaseDate: 2017-07-27
 image: DarksideDetective.webp
 video: https://www.youtube.com/embed/8fOjX-bxRg0
 author: Brenda Zhang
-categories: [mystery, point-and-click, adventure, review, story]
+categories: [mystery, point-and-click, adventure, "#tbt", review, story]
 tags: ["the darkside detective", "spooky doorway", pixel graphics, puzzle, iOS]
 ---
 

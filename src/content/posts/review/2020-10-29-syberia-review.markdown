@@ -10,7 +10,7 @@ releaseDate: 2017-04-20
 image: Syberia.webp
 video: https://www.youtube.com/embed/69o6Vks0sKA
 author: Emily Tang
-categories: [adventure, point-and-click, review, story]
+categories: [adventure, point-and-click, "#tbt", review, story]
 tags: ["Syberia", "Microids", "Microids", puzzle, soundtrack]
 ---
 

@@ -10,7 +10,7 @@ releaseDate: 2013-05-28
 image: nightofrabbit.webp
 video: https://www.youtube.com/embed/dTZHzetlkLI
 author: Emily Tang
-categories: [point-and-click, review, story]
+categories: [point-and-click, "#tbt", review, story]
 tags:
   [
     fantasy,

@@ -10,7 +10,7 @@ releaseDate: 2016-02-26
 image: TownOfLight.webp
 video: https://www.youtube.com/embed/Wg3ji0yw6hM
 author: Emily Tang
-categories: [horror, "walking sim", review, story]
+categories: [horror, "walking sim", "#tbt", review, story]
 tags: ["Town of Light", psychological, "mental health"]
 ---
 

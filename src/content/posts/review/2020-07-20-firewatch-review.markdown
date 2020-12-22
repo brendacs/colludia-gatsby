@@ -10,7 +10,7 @@ releaseDate: 2016-02-09
 image: Firewatch.webp
 video: https://www.youtube.com/embed/d02lhvvVSy8
 author: Moses Concha
-categories: [adventure, atmospheric, mystery, review, story]
+categories: [adventure, atmospheric, mystery, "#tbt", review, story]
 tags: [firewatch, "campo santo", first-person, character-driven, forest, funny]
 ---
 

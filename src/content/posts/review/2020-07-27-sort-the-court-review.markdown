@@ -9,7 +9,7 @@ date: 2020-07-27
 releaseDate: 2015-12-14
 image: SortTheCourt.webp
 author: Devon Huge
-categories: [simulation, "not story", review]
+categories: [simulation, "not story", "#tbt", review]
 tags:
   [
     "Sort the Court",

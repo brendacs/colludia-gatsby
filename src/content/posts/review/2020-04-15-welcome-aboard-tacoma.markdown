@@ -10,7 +10,7 @@ releaseDate: 2017-08-02
 image: tacoma.webp
 video: https://www.youtube.com/embed/7QrjsQaKG3c
 author: Emily Tang
-categories: ["walking sim", review, story]
+categories: ["walking sim", "#tbt", review, story]
 tags: [tacoma, "sci fi", "narrative driven", exploration, fullbright]
 ---
 

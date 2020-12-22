@@ -17,7 +17,9 @@
   &.about,
   &.contact,
   &.subscribe,
-  &.author {
+  &.author,
+  .genres,
+  .all-categories {
     background-color: $site-font-color;
     color: $site-darkmode-font-color;
   }

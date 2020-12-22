@@ -10,7 +10,7 @@ releaseDate: 2015-11-20
 image: EmilyIsAway.webp
 video: https://www.youtube.com/embed/LHpf9k1O01c
 author: Emily Tang
-categories: ["visual novel", text-based, review, story]
+categories: ["visual novel", text-based, "#tbt", review, story]
 tags: ["Emily is Away", relatable, retro, messaging, coming-of-age]
 ---
 

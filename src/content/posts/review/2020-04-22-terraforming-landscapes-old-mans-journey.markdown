@@ -10,7 +10,7 @@ releaseDate: 2017-05-17
 image: OldMansJourney.webp
 video: https://www.youtube.com/embed/tJ29Ql3xDhY
 author: Brenda Zhang
-categories: [puzzle, adventure, review, story]
+categories: [puzzle, adventure, "#tbt", review, story]
 tags: ["Old Man's Journey", "Broken Rules", landscapes]
 ---
 
