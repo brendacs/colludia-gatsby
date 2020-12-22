@@ -42,12 +42,14 @@ function SEO({ lang, meta, title, description, author, image, page, type }) {
   const metaType = type || "website"
 
   // convert image extension from webp -> png
-  let imageStrings = image.split(".")
-  let imagePath = imageStrings[0]
-  let ext = imageStrings[1]
+  if (image) {
+    let imageStrings = image.split(".")
+    let imagePath = imageStrings[0]
+    let ext = imageStrings[1]
 
-  if (ext === "webp") {
-    image = imagePath + ".png"
+    if (ext === "webp") {
+      image = imagePath + ".png"
+    }
   }
 
   const metaImage = `https://colludia.com/images/${
