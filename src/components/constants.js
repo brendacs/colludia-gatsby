@@ -49,7 +49,7 @@ export const genresPageArticleTypeDropdownOptions = [
   { value: "all", label: "All article types" },
   { value: "demo", label: "Demo" },
   { value: "interview", label: "Interview" },
-  { value: "picks", label: "Our Picks" },
+  { value: "our picks", label: "Our Picks" },
   { value: "opinion", label: "Opinion" },
   { value: "review", label: "Review" },
   { value: "spotlight", label: "Spotlight" },
