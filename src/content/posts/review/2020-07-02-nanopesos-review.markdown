@@ -8,7 +8,7 @@ tagline: "Nanopesos review: This budget management game is short, but makes play
 date: 2020-07-02
 releaseDate: 2019-11-05
 image: Nanopesos.webp
-video:
+video: https://www.youtube.com/embed/mrwBGiuTNdw
 author: Brenda Zhang
 categories: [management, review, story]
 tags:

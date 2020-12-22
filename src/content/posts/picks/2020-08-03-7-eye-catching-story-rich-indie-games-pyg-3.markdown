@@ -7,7 +7,7 @@ tagline: "It takes a lot of effort and heart to create indie games, and we know 
 date: 2020-08-03
 releaseDate:
 image: 7eyecatchingindiegamesPYG.webp
-video:
+video: https://www.youtube.com/embed/3NKYq1MAbSs
 author: Brenda Zhang
 categories:
   [adventure, rpg, simulation, mystery, platformer, horror, "our picks", story]

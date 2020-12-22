@@ -7,7 +7,7 @@ tagline: "There’s enough pressure from having to deal with angry customers, un
 date: 2020-08-05
 releaseDate:
 image: DifficultyDifficultGames.webp
-video:
+video: https://www.youtube.com/embed/YSpo2VvN0SM
 author: Warren Lee
 categories:
   [adventure, rpg, simulation, point-and-click, mystery, "opinion", story]

@@ -2,7 +2,7 @@
   background-color: #fff;
   display: flex;
   flex-direction: column;
-  margin-bottom: 10px;
+  padding-bottom: 10px;
 
   .post-video-iframe {
     position: sticky;
@@ -16,6 +16,9 @@
     background-color: white;
     display: flex;
     align-items: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 
     &:hover {
       cursor: pointer;
@@ -40,7 +43,7 @@
       width: 70px;
       height: 50px;
       background-color: lighten($site-font-color, 10%);
-      position: absolute;
+      position: relative;
       left: 50%;
       margin: -35px;
       border-radius: 15px;
@@ -256,7 +259,7 @@
     margin: 10px 0;
     max-width: 1104px;
     background-color: #fff;
-    padding: 40px;
+    padding: 40px 40px 0 40px;
     border-radius: 5px;
 
     @media screen and (max-width: 768px) {

@@ -7,7 +7,7 @@ tagline: "These 9 visually appealing games are beautiful in more than one way—
 date: 2020-08-27
 releaseDate:
 image: 9HeartwarmingGames.webp
-video:
+video: https://www.youtube.com/embed/6UjqRPbYCIU
 author: Brenda Zhang
 categories: [adventure, rpg, platformer, "visual novel", "our picks", story]
 tags: [beautiful, heartwarming]

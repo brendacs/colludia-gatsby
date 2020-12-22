@@ -8,7 +8,7 @@ tagline: "While none of these games are out yet, the demos will surely tide you 
 date: 2020-09-30
 releaseDate:
 image: 5NarrativePixelArtGamesDemos.webp
-video:
+video: https://www.youtube.com/embed/ciD0p3h72KM
 author: Brenda Zhang
 categories:
   [adventure, point-and-click, platformer, simulation, "our picks", story]
