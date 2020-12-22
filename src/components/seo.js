@@ -39,10 +39,18 @@ function SEO({ lang, meta, title, description, author, image, page, type }) {
   const metaDescription =
     description || pageDescription || site.siteMetadata.description
   const metaAuthor = author || site.siteMetadata.author
-  const metaImage = `https://colludia.com/images/${
+  let metaImage = `https://colludia.com/images/${
     image || "colludia-banner-big.webp"
   }`
   const metaType = type || "website"
+
+  let imageStrings = metaImage.split(".")
+  let imagePath = imageStrings[1]
+  let ext = imageStrings[2]
+
+  if (ext === "webp") {
+    metaImage = imagePath + ".png"
+  }
 
   return (
     <Helmet
