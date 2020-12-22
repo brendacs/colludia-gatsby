@@ -32,6 +32,7 @@ const PostTemplate = ({ data }) => {
   const minutes = parseInt((text.split(" ").length * 2) / 500) + 1
 
   const [linkCopied, setLinkCopied] = useState(false)
+  const [playing, setPlaying] = useState(false)
 
   // Cleans out the html tag for game title
   const cleanTitle =
@@ -207,18 +208,28 @@ const PostTemplate = ({ data }) => {
           spellCheck="false"
           readOnly
         />
-        {video && (
-          <div className="post-video-iframe" id="youtube">
-            <div className="play">
-              <div className="triangle"></div>
-            </div>
-            <img
-              alt="custom youtube video thumbnail with game screenshot"
-              className="post-video-iframe-image"
-              src={require(`../../../images/headers/small/${image}`)}
-            />
-          </div>
-        )}
+        <div className="post-video-iframe" id="youtube">
+          {!playing ? (
+            <>
+              <div className="play" onClick={() => setPlaying(true)}>
+                <div className="triangle"></div>
+              </div>
+              <img
+                alt="custom youtube video thumbnail with game screenshot"
+                className="post-video-iframe-image"
+                src={require(`../../../images/headers/small/${image}`)}
+              />
+            </>
+          ) : (
+            <iframe
+              class="post-video-iframe"
+              src={`${video}?autoplay=1&modestbranding=1`}
+              frameborder="0"
+              allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; autoplay"
+              allowfullscreen
+            ></iframe>
+          )}
+        </div>
       </main>
     </>
   )
