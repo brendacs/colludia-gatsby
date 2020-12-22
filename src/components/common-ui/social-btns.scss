@@ -8,7 +8,7 @@
 
   a {
     @include short-transition;
-    color: #FFF;
+    color: #fff;
     width: 40px;
     height: 40px;
     border-radius: 50%;
@@ -22,23 +22,23 @@
     }
 
     &.twitter {
-      background-color: #1DA1F2;
+      background-color: #1da1f2;
 
       &:hover {
-        background-color: darken(#1DA1F2, 10%);
+        background-color: darken(#1da1f2, 10%);
       }
     }
 
     &.instagram {
-      background-color: #E4405F;
+      background-color: #e4405f;
 
       &:hover {
-        background-color: darken(#E4405F, 10%);
+        background-color: darken(#e4405f, 10%);
       }
     }
 
     &.ko-fi {
-      background-color: #28A6DA;
+      background-color: #28a6da;
 
       img {
         width: 60%;
@@ -46,24 +46,24 @@
       }
 
       &:hover {
-        background-color: darken(#28A6DA, 10%);
+        background-color: darken(#28a6da, 10%);
       }
     }
 
     &.discord {
-      background-color: #7289DA;
+      background-color: #7289da;
 
       img {
         width: 60%;
       }
 
       &:hover {
-        background-color: darken(#7289DA, 10%);
+        background-color: darken(#7289da, 10%);
       }
     }
 
     &.steam {
-      background-color: #1B3553;
+      background-color: #1b3553;
 
       img {
         width: 100%;
@@ -71,20 +71,20 @@
       }
 
       &:hover {
-        background-color: darken(#1B3553, 10%);
+        background-color: darken(#1b3553, 10%);
       }
     }
 
     &.patreon {
-      background-color: #F96855;
+      background-color: #f96855;
 
       img {
         width: 80%;
-        border-radius: 50%
+        border-radius: 50%;
       }
 
       &:hover {
-        background-color: darken(#F96855, 10%);
+        background-color: darken(#f96855, 10%);
       }
     }
 

@@ -4,6 +4,7 @@ import { graphql, Link } from "gatsby"
 import { Disqus } from "gatsby-plugin-disqus"
 import Tag from "../../common-ui/tag"
 import QuickSummary from "./quick-summary"
+import PostButtons from "./post-buttons"
 import "./post.scss"
 
 const copyLink = () => {
@@ -48,6 +49,12 @@ const PostTemplate = ({ data }) => {
     title: cleanTitle,
   }
 
+  const onClickCopyLink = () => {
+    copyLink()
+    setLinkCopied(true)
+    setTimeout(() => setLinkCopied(false), 3000)
+  }
+
   return (
     <>
       <SEO
@@ -68,52 +75,12 @@ const PostTemplate = ({ data }) => {
             </div>
           </header>
           <div className="article-wrapper">
-            <div className="share-buttons vertical">
-              <a
-                href={`https://twitter.com/intent/tweet?text=Check%20out%20this%20article%20on%20%40Colludia%21&url=https://colludia.com${slug}`}
-                name="share on twitter"
-              >
-                <img
-                  alt="twitter logo"
-                  src={require("../../../images/twitter.svg")}
-                />
-              </a>
-              <a
-                href={`https://facebook.com/sharer.php?u=https://colludia.com${slug}`}
-                name="share on facebook"
-              >
-                <img
-                  alt="facebook logo"
-                  src={require("../../../images/facebook.svg")}
-                />
-              </a>
-              <div className="share-link-wrapper">
-                <div className={`tooltip ${linkCopied ? "" : "hide"}`}>
-                  Copied!
-                </div>
-                <a
-                  onClick={() => {
-                    copyLink()
-                    setLinkCopied(true)
-                    setTimeout(() => setLinkCopied(false), 3000)
-                  }}
-                  className="share-link"
-                  name="copy link to article to share"
-                >
-                  <img alt="link" src={require("../../../images/link.svg")} />
-                </a>
-              </div>
-              <a
-                className="jump-comments"
-                href="#disqus_thread"
-                name="jump to comments"
-              >
-                <img
-                  alt="conment speech bubble"
-                  src={require("../../../images/comment.svg")}
-                />
-              </a>
-            </div>
+            <PostButtons
+              slug={slug}
+              type="vertical"
+              linkCopied={linkCopied}
+              onClickCopyLink={onClickCopyLink}
+            />
             <div className="article">
               <article>
                 <div className="post-page-info">
@@ -133,45 +100,12 @@ const PostTemplate = ({ data }) => {
                     <p>{date}</p>
                     <p className="minute-estimate">{minutes} minute read</p>
                   </div>
-                  <div className="share-buttons horizontal">
-                    <a
-                      href={`https://twitter.com/intent/tweet?text=Check%20out%20this%20article%20on%20Colludia%21&url=https://colludia.com${slug}`}
-                      name="share on twitter"
-                    >
-                      <img
-                        alt="twitter logo"
-                        src={require("../../../images/twitter.svg")}
-                      />
-                    </a>
-                    <a
-                      href={`https://facebook.com/sharer.php?u=https://colludia.com${slug}`}
-                      name="share on facebook"
-                    >
-                      <img
-                        alt="facebook logo"
-                        src={require("../../../images/facebook.svg")}
-                      />
-                    </a>
-                    <div className="share-link-wrapper">
-                      <div className={`tooltip ${linkCopied ? "" : "hide"}`}>
-                        Copied!
-                      </div>
-                      <a
-                        onClick={() => {
-                          copyLink()
-                          setLinkCopied(true)
-                          setTimeout(() => setLinkCopied(false), 3000)
-                        }}
-                        className="share-link"
-                        name="copy link to article to share"
-                      >
-                        <img
-                          alt="link"
-                          src={require("../../../images/link.svg")}
-                        />
-                      </a>
-                    </div>
-                  </div>
+                  <PostButtons
+                    slug={slug}
+                    type="horizontal"
+                    linkCopied={linkCopied}
+                    onClickCopyLink={onClickCopyLink}
+                  />
                 </div>
                 {postType.includes("review") && <QuickSummary data={data} />}
                 <div

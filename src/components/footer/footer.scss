@@ -1,67 +1,64 @@
 .footer {
-	background-color: $site-font-color;
-	display: flex;
-	flex-direction: row;
-	justify-content: space-around;
-	align-items: center;
-	padding: 50px 5vw;
-	min-height: 20vh;
+  background-color: $site-font-color;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  padding: 50px 5vw;
+  min-height: 20vh;
 
-	&-links-wrapper {
-		display: flex;
+  &-links-wrapper {
+    display: flex;
 
-		@media screen and (max-width: 768px) {
-			flex-direction: column;
-		}
-	}
+    @media screen and (max-width: 768px) {
+      flex-direction: column;
+    }
+  }
 
-	&-links {
-		display: flex;
-		flex-direction: column;
-		list-style-type: none;
-		margin-right: 10vw;
+  &-links {
+    display: flex;
+    flex-direction: column;
+    list-style-type: none;
+    margin-right: 10vw;
 
-		li {
-			margin: 10px 0;
-		}
+    .animated-link {
+      font-size: $text-size;
+      color: #fff;
+      margin: 15px 0;
 
-		.animated-link {
-			font-size: $text-size;
-			color: #FFF;
+      &:after {
+        background-color: #fff;
+      }
 
-			&:after {
-				background-color: #FFF;
-			}
+      @media screen and (max-width: 425px) {
+        font-size: $tiny-size;
+      }
+    }
+  }
 
-			@media screen and (max-width: 425px) {
-				font-size: $tiny-size;
-			}
-		}
-	}
+  .subscribe-button {
+    @include primary-button;
+  }
 
-	.subscribe-button {
-		@include primary-button;
-	}
+  .footer-social {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
 
-	.footer-social {
-		display: flex;
-		flex-direction: column;
-		align-items: center;
-	}
-
-	.share-buttons {
-		@media screen and (max-width: 525px) {
-			flex-direction: column;
-		}
-	}
+  .share-buttons {
+    @media screen and (max-width: 525px) {
+      flex-direction: column;
+    }
+  }
 }
 
 .copyright {
-	font-size: $tiny-size - 4;
-	color: #FFF;
-	margin-top: 20px;
+  font-size: $tiny-size - 4;
+  color: #fff;
+  margin-top: 20px;
 
-	@media screen and (max-width: 525px) {
-		max-width: 50px;
-	}
+  @media screen and (max-width: 525px) {
+    max-width: 50px;
+  }
 }
