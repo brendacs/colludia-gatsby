@@ -11,17 +11,8 @@ import {
   getDropdownOptionsFromCategories,
 } from "../constants"
 import "./rendered-posts.scss"
-import "./genres.scss"
 
-const RenderedPosts = ({
-  data,
-  page,
-  author,
-  categories,
-  // tags,
-  sortable,
-  limit,
-}) => {
+const RenderedPosts = ({ data, page, author, categories, sortable, limit }) => {
   const [dateSortType, setDateSortType] = useState("publishDate")
   const [genreFilter, setGenreFilter] = useState("all")
   let count = 0

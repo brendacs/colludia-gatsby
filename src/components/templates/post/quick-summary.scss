@@ -8,7 +8,7 @@
   top: 0;
 
   #quick-summary-heading {
-    margin: 0 0 20px 0 !important;
+    margin: 0 0 20px 0;
 
     @media screen and (max-width: 425px) {
       font-size: $mobile-heading-size - 10;
@@ -24,9 +24,7 @@
   #quick-summary-image {
     width: 175px;
     height: 100%;
-    margin: 0;
-    margin-right: 20px;
-    margin-left: 20px;
+    margin: 0 20px;
   }
 
   .text {
@@ -42,24 +40,6 @@
       font-weight: 600;
       font-size: $tiny-size;
     }
-  }
-
-  blockquote {
-    border-left: 2px solid $site-font-color;
-    padding: 0 10px;
-    font-size: $tiny-size;
-
-    &:before {
-      content: "“ ";
-    }
-
-    &:after {
-      content: " ”";
-    }
-  }
-
-  span {
-    font-weight: 600;
   }
 
   @media screen and (max-width: 768px) {

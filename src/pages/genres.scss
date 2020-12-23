@@ -50,7 +50,7 @@
       font-size: $text-size;
     }
 
-    @media screen and (max-width: 1000px) {
+    @media screen and (max-width: 768px) {
       font-size: $subtitle-size - 2;
     }
   }

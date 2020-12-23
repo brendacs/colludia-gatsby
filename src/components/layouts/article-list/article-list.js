@@ -4,7 +4,6 @@ import React from "react"
 import FeaturedPost from "./featured-post"
 import Posts from "./posts"
 import { pageDescriptions } from "../../constants"
-import "./article-list.scss"
 
 const ArticleList = ({
   featuredPost,

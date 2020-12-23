@@ -2,7 +2,7 @@
   @include secondary-font;
   display: inline-block;
   font-size: $tiny-size;
-  color: #FFF;
+  color: #fff;
   border-radius: 5px;
   padding: 2px 5px;
   width: auto;
@@ -13,7 +13,7 @@
 
 .random {
   &.tag:nth-child(1n) {
-    background-color: darken($site-gray, 9%);
+    background-color: darken($site-gray, 10%);
   }
 
   &.tag:nth-child(2n) {
@@ -26,14 +26,6 @@
 
   &.tag:nth-child(4n) {
     background-color: darken($site-gray, 15%);
-  }
-
-  &.tag:nth-child(5n) {
-    background-color: darken($site-gray, 5%);
-  }
-
-  &.tag:nth-child(6n) {
-    background-color: darken($site-gray, 13%);
   }
 }
 

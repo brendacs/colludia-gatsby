@@ -136,7 +136,7 @@ const PostTemplate = ({ data }) => {
         <input
           type="text"
           value={`https://colludia.com${slug}`}
-          className="share-link-text invisible-input"
+          className="share-link-text"
           id="invisible-input"
           autoCorrect="off"
           spellCheck="false"

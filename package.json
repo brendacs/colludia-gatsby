@@ -2,7 +2,7 @@
   "name": "colludia-gatsby",
   "private": true,
   "description": "Colludia is an indie gaming website focused on games with stories to tell and the developers behind them",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "author": "Brenda Zhang <brenda.zhang2@gmail.com>",
   "dependencies": {
     "gatsby": "^2.24.91",
@@ -50,9 +50,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/brendacs/colludia-gatsby"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/brendacs/colludia-gatsby/issues"
   }
 }

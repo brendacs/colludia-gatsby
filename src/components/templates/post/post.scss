@@ -13,9 +13,6 @@
     bottom: 10px;
     right: 10px;
     align-self: flex-end;
-    background-color: white;
-    display: flex;
-    align-items: center;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -58,7 +55,7 @@
         height: 0;
         border-style: solid;
         border-width: 10px 0 10px 18px;
-        border-color: transparent transparent transparent #ffffff;
+        border-color: transparent transparent transparent #fff;
         margin-left: 3px;
       }
     }
@@ -179,6 +176,17 @@
       margin: 40px 5vw 0 -5vw;
     }
 
+    a {
+      width: 35px;
+      height: 35px;
+      margin: 12px 0;
+      background-color: $site-brand-color;
+
+      img {
+        width: 50%;
+      }
+    }
+
     &.vertical {
       a {
         opacity: 1;
@@ -206,24 +214,6 @@
 
       @media screen and (min-width: 769px) {
         display: none;
-      }
-    }
-
-    a {
-      @include short-transition;
-      color: #fff;
-      width: 35px;
-      height: 35px;
-      border-radius: 50%;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      margin: 12px 0;
-      background-color: $site-brand-color;
-
-      img {
-        width: 50%;
-        margin-bottom: 0;
       }
     }
 
@@ -372,19 +362,25 @@
   }
 
   .sponsor-blurb {
-    font-size: $text-size;
     margin-bottom: 30px;
   }
+}
 
-  #disqus_thread {
-    margin-bottom: -150px;
+#disqus_thread {
+  margin-bottom: -150px;
 
-    @media screen and (max-width: 1024px) {
-      margin-bottom: 0;
-    }
-
-    a {
-      color: $site-brand-color !important;
-    }
+  @media screen and (max-width: 1024px) {
+    margin-bottom: 0;
   }
+
+  a {
+    color: $site-brand-color !important;
+  }
+}
+
+#invisible-input {
+  opacity: 0;
+  max-width: 10px;
+  max-height: 10px;
+  cursor: default;
 }

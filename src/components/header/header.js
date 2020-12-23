@@ -7,31 +7,6 @@ import DropdownNav from "./dropdown-nav"
 const Header = ({ siteTitle }) => {
   const [showDropdownNav, setShowDropdownNav] = useState(false)
 
-  // Below is code to hide dropdown nav on scroll, but not using this UX for now
-
-  // let throttleTimeout = null
-
-  // const hideDropdownNavOnScroll = () => {
-  //   setShowDropdownNav(false)
-  //   throttleTimeout = null
-  // }
-
-  // useLayoutEffect(() => {
-  //   const handleScroll = () => {
-  //     if (wait) {
-  //       if (throttleTimeout === null) {
-  //         setTimeout(hideDropdownNavOnScroll, wait)
-  //       }
-  //     } else {
-  //       hideDropdownNavOnScroll()
-  //     }
-  //   }
-
-  //   window.addEventListener('scroll', handleScroll)
-
-  //   return () => window.removeEventListener('scroll', handleScroll)
-  // })
-
   return (
     <header>
       <nav className="main-nav">

@@ -33,7 +33,7 @@ const Layout = ({ children }) => {
     <div id={darkmode ? "darkmode" : "lightmode"}>
       <Header siteTitle={data.site.siteMetadata?.title || `Title`} />
       <LayeredNav darkmode={darkmode} setDarkmode={setDarkmode} />
-      <main className="content">{children}</main>
+      <main>{children}</main>
       <Footer />
     </div>
   )

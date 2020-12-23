@@ -1,6 +1,7 @@
 import React from "react"
 import SEO from "../components/seo"
 import ArticleList from "../components/layouts/article-list/article-list"
+import "./genres.scss"
 
 const GenresPage = ({ data }) => (
   <>

@@ -1,33 +1,22 @@
 #darkmode {
-  background-color: $site-font-color;
-  color: $site-darkmode-font-color;
-
-  * {
-    ::selection {
-      background: $site-brand-color;
-    }
-  }
-}
-
-#darkmode {
-  .content {
-    background-color: $site-font-color;
-  }
-
+  &,
   &.about,
   &.contact,
   &.subscribe,
   &.author,
+  .author-posts,
+  .steam-keys,
   .genres,
-  .all-categories {
+  .all-categories,
+  .featured,
+  .posts-container,
+  .post-page,
+  .post-main,
+  .article,
+  .main-nav-logo .name,
+  input {
     background-color: $site-font-color;
     color: $site-darkmode-font-color;
-  }
-
-  &.author {
-    &-posts {
-      background-color: $site-font-color;
-    }
   }
 
   .main-nav,
@@ -36,16 +25,7 @@
     background-color: $site-font-color;
   }
 
-  .main-nav-logo .name {
-    color: $site-darkmode-font-color;
-  }
-
   .layered-nav-item {
-    color: $site-darkmode-font-color;
-  }
-
-  input {
-    background-color: $site-font-color;
     color: $site-darkmode-font-color;
   }
 
@@ -59,7 +39,7 @@
       }
     }
 
-    ul li a {
+    ul a {
       color: $site-darkmode-font-color;
     }
   }
@@ -70,10 +50,6 @@
     &:before {
       content: "★ LIGHT ";
     }
-  }
-
-  .featured {
-    background: $site-font-color;
   }
 
   .featured-icon {
@@ -107,64 +83,23 @@
       );
   }
 
-  .post-main {
-    background-color: $site-font-color;
-    color: $site-darkmode-font-color;
-
-    .post-video-iframe {
-      background-color: $site-font-color;
-    }
+  .post-page blockquote {
+    border-left: 2px solid $site-gray;
   }
 
-  .post-page {
-    background-color: $site-font-color;
-    color: $site-darkmode-font-color;
-
-    blockquote {
-      border-left: 2px solid $site-gray;
-    }
+  span.blue-q {
+    color: $site-brand-color;
   }
 
-  .article {
-    background-color: $site-font-color;
-
-    span.blue-q {
-      color: $site-brand-color;
-    }
-  }
-
-  .post-page-details {
-    p:after {
-      color: $site-darkmode-font-color;
-    }
-  }
-
-  .quick-summary {
-    background-color: $site-darkmode-gray;
-    color: $site-darkmode-font-color;
-  }
-
-  .posts-container,
-  .author-posts {
-    background-color: $site-font-color;
-  }
-
-  .footer {
-    background-color: $site-darkmode-gray;
-
-    &-links {
-      list-style-type: none;
-    }
-  }
-
-  .steam-keys {
-    background-color: $site-font-color;
-  }
-
+  .post-page-details p:after,
+  .quick-summary,
+  .footer,
   .key {
     background-color: $site-darkmode-gray;
     color: $site-darkmode-font-color;
+  }
 
+  .key {
     &-title {
       color: $site-darkmode-font-color;
     }
@@ -194,27 +129,5 @@
 
   .substack-iframe {
     background-color: lighten($site-darkmode-font-color, 10%);
-  }
-
-  /* Amazon ad overrides for darkmode */
-  div#amzn-native-ad-0 div.amzn-native-product,
-  .amzn-native-product-title-text,
-  .amzn-native-product-image-container,
-  .amzn-native-product-image-holder,
-  .amzn-native-product-subtitle,
-  .amzn-native-product-offer-price,
-  .amzn-native-product-rating-text,
-  .amzn-native-da-adchoices-link,
-  .amzn-sprite.amzn-native-da-adchoices,
-  .amzn-sprite.amzn-native-product-ad-notification,
-  .amzn-native-product-ad-notification-tooltip,
-  .amzn-native-product-ad-notification-text,
-  .amzn-native-product-additional-info-menu-overlay {
-    background-color: $site-font-color !important;
-    color: $site-darkmode-font-color !important;
-
-    &:hover {
-      color: darken($site-darkmode-font-color, 10%) !important;
-    }
   }
 }

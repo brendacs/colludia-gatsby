@@ -1,3 +1,5 @@
+@import "../components/common-ui/share-buttons.scss";
+
 html,
 body {
   height: auto;
@@ -7,12 +9,6 @@ body {
   min-width: 320px;
 
   /* don't use overflow or stick won't work */
-}
-
-* {
-  ::selection {
-    background: $site-text-highlight;
-  }
 }
 
 h1,
@@ -34,7 +30,8 @@ p,
 a,
 li,
 label,
-span {
+span,
+blockquote {
   @include primary-font;
 }
 
@@ -50,22 +47,6 @@ li {
   line-height: 1.75;
 }
 
-@media screen and (max-width: 1024px) {
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
-    @include header-font;
-  }
-
-  p,
-  a {
-    @include primary-font;
-  }
-}
-
 ul {
   list-style-position: inside;
   line-height: 1.5;
@@ -78,7 +59,6 @@ input[type="search"] {
 }
 
 blockquote {
-  @include primary-font;
   line-height: 1.5;
   border-left: 2px solid $site-font-color;
   padding: 0 10px;
@@ -110,13 +90,6 @@ blockquote {
   font-weight: 600;
 }
 
-.invisible-input {
-  opacity: 0;
-  max-width: 10px;
-  max-height: 10px;
-  cursor: default;
-}
-
 .game-title {
   font-style: italic;
 }
@@ -128,10 +101,6 @@ blockquote {
 
   &:after {
     @include link-animation-start;
-    position: absolute;
-    bottom: 2px;
-    left: 0;
-    opacity: 0.5;
   }
 
   &:hover:after {
