@@ -74,3 +74,48 @@ export const getDropdownOptionsFromCategories = categories => {
   })
   return options
 }
+
+export const keyInfo = {
+  partner: {
+    subtitle:
+      "Shop with our link on Humble Bundle to find these keys in sales and bundles starting at $1.",
+    socialButton: {
+      image: "humble.webp",
+      text: "View on Humble",
+      link: "https://www.humblebundle.com/games/?partner=colludia",
+    },
+    viewButton: {
+      text: "View on Humble",
+    },
+  },
+  subscriber: {
+    subtitle:
+      "Subscribe to our newsletter to automatically be entered into the monthly subscriber-only giveaway!",
+    socialButton: {
+      image: "email.svg",
+      text: "Subscribe",
+      link: "/subscribe",
+    },
+    viewButton: {
+      text: "View on Humble",
+    },
+  },
+  twitter: {
+    subtitle:
+      'Retweet an article on Twitter, like and follow <a class="animated-link" href="https://twitter.com/colludia">@Colludia</a> for a chance to get this key!',
+    socialButton: {
+      image: "twitter.svg",
+      text: "Follow",
+      link: "https://twitter.com/colludia",
+    },
+    viewButton: {
+      text: "View on Humble",
+    },
+  },
+  used: {
+    subtitle: "This key has already been claimed.",
+    viewButton: {
+      text: "View on Humble",
+    },
+  },
+}

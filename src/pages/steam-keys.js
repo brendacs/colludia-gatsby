@@ -1,8 +1,8 @@
 import React from "react"
 import SEO from "../components/seo"
 import Tag from "../components/common-ui/tag"
-import { steamKeys, keyInfo } from "../data/steam-keys"
-// import "../components/templates/info/info.scss"
+import { steamKeys } from "../data/steam-keys"
+import { keyInfo } from "../components/constants"
 import "./steam-keys.scss"
 
 const KeysPage = () => (
