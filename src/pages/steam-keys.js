@@ -12,7 +12,7 @@ const KeysPage = () => (
       <div className="key-heading-wrapper">
         <h1 className="description bold">Monthly Steam Key Giveaway</h1>
         <a
-          href="https://www.humblebundle.com/games/?partner=colludia"
+          href="https://www.humblebundle.com/games/?partner=indiestorygames"
           name="navigate to humble bundle"
         >
           <img

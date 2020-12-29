@@ -13,7 +13,7 @@ const NotFoundPage = () => (
       <h1 className="error-title">404</h1>
       <p>Uh oh, page not found! :(</p>
       <img
-        alt="colludia logo"
+        alt="indie story games logo"
         className="error-image"
         src={require("../images/gamepad-book-square.webp")}
       />

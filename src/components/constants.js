@@ -82,7 +82,7 @@ export const keyInfo = {
     socialButton: {
       image: "humble.webp",
       text: "View on Humble",
-      link: "https://www.humblebundle.com/games/?partner=colludia",
+      link: "https://www.humblebundle.com/games/?partner=indiestorygames",
     },
     viewButton: {
       text: "View on Humble",

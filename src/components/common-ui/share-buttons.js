@@ -12,21 +12,21 @@ const SocialButtons = () => (
     <a
       className="twitter"
       href="https://twitter.com/indiestorygames"
-      name="colludia twitter"
+      name="indie story games twitter"
     >
       <img alt="twitter logo" src={require("../../images/twitter.svg")} />
     </a>
     <a
       className="patreon"
       href="https://patreon.com/indiestorygames"
-      name="colludia patreon"
+      name="indie story games patreon"
     >
       <img alt="patreon logo" src={require("../../images/patreon.webp")} />
     </a>
     <a
       className="discord"
       href="https://discord.gg/PG2qkZf"
-      name="colludia discord server"
+      name="indie story games discord server"
     >
       <img alt="discord logo" src={require("../../images/discord.webp")} />
     </a>

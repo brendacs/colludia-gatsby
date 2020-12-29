@@ -11,9 +11,9 @@ const Header = ({ siteTitle }) => {
     <header>
       <nav className="main-nav">
         <div className="main-nav-navigation">
-          <Link className="main-nav-logo" to="/" name="colludia home">
+          <Link className="main-nav-logo" to="/" name="indie story games home">
             <img
-              alt="colludia logo"
+              alt="indie story games logo"
               src={require("../../images/gamepad-book.webp")}
             />
             <h1 className="name">{siteTitle}</h1>

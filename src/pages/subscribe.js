@@ -11,7 +11,7 @@ const SubscribePage = () => (
           <h1>Subscribe</h1>
           <h2>
             Receive{" "}
-            <a href="https://colludia.substack.com/archives">
+            <a href="https://indiestorygames.substack.com/archives">
               monthly newsletters
             </a>{" "}
             with the most recent articles and get access to the subscriber-only
@@ -26,7 +26,7 @@ const SubscribePage = () => (
           <p className="subtitle-paragraph">
             Don't worry&mdash;monthly means monthly, so we won't spam you. To
             check out our previous issues, view them in our{" "}
-            <a href="https://colludia.substack.com/archives">
+            <a href="https://indiestorygames.substack.com/archives">
               newsletter archive
             </a>
             . To stay updated on a more frequent basis,{" "}
@@ -39,7 +39,7 @@ const SubscribePage = () => (
             title="Substack"
             loading="lazy"
             className="substack-iframe"
-            src="https://colludia.substack.com/embed"
+            src="https://indiestorygames.substack.com/embed"
             frameBorder="0"
             scrolling="no"
           ></iframe>

@@ -8,7 +8,7 @@
   Indie Story Games
 </h1>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/79bdf29b-60ff-44a4-b5d9-cd6c640dc765/deploy-status)](https://app.netlify.com/sites/colludia/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/79bdf29b-60ff-44a4-b5d9-cd6c640dc765/deploy-status)](https://app.netlify.com/sites/indiestorygames/deploys)
 
 Indie Story Games, the story-rich indie games website built with Gatsby on Netlify.
 
@@ -82,4 +82,4 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 We use Netlify for continuous deployment. When changes are pushed to master, Netlify automatically starts a deploy. Check on deploy statuses in the dashboard.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/sites/colludia/deploys)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/sites/indiestorygames/deploys)
