@@ -13,7 +13,7 @@ categories: [adventure, events, "opinion", story]
 tags: ["Gamescom", "Indie Arena Booth"]
 ---
 
-My fellow writer [Emily](https://colludia.com/author/emily) and I were planning on going to many game conferences and conventions this summer, but obviously our plans couldn't come to fruition with COVID-19 making it completely unreasonable to hold large events. However, digital cons like [Indie Arena Booth](https://indiearenabooth.de/gamescom2020/games), created in playable MMORPG fashion, were the next best thing and still very much worth the experience. The team of developers that built Indie Arena Booth from scratch in just a few months deserve all the praise for making a whole game with a huge map of booths that we were able to roam.
+My fellow writer [Emily](https://indiestorygames.com/author/emily) and I were planning on going to many game conferences and conventions this summer, but obviously our plans couldn't come to fruition with COVID-19 making it completely unreasonable to hold large events. However, digital cons like [Indie Arena Booth](https://indiearenabooth.de/gamescom2020/games), created in playable MMORPG fashion, were the next best thing and still very much worth the experience. The team of developers that built Indie Arena Booth from scratch in just a few months deserve all the praise for making a whole game with a huge map of booths that we were able to roam.
 
 While Emily and I couldn't do in-person photo ops, we visited dozens of booths in-game and took plenty of photos of our experience as if we were actually there together—because we were, in spirit and in a Discord call.
 

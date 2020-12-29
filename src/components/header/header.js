@@ -16,10 +16,8 @@ const Header = ({ siteTitle }) => {
               alt="colludia logo"
               src={require("../../images/gamepad-book.webp")}
             />
-            <h1 className="name">
-              {siteTitle}
-              <span className="long-title"> Indie Games With a Story</span>
-            </h1>
+            <h1 className="name">{siteTitle}</h1>
+            <h1 className="name short-title">ISG</h1>
           </Link>
         </div>
 

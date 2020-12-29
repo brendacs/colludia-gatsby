@@ -102,7 +102,7 @@ These will be predefined actions that you can use at certain moments in the game
 
 **Daniel:** Through the story of the game. Although, we have a main plot around a worldwide war conflict and the mysteries of Atlantis. All the storytelling is about the ability of the protagonist, Jules Verne, to tell those stories and how those characters, like Captain Nemo, live beyond their works, they become immortal and to this day, they are part of our society.
 
-<span class="blue-q">Thank you for taking the time to sit down and answer questions with us at Colludia! Where can people follow or find you to keep up with _Verne_ updates?</span>
+<span class="blue-q">Thank you for taking the time to sit down and answer questions with us at Indie Story Games! Where can people follow or find you to keep up with _Verne_ updates?</span>
 
 **Daniel:** Thank you for the community that you are building around narrative games, and thanks for giving us the chance to talk about our project.
 

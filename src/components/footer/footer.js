@@ -8,7 +8,7 @@ const Footer = () => (
     <div className="footer-links-wrapper">
       <div className="footer-links">
         <Link className="animated-link" to="/about">
-          About Colludia
+          About Indie Story Games
         </Link>
         <Link className="animated-link" to="/contact">
           Contact Us
@@ -38,8 +38,8 @@ const Footer = () => (
     <div className="footer-social">
       <SocialButtons />
       <p className="copyright">
-        Copyright &copy; {new Date().getFullYear()} Colludia. All Rights
-        Reserved.
+        Copyright &copy; {new Date().getFullYear()} Indie Story Games. All
+        Rights Reserved.
       </p>
     </div>
   </footer>

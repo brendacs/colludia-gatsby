@@ -2,7 +2,7 @@
 pageType: info
 slug: /cookie-policy/
 title: Cookie Policy
-tagline: Colludia's Cookie Policy. Shining a spotlight on indie games and developers, whether popular or obscure.
+tagline: Indie Story Games' Cookie Policy. Shining a spotlight on indie games and developers, whether popular or obscure.
 class: md
 image: colludia-banner-big.webp
 ---
@@ -13,7 +13,7 @@ Last updated April 25, 2020
 
 ## INTRODUCTION
 
-[Colludia](https://colludia.com) (“we” or “us” or “our”) may use cookies, web beacons, tracking pixels, and other tracking technologies when you visit our website [Colludia.com](https://colludia.com), including any other media form, media channel, mobile website, or mobile application related or connected thereto (collectively, the “Site”) to help customize the Site and improve your experience.
+[Indie Story Games](indiestorygames.com) (“we” or “us” or “our”) may use cookies, web beacons, tracking pixels, and other tracking technologies when you visit our website [indiestorygames.com](indiestorygames.com), including any other media form, media channel, mobile website, or mobile application related or connected thereto (collectively, the “Site”) to help customize the Site and improve your experience.
 
 We reserve the right to make changes to this Cookie Policy at any time and for any reason. We will alert you about any changes by updating the “Last Updated” date of this Cookie Policy. Any changes or modifications will be effective immediately upon posting the updated Cookie Policy on the Site, and you waive the right to receive specific notice of each such change or modification.
 
@@ -83,4 +83,4 @@ For more information about how we use information collected by cookies and other
 
 If you have questions or comments about this Cookie Policy, please contact us at:
 
-[info@colludia.com](mailto:info@colludia.com)
+[info@indiestorygames.com](mailto:info@indiestorygames.com)

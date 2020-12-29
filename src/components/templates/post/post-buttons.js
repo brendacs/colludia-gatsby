@@ -4,13 +4,13 @@ const PostButtons = ({ type, slug, linkCopied, onClickCopyLink }) => {
   return (
     <div className={`share-buttons ${type}`}>
       <a
-        href={`https://twitter.com/intent/tweet?text=Check%20out%20this%20article%20on%20Colludia%21&url=https://colludia.com${slug}`}
+        href={`https://twitter.com/intent/tweet?text=Check%20out%20this%20article%20on%20Indie%20Story%20Games%21&url=https://indiestorygames.com${slug}`}
         name="share on twitter"
       >
         <img alt="twitter logo" src={require("../../../images/twitter.svg")} />
       </a>
       <a
-        href={`https://facebook.com/sharer.php?u=https://colludia.com${slug}`}
+        href={`https://facebook.com/sharer.php?u=https://indiestorygames.com${slug}`}
         name="share on facebook"
       >
         <img

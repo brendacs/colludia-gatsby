@@ -7,7 +7,7 @@ const NotFoundPage = () => (
   <>
     <SEO
       title="Page not found"
-      description="Page does not exist on Colludia."
+      description="Page does not exist on Indie Story Games."
     />
     <div className="error">
       <h1 className="error-title">404</h1>

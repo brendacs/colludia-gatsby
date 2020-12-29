@@ -1,14 +1,14 @@
 ---
 pageType: info
 slug: /about/
-author: Colludia Indie Gaming
+author: Indie Story Games
 title: About
 image: colludia-banner-big.webp
 ---
 
-# Welcome to Colludia
+# Welcome to Indie Story Games
 
-## An indie gaming blog focused on games with stories to tell and the developers behind them.
+## An indie gaming website focused on games with stories to tell and the developers behind them.
 
 We started as a <a href="/contact" class="animated-link">couple of friends</a> who had a slight video game addiction, particularly when it came to the story heavy gems we found in the indie game scene. Within a few months, we evolved into a larger community of diverse gamers, but with the same goal in mind as always: to bring more attention to the stories indie games, and their developers, want to tell. As such, our focus remains on narrative driven games that spark a conversation as well as spotlighting the developers and studios behind them.
 
@@ -16,7 +16,7 @@ We started as a <a href="/contact" class="animated-link">couple of friends</a> w
 
 Most of our articles will be written in a more personal manner than what you're used to seeing in reviews and game journalism these days, but will still maintain a high standard of writing. We want to start accessible and engaging discussions about the games and stories we love and the people behind them rather than chase the latest trends.
 
-Here are the types of articles you'll find on Colludia:
+Here are the types of articles you'll find on Indie Story Games:
 
 - Reviews and discussions about both old and new [story][reviews] heavy games
 - [Dev spotlights][spotlight] where we play and discuss all the games by a developer or studio we love and sometimes even interview or hold AMAs with them!
@@ -44,11 +44,8 @@ As a result, we'll need more support in other ways, such as through our [Patreon
 
 This would not be possible without our amazing staff of editors and writers! Check out their pages and contact information [here](/contact).
 
-[info]: mailto:info@colludia.com
-[request]: mailto:request@colludia.com
-[brenda-email]: mailto:brenda@colludia.com
-[emily-email]: mailto:emily@colludia.com
-[devon-email]: mailto:devon@colludia.com
+[info]: mailto:info@indiestorygames.com
+[request]: mailto:request@indiestorygames.com
 [ko-fi]: https://ko-fi.com/colludia
 [patreon]: https://patreon.com/colludia
 [spotlight]: /dev-spotlights
@@ -59,4 +56,4 @@ This would not be possible without our amazing staff of editors and writers! Che
 [youtube]: https://www.youtube.com/channel/UCGV03GbQtpPGfArbJHbZ3IQ
 [discord]: https://discord.gg/PG2qkZf
 [newsletter]: /subscribe
-[twitter]: https://twitter.com/colludia
+[twitter]: https://twitter.com/indiestorygames

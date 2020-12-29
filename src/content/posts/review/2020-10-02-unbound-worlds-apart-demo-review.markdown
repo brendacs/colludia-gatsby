@@ -110,7 +110,7 @@ Characters you get to speak to are far and few between, and those we do get to s
 
 I had almost no idea what the story was about or what threat we were even expected to thwart for most of the demo, until the end, of course. And even then, the antagonist is nothing more than a name because the player never gets to see or learn more about them. Because of this, I found myself wanting to just continue solving puzzles without worrying about the story.
 
-However, during Colludia's most recent AMA in our community Discord server, we were told they are working on the narrative as we speak, and with the help of an experienced narrative writer, [Dave Cook](https://twitter.com/davescook), on their team, there is much more story to look forward to in the near future! The game will be complete with cutscenes and lore as you unlock them through puzzles and exploration. And if you veer off the main path and to more challenging puzzles or routes less travelled, there'll be even more to learn about the characters, locations, and history of the universe of _Unbound_.
+However, during Indie Story Games' most recent AMA in our community Discord server, we were told they are working on the narrative as we speak, and with the help of an experienced narrative writer, [Dave Cook](https://twitter.com/davescook), on their team, there is much more story to look forward to in the near future! The game will be complete with cutscenes and lore as you unlock them through puzzles and exploration. And if you veer off the main path and to more challenging puzzles or routes less travelled, there'll be even more to learn about the characters, locations, and history of the universe of _Unbound_.
 
 ![][image5]
 

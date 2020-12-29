@@ -1,12 +1,12 @@
 ---
 pageType: info
 slug: /ads/
-author: Colludia Indie Gaming
+author: Indie Story Games
 title: Advertise
 image: colludia-banner-big.webp
 ---
 
-# Advertise With Colludia
+# Advertise With Indie Story Games
 
 Our website is a user-first experience. Most sites these days, especially game, blog, or news sites, have horrible user interfaces and user experience or are flooded with ads.
 
@@ -18,8 +18,8 @@ Ads and sponsored content currently can be placed at the end of articles above t
 
 Additionally, we have a newsletter with hundreds of subscribers with space for ads in the forms of both text and images. In certain cases, we can also share sponsored content with our Discord community and on our Twitter.
 
-Outside of ad space, we will also write sponsored articles in some specific cases if very closely related to the kind of topics Colludia is about and only if we genuinely stand behind the game, brand, or product.
+Outside of ad space, we will also write sponsored articles in some specific cases if very closely related to the kind of topics Indie Story Games is all about and only if we genuinely stand behind the game, brand, or product.
 
 ## Contact
 
-If you'd like to advertise with us within this model or want more information on the specifics, our policies, analytics, or anything else, please contact us at [info@colludia.com](mailto:info@colludia.com).
+If you'd like to advertise with us within this model or want more information on the specifics, our policies, analytics, or anything else, please contact us at [info@indiestorygames.com](mailto:info@indiestorygames.com).

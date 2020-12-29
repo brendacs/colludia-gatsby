@@ -1,7 +1,7 @@
 {
   "name": "colludia-gatsby",
   "private": true,
-  "description": "Colludia is an indie gaming website focused on games with stories to tell and the developers behind them",
+  "description": "Indie Story Games is an indie gaming website focused on games with stories to tell and the developers behind them",
   "version": "1.0.0",
   "author": "Brenda Zhang <brenda.zhang2@gmail.com>",
   "dependencies": {

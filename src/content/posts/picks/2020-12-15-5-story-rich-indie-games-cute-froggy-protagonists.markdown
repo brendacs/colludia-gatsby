@@ -55,7 +55,7 @@ If you want to learn more about _Frogsong_'s development and inspirations, check
 
 But I'll give you more words anyway.
 
-As someone who loves mysteries like that of [_Tangle Tower_](https://colludia.com/tangled-lives-tangle-tower/) and [_Darkside Detective_](https://colludia.com/spooky-silly-darkside-detective/), I can't believe I haven't tried [_Frog Detective_](https://frogdetective.net/) yet. This game is already available to play, and soon after I finish writing this, I am going to do just that. In _Frog Detective_, developed by Grace Bruxner and Thomas Bowker, you solves puzzles, collects evidence, and speaks to other animals to figure out mysteries and close cases.
+As someone who loves mysteries like that of [_Tangle Tower_](https://indiestorygames.com/tangled-lives-tangle-tower/) and [_Darkside Detective_](https://indiestorygames.com/spooky-silly-darkside-detective/), I can't believe I haven't tried [_Frog Detective_](https://frogdetective.net/) yet. This game is already available to play, and soon after I finish writing this, I am going to do just that. In _Frog Detective_, developed by Grace Bruxner and Thomas Bowker, you solves puzzles, collects evidence, and speaks to other animals to figure out mysteries and close cases.
 
 Better yet, there's a sequel with an even more enticing summary: "You're a detective, and a frog, and it's time to solve a mystery. Also there's a wizard."
 

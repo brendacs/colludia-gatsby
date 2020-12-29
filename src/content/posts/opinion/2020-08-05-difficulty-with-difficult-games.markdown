@@ -55,7 +55,7 @@ But that cathartic enjoyment wears out its welcome considering that our lives ar
 
 Instead, let’s seek out experiences in games that tend toward casual games but are not of the match 3 or hidden object type. May I suggest Ben Esposito’s [_Donut County_](http://donutcounty.com/)? In that game, the player drags an ever-expanding hole to swallow all manner of cute creatures and conveyances. The behavior of causing playful mischief is soothing, intriguing, and stress-reducing without having to conjure death by a thousand mistakes.
 
-Or, what about [_Old Man’s Journey_](https://colludia.com/terraforming-landscapes-old-mans-journey/)? The game is an adorable romp through the world it inhabits via a terraforming mechanic that allows the titular old man to navigate the terrain. It is breezy enough to play on a tablet and what’s more, it doesn’t have the old man running through mazes (ahem) that have progressively more and more difficult jumps like some other tablet/phone games.
+Or, what about [_Old Man’s Journey_](https://indiestorygames.com/terraforming-landscapes-old-mans-journey/)? The game is an adorable romp through the world it inhabits via a terraforming mechanic that allows the titular old man to navigate the terrain. It is breezy enough to play on a tablet and what’s more, it doesn’t have the old man running through mazes (ahem) that have progressively more and more difficult jumps like some other tablet/phone games.
 
 ![Blissful, relaxing image of the seaside from Old Man's Journey][image5]
 

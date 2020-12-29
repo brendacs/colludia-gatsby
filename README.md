@@ -1,16 +1,16 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
-  <a href="https://www.colludia.com">
-    <img alt="Colludia" src="https://github.com/brendacs/colludia-gatsby/blob/master/src/images/gamepad-book.png?raw=true" width="100" />
+  <a href="https://www.indiestorygames.com">
+    <img alt="Indie Story Games" src="https://github.com/brendacs/colludia-gatsby/blob/master/src/images/gamepad-book.png?raw=true" width="100" />
   </a>
 </p>
 <h1 align="center">
-  Colludia: Indie Games with a Story
+  Indie Story Games
 </h1>
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/79bdf29b-60ff-44a4-b5d9-cd6c640dc765/deploy-status)](https://app.netlify.com/sites/colludia/deploys)
 
-Colludia, the story-rich indie games website built with Gatsby on Netlify.
+Indie Story Games, the story-rich indie games website built with Gatsby on Netlify.
 
 ## 🚀 Quick start
 

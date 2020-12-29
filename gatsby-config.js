@@ -1,10 +1,10 @@
 module.exports = {
   siteMetadata: {
-    title: `Colludia`,
-    description: `Colludia is an indie gaming blog focused on games with stories to tell and the developers behind them.`,
-    author: `Colludia Indie Gaming`,
-    siteUrl: `https://colludia.com`,
-    description: `Colludia is an indie gaming blog focused on games with stories to tell and the developers behind them. Our favorite games are those that tell a story and start a conversation and would love to bring more attention to the stories the developers behind the games want to tell. Colludia is tailored to prioritize just that, along with shining spotlight on indie developers and studios.`,
+    title: `Indie Story Games`,
+    description: `Indie Story Games is an indie gaming website focused on games with stories to tell and the developers behind them.`,
+    author: `Indie Story Games`,
+    siteUrl: `https://indiestorygames.com`,
+    description: `Indie Story Games is an indie gaming website focused on games with stories to tell and the developers behind them. Our favorite games are those that tell a story and start a conversation and would love to bring more attention to the stories the developers behind the games want to tell. Indie Story Games is tailored to prioritize just that, along with shining spotlight on indie developers and studios.`,
     image: `colludia-banner-big.webp`,
     thumbnail: `colludia-banner-big.webp`,
   },

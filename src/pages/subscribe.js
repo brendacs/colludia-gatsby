@@ -30,7 +30,10 @@ const SubscribePage = () => (
               newsletter archive
             </a>
             . To stay updated on a more frequent basis,{" "}
-            <a href="https://twitter.com/colludia">follow us on Twitter</a>.
+            <a href="https://twitter.com/indiestorygames">
+              follow us on Twitter
+            </a>
+            .
           </p>
           <iframe
             title="Substack"

@@ -22,7 +22,7 @@ export const tagColors = {
 
 export const pageDescriptions = {
   default:
-    "Colludia is an indie gaming blog focused on games with stories to tell and the developers behind them.",
+    "Indie Story Games is an indie gaming website focused on games with stories to tell and the developers behind them.",
   latest:
     "Our latest featured article about an indie game with a story to tell.",
   review:
@@ -102,11 +102,11 @@ export const keyInfo = {
   },
   twitter: {
     subtitle:
-      'Retweet an article on Twitter, like and follow <a class="animated-link" href="https://twitter.com/colludia">@Colludia</a> for a chance to get this key!',
+      'Retweet an article on Twitter, like and follow <a class="animated-link" href="https://twitter.com/indiestorygames">@Indie Story Games</a> for a chance to get this key!',
     socialButton: {
       image: "twitter.svg",
       text: "Follow",
-      link: "https://twitter.com/colludia",
+      link: "https://twitter.com/indiestorygames",
     },
     viewButton: {
       text: "View on Humble",

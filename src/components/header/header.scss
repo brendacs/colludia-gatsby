@@ -25,18 +25,17 @@
 
     .name {
       color: $site-font-color;
-      font-size: $heading-size - 10;
+      font-size: $subtitle-size;
       font-weight: 600;
       display: flex;
       align-items: center;
+      white-space: nowrap;
 
-      .long-title {
-        margin-top: 5px;
-        margin-left: 10px;
-        color: darken($site-gray, 15%);
+      &.short-title {
+        display: none;
 
-        @media screen and (max-width: 650px) {
-          display: none;
+        @media screen and (max-width: 425px) {
+          display: flex;
         }
       }
 

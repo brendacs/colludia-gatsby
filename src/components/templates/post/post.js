@@ -44,7 +44,7 @@ const PostTemplate = ({ data }) => {
       : title
 
   const disqusConfig = {
-    url: `https://colludia.com${slug}`,
+    url: `https://indiestorygames.com${slug}`,
     identifier: slug,
     title: cleanTitle,
   }
@@ -135,7 +135,7 @@ const PostTemplate = ({ data }) => {
         </section>
         <input
           type="text"
-          value={`https://colludia.com${slug}`}
+          value={`https://indiestorygames.com${slug}`}
           className="share-link-text"
           id="invisible-input"
           autoCorrect="off"

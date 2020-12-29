@@ -27,9 +27,10 @@ const KeysPage = () => (
       </h2>
       <p className="description">
         When you support us through our social media outlets, it helps us spread
-        the word about Colludia&mdash;and the indie games we talk about&mdash;to
-        the rest of the world, so we express our appreciation with monthly key
-        giveaways! We'll DM you on Twitter or Discord if you've won a key.
+        the word about Indie Story Games&mdash;and the indie games we talk
+        about&mdash;to the rest of the world, so we express our appreciation
+        with monthly key giveaways! We'll DM you on Twitter or Discord if you've
+        won a key.
       </p>
       <p className="description">
         For subscriber-only keys, we'll email you by the 25th of the month
@@ -105,7 +106,7 @@ const KeysPage = () => (
                 />
                 {key.tags[0] !== "partner" && (
                   <p className="key-share-text">
-                    Help us share our content @Colludia!
+                    Help us share our content @Indie Story Games!
                   </p>
                 )}
               </div>

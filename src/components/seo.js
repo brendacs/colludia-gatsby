@@ -52,7 +52,7 @@ function SEO({ lang, meta, title, description, author, image, page, type }) {
     }
   }
 
-  const metaImage = `https://colludia.com/images/${
+  const metaImage = `https://indiestorygames.com/images/${
     image || "colludia-banner-big.webp"
   }`
 
@@ -90,7 +90,7 @@ function SEO({ lang, meta, title, description, author, image, page, type }) {
         },
         {
           property: "og:site_name",
-          content: "Colludia",
+          content: "Indie Story Games",
         },
         {
           property: "og:title",
@@ -126,7 +126,7 @@ function SEO({ lang, meta, title, description, author, image, page, type }) {
         },
         {
           name: "twitter:site",
-          content: "@colludia",
+          content: "@indiestorygames",
         },
         {
           name: "twitter:creator",

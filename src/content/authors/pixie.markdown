@@ -3,7 +3,7 @@ pageType: author
 slug: /author/pixie/
 author: Pixie Poison
 title: Pixie Poison
-tagline: Read about our author Pixie Poison. Colludia is an indie gaming blog focused on games with stories to tell and the developers behind them.
+tagline: Read about our author Pixie Poison. Indie Story Games is an indie gaming website focused on games with stories to tell and the developers behind them.
 class: author
 roles: [author]
 avatar: avatar-1
@@ -12,5 +12,5 @@ twitter: PixiePoison90
 youtube: PixiePoison90
 twitch: PixiePoison90
 portfolio: https://lnky.in/pixiepoison
-email: info@colludia.com
+email: info@indiestorygames.com
 ---

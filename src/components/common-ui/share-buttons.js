@@ -11,7 +11,7 @@ const SocialButtons = () => (
     </a>
     <a
       className="twitter"
-      href="https://twitter.com/colludia"
+      href="https://twitter.com/indiestorygames"
       name="colludia twitter"
     >
       <img alt="twitter logo" src={require("../../images/twitter.svg")} />

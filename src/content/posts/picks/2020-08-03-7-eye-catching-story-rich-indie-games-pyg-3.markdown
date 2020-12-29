@@ -3,7 +3,7 @@ pageType: post
 slug: /7-eye-catching-story-rich-indie-games/
 title: "7 Eye-Catching Story Rich Indie Games From #PitchYaGame 3"
 postType: ["picks"]
-tagline: "It takes a lot of effort and heart to create indie games, and we know it takes even more guts to put your game out there for the world to see and pitch it to anyone who will listen. This list for #PitchYaGame round 3 is made up of my favorite story rich games out of the dozens that were pitched directly to Colludia."
+tagline: "It takes a lot of effort and heart to create indie games, and we know it takes even more guts to put your game out there for the world to see and pitch it to anyone who will listen. This list for #PitchYaGame round 3 is made up of my favorite story rich games out of the dozens that were pitched directly to Indie Story Games."
 date: 2020-08-03
 releaseDate:
 image: 7eyecatchingindiegamesPYG.webp
@@ -27,7 +27,7 @@ tags:
 
 It takes a lot of effort and heart to create indie games, and we know it takes even more guts to put your game out there for the world to see and pitch it to anyone who will listen.
 
-This list for #PitchYaGame round 3 is made up of my favorite story rich games out of the dozens that were pitched directly to [Colludia](https://twitter.com/colludia) last Tuesday. Thank you to everyone, including those not on this list, who reached out and brought your game to our attention—we're so glad you did because there were a lot of gems that we wouldn't have discovered otherwise.
+This list for #PitchYaGame round 3 is made up of my favorite story rich games out of the dozens that were pitched directly to [Indie Story Games](https://twitter.com/indiestorygames) last Tuesday. Thank you to everyone, including those not on this list, who reached out and brought your game to our attention—we're so glad you did because there were a lot of gems that we wouldn't have discovered otherwise.
 
 ## Game Director Story
 
@@ -87,7 +87,7 @@ As a musician who plays a variety of instruments, I have a feeling me, my ears, 
 
 > A first person next-gen horror game taking place in New Orleans, Louisiana. It follows 2 cousins whose pasts are deeply intertwined with the notorious voodooo culture.
 
-Now I don't usually do horror and like to leave it to the other writers at Colludia, but the graphics of [_Divination_](https://www.redgstudios.com/divination) made me do a double-take. They were beautiful, and it was no wonder the studio received an [Unreal Dev Grant](https://www.youtube.com/watch?v=TusCLwBEs34) in 2018. Despite my tendency to shy away from horror, there was no way I would _not_ include this.
+Now I don't usually do horror and like to leave it to the other writers at Indie Story Games, but the graphics of [_Divination_](https://www.redgstudios.com/divination) made me do a double-take. They were beautiful, and it was no wonder the studio received an [Unreal Dev Grant](https://www.youtube.com/watch?v=TusCLwBEs34) in 2018. Despite my tendency to shy away from horror, there was no way I would _not_ include this.
 
 In this dark game with _very_ high quality graphics, you'll play as both Julian and Antoine, cousins who uncover their own history as well as that of New Orleans' voodoo culture when they become entangled in the dark craft. There's little other information about this game as of yet, and I haven't been able to find a trailer. However, I plan to dig deeper in an interview with the developers at [RedG Studios](https://www.redgstudios.com) soon enough because for once, I don't think I'm horrified enough to stay away.
 
@@ -104,7 +104,7 @@ I mean, just check out these [visuals](https://www.redgstudios.com/divination).
 
 > Greyhat is a hacker detective adventure where you solve mysteries by snooping around other people's computers. Clues, passwords & solutions are randomized and may change with each playthrough.
 
-Want to do some narrative driven snooping in a desktop UI reminiscent of the [_Emily is Away_](https://colludia.com/heartbreak-emily-is-away/) series, but spookier? [_Greyhat_](https://store.steampowered.com/app/1247940/Greyhat__A_Digital_Detective_Adventure/) is your game. If it isn't yours, it's certainly mine. I love a good mystery and pretending to hack—even though I am actually a software engineer outside of writing for Colludia.
+Want to do some narrative driven snooping in a desktop UI reminiscent of the [_Emily is Away_](https://indiestorygames.com/heartbreak-emily-is-away/) series, but spookier? [_Greyhat_](https://store.steampowered.com/app/1247940/Greyhat__A_Digital_Detective_Adventure/) is your game. If it isn't yours, it's certainly mine. I love a good mystery and pretending to hack—even though I am actually a software engineer outside of writing for Indie Story Games.
 
 There's just something so enjoyable about doing computer stuff in a semi-realistic UI in a make-believe world where I have to solve some mysteries and uncover secrets. I've actually not found a good game to sate this craving in quite some time now, so I'm very glad this was brought to my attention. It is right up my alley, and I can't wait to try the demo and learn more about the game.
 
@@ -132,7 +132,7 @@ The more time I spend in the indie game and dev community, the more I appreciate
 
 However, there were a _lot_ of amazing devs in #PitchYaGame round 3, and no one article could contain all the great story rich games we see each month during the event. As such, this is only the first of a series of articles about indie games we discovered and loved during #PitchYaGame, so look forward to more soon!
 
-Alongside that, I'm still working to schedule interviews with many of the developers behind these games, who I'm sure we're all curious to hear more from. If there are any other games (especially those with a tale to tell) that you think the writers at Colludia should take a look at, don't hesitate to shoot us a message on [Twitter](https://twitter.com/colludia) or through other methods of [contact](https://colludia.com/contact).
+Alongside that, I'm still working to schedule interviews with many of the developers behind these games, who I'm sure we're all curious to hear more from. If there are any other games (especially those with a tale to tell) that you think the writers at Indie Story Games should take a look at, don't hesitate to shoot us a message on [Twitter](https://twitter.com/indiestorygames) or through other methods of [contact](https://indiestorygames.com/contact).
 
 I'll leave you now with this beautiful image from _Witchery Academy_. Here's to more amazing games.
 

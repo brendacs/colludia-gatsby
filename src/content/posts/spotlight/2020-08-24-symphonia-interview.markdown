@@ -74,7 +74,7 @@ Regarding the core mechanics, we experimented a lot with a dash ability that we 
 
 <span class="blue-q">Any final thoughts on _Symphonia_ to share, or any shoutouts to make?</span>
 
-Thanks a lot for having us in Colludia! I want to finish with some advice to our fellow students or young developers. Our school has a certain tradition of making 3D student games, a lot of those revolving around battle. We didn’t have a lot of models in our school, regarding 2D and artistic experiences, yet we tried and made _Symphonia_. Please don’t be afraid to follow your intuition, and be passionate about it! Create games that you love, because there is an audience for all kinds of games out there.
+Thanks a lot for having us at Indie Story Games! I want to finish with some advice to our fellow students or young developers. Our school has a certain tradition of making 3D student games, a lot of those revolving around battle. We didn’t have a lot of models in our school, regarding 2D and artistic experiences, yet we tried and made _Symphonia_. Please don’t be afraid to follow your intuition, and be passionate about it! Create games that you love, because there is an audience for all kinds of games out there.
 
 <span class="blue-q">Where can people follow or find you to keep up with _Symphonia_ updates?</span>
 

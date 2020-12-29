@@ -32,11 +32,11 @@ This point-and-click adventure from [Mojiken Studio](https://mojikenstudio.com/)
 
 <figcaption>When the two first met, at a pediatric clinic.</figcaption>
 
-I played and [wrote about the prologue](https://colludia.com/when-the-past-was-around-review-demo/) that served as the game's demo not too long ago, which I thoroughly enjoyed, as you'll easily be able to tell:
+I played and [wrote about the prologue](https://indiestorygames.com/when-the-past-was-around-review-demo/) that served as the game's demo not too long ago, which I thoroughly enjoyed, as you'll easily be able to tell:
 
 > Everything about this prologue was soothing, as I have been constantly mentioning. From the gameplay to the art style to the sound effects during my search for items and feathers, everything was tranquil and easy on the eyes and ears. The scenes progressed at an even pace, and the narrative within them was ever-present yet left you with enough space to imagine and fill in the blanks.
 
-Despite my glowing review, which you can read in full [here](https://colludia.com/when-the-past-was-around-review-demo/), it left me with many questions unanswered about the symbolism and what exactly happened _When the Past Was Around_. I had no doubt I'd be playing the full game to find out what was really going on and to see if my hunch about the meaning of its symbolism was correct. As well as, of course, to listen to more of that delightful violin music while hunting down keys and patterns in a beautiful landscape.
+Despite my glowing review, which you can read in full [here](https://indiestorygames.com/when-the-past-was-around-review-demo/), it left me with many questions unanswered about the symbolism and what exactly happened _When the Past Was Around_. I had no doubt I'd be playing the full game to find out what was really going on and to see if my hunch about the meaning of its symbolism was correct. As well as, of course, to listen to more of that delightful violin music while hunting down keys and patterns in a beautiful landscape.
 
 ![Eda and Owl sit together in the midst of a chaotic house with knocked over plants and books.][image1]
 
