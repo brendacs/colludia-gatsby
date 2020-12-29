@@ -83,4 +83,4 @@ For more information about how we use information collected by cookies and other
 
 If you have questions or comments about this Cookie Policy, please contact us at:
 
-[info@indiestorygames.com](mailto:info@indiestorygames.com)
+[indiestorygames@gmail.com](mailto:indiestorygames@gmail.com)

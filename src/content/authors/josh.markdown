@@ -9,5 +9,5 @@ roles: [author]
 avatar: avatar-4
 bio: I've been a gamer since I first got a PS2 when I was five years old. I'm either playing action games on the hardest difficulty or story-rich games that I write fan fiction about afterward.  I play on PS4, Switch and PC so I can catch every release. If I'm not playing video games, I'm probably studying screenwriting or watching  anime.
 twitter: jshroque
-email: josh@indiestorygames.com
+email: indiestorygames@gmail.com
 ---

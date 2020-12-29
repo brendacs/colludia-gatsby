@@ -44,8 +44,8 @@ As a result, we'll need more support in other ways, such as through our [Patreon
 
 This would not be possible without our amazing staff of editors and writers! Check out their pages and contact information [here](/contact).
 
-[info]: mailto:info@indiestorygames.com
-[request]: mailto:request@indiestorygames.com
+[info]: mailto:indiestorygames@gmail.com
+[request]: mailto:indiestorygames@gmail.com
 [ko-fi]: https://ko-fi.com/indiestorygames
 [patreon]: https://patreon.com/indiestorygames
 [spotlight]: /dev-spotlights

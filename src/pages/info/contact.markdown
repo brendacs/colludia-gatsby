@@ -11,9 +11,9 @@ image: colludia-banner-big.webp
 
 ## Let us know if you have inquiries, requests, or anything in between.
 
-If there’s a certain game you’d like us to review or write playthroughs and guides for, don’t hesitate to reach out and contact us at [request@indiestorygames.com][request]!
+If there’s a certain game you’d like us to review or write playthroughs and guides for, don’t hesitate to reach out and contact us at [indiestorygames@gmail.com][request]!
 
-For advertising see [Advertise][advertise]. For more information about writing with us see [Become a Writer][writers]. For all other general inquiries, feel free to send us an email at [info@indiestorygames.com][info].
+For advertising see [Advertise][advertise]. For more information about writing with us see [Become a Writer][writers]. For all other general inquiries, feel free to send us an email at [indiestorygames@gmail.com][info].
 
 ## Staff Contact
 
@@ -42,8 +42,8 @@ The following pages contain our staff's emails and social media.
 
 - [Brenda Zhang][brenda]
 
-[info]: mailto:info@indiestorygames.com
-[request]: mailto:request@indiestorygames.com
+[info]: mailto:indiestorygames@gmail.com
+[request]: mailto:indiestorygames@gmail.com
 [advertise]: /ads
 [writers]: /writers
 [brenda]: /author/brenda

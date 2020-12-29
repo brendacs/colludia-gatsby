@@ -12,5 +12,5 @@ twitter: PixiePoison90
 youtube: PixiePoison90
 twitch: PixiePoison90
 portfolio: https://lnky.in/pixiepoison
-email: info@indiestorygames.com
+email: indiestorygames@gmail.com
 ---

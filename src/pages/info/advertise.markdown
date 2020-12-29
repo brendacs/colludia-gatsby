@@ -22,4 +22,4 @@ Outside of ad space, we will also write sponsored articles in some specific case
 
 ## Contact
 
-If you'd like to advertise with us within this model or want more information on the specifics, our policies, analytics, or anything else, please contact us at [info@indiestorygames.com](mailto:info@indiestorygames.com).
+If you'd like to advertise with us within this model or want more information on the specifics, our policies, analytics, or anything else, please contact us at [indiestorygames@gmail.com](mailto:indiestorygames@gmail.com).

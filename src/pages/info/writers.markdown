@@ -10,7 +10,7 @@ image: colludia-banner-big.webp
 
 We always need more writers who are passionate about indie games (especially those with a story) and the indie game development community. We have two types of writers, both with flexible schedules. You can read more about the responsibilities of each below.
 
-To apply, email us at [info@indiestorygames.com](mailto:info@indiestorygames.com) letting us know which position you're interested in, a description of yourself of any length, and why you'd like to join us. Preferably, attach an old (or new) writing sample or two on any topic, and we'll be in touch!
+To apply, email us at [indiestorygames@gmail.com](mailto:indiestorygames@gmail.com) letting us know which position you're interested in, a description of yourself of any length, and why you'd like to join us. Preferably, attach an old (or new) writing sample or two on any topic, and we'll be in touch!
 
 ## Staff Writer
 
