@@ -27,14 +27,14 @@ It means the world to us, and we're glad you enjoy our content and our website. 
 - 20+ [Steam Curator][curator] followers
 - Every Indie Story Games reader and visitor
 
-Help us pay our writers and maintain our high-quality website and writing by supporting us on [Patreon][patreon] or buying us a coffee on [Ko-fi](https://ko-fi.com/colludia).
+Help us pay our writers and maintain our high-quality website and writing by supporting us on [Patreon][patreon] or buying us a coffee on [Ko-fi](https://ko-fi.com/indiestorygames).
 
 Your support helps us break even, pay writers, and have more time to keep producing high quality content, forming a community, and spotlighting the indie games, devs, and stories we love.
 
 Thank you for reading!
 
 [youtube]: https://www.youtube.com/channel/UCGV03GbQtpPGfArbJHbZ3IQ
-[patreon]: https://patreon.com/colludia
+[patreon]: https://patreon.com/indiestorygames
 [twitter]: https://twitter.com/indiestorygames
 
 [curator]: https://store.steampowered.com/curator/37254837-Indie Story Games-Indie-Gaming

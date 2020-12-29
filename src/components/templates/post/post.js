@@ -124,8 +124,9 @@ const PostTemplate = ({ data }) => {
               <p className="sponsor-blurb">
                 Help us pay our writers and maintain our high-quality website
                 and writing by supporting us on{" "}
-                <a href="https://patreon.com/colludia">Patreon</a> or buying us
-                a coffee on <a href="https://ko-fi.com/colludia">Ko-fi</a>. To
+                <a href="https://patreon.com/indiestorygames">Patreon</a> or
+                buying us a coffee on{" "}
+                <a href="https://ko-fi.com/indiestorygames">Ko-fi</a>. To
                 sponsor or advertise with us, visit{" "}
                 <Link to="/ads">Advertise</Link>.
               </p>

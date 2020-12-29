@@ -18,7 +18,7 @@ const SocialButtons = () => (
     </a>
     <a
       className="patreon"
-      href="https://patreon.com/colludia"
+      href="https://patreon.com/indiestorygames"
       name="colludia patreon"
     >
       <img alt="patreon logo" src={require("../../images/patreon.webp")} />

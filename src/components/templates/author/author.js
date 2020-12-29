@@ -79,7 +79,7 @@ const AuthorTemplate = ({ data }) => {
             <SocialButton frontmatter={frontmatter} type="instagram" />
           )}
           <li>
-            <a className="patreon" href="https://patreon.com/colludia">
+            <a className="patreon" href="https://patreon.com/indiestorygames">
               <img
                 alt="patreon logo"
                 src={require("../../../images/patreon.webp")}

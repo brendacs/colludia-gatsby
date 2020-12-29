@@ -46,8 +46,8 @@ This would not be possible without our amazing staff of editors and writers! Che
 
 [info]: mailto:info@indiestorygames.com
 [request]: mailto:request@indiestorygames.com
-[ko-fi]: https://ko-fi.com/colludia
-[patreon]: https://patreon.com/colludia
+[ko-fi]: https://ko-fi.com/indiestorygames
+[patreon]: https://patreon.com/indiestorygames
 [spotlight]: /dev-spotlights
 [reviews]: /reviews
 [genres]: /genres
