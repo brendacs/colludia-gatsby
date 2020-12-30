@@ -4,7 +4,7 @@ slug: /contact/
 author: Indie Story Games
 title: Contact
 tagline: Indie Story Games' Privacy Policy. Indie Story Games is an indie gaming website focused on games with stories to tell and the developers behind them.
-image: colludia-banner-big.webp
+image: isg-banner.png
 ---
 
 # Contact

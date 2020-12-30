@@ -3,7 +3,7 @@ pageType: info
 slug: /about/
 author: Indie Story Games
 title: About
-image: colludia-banner-big.webp
+image: isg-banner.png
 ---
 
 # Welcome to Indie Story Games

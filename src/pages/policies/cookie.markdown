@@ -4,7 +4,7 @@ slug: /cookie-policy/
 title: Cookie Policy
 tagline: Indie Story Games' Cookie Policy. Shining a spotlight on indie games and developers, whether popular or obscure.
 class: md
-image: colludia-banner-big.webp
+image: isg-banner.png
 ---
 
 # Cookie Policy

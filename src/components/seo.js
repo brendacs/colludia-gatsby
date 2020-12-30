@@ -53,7 +53,7 @@ function SEO({ lang, meta, title, description, author, image, page, type }) {
   }
 
   const metaImage = `https://indiestorygames.com/images/${
-    image || "colludia-banner-big.webp"
+    image || "isg-banner.png"
   }`
 
   return (

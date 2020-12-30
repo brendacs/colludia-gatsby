@@ -3,7 +3,7 @@ pageType: info
 slug: /ads/
 author: Indie Story Games
 title: Advertise
-image: colludia-banner-big.webp
+image: isg-banner.png
 ---
 
 # Advertise With Indie Story Games

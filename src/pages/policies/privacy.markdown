@@ -4,7 +4,7 @@ slug: /privacy-policy/
 title: Privacy Policy
 tagline: Indie Story Games' Privacy Policy. Shining a spotlight on indie games and developers, whether popular or obscure.
 class: md
-image: colludia-banner-big.webp
+image: isg-banner.png
 ---
 
 # Privacy Policy

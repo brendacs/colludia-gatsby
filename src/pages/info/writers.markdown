@@ -3,7 +3,7 @@ pageType: info
 slug: /writers/
 author: Indie Story Games
 title: Become a Writer
-image: colludia-banner-big.webp
+image: isg-banner.png
 ---
 
 # Become a Writer at Indie Story Games

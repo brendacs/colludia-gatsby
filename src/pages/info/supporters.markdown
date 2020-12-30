@@ -4,7 +4,7 @@ slug: /supporters/
 author: Indie Story Games
 title: Supporters
 tagline: We're extremely grateful for all of our Patreon supporters. Thank you for supporting Indie Story Games, an indie gaming website focused on games with stories to tell and the developers behind them.
-image: colludia-banner-big.webp
+image: isg-banner.png
 ---
 
 # Thank you for your support.
