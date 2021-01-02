@@ -15,6 +15,22 @@ const LayeredNav = ({ darkmode, setDarkmode }) => {
           to="/reviews"
         >
           Reviews
+          <div className="dropdown-menu">
+            <Link
+              className="layered-nav-item"
+              activeClassName="active"
+              to="/reviews/indepth"
+            >
+              In-Depth
+            </Link>
+            <Link
+              className="layered-nav-item"
+              activeClassName="active"
+              to="/reviews/short"
+            >
+              Short &amp; Sweet
+            </Link>
+          </div>
         </Link>
         <Link
           className="layered-nav-item"
