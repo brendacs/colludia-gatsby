@@ -36,7 +36,6 @@ Thank you for reading!
 [youtube]: https://www.youtube.com/channel/UCGV03GbQtpPGfArbJHbZ3IQ
 [patreon]: https://patreon.com/indiestorygames
 [twitter]: https://twitter.com/indiestorygames
-
-[curator]: https://store.steampowered.com/curator/37254837-Indie Story Games-Indie-Gaming
+[curator]: https://store.steampowered.com/curator/37254837-Colludia-Indie-Gaming
 [discord]: https://discord.gg/PG2qkZf
 [newsletter]: https://indiestorygames.com/subscribe
