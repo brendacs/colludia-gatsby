@@ -13,6 +13,7 @@ const LayeredNav = ({ darkmode, setDarkmode }) => {
           className="layered-nav-item"
           activeClassName="active"
           to="/reviews"
+          partiallyActive={true}
         >
           Reviews
           <div className="dropdown-menu">

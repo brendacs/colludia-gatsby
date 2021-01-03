@@ -19,14 +19,22 @@
     color: $site-darkmode-font-color;
   }
 
+  .main-nav {
+    border-bottom: 1px solid $site-darkmode-gray;
+  }
+
   .main-nav,
   .layered-nav {
-    border-bottom: 1px solid $site-darkmode-gray;
     background-color: $site-font-color;
   }
 
   .layered-nav-item {
     color: $site-darkmode-font-color;
+
+    .dropdown-menu {
+      background-color: $site-font-color;
+      border-color: $site-darkmode-gray;
+    }
   }
 
   .secondary-nav {
