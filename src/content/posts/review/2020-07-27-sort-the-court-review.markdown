@@ -3,13 +3,13 @@ pageType: post
 game: sortthecourt
 slug: /sort-the-court-review/
 title: "Courting Decisions in <em class='game-title'>Sort the Court!</em>"
-postType: ["#tbt", review]
+postType: ["#tbt", review, in-depth]
 tagline: "Sort the Court review: The quirky character designs were endearing. The custom music, composed by Bogdan Rybek, fit the relaxed gameplay. I easily finished my first playthrough in one session. I would recommend this free title to anybody looking for a calm game to pass time during quarantine."
 date: 2020-07-27
 releaseDate: 2015-12-14
 image: SortTheCourt.webp
 author: Devon Huge
-categories: [simulation, "not story", "#tbt", review]
+categories: [simulation, "not story", "#tbt", review, in-depth]
 tags:
   [
     "Sort the Court",

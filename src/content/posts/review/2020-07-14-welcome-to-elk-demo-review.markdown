@@ -3,7 +3,7 @@ pageType: post
 game: welcometoelk
 slug: /welcome-to-elk-demo-review/
 title: "Quirky Art and Mini-Games Make for a Warm <em class='game-title'>Welcome to Elk</em>"
-postType: [demo, review]
+postType: [demo, review, in-depth]
 tagline: "Welcome to Elk demo review: With simple yet engaging mini-games, the developers fully utilize the potential of video games as a medium for storytelling and absorbing the player into the world of Elk."
 date: 2020-07-14
 releaseDate: 2020-09-17

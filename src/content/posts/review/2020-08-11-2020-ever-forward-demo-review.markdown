@@ -3,7 +3,7 @@ pageType: post
 game: everforward
 slug: /ever-forward-demo-review/
 title: "<em class='game-title'>Ever Forward:</em> A Puzzling Dream About The Future"
-postType: [demo, review]
+postType: [demo, review, in-depth]
 tagline: "Demo review: Ever Forward tells a thought-provoking story with multiple interpretations and hits a sweet spot between minimalistic design and worldbuilding that is hard to come by. It’s a quiet, lonely game—but not empty."
 date: 2020-08-11
 releaseDate: 2020-08-13

@@ -3,7 +3,7 @@ pageType: post
 game: whenthepastwasaroundfull
 slug: /when-the-past-was-around-review/
 title: "The Beauty of Letting Go in <em class='game-title'>When The Past Was Around</em>"
-postType: [review]
+postType: [review, in-depth]
 tagline: "When The Past Was Around review: The vivid scenes and emotional music that perfectly fit together with the bittersweet narrative of Eda's past romance and locked away memories in When the Past Was Around nearly brought me to tears in a way no game has in a very long time."
 date: 2020-09-22
 releaseDate: 2020-09-22

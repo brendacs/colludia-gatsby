@@ -3,7 +3,7 @@ pageType: post
 game: coffeetalk
 slug: /grab-java-coffee-talk/
 title: Grab Some Java at <em class='game-title'>Coffee Talk</em>
-postType: [review]
+postType: [review, in-depth]
 tagline: "Coffee Talk review: If you want a game with a narrative that'll keep you ruminating on the perspective of contemporary life, Coffee Talk will sate your cravings. So sit back, relax, and enjoy your stay."
 date: 2020-06-03
 releaseDate: 2020-01-28

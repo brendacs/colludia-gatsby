@@ -3,7 +3,7 @@ pageType: post
 game: chicory
 slug: /chicory-demo-review/
 title: "<em class='game-title'>Chicory: A Colorful Tale</em> Feels Like a Playable Coloring Book"
-postType: [demo, review]
+postType: [demo, review, in-depth]
 tagline: "Chicory demo review: What you choose to do after you've picked up the brush is as open-ended as your paintings. This demo convinced me I need to get Chicory the day it releases and find out what happens next in the adventure."
 date: 2020-07-08
 releaseDate: 2021-12-31

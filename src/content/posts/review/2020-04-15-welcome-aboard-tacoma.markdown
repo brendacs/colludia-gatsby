@@ -3,7 +3,7 @@ pageType: post
 game: tacoma
 slug: /welcome-aboard-tacoma/
 title: Welcome Aboard <em class='game-title'>Tacoma</em>
-postType: ["#tbt", review]
+postType: ["#tbt", review, in-depth]
 tagline: "Tacoma review: Tacoma is a brilliant work of art that really shows what immersive multi-modal storytelling can do."
 date: 2020-04-15
 releaseDate: 2017-08-02

@@ -3,7 +3,7 @@ pageType: post
 game: townoflight
 slug: /not-alright-town-of-light/
 title: "It's Not Alright in the <em class='game-title'>Town of Light</em>"
-postType: ["#tbt", review]
+postType: ["#tbt", review, in-depth]
 tagline: "Review: The Town of Light is an excellent example of how storytelling in games can bring the more messy and taboo topics to light with immersion, great narrative design, and intensive research."
 date: 2020-06-05
 releaseDate: 2016-02-26

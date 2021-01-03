@@ -3,7 +3,7 @@ pageType: post
 game: lamentum
 slug: /lamentum-demo-review/
 title: "Macabre Imagery and Terrifying Soundscapes Pulse Through <em class='game-title'>Lamentum</em>"
-postType: [demo, review]
+postType: [demo, review, in-depth]
 tagline: "Lamentum demo review: The macabre yet evocative imagery, the wonderfully unsettling sound design and hard-hitting subtext make for a terrifying descent into darkness."
 date: 2020-11-12
 releaseDate: 2021-12-31

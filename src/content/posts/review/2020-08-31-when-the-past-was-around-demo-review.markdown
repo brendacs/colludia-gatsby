@@ -3,7 +3,7 @@ pageType: post
 game: whenthepastwasaround
 slug: /when-the-past-was-around-review-demo/
 title: "Soothing Music and Symbolism in <em class='game-title'>When the Past Was Around</em>"
-postType: [demo, review]
+postType: [demo, review, in-depth]
 tagline: "When the Past Was Around demo review: The scenes progressed at an even pace, and the narrative within them was ever-present yet left you with enough space to imagine and fill in the blanks. As you exit through the door, the demo ends leaving you wondering just what happened when the past was around."
 date: 2020-08-31
 releaseDate: 2020-09-21

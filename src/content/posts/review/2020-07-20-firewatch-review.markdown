@@ -3,7 +3,7 @@ pageType: post
 game: firewatch
 slug: /firewatch-review/
 title: Explore Humanity and Uncover an Uncertain Past in <em class='game-title'>Firewatch</em>
-postType: ["#tbt", review]
+postType: ["#tbt", review, in-depth]
 tagline: "Firewatch review: Just about everything comes together to allow this game to be what it is: a mini-masterpiece in modern storytelling. It calls out to you to explore it, to uncover its many secrets and untold stories that lay right under your nose."
 date: 2020-07-20
 releaseDate: 2016-02-09

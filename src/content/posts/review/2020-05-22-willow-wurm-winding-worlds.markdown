@@ -3,7 +3,7 @@ pageType: post
 game: windingworlds
 slug: /willow-wurm-winding-worlds/
 title: "Wandering With Willow and the Wurm in <em class='game-title'>Winding Worlds</em>"
-postType: [review]
+postType: [review, in-depth]
 tagline: "Winding Worlds review: As you wander the world, you also wander the resident's mind and memories and help them to untangle their guilt, regret, or fear as you reflect on your own mental state."
 date: 2020-05-22
 releaseDate: 2020-05-15

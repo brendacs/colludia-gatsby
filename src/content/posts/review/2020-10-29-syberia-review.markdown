@@ -3,7 +3,7 @@ pageType: post
 game: syberia
 slug: /syberia-review/
 title: "Follow Your Dreams to <em class='game-title'>Syberia</em>"
-postType: ["#tbt", review]
+postType: ["#tbt", review, in-depth]
 tagline: "Syberia review: Without the voice acting, the story is enough to carry the game to success, but it's that push for more immersion that really made me love or hate the characters."
 date: 2020-10-29
 releaseDate: 2017-04-20

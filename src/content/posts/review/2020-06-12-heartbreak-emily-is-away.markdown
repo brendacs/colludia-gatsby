@@ -3,7 +3,7 @@ pageType: post
 game: emilyisaway
 slug: /heartbreak-emily-is-away/
 title: "Expect Heartbreak When <em class='game-title'>Emily Is Away</em>"
-postType: ["#tbt", review]
+postType: ["#tbt", review, in-depth]
 tagline: "Emily is Away review: Emily Is Away is one of those games that reminds me of simpler times. The welcoming blue Windows login screen, the AIM messenger app, and all the sounds that accompany them pulled me back to a time where I could afford to be more carefree."
 date: 2020-06-12
 releaseDate: 2015-11-20

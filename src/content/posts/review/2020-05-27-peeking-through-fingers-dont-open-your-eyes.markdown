@@ -3,7 +3,7 @@ pageType: post
 game: dontopenyoureyes
 slug: /peeking-through-fingers-dont-open-your-eyes/
 title: "Peeking Through Fingers in <em class='game-title'>(Don't) Open Your Eyes</em>"
-postType: [review]
+postType: [review, in-depth]
 tagline: "Don't Open Your Eyes review: When I hear about horror visual novels, I am skeptical. It's easy to throw in jump scares and jolting noises to scare the player. However, Via took care in building player immersion for high quality tension."
 date: 2020-05-27
 releaseDate: 2019-03-29

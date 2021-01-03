@@ -3,7 +3,7 @@ pageType: post
 game: venice2089
 slug: /venice-2089-demo-review/
 title: "The Small Town Blues in <em class='game-title'>Venice 2089</em>"
-postType: [demo, review]
+postType: [demo, review, in-depth]
 tagline: "Venice 2089 demo review: Venice 2089 is a romp through small town suburbia that taps into the feelings of youth in revolt, the small town blues, and modern meme culture."
 date: 2020-09-11
 releaseDate: 2020-08-06

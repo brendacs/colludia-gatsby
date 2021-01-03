@@ -12,7 +12,15 @@ import {
 } from "../constants"
 import "./rendered-posts.scss"
 
-const RenderedPosts = ({ data, page, author, categories, sortable, limit }) => {
+const RenderedPosts = ({
+  data,
+  page,
+  subpage,
+  author,
+  categories,
+  sortable,
+  limit,
+}) => {
   const [dateSortType, setDateSortType] = useState("publishDate")
   const [genreFilter, setGenreFilter] = useState("all")
   let count = 0
@@ -65,7 +73,8 @@ const RenderedPosts = ({ data, page, author, categories, sortable, limit }) => {
               if (
                 page === "latest" ||
                 page === "genres" ||
-                post.postType.includes(page)
+                (post.postType.includes(page) &&
+                  (!subpage || post.postType.includes(subpage)))
               ) {
                 count += 1
               }
@@ -76,7 +85,8 @@ const RenderedPosts = ({ data, page, author, categories, sortable, limit }) => {
                 (author ||
                   page === "latest" ||
                   page === "genres" ||
-                  post.postType.includes(page)) && (
+                  (post.postType.includes(page) &&
+                    (!subpage || post.postType.includes(subpage)))) && (
                   <Link
                     className={`post ${
                       (count > limit || page === "genres") && "row"

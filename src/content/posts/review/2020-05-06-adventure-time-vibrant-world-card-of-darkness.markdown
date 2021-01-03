@@ -3,7 +3,7 @@ pageType: post
 game: cardofdarkness
 slug: adventure-time-vibrant-world-card-of-darkness
 title: Adventure Time in the Vibrant World of <em class='game-title'>Card of Darkness</em>
-postType: [review]
+postType: [review, in-depth]
 tagline: "Review: Card of Darkness was at once straightforward and undemanding while somehow managing to be layered with the same complexities of a fully-formed roguelike game."
 date: 2020-05-06
 releaseDate: 2019-10-07

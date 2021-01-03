@@ -3,7 +3,7 @@ pageType: post
 game: cateau
 slug: /come-and-stay-at-cateau/
 title: Come and Stay at <em class='game-title'>Cateau</em>
-postType: [review]
+postType: [review, in-depth]
 tagline: "Cateau review: The artwork, though simple, made the game stand out as much as its writing. The first picture I acquired of Gargantuan took my breath away."
 date: 2020-04-08
 releaseDate: 2018-10-17

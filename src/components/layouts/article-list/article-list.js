@@ -8,6 +8,7 @@ import { pageDescriptions } from "../../constants"
 const ArticleList = ({
   featuredPost,
   page,
+  subpage,
   categories,
   tags,
   sortable,
@@ -22,6 +23,7 @@ const ArticleList = ({
     )}
     <Posts
       page={page}
+      subpage={subpage}
       categories={categories}
       tags={tags}
       sortable={sortable}

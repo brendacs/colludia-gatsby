@@ -3,7 +3,7 @@ pageType: post
 game: thenightoftherabbit
 slug: /adventure-awaits-night-of-the-rabbit/
 title: Adventure Awaits in <em class='game-title'>Night of the Rabbit</em>
-postType: ["#tbt", review]
+postType: ["#tbt", review, in-depth]
 tagline: "Night of the Rabbit review: If I could describe this game in one sentence, it is setting out on an adventure without worrying when you’ll be back, full of energy and the potential to change the world."
 date: 2020-04-24
 releaseDate: 2013-05-28

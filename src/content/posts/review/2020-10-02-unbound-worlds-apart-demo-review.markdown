@@ -3,7 +3,7 @@ pageType: post
 game: unboundworldsapart
 slug: /unbound-worlds-apart-review-demo/
 title: "Worlds Collide as Evil Encroaches in <em class='game-title'>Unbound Worlds Apart</em>"
-postType: [demo, review]
+postType: [demo, review, in-depth]
 tagline: "Unbound Worlds Apart demo review: Unbound: Worlds Apart's faithful inspirations oozed from its very seams with every intentional mechanic, platform to leap, and puzzle the player is expected to navigate."
 date: 2020-10-02
 releaseDate: 2021-06-01

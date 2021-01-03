@@ -3,14 +3,14 @@ pageType: post
 game: moonlighter
 slug: /broom-to-roomba-moonlighter/
 title: From Broom to Roomba in <em class='game-title'>Moonlighter</em>
-postType: [review]
+postType: [review, in-depth]
 tagline: "Moonlighter review: From broom-wielder to Roomba-owner, you'll no doubt have fun fighting and selling your way to victory, glory, and wealth while revitalizing the town of Rynoka—and the world—as the humble shopkeeper Will."
 date: 2020-04-05
 releaseDate: 2018-05-29
 image: Moonlighter.webp
 video: https://www.youtube.com/embed/Hp7tNAH9Ox0
 author: Brenda Zhang
-categories: [action, adventure, rpg, roguelike, "not story", review]
+categories: [action, adventure, rpg, roguelike, "not story", review, in-depth]
 tags:
   [
     moonlighter,

@@ -3,7 +3,7 @@ pageType: post
 game: aviaryattorney
 slug: /what-it-takes-aviary-attorney/
 title: Do You Have What It Takes to Be an <em class='game-title'>Aviary Attorney</em>?
-postType: ["#tbt", review]
+postType: ["#tbt", review, in-depth]
 tagline: "Review: Aviary Attorney is an excellent example of a serious narrative with fitting comedy. Morals will be challenged, hilariously and seriously—and the puns will always find you. Being straightforward can sometimes punish instead of reward, while choosing a more tactful response could uncover something to help Jayjay’s stance in court."
 date: 2020-05-01
 releaseDate: 2015-12-22
