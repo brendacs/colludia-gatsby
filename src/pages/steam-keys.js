@@ -1,7 +1,7 @@
 import React from "react"
 import SEO from "../components/seo"
 import Tag from "../components/common-ui/tag"
-import { steamKeys } from "../data/steam-keys"
+import steamKeys from "../data/steam-keys.json"
 import { keyInfo } from "../components/constants"
 import "./steam-keys.scss"
 
