@@ -11,6 +11,7 @@ import {
   getDropdownOptionsFromCategories,
 } from "../constants"
 import "./rendered-posts.scss"
+import { getPostDateComponents, isCurrDateGreater } from "../utils/dates"
 
 const RenderedPosts = ({
   data,
@@ -52,11 +53,16 @@ const RenderedPosts = ({
         <div className="posts">
           {posts
             .filter(p => {
-              if (author) return p.node.frontmatter.author === author
-              if (page === "genres" && genreFilter !== "all") {
-                return p.node.frontmatter.categories.includes(genreFilter)
+              let post = p.node.frontmatter
+              const [day, month, year] = getPostDateComponents(post)
+              const shouldPublish = isCurrDateGreater([day, month, year])
+              if (shouldPublish) {
+                if (author) return post.author === author
+                if (page === "genres" && genreFilter !== "all") {
+                  return post.categories.includes(genreFilter)
+                }
+                return true
               }
-              return p
             })
             .sort((a, b) => {
               if (!sortable || dateSortType === "publishDate") {
@@ -70,6 +76,7 @@ const RenderedPosts = ({
             })
             .map((p, idx) => {
               let post = p.node.frontmatter
+              const [day, month, year] = getPostDateComponents(post)
               if (
                 page === "latest" ||
                 page === "genres" ||
@@ -78,9 +85,6 @@ const RenderedPosts = ({
               ) {
                 count += 1
               }
-              const year = post.date.substring(0, 4)
-              const month = post.date.substring(4, 6)
-              const day = post.date.substring(6)
               return (
                 (author ||
                   page === "latest" ||
