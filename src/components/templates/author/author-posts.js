@@ -22,8 +22,8 @@ const AuthorPosts = ({ author }) => {
                   title
                   postType
                   tagline
-                  date(formatString: "MMMM DD, YYYY")
-                  releaseDate(formatString: "MMMM DD, YYYY")
+                  date(formatString: "YYYYMMDD")
+                  releaseDate(formatString: "YYYYMMDD")
                   image
                   author
                 }
