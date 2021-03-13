@@ -1,7 +1,7 @@
 ---
 pageType: post
 slug: /minute-of-islands-release/
-title: Take a Minute to Check Out Minute of Islands, Releasing This Month
+title: Take a Minute to Check Out Minute of Islands, Releasing March 18
 postType: [news]
 tagline: "Minute of Islands is a beautifully illustrated story-rich adventure coming to PC, Mac, and the Nintendo Switch on March 18, 2021. We're super excited to experience the journey in this rich world that promises to be full of stories, emotion, and quirky characters."
 date: 2021-03-13
