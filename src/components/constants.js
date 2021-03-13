@@ -17,9 +17,10 @@ export const tagColors = {
   review: "red",
   picks: "green",
   spotlight: "blue",
-  opinion: "purple",
-  "in-depth": "orange",
-  short: "orange",
+  opinion: "teal",
+  "in-depth": "pink",
+  short: "pink",
+  news: "purple",
 }
 
 export const pageDescriptions = {

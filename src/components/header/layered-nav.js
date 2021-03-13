@@ -9,6 +9,9 @@ const LayeredNav = ({ darkmode, setDarkmode }) => {
         <Link className="layered-nav-item" activeClassName="active" to="/">
           Latest
         </Link>
+        <Link className="layered-nav-item" activeClassName="active" to="/news">
+          News
+        </Link>
         <Link
           className="layered-nav-item"
           activeClassName="active"
