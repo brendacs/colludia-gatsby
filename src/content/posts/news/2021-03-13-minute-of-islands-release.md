@@ -27,7 +27,9 @@ In Minute of Islands, you play as a young tinkerer named Mo, born on an archipel
 
 <iframe loading="lazy" src="https://www.youtube.com/embed/OMruEYKRtxg?modestbranding=1" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Most of the gameplay is comprised of story-oriented puzzles and platforming over a backdrop of beautiful atmospheric soundtrack. From the looks of it, the puzzles seem to use the potential of the medium of video games to its fullest to tell a deep emotional story well. They are not gimmicky or unrelated to the story, but rather flow well as points of progression in the narrative.
+Most of the gameplay is comprised of story-oriented puzzles and platforming over a backdrop of beautiful atmospheric soundtrack. From the looks of it, the developers seem to use the potential of the medium of video games to its fullest to tell a deep emotional story well.
+
+The puzzles are not gimmicky or unrelated to the story, but rather flow well as points of progression in the narrative. Their narrative and gameplay is handled in a way that reminds me of [Welcome to Elk](https://indiestorygames.com/welcome-to-elk-demo-review/), despite their completely different art and story-telling styles.
 
 Don't believe us? Just some of the many things you'll have to do along your adventure are: pickpocket to get an item you need, operate a boat, and of course use your powerful Omni Switch to control giants' machines.
 
