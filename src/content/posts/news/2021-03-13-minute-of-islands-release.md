@@ -1,9 +1,9 @@
 ---
 pageType: post
 slug: /minute-of-islands-release/
-title: Take a Minute to Check Out Minute of Islands, Releasing March 18
+title: Take a Minute to Check Out Minute of Islands
 postType: [news]
-tagline: "Minute of Islands is a beautifully illustrated story-rich adventure coming to PC, Mac, and the Nintendo Switch on March 18, 2021. We're super excited to experience the journey in this rich world that promises to be full of stories, emotion, and quirky characters."
+tagline: "Minute of Islands is a beautifully illustrated story-rich adventure coming to PC, Mac, and the Nintendo Switch. We're super excited to experience the journey in this rich world that promises to be full of stories, emotion, and quirky characters."
 date: 2021-03-13
 releaseDate: 2021-03-13
 image: MinuteOfIslands.webp
@@ -22,6 +22,8 @@ tags:
 ---
 
 [Minute of Islands](https://minute-of-islands.com/) from [Studio Fizbin](https://twitter.com/studiofizbin) and [Mixtvision Games](https://mixtvision.games/) is a beautifully illustrated story-rich adventure [coming to PC](https://store.steampowered.com/app/1049710/Minute_of_Islands/), Mac, and the [Nintendo Switch](https://www.nintendo.com/games/detail/minute-of-islands-switch/) on March 18, 2021. We're super excited to experience the journey in this rich world that promises to be full of stories, emotion, and quirky characters.
+
+**Update: As of March 2021, there is no longer a release date. For more information, check out [Minute of Islands on Twitter](https://twitter.com/MinuteofIslands).**
 
 In Minute of Islands, you play as a young tinkerer named Mo, born on an archipelago, who discovers various realms and islands of the fantastical world around her. As she ventures forward to regain control over engines hidden at the core of their islands, you meet all sorts of creatures, discover secrets, and uncover a dark truth.
 
