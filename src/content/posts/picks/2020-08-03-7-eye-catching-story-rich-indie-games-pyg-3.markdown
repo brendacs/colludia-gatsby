@@ -104,7 +104,7 @@ I mean, just check out these [visuals](https://www.redgstudios.com/divination).
 
 > Greyhat is a hacker detective adventure where you solve mysteries by snooping around other people's computers. Clues, passwords & solutions are randomized and may change with each playthrough.
 
-Want to do some narrative driven snooping in a desktop UI reminiscent of the [_Emily is Away_](https://indiestorygames.com/heartbreak-emily-is-away/) series, but spookier? [_Greyhat_](https://store.steampowered.com/app/1247940/Greyhat__A_Digital_Detective_Adventure/) is your game. If it isn't yours, it's certainly mine. I love a good mystery and pretending to hack—even though I am actually a software engineer outside of writing for Indie Story Games.
+Want to do some narrative-driven snooping in a desktop UI reminiscent of the [_Emily is Away_](https://indiestorygames.com/heartbreak-emily-is-away/) series, but spookier? [_Greyhat_](https://store.steampowered.com/app/1247940/Greyhat__A_Digital_Detective_Adventure/) is your game. If it isn't yours, it's certainly mine. I love a good mystery and pretending to hack—even though I am actually a software engineer outside of writing for Indie Story Games.
 
 There's just something so enjoyable about doing computer stuff in a semi-realistic UI in a make-believe world where I have to solve some mysteries and uncover secrets. I've actually not found a good game to sate this craving in quite some time now, so I'm very glad this was brought to my attention. It is right up my alley, and I can't wait to try the demo and learn more about the game.
 

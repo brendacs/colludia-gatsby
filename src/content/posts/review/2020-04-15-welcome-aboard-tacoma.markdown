@@ -11,7 +11,7 @@ image: tacoma.webp
 video: https://www.youtube.com/embed/7QrjsQaKG3c
 author: Emily Tang
 categories: ["walking sim", "#tbt", review, story]
-tags: [tacoma, "sci fi", "narrative driven", exploration, fullbright]
+tags: [tacoma, "sci fi", "narrative-driven", exploration, fullbright]
 ---
 
 Amitjyoti “Amy” Ferrier, the protagonist, is an agent sent by the company Venturis Corporation to board an orbital station, called [_Tacoma_](https://tacoma.game/), which connects to a resort on the moon. Now abandoned and in chaos, your job is to retrieve the station’s data, which contains the crew’s memories of their last days on board via augmented reality surveillance that captured every move and spoken word.

@@ -4,7 +4,7 @@ game: 3quirkynostalgicsocialmediagames
 slug: /3-quirky-nostalgic-social-media-games/
 title: "3 Quirky, Nostalgic Social Media Simulator Indie Games"
 postType: ["picks"]
-tagline: "With these types of heavily text-based and narrative driven games, it's not easy to get the art direction, narrative, and emotional poignancy just right. However, I think these ones hit the spot—they have unique art, a distinctly non-generic twist on social media usage, and employ the framework of technology to tell their story well."
+tagline: "With these types of heavily text-based and narrative-driven games, it's not easy to get the art direction, narrative, and emotional poignancy just right. However, I think these ones hit the spot—they have unique art, a distinctly non-generic twist on social media usage, and employ the framework of technology to tell their story well."
 date: 2020-10-07
 releaseDate:
 image: 3QuirkyNostalgicSocialMediaGames.webp
@@ -30,7 +30,7 @@ tags:
 
 Does getting off social media to get on other social media sound like a bad idea? Hear me out—why would you waste time browsing social media when you could explore a completely new world with the most interesting characters in the social media interfaces of games instead? You can get your fix, dive into a different universe, _and_ not ruin your self-esteem at the same time!
 
-In this modern age of information, many games have references to technology and social media. With these types of heavily text-based and narrative driven games, it's not easy to get the art direction, narrative, and emotional poignancy just right. However, I think these three hit the spot—they have unique art, a distinctly non-generic twist on social media usage, and employ the framework of technology to tell their story well.
+In this modern age of information, many games have references to technology and social media. With these types of heavily text-based and narrative-driven games, it's not easy to get the art direction, narrative, and emotional poignancy just right. However, I think these three hit the spot—they have unique art, a distinctly non-generic twist on social media usage, and employ the framework of technology to tell their story well.
 
 ## Emily Is Away One, Too, and <3
 

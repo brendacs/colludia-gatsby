@@ -55,7 +55,7 @@ Since I refused to engage with the Council, the game informed me I had gone thro
 
 On the first go around, I suppressed my growing curiosity. Mysteries were being thrust under my nose at every turn, but I held on for the integrity of the run. This time, I decided to entertain each temptation at least once. As a result, I quickly realized what kind of game _Sort the Court!_ really was.
 
-By refusing to take risks, I had been amplifying my own expectations and excitement of what would happen if I did. However, _Sort the Court!_ is not a powerful, narrative driven game unlike other decision-making games before it. For example, one character would investigate the occult, claiming the presence of an alien conspiracy. You'd expect a lot of mystery and complexity there, but within a couple days, it was discovered that the aliens were simply looking to settle down.
+By refusing to take risks, I had been amplifying my own expectations and excitement of what would happen if I did. However, _Sort the Court!_ is not a powerful, narrative-driven game unlike other decision-making games before it. For example, one character would investigate the occult, claiming the presence of an alien conspiracy. You'd expect a lot of mystery and complexity there, but within a couple days, it was discovered that the aliens were simply looking to settle down.
 
 A similar thing occurred involving the mystery of the Council of Crowns. To test my capability, I was tasked with acting as a mediator between two kingdoms. I sided with one kingdom, and when the other nation came by asking for me to support them instead, I agreed. I was then let into the Council of Crowns for simply getting involved. The induction ceremony took place, and anti-climatically, the game ended once again.
 

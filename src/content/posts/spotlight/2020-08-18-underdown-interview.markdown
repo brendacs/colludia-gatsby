@@ -14,11 +14,11 @@ categories: [tactical, turn-based, mystery, spotlight, interview, story]
 tags: ["Gentle Troll", "Underdown", disabilities, diversity, thriller]
 ---
 
-A small game studio based in Germany, [Gentle Troll](https://twitter.com/GentleTroll) is creating a narrative driven tactical mystery-thriller named [_Underdown_](https://gentletroll.com/games/underdown), and I was fortunate enough to be able to connect with the game's creative director, Michel, for an hours-long talk.
+A small game studio based in Germany, [Gentle Troll](https://twitter.com/GentleTroll) is creating a narrative-driven tactical mystery-thriller named [_Underdown_](https://gentletroll.com/games/underdown), and I was fortunate enough to be able to connect with the game's creative director, Michel, for an hours-long talk.
 
 _Underdown_, which follows four friends figuring their way out of a mine in the hopes of finding their lost friend, caught my eye out of dozens of other indie games during a #PitchYaGame round, where I was taken aback by its exceptional art and unique concept. However, the mere images didn't prepare me for the amount of sheer substance I found under wraps—they only scratched the surface.
 
-It's the kind of indie game we love talking about: story-rich and with depth. _Underdown_ contains a distinctive narrative constructed through the interactions of a diverse, nonconforming cast of characters and immersive plot-driven game mechanics. It aims to tug at your heartstrings and really make you think about what is going on in its narrative.
+It's the kind of indie game we love talking about: story rich and with depth. _Underdown_ contains a distinctive narrative constructed through the interactions of a diverse, nonconforming cast of characters and immersive plot-driven game mechanics. It aims to tug at your heartstrings and really make you think about what is going on in its narrative.
 
 ![Selma is in a wheelchair but uses her powerful skill on guards][image0]
 
@@ -76,7 +76,7 @@ However, in switching around, you will have to keep in mind the amount of moveme
 
 ## The Influences of Playstyle and Personality
 
-Although strategy may drive a lot of character switching, playstyle and narrative also have roles in motivating character changes that are not to be underestimated. Michel emphasizes that because the characters are so varied, everyone who plays can adjust to match their preferred playstyle. Some may prefer more mobility (I certainly do) while others may prefer more powerful skills. These skills themselves are narrative driven and developed based on plot-points and character development.
+Although strategy may drive a lot of character switching, playstyle and narrative also have roles in motivating character changes that are not to be underestimated. Michel emphasizes that because the characters are so varied, everyone who plays can adjust to match their preferred playstyle. Some may prefer more mobility (I certainly do) while others may prefer more powerful skills. These skills themselves are narrative-driven and developed based on plot-points and character development.
 
 Using different characters will also lead to different experiences as the characters react to obstacles, hardships, and the mysterious "force" differently. They each have very individualistic and distinctly defined personalities, and their dialogues and gameplay adhere to these differences.
 

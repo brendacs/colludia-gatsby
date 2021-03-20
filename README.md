@@ -10,7 +10,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/79bdf29b-60ff-44a4-b5d9-cd6c640dc765/deploy-status)](https://app.netlify.com/sites/indiestorygames/deploys)
 
-Indie Story Games, the story-rich indie games website built with Gatsby on Netlify.
+Indie Story Games, the story rich indie games website built with Gatsby on Netlify.
 
 ## 🚀 Quick start
 

@@ -2,7 +2,7 @@
 pageType: post
 game: 5narrativepixelartgamesdemos
 slug: /5-narrative-pixel-art-games-demos/
-title: "5 Narrative Driven Pixel Art Indie Games With Playable Demos"
+title: "5 Narrative-Driven Pixel Art Indie Games With Playable Demos"
 postType: ["picks"]
 tagline: "While none of these games are out yet, the demos will surely tide you over until they are. Bide your time, since such quality pixel art indie games with touching stories like these take quite a while for small teams to produce. They'll no doubt be worth the wait!"
 date: 2020-09-30
@@ -21,7 +21,7 @@ As I mention so often, I especially love pixel art games and am very lucky that 
 
 ![A Space for the Unbound screenshot][image0]
 
-With so many great pixel art games, I obviously found far more than 5, but these following games were my favorite story-rich gems that I feel are worth an agonizing wait. It won't be too long of a wait though as most of these games will be out later this year in 2020 or next year in 2021. You can expect longer articles on each of them from me in the coming weeks, but for now, here's an overview of each.
+With so many great pixel art games, I obviously found far more than 5, but these following games were my favorite story rich gems that I feel are worth an agonizing wait. It won't be too long of a wait though as most of these games will be out later this year in 2020 or next year in 2021. You can expect longer articles on each of them from me in the coming weeks, but for now, here's an overview of each.
 
 ## One Dreamer
 
@@ -29,7 +29,7 @@ With so many great pixel art games, I obviously found far more than 5, but these
 
 In [_One Dreamer_](https://www.one-dreamer.com/thegame/), you play as a game developer who failed by the standard definition of success, but sparked inspiration in two young kids, which if you ask me, is success in and of itself. Nonetheless, the story is an emotional one, and you get to experience and come to understand the life of an indie game developer as you code and debug your way through the game.
 
-With a phenomenal soundtrack that was composed over a period of 5 years, immersive voice acting, interactive cinematics, and over 100 snippets of code to edit, _One Dreamer_ promises to be a moving and deep narrative driven game that gives you a true taste of the heart and perseverance it takes to develop indie games.
+With a phenomenal soundtrack that was composed over a period of 5 years, immersive voice acting, interactive cinematics, and over 100 snippets of code to edit, _One Dreamer_ promises to be a moving and deep narrative-driven game that gives you a true taste of the heart and perseverance it takes to develop indie games.
 
 <iframe loading="lazy" src="https://www.youtube.com/embed/ciD0p3h72KM?modestbranding=1" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

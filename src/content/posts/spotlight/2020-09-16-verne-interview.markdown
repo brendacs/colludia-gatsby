@@ -16,7 +16,7 @@ tags: ["Verne", "Gametopia", "pixel art", "classic authors"]
 
 When Brenda and I were given the chance to interview [Gametopia](http://www.gametopiastudios.com/) for their upcoming game, _Verne_, we knew that we had to ask the team about their motivations for creating a game centered around a famous author. The title of the game is clear and to the point—this is a video game about Jules Verne, the French Novelist behind titles like _Journey to the Center of the Earth_ and _Twenty Thousand Leagues Under the Sea._ With Jules Verne's literary figures and tales of exploration at its disposal, how deep does _Verne_ go?
 
-[_Verne_](http://www.julesvernegame.com/) is a narrative experience (we love to hear those words) that follows Jules Verne as he gets sucked into a parallel world where his previous works and imaginary places have become reality. Part puzzle game, part exploration, and part branching narrative, Verne is a story-rich adventure game coming out in 2021.
+[_Verne_](http://www.julesvernegame.com/) is a narrative experience (we love to hear those words) that follows Jules Verne as he gets sucked into a parallel world where his previous works and imaginary places have become reality. Part puzzle game, part exploration, and part branching narrative, Verne is a story rich adventure game coming out in 2021.
 
 Although a demo isn't available just yet, Daniel and Diego of Gametopia enlightened us about themselves, their previous works, and about _Verne_ itself. Daniel is the game's narrative designer and pixel artist, while Diego is the CEO and senior developer—if there's anyone to ask for more about Verne, it's them.
 

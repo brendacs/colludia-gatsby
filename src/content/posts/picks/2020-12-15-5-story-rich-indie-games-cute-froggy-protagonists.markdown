@@ -4,7 +4,7 @@ game: 5storyrichindiegamescutefrogprotagonists
 slug: /5-story-rich-games-cute-frog-protagonists/
 title: "5 Story Rich Indie Games With Cute Froggy Protagonists"
 postType: ["picks"]
-tagline: "With these types of heavily text-based and narrative driven games, it's not easy to get the art direction, narrative, and emotional poignancy just right. However, I think these ones hit the spot—they have unique art, a distinctly non-generic twist on social media usage, and employ the framework of technology to tell their story well."
+tagline: "With these types of heavily text-based and narrative-driven games, it's not easy to get the art direction, narrative, and emotional poignancy just right. However, I think these ones hit the spot—they have unique art, a distinctly non-generic twist on social media usage, and employ the framework of technology to tell their story well."
 date: 2020-12-15
 releaseDate: 2021-12-31
 image: 5StoryRichIndieGamesCuteFroggyProtagonists.webp
@@ -15,7 +15,7 @@ categories:
 tags: [beautiful, art, frog, detective, travel]
 ---
 
-As I delved deeper and deeper into the indie game world, where there are an astounding number of lesser known beautifully illustrated story-rich gems, I found that a surprising number of the cutest and most interesting games had none other than our amphibious friend, the frog, as their protagonists.
+As I delved deeper and deeper into the indie game world, where there are an astounding number of lesser known beautifully illustrated story rich gems, I found that a surprising number of the cutest and most interesting games had none other than our amphibious friend, the frog, as their protagonists.
 
 Considering how many I found at once—it was just one after another for months—I knew I had to write about my discoveries. Not only is there so much variety in gameplay, art style, world, and story, but there are such unique froggy protagonists in each as well. No one frog, or one game, on this list is at all like the other.
 
@@ -83,7 +83,7 @@ The beautiful land of Amphibia filled with such a diverse cast of frogs with dif
 
 > Similar to the mobile game Neko Atsume developed by the same company, Travel Frog is a low-pressure, non-competitive game with carefully designed graphics.
 
-Though this last game is not exactly story-rich, I couldn't _not_ include it. From the developers of _Neko Atsume_, [_Tabikaeru_](https://apps.apple.com/us/app/旅かえる/id1255032913), or _Travel Frog_ when translated to English, is a relaxing game along the lines of _Tsuki Adventure_ where you play as a frog. The frog goes on adventures around Japan. The more resources you buy with clovers, the more adventures he can go on, and the more pictures and souvenirs you'll receive.
+Though this last game is not exactly story rich, I couldn't _not_ include it. From the developers of _Neko Atsume_, [_Tabikaeru_](https://apps.apple.com/us/app/旅かえる/id1255032913), or _Travel Frog_ when translated to English, is a relaxing game along the lines of _Tsuki Adventure_ where you play as a frog. The frog goes on adventures around Japan. The more resources you buy with clovers, the more adventures he can go on, and the more pictures and souvenirs you'll receive.
 
 The art, colors, and gameplay is very zen, a nice break from the chaotic world and fast-paced lifestyle many of us are accustomed to. It's worth giving a try though the game isn't translated from Japanese yet—there's even an [English guide](https://damianvila.com/tabikaeru/) to help you get started with playing the game!
 
@@ -95,7 +95,7 @@ The art, colors, and gameplay is very zen, a nice break from the chaotic world a
 
 ## Hop to It!
 
-With a surprising number of games with frog protagonists, frog-lovers and animal-lovers alike have plenty of frog-filled adventures to keep them busy. From touching to funny to adorable to relaxing, there's enough breadth and variety for any story-rich game lover who just wants to play as a charming frog once in a while.
+With a surprising number of games with frog protagonists, frog-lovers and animal-lovers alike have plenty of frog-filled adventures to keep them busy. From touching to funny to adorable to relaxing, there's enough breadth and variety for any story rich game lover who just wants to play as a charming frog once in a while.
 
 [image0]: ../../../images/post/5storyrichindiegamescutefroggyprotagonists/5StoryRichIndieGamesCuteFroggyProtagonists0.webp
 [image1]: ../../../images/post/5storyrichindiegamescutefroggyprotagonists/5StoryRichIndieGamesCuteFroggyProtagonists1.webp

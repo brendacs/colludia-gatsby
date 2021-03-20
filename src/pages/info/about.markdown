@@ -10,7 +10,7 @@ image: isg-banner.png
 
 ## An indie gaming website focused on games with stories to tell and the developers behind them.
 
-We started as a <a href="/contact" class="animated-link">couple of friends</a> who had a slight video game addiction, particularly when it came to the story heavy gems we found in the indie game scene. Within a few months, we evolved into a larger community of diverse gamers, but with the same goal in mind as always: to bring more attention to the stories indie games, and their developers, want to tell. As such, our focus remains on narrative driven games that spark a conversation as well as spotlighting the developers and studios behind them.
+We started as a <a href="/contact" class="animated-link">couple of friends</a> who had a slight video game addiction, particularly when it came to the story heavy gems we found in the indie game scene. Within a few months, we evolved into a larger community of diverse gamers, but with the same goal in mind as always: to bring more attention to the stories indie games, and their developers, want to tell. As such, our focus remains on narrative-driven games that spark a conversation as well as spotlighting the developers and studios behind them.
 
 ## The Articles
 
