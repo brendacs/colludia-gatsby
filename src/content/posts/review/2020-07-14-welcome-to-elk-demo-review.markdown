@@ -84,7 +84,7 @@ The nice thing about the mini-games is that they stay in the context of the envi
 
 The mini-games don't detract from the experience and even add to the story and personality of the town and people because they don't break away into their own unrelated events. The games are well-integrated, extra-interactive parts of the story that help you get to know Elk even more personally.
 
-For these reasons, mini-games are a core part of what differentiates _Welcome to Elk_ from other story-heavy games, especially indie ones. I believe that with these simple yet engaging mini-games, the developers more fully utilize the potential of video games as a medium for storytelling and absorbing the player into the world of Elk. Through the mini-games, the player not only just reads dialogue and walks around talking to people the whole time, but truly interacts with the characters and engages in the town's traditions.
+For these reasons, mini-games are a core part of what differentiates _Welcome to Elk_ from other story heavy games, especially indie ones. I believe that with these simple yet engaging mini-games, the developers more fully utilize the potential of video games as a medium for storytelling and absorbing the player into the world of Elk. Through the mini-games, the player not only just reads dialogue and walks around talking to people the whole time, but truly interacts with the characters and engages in the town's traditions.
 
 ![Enjoying the mini-games traditional to the town][image8]
 
