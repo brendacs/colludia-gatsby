@@ -7,7 +7,7 @@ tagline: Read about our author and editor Emily Tang. Indie Story Games is an in
 class: author
 roles: [author, editor]
 avatar: avatar-4
-bio: If I were to give myself two labels I've had for as long as I can remember, it would be gamer and writer. By writing about games, I'm able to combine my two passions, which is awesome! Of course as a writer, I love a good story, so you'll no doubt see a lot of story heavy titles from me.
+bio: I'm a student, gamer, and writer who is obsessed with the art of storytelling. Outside of writing fiction and esports articles, I love to analyze the emotional journeys that less well-known narrative-heavy games inspire at Indie Story Games. Always hungry for improvement, I study different forms of storytelling mediums in my free time such as movies, TV shows, books, and all kinds of comics.
 twitter: LustfulMango
 email: indiestorygames@gmail.com
 ---
