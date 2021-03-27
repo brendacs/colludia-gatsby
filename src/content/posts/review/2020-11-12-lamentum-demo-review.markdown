@@ -29,7 +29,7 @@ I have a strange relationship with the horror genre: casual yet complex. We see 
 
 ## Tinged Memories
 
-_Lamentum_ takes place in New England in the mid-nineteenth century. Victor Hartwell is a prosperous gentleman who is happily married to his sweetheart Alissa. The demo opens to Victor waiting in a picturesque garden for Alissa to meet him after a piano lesson. The sun is just beginning to set, the sound of a flowing fountain fills the air and an old man sits nearby enjoying a good book—beautifully peaceful.
+_Lamentum_ takes place in New England in the mid-nineteenth century. Victor Hartwell is a prosperous gentleman who is happily married to his sweetheart Alissa. The demo opens to Victor waiting in a picturesque garden for Alissa to meet him after a piano lesson. The sun is just beginning to set, the sound of a flowing fountain fills the air and an old man sits nearby enjoying a good book — beautifully peaceful.
 
 And when given control, I took the opportunity to have a lovely stroll around the garden. By that, I mean acquaint myself with the controls as quickly as possible and practice running like the wind. I wasn’t about to be lulled by the peaceful introduction, nice though it was.
 
@@ -37,7 +37,7 @@ I probably invited some very questioning looks from the old man as I darted in a
 
 ![][image0]
 
-Reflexes honed and ready, I decided to convince him that I am in full possession of my mental faculties by engaging in pleasant conversation. Victor inquires what book he is reading—the old man’s response: “The Masque of the Red Death by Edgar Allan Poe. The tale of Prince Prospero’s futile efforts to avoid death... a task we all know is impossible.” Victor derives a message of hope and determination from this summary and proudly states he would do the same.
+Reflexes honed and ready, I decided to convince him that I am in full possession of my mental faculties by engaging in pleasant conversation. Victor inquires what book he is reading — the old man’s response: “The Masque of the Red Death by Edgar Allan Poe. The tale of Prince Prospero’s futile efforts to avoid death... a task we all know is impossible.” Victor derives a message of hope and determination from this summary and proudly states he would do the same.
 
 The old man replies, “Don’t you confuse hope with impossible longings.” A simple statement of aged wisdom, but one which carries so much resonance. I felt its weight in my mind like a stone falling into a river, and ripples had begun forming.
 
@@ -81,13 +81,13 @@ As much I loved this execution and the intricate effects, I felt this could have
 
 Here is where _Lamentum’s_ survival horror action begins. Victor awakes severely wounded in a room eerily similar to the one Alissa was in when bedbound. The visuals take on a more grainy effect and the soundscape changes from melodic piano to intense layered echoes of sounds reminiscent of pulses and ethereal breaths.
 
-With headphones on, this is especially unnerving; it feels so close and claustrophobic—an inverse ASMR experience. I have quite the fondness for ASMR, so this absolutely upped the horror factor for me —shiver central, and not the good kind. Exactly what you want from a gritty horror title!
+With headphones on, this is especially unnerving; it feels so close and claustrophobic — an inverse ASMR experience. I have quite the fondness for ASMR, so this absolutely upped the horror factor for me — shiver central, and not the good kind. Exactly what you want from a gritty horror title!
 
 ![][image5]
 
 Victor then starts to make his way through the mansion searching for Alissa and comes face to face with a grotesque horror now roaming the halls. Creatures with huge gaping maws oozing with blood that encompass their whole upper half are tearing bloody chunks of flesh from their human prey.
 
-Anyone familiar with Lovecraft’s tales will recognize the influences. Their gurgling sounds reverberating in the player’s ears are genuinely stomach-turning—another example of _Lamentum’s_ stellar sound design. Weapons and ammunition are few and far between, meaning sometimes you have to simply try and outrun them before they rip you apart.
+Anyone familiar with Lovecraft’s tales will recognize the influences. Their gurgling sounds reverberating in the player’s ears are genuinely stomach-turning — another example of _Lamentum’s_ stellar sound design. Weapons and ammunition are few and far between, meaning sometimes you have to simply try and outrun them before they rip you apart.
 
 See, diving in and out of hedges comes in handy!
 
@@ -95,7 +95,7 @@ See, diving in and out of hedges comes in handy!
 
 ## Exploration of Desperation
 
-The inspiration from games like _Resident Evil_ begin to shine through in the exploration and puzzles, collecting keys and symbols while dodging the tentacled grasp of the ravenous horrors. But the addition of certain item tasks and elements make it its own—a fear-riddled servant asking you bring them a rope and healing Victor’s wounds with laudanum (a highly addictive and readily available opiate from the 1800s) hammered home the depths of despair and desperation that both Grau Hill and Victor have sunk to.
+The inspiration from games like _Resident Evil_ begin to shine through in the exploration and puzzles, collecting keys and symbols while dodging the tentacled grasp of the ravenous horrors. But the addition of certain item tasks and elements make it its own — a fear-riddled servant asking you bring them a rope and healing Victor’s wounds with laudanum (a highly addictive and readily available opiate from the 1800s) hammered home the depths of despair and desperation that both Grau Hill and Victor have sunk to.
 
 The ultimate depiction of this is the White Lady statue, the colossal centerpiece of the main hall. Originally depicting a benevolent lady bearing a healing chalice to a sickly woman, it becomes a tentacled Cthulhu-esque demon draining the stricken woman of blood. The most depraved inclinations of the Old Ones awakened from the most innocent intentions and blinded desperation.
 
@@ -103,7 +103,7 @@ The ultimate depiction of this is the White Lady statue, the colossal centerpiec
 
 As I said, my relationship with horror is complicated. But I can definitely see _Lamentum_ and I being a regular thing when it’s released. The macabre yet evocative imagery, the wonderfully unsettling sound design and hard-hitting subtext make for a terrifying descent into darkness. For those who wish to make the journey, a strong constitution and steady mind are a must.
 
-Keep a straitjacket handy in 2021—your sanity is about to be tested!
+Keep a straitjacket handy in 2021 — your sanity is about to be tested!
 
 [image0]: ../../../images/post/lamentum/Lamentum0.webp
 [image1]: ../../../images/post/lamentum/Lamentum1.webp

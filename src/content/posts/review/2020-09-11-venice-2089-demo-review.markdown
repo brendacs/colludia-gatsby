@@ -86,7 +86,7 @@ Although she’s sarcastic and a meme queen, Nova means well and has virtues tha
 
 ## Into The Sunset
 
-_Venice 2089_ is a romp through small town suburbia that taps into the feelings of youth in revolt, the small town blues, and modern meme culture. Check out the demo and look out for the full release in the future. Who knows, there might even be a way to save the town—but for now, hop on your hoverboard and ride out the waning days of Venice in style.
+_Venice 2089_ is a romp through small town suburbia that taps into the feelings of youth in revolt, the small town blues, and modern meme culture. Check out the demo and look out for the full release in the future. Who knows, there might even be a way to save the town — but for now, hop on your hoverboard and ride out the waning days of Venice in style.
 
 ![][image8]
 

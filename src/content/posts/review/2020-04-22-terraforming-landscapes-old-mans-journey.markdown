@@ -34,7 +34,9 @@ The two short hours I spent on this during my spare time in the morning were pac
 
 ## Beautiful Memories and Remnants of Regret
 
-As the old man gets to different rest stops—maybe a bench by a large tree, or a bus stop for his next ride—he'll take a break and reflect on the beautiful memories that the environment around him reminds him of. Through his reflection, we get to see both happy and sorrowful remnants of his past, which are as vibrantly illustrated as the rest of this game. You learn of his story, his youth when he was always drawn to sea, and his family who holds a dear yet painful spot in his heart.
+As the old man gets to different rest stops — maybe a bench by a large tree, or a bus stop for his next ride — he'll take a break and reflect on the beautiful memories that the environment around him reminds him of.
+
+Through his reflection, we get to see both happy and sorrowful remnants of his past, which are as vibrantly illustrated as the rest of this game. You learn of his story, his youth when he was always drawn to sea, and his family who holds a dear yet painful spot in his heart.
 
 These cutscenes of his life were the best part of the game for me. The atmosphere was already set by his environment, and the background music and ambience fit perfectly. When the flashbacks happened, I was already prepared for the mood of the scene and the emotions in the snippets of his youth I was allowed to glimpse.
 
@@ -42,9 +44,13 @@ These cutscenes of his life were the best part of the game for me. The atmospher
 
 ## It's Not All Green Grass and Blue Skies
 
-The first locations he visits are the nearby town and sprawling hillsides; because of the atmosphere of the game's opening, the art I'd seen for it, and the style of the first few landscapes, I believed that the game would be peaceful and calming all the way through. I was wrong. Eventually, just as in life, we have to face rough weather and stormy seas—the storm in his own mind also grows as he remembers his regrets from his past.
+The first locations he visits are the nearby town and sprawling hillsides; because of the atmosphere of the game's opening, the art I'd seen for it, and the style of the first few landscapes, I believed that the game would be peaceful and calming all the way through.
 
-Despite the weather no longer matching that of the weather outside my own window and my anxiety levels rising a bit as I realized he was in a thunderstorm with short sleeves, I loved the symbolism here. The external atmosphere matched his inner feelings, and most importantly, the weather and ambience, as mentioned earlier, sets the mood for each sorrowful flashback he has in the area.
+I was wrong.
+
+Eventually, just as in life, we have to face rough weather and stormy seas — the storm in his own mind also grows as he remembers his regrets from his past.
+
+Despite the weather no longer matching that of the weather outside my own window and my anxiety levels rising as I realized he was in a thunderstorm with short sleeves, I loved the symbolism. The external atmosphere matched his inner feelings, and the weather and ambience sets the mood for each sorrowful flashback he has in the area.
 
 The puzzles in the stormy area also became more challenging at this point and required more thinking than merely moving hills and sheep around. The variation in puzzles was nice since it made for less repetitive gameplay, albeit only being able to do a limited set of actions throughout the game.
 
@@ -52,7 +58,7 @@ The puzzles in the stormy area also became more challenging at this point and re
 
 ## A Walk Down Memory Lane
 
-Eventually, the storm does clear, and the old man's journey comes to an end—as does our own. His trip was a true walk down memory lane, filled with as many ups and downs as the hills themselves. The ending was tear-jerking yet heartwarming and a fitting close to his trek.
+Eventually, the storm does clear, and the old man's journey comes to an end — as does our own. His trip was a true walk down memory lane, filled with as many ups and downs as the hills themselves. The ending was tear-jerking yet heartwarming and a fitting close to his trek.
 
 ![Sunset and sailboat in Old Man's Journey][image5]
 

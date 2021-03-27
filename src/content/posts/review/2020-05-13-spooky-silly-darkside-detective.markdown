@@ -24,11 +24,13 @@ Though the game was released in 2017, a [Kickstarter](https://www.kickstarter.co
 
 ## The Dynamic Duo
 
-Before we get into the main gameplay, I want to talk about the two main characters because they really make the game what it is. The Darkside Detective is a true example of chunky pixel art allowing your imagination to run free when it comes to emotion and human expression. Despite Detective McQueen and Officer Dooley having no actual face, you can easily imagine what their expressions might be when they engage in their silly banter due to the lively dialogue.
+Before we get into the main gameplay, I want to talk about the two main characters because they really make the game what it is.
+
+The Darkside Detective is a true example of chunky pixel art allowing your imagination to run free when it comes to emotion and human expression. Despite Detective McQueen and Officer Dooley having no actual face, you can easily imagine what their expressions might be when they engage in their silly banter due to the lively dialogue.
 
 I personally thought McQueen was going to be a more serious character than he really was. At first, Dooley seemed to me like the carefree foil to McQueen's seriousness, but soon learned that it wasn't the case when I watched McQueen get nervous to talk to his ghost idols in one scene and name a purple tentacle he became attached to in another. His personality turned out to be quite goofy and endearing.
 
-No matter how you yourself imagine them, the detective's dry humor and Dooley's airheadedness create an inseparable, irreplaceable duo that will make you ceaselessly laugh throughout the game—or otherwise roll your eyes at Dooley's latest antic.
+No matter how you yourself imagine them, the detective's dry humor and Dooley's airheadedness create an inseparable, irreplaceable duo that will make you ceaselessly laugh throughout the game — or otherwise roll your eyes at Dooley's latest antic.
 
 ![Detective McQueen names the purple toilet tentacle][image1]
 
@@ -42,7 +44,9 @@ Though each case can be standalone and a separate episode in itself, there is at
 
 <figcaption>Detective McQueen and Dooley, about to step over to the Darkside.</figcaption>
 
-In some moments, you're also able to gain insight into the lives of McQueen and Dooley, who are under-appreciated and under-funded at work, but both have their own interests, passions, and ambitions. Dooley even has a website—no really, a real one existing on the internet today—that you can discover during your playthrough. I'd love to share a screenshot here and help promote his website so he can earn more ad revenue, but I won't spoil it for you.
+In some moments, you're also able to gain insight into the lives of McQueen and Dooley, who are under-appreciated and under-funded at work, but both have their own interests, passions, and ambitions.
+
+Dooley even has a website — no really, a real one existing on the internet today — that you can discover during your playthrough. I'd love to share a screenshot here and help promote his website so he can earn more ad revenue, but I won't spoil it for you.
 
 ![Detective McQueen and Dooley duscussing McQueens plans of seeing the world][image3]
 
@@ -50,7 +54,7 @@ In some moments, you're also able to gain insight into the lives of McQueen and 
 
 Whether in a mansion, a train, or at a retirement party at work, cases can arise as long as goblins and ghouls are around, and you work with the tireless McQueen and Dooley to get to the bottom of each.
 
-Along the way, you meet souls from the Darkside, peculiar monsters, famous ghosts, and sometimes actual human beings all of which either help or hinder your progress as you run around solving cases in the best ways possible—such as letting a purple toilet tentacle (yes, the same one McQueen became fond of and named) hold a key item to be flushed into another dimension.
+Along the way, you meet souls from the Darkside, peculiar monsters, famous ghosts, and sometimes actual human beings all of which either help or hinder your progress as you run around solving cases in the best ways possible — such as letting a purple toilet tentacle (yes, the same one McQueen became fond of and named) hold a key item to be flushed into another dimension.
 
 The puzzles in each case were all solved in similarly amusing ways, which is a large part of what makes this game unique. Most puzzles in games are fun to solve and have interesting premises, but the solutions in _The Darkside Detective_ were more comical than in any other mystery or point-and-click adventure game I've played.
 
@@ -68,7 +72,9 @@ The puzzles in each case were all solved in similarly amusing ways, which is a l
 
 ## A Pixelated Comedy-Horror Worth Your Time
 
-Despite technically being horror and having a great soundtrack that adds to the air of mystery, the game is lighthearted in nature with dialogue, characters, and puzzle solutions that make you joyful rather than fearful. The scenarios in each case are very specific and the puzzles are mostly straightforward, so all the cases end up being short and sweet. Most won't take you more than 30 minutes, yet are dense in entertainment, bizarre characters, and punchlines that land.
+Despite technically being horror and having a great soundtrack that adds to the air of mystery, the game is lighthearted in nature with dialogue, characters, and puzzle solutions that make you joyful rather than fearful.
+
+The scenarios in each case are very specific and the puzzles are mostly straightforward, so all the cases end up being short and sweet. Most won't take you more than 30 minutes, yet are dense in entertainment, bizarre characters, and punchlines that land.
 
 ![Detective McQueen and Dooley outside of the library talking][image7]
 

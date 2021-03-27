@@ -16,7 +16,7 @@ tags: [tacoma, "sci fi", "narrative-driven", exploration, fullbright]
 
 Amitjyoti “Amy” Ferrier, the protagonist, is an agent sent by the company Venturis Corporation to board an orbital station, called [_Tacoma_](https://tacoma.game/), which connects to a resort on the moon. Now abandoned and in chaos, your job is to retrieve the station’s data, which contains the crew’s memories of their last days on board via augmented reality surveillance that captured every move and spoken word.
 
-If you couldn’t already tell, I love games that attempt to elicit empathy from the gamer, and rarely do I get a sci-fi story so steeped in character-driven narrative. _Tacoma_ almost made me feel like I was intruding on someone’s diary—their intimate and most vulnerable memories opened up before me with just the touch of a button. I’m sure that’s what Amy would have felt too, as the agent accessing all the data.
+If you couldn’t already tell, I love games that attempt to elicit empathy from the gamer, and rarely do I get a sci-fi story so steeped in character-driven narrative. _Tacoma_ almost made me feel like I was intruding on someone’s diary — their intimate and most vulnerable memories opened up before me with just the touch of a button. I’m sure that’s what Amy would have felt too, as the agent accessing all the data.
 
 ![Meet Amy.][image0]
 
@@ -26,7 +26,7 @@ Are you ready to board _Tacoma_? Buckle up, because memory lane is sometimes an 
 
 ## Meet the Crew
 
-As I collected data from the different bays of the ship, I got to know the fictional six-person crew—their names, their loves, and their lives as they worked alongside each other. I entered their rooms and listened to uncorrupted audio files of guitar practice sessions, or read text messages on their desktops that essentially said “I miss you lots”. With the coronavirus quarantine and social isolation happening, these kinds of texts hit harder now than ever. It’s easy to understand what kind of emotions are running through the sender and recipient’s hearts as they communicated throughout the lightyears. These are the things most people don’t see: the vulnerable, intense moments of life that happen behind closed doors.
+As I collected data from the different bays of the ship, I got to know the fictional six-person crew — their names, their loves, and their lives as they worked alongside each other. I entered their rooms and listened to uncorrupted audio files of guitar practice sessions, or read text messages on their desktops that essentially said “I miss you lots”. With the coronavirus quarantine and social isolation happening, these kinds of texts hit harder now than ever. It’s easy to understand what kind of emotions are running through the sender and recipient’s hearts as they communicated throughout the lightyears. These are the things most people don’t see: the vulnerable, intense moments of life that happen behind closed doors.
 
 ![What people don't see.][image1]
 
@@ -46,13 +46,13 @@ Sometimes, the data will load several conversations made up of different people 
 
 <figcaption>Listen carefully, or you'll miss something!</figcaption>
 
-By sifting through personal computer files, I uncovered each silhouette's face—and not just their faces, but also the faces of their families and friends. The artistic choice to make the portraits look realistic helped with the immersion, as if when we reach the year 2088, we could be one of many crews on an orbital station missing home just as much.
+By sifting through personal computer files, I uncovered each silhouette's face — and not just their faces, but also the faces of their families and friends. The artistic choice to make the portraits look realistic helped with the immersion, as if when we reach the year 2088, we could be one of many crews on an orbital station missing home just as much.
 
 And the best part was that everything typed or voiced was written realistically. The writers did an amazing job conveying their ideas for every moment and piece of background information. I can’t get enough of the information I gleaned from invading the characters’ private spaces, just to know what happened to them.
 
 ## Back to Reality
 
-At its core, _Tacoma_ is a game about relationships. Not just romantic relationships, but all the ones that come with the act of existing. Friends, families, lovers—this game has it all, and it wrapped me up in complexities that stayed with me for a long time. Human compassion is amazing in the wake of a crisis, and sometimes it takes something terrible to strengthen bonds. However, by no means do I believe terrible things need to happen for these things to occur, just that we’re at the world’s mercy—and each other’s. _Tacoma_ does an awesome job of reminding us of not only the bad times, but also of the good moments that come in between the chaos.
+At its core, _Tacoma_ is a game about relationships. Not just romantic relationships, but all the ones that come with the act of existing. Friends, families, lovers — this game has it all, and it wrapped me up in complexities that stayed with me for a long time. Human compassion is amazing in the wake of a crisis, and sometimes it takes something terrible to strengthen bonds. However, by no means do I believe terrible things need to happen for these things to occur, just that we’re at the world’s mercy — and each other’s. _Tacoma_ does an awesome job of reminding us of not only the bad times, but also of the good moments that come in between the chaos.
 
 ![Nothing beats celebrating Obsolescence Day with the fam.][image3]
 

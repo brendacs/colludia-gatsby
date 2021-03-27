@@ -14,11 +14,11 @@ categories: [adventure, puzzle, interview, spotlight, story]
 tags: ["Verne", "Gametopia", "pixel art", "classic authors"]
 ---
 
-When Brenda and I were given the chance to interview [Gametopia](http://www.gametopiastudios.com/) for their upcoming game, _Verne_, we knew that we had to ask the team about their motivations for creating a game centered around a famous author. The title of the game is clear and to the point—this is a video game about Jules Verne, the French Novelist behind titles like _Journey to the Center of the Earth_ and _Twenty Thousand Leagues Under the Sea._ With Jules Verne's literary figures and tales of exploration at its disposal, how deep does _Verne_ go?
+When Brenda and I were given the chance to interview [Gametopia](http://www.gametopiastudios.com/) for their upcoming game, _Verne_, we knew that we had to ask the team about their motivations for creating a game centered around a famous author. The title of the game is clear and to the point — this is a video game about Jules Verne, the French Novelist behind titles like _Journey to the Center of the Earth_ and _Twenty Thousand Leagues Under the Sea._ With Jules Verne's literary figures and tales of exploration at its disposal, how deep does _Verne_ go?
 
 [_Verne_](http://www.julesvernegame.com/) is a narrative experience (we love to hear those words) that follows Jules Verne as he gets sucked into a parallel world where his previous works and imaginary places have become reality. Part puzzle game, part exploration, and part branching narrative, Verne is a story rich adventure game coming out in 2021.
 
-Although a demo isn't available just yet, Daniel and Diego of Gametopia enlightened us about themselves, their previous works, and about _Verne_ itself. Daniel is the game's narrative designer and pixel artist, while Diego is the CEO and senior developer—if there's anyone to ask for more about Verne, it's them.
+Although a demo isn't available just yet, Daniel and Diego of Gametopia enlightened us about themselves, their previous works, and about _Verne_ itself. Daniel is the game's narrative designer and pixel artist, while Diego is the CEO and senior developer — if there's anyone to ask for more about Verne, it's them.
 
 ![][image0]
 
@@ -78,7 +78,7 @@ Another important challenge is the performance optimization, when you start with
 
 The game focuses on a key year for Jules Verne, 1863, when he just started publishing but hadn’t written his best works yet.
 
-<span class="blue-q">We read on the site that the player can use "an Atlantean ancient device that allows to rewrite the story and change Verne’s fate on certain moments." We've never heard of something like this in a game and am super curious about how this would work—is it like an undo or edit button?</span>
+<span class="blue-q">We read on the site that the player can use "an Atlantean ancient device that allows to rewrite the story and change Verne’s fate on certain moments." We've never heard of something like this in a game and am super curious about how this would work — is it like an undo or edit button?</span>
 
 **Diego:** This is one of our main mechanics, the use of the "Imag", it’s a device that allows to rewrite what has just happened at certain moments of the game, through different options such going back in time or creating some tools and events. For example, if you are trying to escape from a room, you can create an event that causes enemies to act differently and you can avoid them.
 
@@ -98,7 +98,7 @@ These will be predefined actions that you can use at certain moments in the game
 
 ![][image6]
 
-<span class="blue-q">Our favorite bullet point is this gem that states _Verne_ is "a thrilling story that reflects the ability of the human being to imagine and tell stories." How do you plan to carry this out—perhaps through gamifying Verne's works or through the player's ability to reconstruct the stories themselves?</span>
+<span class="blue-q">Our favorite bullet point is this gem that states _Verne_ is "a thrilling story that reflects the ability of the human being to imagine and tell stories." How do you plan to carry this out — perhaps through gamifying Verne's works or through the player's ability to reconstruct the stories themselves?</span>
 
 **Daniel:** Through the story of the game. Although, we have a main plot around a worldwide war conflict and the mysteries of Atlantis. All the storytelling is about the ability of the protagonist, Jules Verne, to tell those stories and how those characters, like Captain Nemo, live beyond their works, they become immortal and to this day, they are part of our society.
 

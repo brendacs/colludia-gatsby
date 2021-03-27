@@ -21,7 +21,7 @@ tags:
   ]
 ---
 
-Jerry Hazelnut, a young boy on his very last day of summer vacation, has always wanted to be a magician. With the help of a particular white rabbit (or, is Jerry helping the rabbit?), his once in a lifetime chance to fulfill his dream has come. Suddenly, the mundane world that he’s so used to living in is full of a different kind of life—a mystical kind of life.
+Jerry Hazelnut, a young boy on his very last day of summer vacation, has always wanted to be a magician. With the help of a particular white rabbit (or, is Jerry helping the rabbit?), his once in a lifetime chance to fulfill his dream has come. Suddenly, the mundane world that he’s so used to living in is full of a different kind of life — a mystical kind of life.
 
 As a writer who dreamed a whole bunch as a child, [_The Night of the Rabbit_](https://store.steampowered.com/app/230820/The_Night_of_the_Rabbit/) made me relive the time when I had nothing to worry about except how to spend my summer days. If I could describe this game in one sentence, it is setting out on an adventure without worrying when you’ll be back, full of energy and the potential to change the world.
 
@@ -49,7 +49,7 @@ In addition to the storyline, there’s a couple of minigames to partake in. Tho
 
 ## Time To Go Home
 
-I really loved playing _The Night of the Rabbit_ from start to finish. One of the things that will stick with me most from this game is the soundtrack. Sometimes I’ll put on the music while I do work—you can hear the love that went into making the game as immersive and magical as possible. While some of the puzzles were hard to figure out, it was a worthwhile journey to embark on. _The Night of the Rabbit_ is a storybook come to life, especially as Jerry is thrust from the mundane world to the very eventful Mousewood.
+I really loved playing _The Night of the Rabbit_ from start to finish. One of the things that will stick with me most from this game is the soundtrack. Sometimes I’ll put on the music while I do work — you can hear the love that went into making the game as immersive and magical as possible. While some of the puzzles were hard to figure out, it was a worthwhile journey to embark on. _The Night of the Rabbit_ is a storybook come to life, especially as Jerry is thrust from the mundane world to the very eventful Mousewood.
 
 ![Welcome home.][image3]
 

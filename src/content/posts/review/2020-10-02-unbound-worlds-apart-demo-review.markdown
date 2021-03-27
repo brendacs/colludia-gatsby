@@ -30,7 +30,7 @@ tags:
 
 To put it in simple words: Metroidvanias are my jam.
 
-Some of my all-time favorites in modern gaming include the likes of _Hollow Knight_, _Rogue Legacy_ (with a sequel on the way!), and the _SteamWorld Dig_ series. Growing up, I even got to experience the very game that helped give life to the genre as we know it—_Castlevania: Symphony of the Night._
+Some of my all-time favorites in modern gaming include the likes of _Hollow Knight_, _Rogue Legacy_ (with a sequel on the way!), and the _SteamWorld Dig_ series. Growing up, I even got to experience the very game that helped give life to the genre as we know it — _Castlevania: Symphony of the Night._
 
 I got to play a plethora of equally excellent puzzle games in my lifetime, but the ones that always stood out most to me are Number None's one-of-a-kind _Braid,_ Airtight Games' criminally underrated _Quantum Conundrum_, and Valve's magnum opus puzzler, _Portal_.
 
@@ -46,7 +46,7 @@ Even after spending a mere 30 minutes with its prologue, I could tell [_Unbound:
 
 As soon as I started my new game, I found myself immediately in control of the game's main character, Soli, a tiny, red-robed mage with the ability to conjure portals (and a cute little flame lit on his head). I was placed smack-dab in the middle of a beautiful, verdant field among a sea of elevated honeycomb-like huts that faded ever-so smoothly into the background.
 
-Walking to the right of the screen revealed more of these huts, and along the way, I was faced with a series of jumps—a light exercise likely meant to test the game's simple yet smooth controls. Soon after, I ran into a group of villagers that, frankly, kind of just looked like bigger, older versions of Soli, who is probably a sorcerer's apprentice at best.
+Walking to the right of the screen revealed more of these huts, and along the way, I was faced with a series of jumps — a light exercise likely meant to test the game's simple yet smooth controls. Soon after, I ran into a group of villagers that, frankly, kind of just looked like bigger, older versions of Soli, who is probably a sorcerer's apprentice at best.
 
 The elder in green robes gave me the task of finding my brother before "The Ceremony" starts, so I set off to the village's walls, flip a lever to lower the gate and head out into the nearby forest to look for my lost kin.
 
@@ -56,7 +56,7 @@ Quick tangent: _Unbound: Worlds Apart's_ visual designers truly nailed the playe
 
 <figcaption>The catastrophe begins.</figcaption>
 
-Before I knew it, a set of intricately detailed cutscenes play, depicting the game's inciting incident that serve as the catalyst for Soli's journey—the catastrophe.
+Before I knew it, a set of intricately detailed cutscenes play, depicting the game's inciting incident that serve as the catalyst for Soli's journey — the catastrophe.
 
 As he is away searching for his brother, a portal to another world opens up in the center of Soli's village, which releases a legion of wicked creatures from another realm that go on to decimate our protagonist's home and all the people in it.
 
@@ -88,7 +88,7 @@ If you will, take a closer look at the environment between the inside and the ou
 
 They are completely different!
 
-Soli's world—the outside of the portal—looks peaceful, even inviting for an in-game cave. However, the other world by comparison is more akin to that of the Underworld: pouring over with equally dark and bright shades of red and orange tones, and chockful of unspoken, Lovecraftian horrors just waiting for you on the other side.
+Soli's world — the outside of the portal — looks peaceful, even inviting for an in-game cave. However, the other world by comparison is more akin to that of the Underworld: pouring over with equally dark and bright shades of red and orange tones, and chockful of unspoken, Lovecraftian horrors just waiting for you on the other side.
 
 And that's just it.
 

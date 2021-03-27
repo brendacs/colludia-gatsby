@@ -26,7 +26,7 @@ Maybe the characters in this story will look back, too, one day and remember wha
 
 _Emily is Away_ is in a weird spot for me emotionally in that there's both nostalgia and current relevance. On one hand, I remember the awkward conversations on the messenger program AIM, the cute profile pictures that changed like the weather, and the clickety sounds of old keyboards and fat laptops. On the other hand, the characters experience what college is like, a common stage in many people’s lives, that I’m currently living through.
 
-The story is set over the course of five years, with the main character and Emily speaking what seems like once every year as they fly through college. It's not so much a coming-of-age story as it is a cold splash of reality thrown into my face—the conversations unravel a story about the two main characters in a way that doesn't waste any time. I felt a little bit of those old days seep into my gameplay.
+The story is set over the course of five years, with the main character and Emily speaking what seems like once every year as they fly through college. It's not so much a coming-of-age story as it is a cold splash of reality thrown into my face — the conversations unravel a story about the two main characters in a way that doesn't waste any time. I felt a little bit of those old days seep into my gameplay.
 
 ![Instant messaging dialogue with response choices][image1]
 
@@ -40,7 +40,7 @@ I remember playing this the first time and choosing all the options that point t
 
 I thought the dialogue was so realistic that I found myself relating to both the main character and Emily (and not just because it's my name). The part that hit home hardest for me is during the last chapter, which I think most people can also relate to. As the main character and Emily finish up college and are about to graduate, you get to choose what the main character says.
 
-The only difference in this part of the story is that instead of saying what they really wanted, the main character backspaces to ask instead about things that don’t actually matter. Seeing it happen was powerful, and was definitely a reflection of my youth. It also tinged the entire story with a kind of melancholic feeling that shows reality hurts in ways that are often unexpected—especially when you did everything to prevent it from happening in the first place.
+The only difference in this part of the story is that instead of saying what they really wanted, the main character backspaces to ask instead about things that don’t actually matter. Seeing it happen was powerful, and was definitely a reflection of my youth. It also tinged the entire story with a kind of melancholic feeling that shows reality hurts in ways that are often unexpected — especially when you did everything to prevent it from happening in the first place.
 
 ## Emily Is Offline
 

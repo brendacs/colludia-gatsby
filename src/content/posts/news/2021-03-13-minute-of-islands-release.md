@@ -3,7 +3,7 @@ pageType: post
 slug: /minute-of-islands-release/
 title: Take a Minute to Check Out Minute of Islands
 postType: [news]
-tagline: "Minute of Islands is a beautifully illustrated story rich adventure coming to PC, Mac, and the Nintendo Switch. We're super excited to experience the journey in this rich world that promises to be full of stories, emotion, and quirky characters."
+tagline: "Minute of Islands is a beautifully illustrated story rich adventure coming to PC, Mac, and the Nintendo Switch. I'm super excited to experience the journey in this rich world that promises to be full of stories, emotion, and quirky characters."
 date: 2021-03-13
 releaseDate: 2021-03-13
 image: MinuteOfIslands.webp
@@ -21,7 +21,7 @@ tags:
   ]
 ---
 
-[Minute of Islands](https://minute-of-islands.com/) from [Studio Fizbin](https://twitter.com/studiofizbin) and [Mixtvision Games](https://mixtvision.games/) is a beautifully illustrated story rich adventure [coming to PC](https://store.steampowered.com/app/1049710/Minute_of_Islands/), Mac, and the [Nintendo Switch](https://www.nintendo.com/games/detail/minute-of-islands-switch/) on March 18, 2021. We're super excited to experience the journey in this rich world that promises to be full of stories, emotion, and quirky characters.
+[Minute of Islands](https://minute-of-islands.com/) from [Studio Fizbin](https://twitter.com/studiofizbin) and [Mixtvision Games](https://mixtvision.games/) is a beautifully illustrated story rich adventure [coming to PC](https://store.steampowered.com/app/1049710/Minute_of_Islands/), Mac, and the [Nintendo Switch](https://www.nintendo.com/games/detail/minute-of-islands-switch/) on March 18, 2021. I'm super excited to experience the journey in this rich world that promises to be full of stories, emotion, and quirky characters.
 
 **Update: As of March 2021, there is no longer a release date. For more information, check out [Minute of Islands on Twitter](https://twitter.com/MinuteofIslands).**
 
@@ -39,6 +39,6 @@ Their narrative and gameplay is handled in a way that reminds me of [Welcome to 
 
 While the gameplay sounds intriguing enough by itself, attention also has to be given to the comic art style 2D visuals too. The illustrations are intricate, the colors are vibrant, and the scenes are awe-inspiring. In fact, the art is so nice that many of your screenshots could probably make for beautiful [desktop wallpapers](https://minute-of-islands.com/download-goodies/).
 
-We're absolutely looking forward to picking up this title and spending many, many minutes playing Minute of Islands.
+I'm absolutely looking forward to picking up this title and spending many, many minutes playing Minute of Islands.
 
 [image0]: ../../../images/post/minuteofislands/MinuteOfIslands0.webp

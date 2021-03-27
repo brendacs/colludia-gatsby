@@ -42,7 +42,7 @@ Despite my glowing review, which you can read in full [here](https://indiestoryg
 
 <figcaption>Everything is a mess from my pointing and clicking, contrasting with the calm and cozy pair.</figcaption>
 
-Needless to say, my experience with the full game was just as amazing, and I'm very excited to be able to talk more about it now. But don't worry, I won't spoil too much—I'll just rave enough about it that you'll feel compelled get the game and find out for yourself what I'm being so cryptic about.
+Needless to say, my experience with the full game was just as amazing, and I'm very excited to be able to talk more about it now. But don't worry, I won't spoil too much — I'll just rave enough about it that you'll feel compelled get the game and find out for yourself what I'm being so cryptic about.
 
 ## Contrasting Memories
 
@@ -54,15 +54,15 @@ In the prologue, as I aptly wrote previously, "As you tamper with various househ
 
 <figcaption>Onto the next adventure, my dear?</figcaption>
 
-While solving puzzles and then walking out doors into another scene does continue to be the case, what changes are the locations and the couple—they exist together in many more spaces than just their home, but things aren't always so nice and cuddly.
+While solving puzzles and then walking out doors into another scene does continue to be the case, what changes are the locations and the couple — they exist together in many more spaces than just their home, but things aren't always so nice and cuddly.
 
-In the less pleasant moments, I learned that I was right about the symbolism of the prologue—the shattered plants did mean something beyond a mess to clean up after all. There'd be more of this symbolism throughout the game, just subtle enough to be easily missed, but present enough that you won't if you're truly immersed in Eda's story. Whether in the form of knocked over plants, messed up rooms, or blackened feathers, everything that happens contributes to the deeper narrative.
+In the less pleasant moments, I learned that I was right about the symbolism of the prologue — the shattered plants did mean something beyond a mess to clean up after all. There'd be more of this symbolism throughout the game, just subtle enough to be easily missed, but present enough that you won't if you're truly immersed in Eda's story. Whether in the form of knocked over plants, messed up rooms, or blackened feathers, everything that happens contributes to the deeper narrative.
 
 ![Eda, in her room, is angry and has thrown her violin to the ground, shattering it.][image3]
 
 <figcaption>Eda is frustrated with her violin... very frustrated.</figcaption>
 
-After the bright and tranquil prologue chapter ends, we're suddenly thrust into a much darker setting, one that is tinged with loss. The contrast is as stark as black and white—kind of literally. The color changes from an innocent white to a bitter black, the music becomes despondent, and I had a feeling I was soon to discover the questions clouding my mind after the prologue.
+After the bright and tranquil prologue chapter ends, we're suddenly thrust into a much darker setting, one that is tinged with loss. The contrast is as stark as black and white — kind of literally. The color changes from an innocent white to a bitter black, the music becomes despondent, and I had a feeling I was soon to discover the questions clouding my mind after the prologue.
 
 Eda is obviously in pain and in a daze, but she snaps to attention once she hears a familiar tune coming from a nearby door. After solving a simple puzzle, we enter the door and see a caged shadow of a man, which I of course recognized right away as the same one from the demo prologue. As we stay in that room, various memories start flooding us and we go through them one by one, exploring Eda's past and her sweet relationship with a tragically bitter end.
 
@@ -78,7 +78,7 @@ The rest was history.
 
 ![Owl wraps a big warm scarf around Eda as a breeze blows leaves by.][image5]
 
-Their first date was over cups of tea, where I got to make the tea for them myself—definitely one of my favorite puzzles ever. From there, I solved all kinds of other puzzles to continue opening doors, ranging from the typical lock combinations often frequenting room escape games to washing laundry and doing actual origami.
+Their first date was over cups of tea, where I got to make the tea for them myself — definitely one of my favorite puzzles ever. From there, I solved all kinds of other puzzles to continue opening doors, ranging from the typical lock combinations often frequenting room escape games to washing laundry and doing actual origami.
 
 The puzzles that simulated real-life activities so closely were a pleasant surprise and lovely to complete, considering many room escapes involve some pretty questionable puzzles and situations that wouldn't occur in reality. I admit I got pretty stuck every now and then, but the next part of the story and the next scene was always more than worth the effort.
 

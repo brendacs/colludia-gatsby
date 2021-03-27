@@ -58,7 +58,7 @@ _Night in the Woods_ is absolutely riddled with these playful moments, and while
 
 Following her little adventure, Mae runs into her aunt, Molly, an officer for the local police department whom Mae so aptly dubs Aunt Mall Cop. Realizing Mae has no ride back into town, Aunt Molly drives her home, where Mae's dad, Stan, is there to happily greet her upon her half-expected return.
 
-It turns out there was a complete misunderstanding—Mae's parents thought she wasn't going to arrive until tomorrow night, and that is why they didn't pick her up at the bus station. After a series of profuse apologies from her father, Mae heads upstairs for the night to get some much-needed rest.
+It turns out there was a complete misunderstanding — Mae's parents thought she wasn't going to arrive until tomorrow night, and that is why they didn't pick her up at the bus station. After a series of profuse apologies from her father, Mae heads upstairs for the night to get some much-needed rest.
 
 ## Lazy Days Leave Plenty of Room for Play
 
@@ -68,7 +68,7 @@ A majority of _Night in the Woods'_ gameplay consists of idle in-game events tri
 
 Besides that, you can spend some time practicing guitar in your room, checking messages on your computer, or even playing _Night in the Woods'_ game-within-a-game, Demontower, a 2D roguelike with its own set of nine levels (and a final boss) to beat! It is worth noting Demontower _looks_ and _feels_ like its own complete game, and it features fun, addictive combat and level design that will make you want to scratch that "just one more level" itch. When I first discovered it on Mae's computer, I admittedly spent at least a full half-hour _alone_ working my way through the first 2-3 levels only to die and be forced to start it all over again... from the _very beginning_!
 
-For anyone wondering, _no_ I have not been able to beat it myself, but that is _only_ because I wanted to focus my energy on completing the game for the sake of this review—thank you very much!
+For anyone wondering, _no_ I have not been able to beat it myself, but that is _only_ because I wanted to focus my energy on completing the game for the sake of this review — thank you very much!
 
 After every significant in-game event, like completing Demontower, Mae records it in her personal journal, where she draws a cute picture describing that event.
 
@@ -76,7 +76,7 @@ After every significant in-game event, like completing Demontower, Mae records i
 
 <figcaption>One of Mae's many unique personality traits: Recording life events in her journal.</figcaption>
 
-Simply put, all these extra things to do are just that—more things to do.
+Simply put, all these extra things to do are just that — more things to do.
 
 Alternatively, you can also do _none_ of those things, and just move forward with the game's story as it is told. _Night in the Woods_ puts the players' freedom of choice first, and a player's decision to NOT do anything besides than the main story is nothing more than another way of playing the game as intended.
 
@@ -124,7 +124,7 @@ _Night in the Woods_ tackles a multitude of themes and real life issues, such as
 
 Given the slew of activities in _Night in the Woods_ and the potential for missing out on other in-game events, multiple playthroughs are encouraged, which actually gives the player a rather vast amount of content to look forward to in an absolute gem of an indie title.
 
-With its refreshing take on the coming-of-age genre, an abundance of things to do, and top-notch writing that made me think, feel and laugh—sometimes at the same time—_Night in the Woods_ stands out as a one-of-a-kind adventure that will surely see me taking a few more stops in Possum Springs.
+With its refreshing take on the coming-of-age genre, an abundance of things to do, and top-notch writing that made me think, feel and laugh — sometimes at the same time — _Night in the Woods_ stands out as a one-of-a-kind adventure that will surely see me taking a few more stops in Possum Springs.
 
 ![Mae sitting on a bridge rail with a sun setting in the backdrop][image9]
 

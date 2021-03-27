@@ -21,7 +21,7 @@ tags:
   ]
 ---
 
-Five years ago, I discovered a developer by the name of Wadjet Eye Games—a name very familiar to frequenters of adventure games. A certain _Blackwell_ bundle was bought, booted up, and my passion for 2D point-and-clicks was rekindled anew. I was on a quest to explore all the adventures Steam had to offer.
+Five years ago, I discovered a developer by the name of Wadjet Eye Games — a name very familiar to frequenters of adventure games. A certain _Blackwell_ bundle was bought, booted up, and my passion for 2D point-and-clicks was rekindled anew. I was on a quest to explore all the adventures Steam had to offer.
 
 Two years ago, I became acquainted with [Grundislav Games](http://www.grundislavgames.com) through [_Lamplight City_](https://store.steampowered.com/app/761460/Lamplight_City/), a detective adventure set in the alternative Victorian steampunk world of Vespuccia. It ticked all of the boxes for me. Discovering the project was headed by Detective Sam Durkin himself, also known as developer Francisco Gonzalez, from the _Blackwell_ series gave me a silly amount of joy. Think of the Zootopia scene where Clawhauser finds Chief Bogo watching Gazelle videos.
 
@@ -53,7 +53,7 @@ You soon have the opportunity to explore the town as Harley searches for the Ros
 
 As I do in every adventure game, I made a point of exploring every building and area and talking to everyone I could before heading where I needed to go. I spent a good amount of time with Doc Sedgwick in particular; I figured if we’re about to go on a wild west adventure, having a doctor as a buddy would be pretty handy!
 
-I immediately took a liking to Sedgwick, as his passion for care is paramount and he also provides an interesting counterpoint to Harley—while Harley left her home town to start anew, he stays in Rosewater out of an inner duty to his patients and to himself. Leaving would be akin to abandoning them.
+I immediately took a liking to Sedgwick, as his passion for care is paramount and he also provides an interesting counterpoint to Harley — while Harley left her home town to start anew, he stays in Rosewater out of an inner duty to his patients and to himself. Leaving would be akin to abandoning them.
 
 ![][image3]
 
@@ -71,9 +71,9 @@ My conscience clear and Harley’s good deed done for the day, we headed inside 
 
 ## Getting To Know You
 
-Reaching for the whiskey decanter after their eventful morning, Joan is androgynous, to-the-point, and forthright—except about exactly why an unfortunate gentleman ended up being propelled through the window. Hardly worth mentioning. I'm guessing this is not too out of the ordinary, if it barely raises an eyebrow from the townspeople either.
+Reaching for the whiskey decanter after their eventful morning, Joan is androgynous, to-the-point, and forthright — except about exactly why an unfortunate gentleman ended up being propelled through the window. Hardly worth mentioning. I'm guessing this is not too out of the ordinary, if it barely raises an eyebrow from the townspeople either.
 
-I got to wondering who Joan was before becoming the Rosewater Post editor and what kind of life they came from—their identity pre-Rosewater. As to who they are now, all it takes is a single remark that Joan should be referred to by their first name only. To me, this was just right in its execution: not too subtle or too on the nose. In a live interview, Gonzalez spoke of his research into androgyny and trans people in The Old West, how commonplace it was for people to completely reinvent themselves and take on a new life and identity.
+I got to wondering who Joan was before becoming the Rosewater Post editor and what kind of life they came from — their identity pre-Rosewater. As to who they are now, all it takes is a single remark that Joan should be referred to by their first name only. To me, this was just right in its execution: not too subtle or too on the nose. In a live interview, Gonzalez spoke of his research into androgyny and trans people in The Old West, how commonplace it was for people to completely reinvent themselves and take on a new life and identity.
 
 Thus: Joan.
 
@@ -95,7 +95,7 @@ Later we have to try and get into the Opera House to see Ackerman’s show, and 
 
 One way or another, we get a good view of "Gentleman Jake’s Wild West", full of fantastic feats and derring-do. There's even a hark back to classic cartoons with Jake riding in on a steam-powered horse and giving his audience a winning smile so shiny it catches the light. At several intervals, there’s an opportunity to respond to the show in timed dialogue sections. I may have heckled a couple of times. Shocking from me, I know, given my good deed earlier. But a guy with teeth that shiny sets off the snake oil alarms for me.
 
-Following the show, in differing ways depending on how the ticket encounter with Jem was resolved, Jake learns of Harley’s extra-literary skills and decides she could be the right woman for a certain adventure he has planned—an adventure involving treasure just ripe for the taking. Are we in? Damn right! But no funny business, Jake. If we see those shiny teeth again, we'll have a problem.
+Following the show, in differing ways depending on how the ticket encounter with Jem was resolved, Jake learns of Harley’s extra-literary skills and decides she could be the right woman for a certain adventure he has planned — an adventure involving treasure just ripe for the taking. Are we in? Damn right! But no funny business, Jake. If we see those shiny teeth again, we'll have a problem.
 
 ![][image7]
 

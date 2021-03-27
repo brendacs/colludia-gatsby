@@ -16,7 +16,7 @@ tags: ["Gentle Troll", "Underdown", disabilities, diversity, thriller]
 
 A small game studio based in Germany, [Gentle Troll](https://twitter.com/GentleTroll) is creating a narrative-driven tactical mystery-thriller named [_Underdown_](https://gentletroll.com/games/underdown), and I was fortunate enough to be able to connect with the game's creative director, Michel, for an hours-long talk.
 
-_Underdown_, which follows four friends figuring their way out of a mine in the hopes of finding their lost friend, caught my eye out of dozens of other indie games during a #PitchYaGame round, where I was taken aback by its exceptional art and unique concept. However, the mere images didn't prepare me for the amount of sheer substance I found under wraps—they only scratched the surface.
+_Underdown_, which follows four friends figuring their way out of a mine in the hopes of finding their lost friend, caught my eye out of dozens of other indie games during a #PitchYaGame round, where I was taken aback by its exceptional art and unique concept. However, the mere images didn't prepare me for the amount of sheer substance I found under wraps — they only scratched the surface.
 
 It's the kind of indie game we love talking about: story rich and with depth. _Underdown_ contains a distinctive narrative constructed through the interactions of a diverse, nonconforming cast of characters and immersive plot-driven game mechanics. It aims to tug at your heartstrings and really make you think about what is going on in its narrative.
 
@@ -26,7 +26,7 @@ It's the kind of indie game we love talking about: story rich and with depth. _U
 
 ## Games as a Medium for Sparking a Discussion
 
-_Underdown_ is actually Gentle Troll's first entertainment game. The studio's past was built on serious education games that taught the next generation without, as Michel says, "pointing a finger" and breaking from the experiences by forcing pop-up quizzes and tests. Despite the large variety of games built for a large variety of clients—the one common thread between them all was the theme of serious topics.
+_Underdown_ is actually Gentle Troll's first entertainment game. The studio's past was built on serious education games that taught the next generation without, as Michel says, "pointing a finger" and breaking from the experiences by forcing pop-up quizzes and tests. Despite the large variety of games built for a large variety of clients — the one common thread between them all was the theme of serious topics.
 
 > We want to spark a discussion and games are a great medium for that.
 
@@ -38,7 +38,7 @@ The dream, though, was always to make purely entertainment-focused games. Howeve
 
 But no matter the genre, they want to continue to convey important messages through their games by meticulously crafting an excellent narrative and designing the game in a way that naturally progresses it. Michel describes their process as akin to writing a good book, an oft-used analogy Gentle Troll has employed in their past when dreaming of the kinds of games they'd want to create.
 
-> Wouldn't it be great to make games that are like a good book—compelling, intense to read, and a good memory when you put it back on the shelf? Aren't those the ones that we still carry in our hearts today?
+> Wouldn't it be great to make games that are like a good book — compelling, intense to read, and a good memory when you put it back on the shelf? Aren't those the ones that we still carry in our hearts today?
 
 The plot of _Underdown_ is linear but Michel made sure to note that "interesting twists" would be included, like with any good story. The main driving points in this narrative are the characters' friendship, finding strength in impossible situations, and a mysterious "force" that endows special powerful skills but at the same time affects all those under its influence so negatively that they may die or deform.
 
@@ -46,7 +46,9 @@ The plot of _Underdown_ is linear but Michel made sure to note that "interesting
 
 <figcaption>Alex goes into hiding while distracting a guard using her new skills.</figcaption>
 
-Though many the details of the narrative are still concealed as things are changing quickly at this stage of development, we can expect some amazing results from this team of talented and like-minded individuals. In the meantime, we can dive deeper into the characters that form the backbone of both the gameplay and narrative experience of _Underdown_ to see how they help convey the message Gentle Troll wants to get across.
+Though many the details of the narrative are still concealed as things are changing quickly at this stage of development, we can expect some amazing results from this team of talented and like-minded individuals.
+
+In the meantime, we can dive deeper into the characters that form the backbone of both the gameplay and narrative experience of _Underdown_ to see how they help convey the message Gentle Troll wants to get across.
 
 ## Empowering Heroes of All Kinds
 
@@ -54,7 +56,7 @@ As mentioned, Gentle Troll has a lot of experience with games already, and one o
 
 It also happens to be the inspiration for _Underdown_.
 
-Each character you'll meet in _Underdown_ has a different disability, but they aren't any less independent or strong because of it—in fact, just the opposite. As Michel says best, "It becomes so far from the truth when you reduce them to someone who needs help just because they don't move around as we do or see the environment as we do."
+Each character you'll meet in _Underdown_ has a different disability, but they aren't any less independent or strong because of it — in fact, just the opposite. As Michel says best, "It becomes so far from the truth when you reduce them to someone who needs help just because they don't move around as we do or see the environment as we do."
 
 The diversity is part of what truly makes _Underdown_ stand out. How often do you get to see such a racially diverse cast where none of the characters move around or see in ways that we accept as "normal"?
 
@@ -64,11 +66,15 @@ The diversity is part of what truly makes _Underdown_ stand out. How often do yo
 
 <figcaption>The four brave souls, each with their own affinities, personalities, and skills.</figcaption>
 
-These four strong, courageous friends must navigate through a mysterious, guard and creature-ridden mine in order to find their friend who got lost somewhere deep inside. Throughout the game, you get to know each character as a person, and rather than having them reduced to their restrictions, much of the concentration is instead on their strengths.
+These four strong, courageous friends must navigate through a mysterious, guard and creature-ridden mine in order to find their friend who got lost somewhere deep inside. Throughout the game, you get to know each character as a person. Rather than having them reduced to their restrictions, much of the concentration is instead on their strengths.
 
-Because you get to switch around the character you're playing as—much like turn-based character switching in _Overland_—you'll have to think about when you'd want to use one over the other based on their individual skillsets as well as the current situation and surroundings. If your vision is blocked by crates or boxes, you'll likely want to play as charismatic and funny Nick, who is blind but has a large hearing radius, able to scout past locations the others cannot.
+Because you get to switch around the character you're playing as — much like turn-based character switching in _Overland_ — you'll have to think about when you'd want to use one over the other based on their individual skillsets as well as the current situation and surroundings.
 
-However, in switching around, you will have to keep in mind the amount of movement points and action points you have left, as each character's point allotments will differ to suit them best. You'll want to be strategic with your switches and keep in mind whether you'll need more movement to evade and escape or more action for the use of powerful skills. These skills too won't be available infinitely. There will be cooldowns with lengths dependent on the skill's strength.
+If your vision is blocked by crates or boxes, you'll likely want to play as charismatic and funny Nick, who is blind but has a large hearing radius, able to scout past locations the others cannot.
+
+However, in switching around, you will have to keep in mind the amount of movement points and action points you have left, as each character's point allotments will differ to suit them best.
+
+You'll want to be strategic with your switches and keep in mind whether you'll need more movement points to evade and escape or more action points for the use of powerful skills. These skills too won't be available infinitely. There will be cooldowns with lengths dependent on the skill's strength.
 
 ![Nick using his hearing to scout out the area][image3]
 
@@ -76,11 +82,13 @@ However, in switching around, you will have to keep in mind the amount of moveme
 
 ## The Influences of Playstyle and Personality
 
-Although strategy may drive a lot of character switching, playstyle and narrative also have roles in motivating character changes that are not to be underestimated. Michel emphasizes that because the characters are so varied, everyone who plays can adjust to match their preferred playstyle. Some may prefer more mobility (I certainly do) while others may prefer more powerful skills. These skills themselves are narrative-driven and developed based on plot-points and character development.
+Although strategy may drive a lot of character switching, playstyle and narrative also have roles in motivating character changes that are not to be underestimated. Michel emphasizes that because the characters are so varied, everyone who plays can adjust to match their preferred playstyle.
+
+Some may prefer more mobility (I certainly do) while others may prefer more powerful skills. These skills themselves are narrative-driven and developed based on plot-points and character development.
 
 Using different characters will also lead to different experiences as the characters react to obstacles, hardships, and the mysterious "force" differently. They each have very individualistic and distinctly defined personalities, and their dialogues and gameplay adhere to these differences.
 
-However, sometimes players may not have a choice of character at all, or at least their options will be limited. Characters become unavailable at certain points in the game depending on the circumstances of the narrative, so players will have to be wary—and not take any one of them for granted.
+However, sometimes players may not have a choice of character at all, or at least their options will be limited. Characters become unavailable at certain points in the game depending on the circumstances of the narrative, so players will have to be wary — and not take any one of them for granted.
 
 ![Vincent telling Nick to be careful of the guard][image4]
 
@@ -94,7 +102,9 @@ When digging more into the gameplay mechanics and technicalities with Michel, I 
 
 These decisions were all intentional, as they had, at one point, considered adding in things like undo mechanics, but then reconsidered, as it "took a lot away from the emotional impact and the feeling of being inferior," which Michel states the _Underdown_ team wants to be poignant.
 
-Why, then, can't they at least fight? The answer is similar: they are just kids, and they each have disadvantages and insecurities they've been dealing with their whole life, as any other kid does. It's much closer to reality that they _won't_ be taking on huge monsters and strong adult guards head on, but rather using their intelligence to evade, dodge, and even manipulate the environment and creatures within the mines. That's what makes this game what it is—tactical strategy rather than combat—overpowering with minds and skills rather than brawn.
+Why, then, can't they at least fight? The answer is similar: they are just kids, and they each have disadvantages and insecurities they've been dealing with their whole life, as any other kid does.
+
+It's much closer to reality that they _won't_ be taking on huge monsters and strong adult guards head on, but rather using their intelligence to evade, dodge, and even manipulate the environment and creatures within the mines. That's what makes this game what it is — tactical strategy rather than combat — overpowering with minds and skills rather than brawn.
 
 ![Using an evasion skill to escape the sight of a guard][image5]
 
@@ -110,7 +120,9 @@ As I mentioned, a lot of details are still in flux. For example, will they use c
 
 > We might just have to put a goat in there. That's a good idea.
 
-But what I do know is that there is so much to discover about the game and characters, and I only became more curious the more I was told. With distinct and impressive graphics, amazing character art, an intense narrative, and high representation through a diverse cast of characters of the type you almost never see in video games, _Underdown_ stands out and will be a unique addition to the ranks of the turn-based tactical thrillers it is inspired by. There is much to look forward to here, even if no goats are added.
+But what I do know is that there is so much to discover about the game and characters, and I only became more curious the more I was told.
+
+With distinct and impressive graphics, amazing character art, an intense narrative, and high representation through a diverse cast of characters of the type you almost never see in video games, _Underdown_ stands out and will be a unique addition to the ranks of the turn-based tactical thrillers it is inspired by. There is much to look forward to here, even if no goats are added.
 
 To follow along in the game's development, as I have been, follow the [Gentle Troll Twitter](https://twitter.com/GentleTroll) or join their [Discord server](https://discord.gg/38qJgu). They're a friendly bunch!
 

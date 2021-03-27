@@ -28,7 +28,9 @@ tags:
 
 A frog with a knife, a diverse cast of froggy characters, colorful art, lively animations, and a compelling, personal relatable narrative to boot? Count me in.
 
-[_Frogsong_](https://frogsonggame.com/) is an adventure that follows a frog named Chorus, who wants to be a warrior that protects the world despite society's expectations of a tiny tree frog from a religious, scholarly village. The synopsis of its narrative that I read on the [website](https://frogsonggame.com/) and [Steam page](https://store.steampowered.com/app/1281860/Frogsong/) when I was digging deeper into this cute frog-filled game convinced me that I, and many others, would relate to the small amphibious protagonist and learn something valuable during their journey to save the world and their loved ones.
+[_Frogsong_](https://frogsonggame.com/) is an adventure that follows a frog named Chorus, who wants to be a warrior that protects the world despite society's expectations of a tiny tree frog from a religious, scholarly village.
+
+The synopsis of its narrative that I read on the [website](https://frogsonggame.com/) and [Steam page](https://store.steampowered.com/app/1281860/Frogsong/) when I was digging deeper into this cute frog-filled game convinced me that I, and many others, would relate to the small amphibious protagonist and learn something valuable during their journey to save the world and their loved ones.
 
 However, though I knew the journey itself would be worth the wait to play, I could not wait to learn more about the world and the inspirations behind the game itself. Fortunately, I was able to get in contact with [Brandon Braun](https://twitter.com/Brodnork), the developer and artist behind _Frogsong_ to get a behind-the-scenes look at the ideation, development, and mechanics of the game.
 
@@ -44,13 +46,15 @@ For the most part it’s just me! It’s a lot of hard work, but I’ve been get
 
 <span class="blue-q">How long has _Frogsong_ been in progress now, and what's been the most challenging part of the process of making it?</span>
 
-About a year and a half now. For the most part programming has been hard, since I’m not an experienced coder, but it’s easy to get help with that. Lately I’ve been really stuck figuring out the design of this one particular village in the game—and unlike coding, there isn’t a clear answer!
+About a year and a half now. For the most part programming has been hard, since I’m not an experienced coder, but it’s easy to get help with that. Lately I’ve been really stuck figuring out the design of this one particular village in the game — and unlike coding, there isn’t a clear answer!
 
 ![][image1]
 
-<span class="blue-q">Is saw you had an Indiegogo campaign end just a couple months, though I was unfortunately too late to catch it, and you were able to meet your goal and raise over \$2700 USD from it. This number still seems like a very small amount—how do you make do?</span>
+<span class="blue-q">Is saw you had an Indiegogo campaign end just a couple months, though I was unfortunately too late to catch it, and you were able to meet your goal and raise over \$2700 USD from it. This number still seems like a very small amount — how do you make do?</span>
 
-Most crowdfunding campaigns tend to raise funds to live off of for the duration of development. The developers pay themselves and work on the game full-time. Pulling off a crowdfunding campaign like that requires either a huge following or a lot of luck, so unfortunately I’m not in a position to do that. The funds I raised are going towards things like commercial sound effects, platform fees, and additional software to make _Frogsong_ the quality I’d like it to be.
+Most crowdfunding campaigns tend to raise funds to live off of for the duration of development. The developers pay themselves and work on the game full-time. Pulling off a crowdfunding campaign like that requires either a huge following or a lot of luck, so unfortunately I’m not in a position to do that.
+
+The funds I raised are going towards things like commercial sound effects, platform fees, and additional software to make _Frogsong_ the quality I’d like it to be.
 
 <span class="blue-q">Why frogs? Did you always have a penchant for the amphibian or otherwise what inspired you to choose a frog instead of something else?</span>
 
@@ -90,7 +94,7 @@ The main storyline is pretty linear, but a lot of characters will have different
 
 There’s lots of optional dialogue and a few minor side quests. Some of them relate to main themes and storyline, while others are their own separate stories. Chorus is the main character of _Frogsong_, but everyone else has their own lives they’re living, and you get the chance to peek into those lives.
 
-<span class="blue-q">Aside from story, the gameplay itself looks very fun—it's a good mix of relaxing socialization and challenging adventure since you get to both talk to villagers and fight enemies while roaming the different areas. Can players expect it to be a perfect split between both, or does it lean much more one way than the other?</span>
+<span class="blue-q">Aside from story, the gameplay itself looks very fun — it's a good mix of relaxing socialization and challenging adventure since you get to both talk to villagers and fight enemies while roaming the different areas. Can players expect it to be a perfect split between both, or does it lean much more one way than the other?</span>
 
 I’d say there’s about an even mix between combat and socialization. Dialogue is very important to the story, but combat is also a major part of the gameplay. Even though it’s a story-focused game, there’s plenty of combat and bosses that are important to the story!
 
@@ -98,15 +102,17 @@ I’d say there’s about an even mix between combat and socialization. Dialogue
 
 <figcaption>Espo is thinking about what to say.</figcaption>
 
-<span class="blue-q">The combat in the game so far looks fairly simple: bugs and other enemies can be dodged with a dash, and Chorus swings with their little sword that they whip out of nowhere. How much combat is there in _Frogsong_—will it remain fairly light and simple? Can we eventually expect Chorus to either gain more skills or different types of weapons?</span>
+<span class="blue-q">The combat in the game so far looks fairly simple: bugs and other enemies can be dodged with a dash, and Chorus swings with their little sword that they whip out of nowhere. How much combat is there in _Frogsong_ — will it remain fairly light and simple? Can we eventually expect Chorus to either gain more skills or different types of weapons?</span>
 
-Chorus won’t be getting any different skills or weapons—partially because I tend to get confused by games with lots of controls and different forms of attacking, but also because I think it’s more interesting if the player has a very simple set of moves, and the enemies themselves are where the variety comes from.
+Chorus won’t be getting any different skills or weapons — partially because I tend to get confused by games with lots of controls and different forms of attacking, but also because I think it’s more interesting if the player has a very simple set of moves, and the enemies themselves are where the variety comes from.
 
 Plus it’s not a game specifically _about_ combat, so I don’t think it really needs as much depth as a game where fighting is more important. Either way, I’m hoping the combat ends up being really fun once the game is finished.
 
 <span class="blue-q">I played the demo, and it seems that there's a large and might empire trying to incorporate the small village of Boreala. Is this the powerful army you mention in the description of _Frogsong_? Is there anything more you can reveal about it and the mysterious rumor you mention?</span>
 
-Yep! The Taural Empire is trying to take over the entire country of Salia. Lord Lithos is sort of obsessed with the idea of a legacy, and wants to prove his power no matter the cost. As for the rumor, there’s not a lot I can talk about without spoiling the story. I can say though that the rumor involves the history of Salia, and will have some major consequences for the story. It’s a really cool and major part of the story that I’d love to talk about, but I just can’t yet.
+Yep! The Taural Empire is trying to take over the entire country of Salia. Lord Lithos is sort of obsessed with the idea of a legacy, and wants to prove his power no matter the cost.
+
+As for the rumor, there’s not a lot I can talk about without spoiling the story. I can say though that the rumor involves the history of Salia, and will have some major consequences for the story. It’s a really cool and major part of the story that I’d love to talk about, but I just can’t yet.
 
 ![][image6]
 
