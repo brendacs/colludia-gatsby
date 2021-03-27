@@ -1,7 +1,7 @@
 ---
 pageType: post
 game: takeshiandhiroshi
-slug: meet-takeshi-and-hiroshi
+slug: /meet-takeshi-and-hiroshi/
 title: Meet Passionate Gamers, <em class='game-title'>Takeshi and Hiroshi</em>
 postType: [review, in-depth]
 tagline: "Takeshi and Hiroshi review: If you're willing to sit through a bit of repetitive gameplay to get to the heart of a touching story, take a moment to learn more about the lives of Takeshi and his cute little brother Hiroshi, who loves games as much as we do."
