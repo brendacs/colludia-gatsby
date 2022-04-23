@@ -29,7 +29,7 @@ tags:
 
 如果你对乐趣的理解是受到挫折，那就把我算进去。我相信游戏应该是关于逃避现实和放松的：所以你可以想象我在[《Bloodborne》](https://twitter.com/bloodbornegame)中被切死很多次以及在[《Little Big Planet》](https://littlebigplanet.playstation.com/)中让我的小Sackboy因为错过一次跳跃而自杀时的沮丧。我喜欢这些世界所居住的充实的世界和肉质的场景，但我不能忍受构成这些游戏主干的困难游戏的骨架。
 
-我意识到这是一篇专门讨论独立游戏的文章，而 "独立 "游戏也不例外。我在[《Enter[ed] the Gungeon》](https://dodgeroll.com/gungeon/)中很快就退出了，在[《The Darkest Dungeon》](https://www.darkestdungeon.com/)中一次又一次地杀死我的冒险队伍时，我很开心地把头发撕下来。我喜欢《Enter the Gungeon》的复古风格和《Hellboy》或《Darkest Dungeon》的Mike Mignola美学。但可以肯定的是，在工作室制作的和独立的各种游戏目录中，一定存在像我这样的人会喜欢的游戏--而且确实存在。以下是一些具有丰富的逃避现实和放松精神的游戏，它们能提升而不是压垮灵魂。
+我意识到这是一篇专门讨论独立游戏的文章，而 "独立 "游戏也不例外。我在[《Enter[ed] the Gungeon》](https://dodgeroll.com/gungeon/)中很快就退出了，在[《The Darkest Dungeon》](https://www.darkestdungeon.com/)中一次又一次地杀死我的冒险队伍时，我很开心地把头发撕下来。我喜欢《Enter the Gungeon》的复古风格和《Hellboy》或《Darkest Dungeon》的Mike Mignola美学。但可以肯定的是，在工作室制作的和独立的各种游戏目录中，一定存在像我这样的人会喜欢的游戏——而且确实存在。以下是一些具有丰富的逃避现实和放松精神的游戏，它们能提升而不是压垮灵魂。
 
 ![在地牢中同时面对多个敌人][image1]
 
