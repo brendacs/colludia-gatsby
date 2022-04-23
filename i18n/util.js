@@ -1,5 +1,7 @@
 import config from "./config"
 
+export const localeSupported = (locale) => config.locales.includes(locale)
+
 export const getLocale = () => {
   const { defaultLocale, locales } = config
   for (let locale in locales) {
@@ -11,9 +13,10 @@ export const getLocale = () => {
   return defaultLocale
 }
 
-export const getLocalePath = (defaultPrefix = false) => {
-  const locale = getLocale()
-  return locale === config.defaultLocale && !defaultPrefix ? "" : `/${locale}`
+export const getLocalePath = (localeCode) => {
+  const {defaultPrefix, defaultLocale} = config;
+  const locale = localeCode || getLocale()
+  return locale === defaultLocale && !defaultPrefix ? "" : `/${locale}`
 }
 
 export const postLocaleMatch = post => {
@@ -26,7 +29,7 @@ export const postLocaleMatch = post => {
   if (
     !defaultPrefix &&
     locale === defaultLocale &&
-    !locales.includes(postLocale)
+    !localeSupported(postLocale)
   ) {
     return true
   }
