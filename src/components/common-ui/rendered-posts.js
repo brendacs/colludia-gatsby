@@ -12,6 +12,7 @@ import {
 } from "../constants"
 import "./rendered-posts.scss"
 import { getPostDateComponents, isCurrDateGreater } from "../utils/dates"
+import { getLocale, getLocalePath, postLocaleMatch } from "../../../i18n/util"
 
 const RenderedPosts = ({
   data,
@@ -22,6 +23,7 @@ const RenderedPosts = ({
   sortable,
   limit,
 }) => {
+  const localePath = getLocalePath()
   const [dateSortType, setDateSortType] = useState("publishDate")
   const [genreFilter, setGenreFilter] = useState("all")
   let count = 0
@@ -55,7 +57,8 @@ const RenderedPosts = ({
             .filter(p => {
               let post = p.node.frontmatter
               const [day, month, year] = getPostDateComponents(post)
-              const shouldPublish = isCurrDateGreater([day, month, year])
+              let shouldPublish =
+                isCurrDateGreater([day, month, year]) && postLocaleMatch(post)
               if (shouldPublish) {
                 if (author) return post.author === author
                 if (page === "genres" && genreFilter !== "all") {
@@ -95,7 +98,7 @@ const RenderedPosts = ({
                     className={`post ${
                       (count > limit || page === "genres") && "row"
                     }`}
-                    to={post.slug}
+                    to={`${localePath}${post.slug}`}
                     name={`navigate to post titled ${post.title}`}
                     key={idx}
                   >
