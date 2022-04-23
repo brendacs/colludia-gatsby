@@ -1,9 +1,9 @@
 ---
 pageType: post
 slug: /zh/minute-of-islands-release/
-title: Take a Minute to Check Out Minute of Islands
+title: 花一分钟查看Minute of Islands
 postType: [news]
-tagline: "Minute of Islands is a beautifully illustrated story rich adventure coming to PC, Mac, and the Nintendo Switch. I'm super excited to experience the journey in this rich world that promises to be full of stories, emotion, and quirky characters."
+tagline: "Minute of Islands是一款插图精美、故事丰富的冒险游戏，登陆PC、Mac 和Nintendo Switch。 我非常兴奋能在这个充满故事、情感和古怪角色的丰富世界中体验这段旅程。"
 date: 2021-03-13
 releaseDate: 2021-03-13
 image: MinuteOfIslands.webp
