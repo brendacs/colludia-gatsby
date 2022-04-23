@@ -12,7 +12,8 @@ import {
 } from "../constants"
 import "./rendered-posts.scss"
 import { getPostDateComponents, isCurrDateGreater } from "../utils/dates"
-import { getLocalePath, localeSupported, postLocaleMatch } from "../../../i18n/util"
+import { getLocalePath, localeSupported, postLocaleMatch } from "../../../i18n/utils"
+import { isBrowser } from "../../../utils/browser"
 
 const RenderedPosts = ({
   data,
@@ -23,7 +24,7 @@ const RenderedPosts = ({
   sortable,
   limit,
 }) => {
-  const localePath = localeSupported(navigator.language) ? `/${navigator.language}` : getLocalePath()
+  const localePath = isBrowser() && localeSupported(navigator.language) ? `/${navigator.language}` : getLocalePath()
   const [dateSortType, setDateSortType] = useState("publishDate")
   const [genreFilter, setGenreFilter] = useState("all")
   let count = 0

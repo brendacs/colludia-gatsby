@@ -1,6 +1,5 @@
+import { isBrowser } from "../utils/browser"
 import config from "./config"
-
-const isBrowser = () => typeof window !== "undefined"
 
 export const localeSupported = (locale) => config.locales.includes(locale)
 
