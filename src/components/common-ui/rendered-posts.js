@@ -12,8 +12,7 @@ import {
 } from "../constants"
 import "./rendered-posts.scss"
 import { getPostDateComponents, isCurrDateGreater } from "../utils/dates"
-import { getLocaleFromBrowser, getLocalePath, localeSupported, postLocaleMatch } from "../../../i18n/util"
-import config from "../../../i18n/config"
+import { getLocalePath, localeSupported, postLocaleMatch } from "../../../i18n/util"
 
 const RenderedPosts = ({
   data,

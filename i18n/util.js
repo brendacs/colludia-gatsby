@@ -1,11 +1,13 @@
 import config from "./config"
 
+const isBrowser = () => typeof window !== "undefined"
+
 export const localeSupported = (locale) => config.locales.includes(locale)
 
 export const getLocale = () => {
   const { defaultLocale, locales } = config
   for (let locale in locales) {
-    const path = window.location.pathname.split("/")[0]
+    const path = isBrowser() && window.location.pathname.split("/")[0]
     if (path === locale) {
       return locale
     }
