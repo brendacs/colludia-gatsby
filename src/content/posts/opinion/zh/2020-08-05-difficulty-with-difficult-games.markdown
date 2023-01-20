@@ -35,7 +35,7 @@ tags:
 
 <figcaption>被<em class='game-title'>《Enter the Gungeon》</em>的高难度游戏包围的玩家！皮皮皮！</figcaption>
 
-Ron Gilbert 的[《Thimbleweed》](https://thimbleweedpark.com/)和 Tim Schafer 的《Broken Age》 都是很好的游戏例子，它们讲述了一个伟大的故事，并在不诉诸惩罚难度的情况下将玩家吸引到他们的世界中。
+Ron Gilbert 的[《Thimbleweed》](https://thimbleweedpark.com/)和 Tim Schafer 的《Broken Age》都是很好的游戏例子，它们讲述了一个伟大的故事，并在不诉诸惩罚难度的情况下将玩家吸引到他们的世界中。
 
 《Thimbleweed》 将玩家带入其奇异的世界，让人想起电视的《Twin Peaks》或《The X-files》的一集，您甚至会发现自己在其中扮演着躁动不安的精神。你会在它的游戏玩法中发现的唯一困难是压倒性的“我接下来要做什么？”种类。
 
@@ -45,7 +45,7 @@ Ron Gilbert 的[《Thimbleweed》](https://thimbleweedpark.com/)和 Tim Schafer 
 
 <figcaption><em class='game-title'>破碎时代</em>中的唯一任务：晚餐。开个玩笑，从这里开始变得更有趣（但也不是很难）。</figcaption>
 
-诚然，玩一个极其困难的游戏并通过迭代或创新来克服它是一种宣泄的乐趣。当一遍又一遍地死去让你磨练自己的技能以满足[《Super Meatboy》](http://supermeatboy.com/)的要求时，或者当你最终弄清楚死亡的长度和宽度时，有一种禅宗般的进展。 [《Salt and Sanctuary》](https://ska-studios.com/games/salt-and-sanctuary/)等类似灵魂的游戏中的无敌帧。
+诚然，玩一个极其困难的游戏并通过迭代或创新来克服它是一种宣泄的乐趣。当一遍又一遍地死去让你磨练自己的技能以满足[《Super Meatboy》](http://supermeatboy.com/)的要求时，或者当你最终弄清楚死亡的长度和宽度时，有一种禅宗般的进展。[《Salt and Sanctuary》](https://ska-studios.com/games/salt-and-sanctuary/)等类似灵魂的游戏中的无敌帧。
 
 但考虑到我们的生活已经充满了充满压力的遭遇，而无需通过子弹地狱或 Roguelike 进程注入额外的压力，这种宣泄的享受已经不再受欢迎。不得不面对愤怒的客户、不合作的经理或现实生活中的流行病问题，而不必在充满数十亿死亡像素的屏幕上导航，压力已经足够大了。
 

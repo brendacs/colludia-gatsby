@@ -13,9 +13,9 @@ categories: [adventure, events, "opinion", story]
 tags: ["Gamescom", "Indie Arena Booth"]
 ---
 
-我和我的同伴[Emily](https://indiestorygames.com/author/emily)计划今年夏天去参加许多游戏会议和大会，但显然我们的计划无法实现，因为 COVID-19 使得举办大型活动完全不合理。
+我和我的同伴 [Emily](https://indiestorygames.com/author/emily) 计划今年夏天去参加许多游戏会议和大会，但显然我们的计划无法实现，因为 COVID-19 使得举办大型活动完全不合理。
 
-然而，像[Indie Arena Booth](https://indiearenabooth.de/gamescom2020/games)这样以可玩的 MMORPG 方式创建的数字音乐会，是下一个最好的事情，仍然非常值得体验。在短短几个月内从头开始建立独立竞技场展位的开发者团队值得所有的赞美，因为他们制作了一个带有巨大展位地图的整个游戏，我们能够漫游。
+然而，像 [Indie Arena Booth](https://indiearenabooth.de/gamescom2020/games) 这样以可玩的 MMORPG 方式创建的数字音乐会，是下一个最好的事情，仍然非常值得体验。在短短几个月内从头开始建立独立竞技场展位的开发者团队值得所有的赞美，因为他们制作了一个带有巨大展位地图的整个游戏，我们能够漫游。
 
 虽然艾米丽和我不能亲自拍照，但我们在游戏中参观了几十个摊位，并拍摄了大量的照片，就像我们真的一起在那里一样——因为我们在精神上和在 Discord 通话中都是如此。
 

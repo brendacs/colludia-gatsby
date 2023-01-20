@@ -21,7 +21,7 @@ tags:
   ]
 ---
 
-来自[Studio Fizbin](https://twitter.com/studiofizbin)和[Mixtvision Games](https://mixtvision.games/)的[《Minute of Islands》](https://minute-of-islands.com/)是一部插图精美、故事丰富的冒险游戏[将于 2021 年 3 月 18 日登陆 PC](https://store.steampowered.com/app/1049710/Minute_of_Islands/)、Mac 和[Nintendo Switch](https://www.nintendo.com/games/detail/minute-of-islands-switch/)。我对在这个丰富的世界中体验旅程感到超级兴奋，这个世界承诺将充满故事、情感和古怪的角色。
+来自 [Studio Fizbin](https://twitter.com/studiofizbin) 和 [Mixtvision Games](https://mixtvision.games/) 的[《Minute of Islands》](https://minute-of-islands.com/) 是一部插图精美、故事丰富的冒险游戏[将于 2021 年 3 月 18 日登陆 PC](https://store.steampowered.com/app/1049710/Minute_of_Islands/)、Mac 和 [Nintendo Switch](https://www.nintendo.com/games/detail/minute-of-islands-switch/)。我对在这个丰富的世界中体验旅程感到超级兴奋，这个世界承诺将充满故事、情感和古怪的角色。
 
 **更新：截至 2021 年 3 月，不再有发布日期。欲了解更多信息，请查看[《Minute of Islands》 on Twitter](https://twitter.com/MinuteofIslands)。**
 
@@ -33,7 +33,7 @@ tags:
 
 谜题不是噱头，也不是与故事无关，而是作为叙事的进展点，很流畅。不相信我？在你的冒险过程中，你要做的许多事情中的一部分就是：扒窃以获得你需要的物品，操作船只，当然还有使用你强大的全能开关来控制巨人的机器。
 
-他们的叙事和游戏的处理方式让我想起了[Welcome to Elk](https://indiestorygames.com/welcome-to-elk-demo-review/)，尽管他们的艺术和讲故事的风格完全不同。
+他们的叙事和游戏的处理方式让我想起了 [Welcome to Elk](https://indiestorygames.com/welcome-to-elk-demo-review/)，尽管他们的艺术和讲故事的风格完全不同。
 
 ![][image0]
 
