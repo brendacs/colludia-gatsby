@@ -13,11 +13,11 @@ categories: [adventure, events, "opinion", story]
 tags: ["Gamescom", "Indie Arena Booth"]
 ---
 
-我和我的同伴[Emily](https://indiestorygames.com/author/emily)计划今年夏天去参加许多游戏会议和大会，但显然我们的计划无法实现，因为COVID-19使得举办大型活动完全不合理。
+我和我的同伴[Emily](https://indiestorygames.com/author/emily)计划今年夏天去参加许多游戏会议和大会，但显然我们的计划无法实现，因为 COVID-19 使得举办大型活动完全不合理。
 
-然而，像[Indie Arena Booth](https://indiearenabooth.de/gamescom2020/games)这样以可玩的MMORPG方式创建的数字音乐会，是下一个最好的事情，仍然非常值得体验。在短短几个月内从头开始建立独立竞技场展位的开发者团队值得所有的赞美，因为他们制作了一个带有巨大展位地图的整个游戏，我们能够漫游。
+然而，像[Indie Arena Booth](https://indiearenabooth.de/gamescom2020/games)这样以可玩的 MMORPG 方式创建的数字音乐会，是下一个最好的事情，仍然非常值得体验。在短短几个月内从头开始建立独立竞技场展位的开发者团队值得所有的赞美，因为他们制作了一个带有巨大展位地图的整个游戏，我们能够漫游。
 
-虽然艾米丽和我不能亲自拍照，但我们在游戏中参观了几十个摊位，并拍摄了大量的照片，就像我们真的一起在那里一样——因为我们在精神上和在Discord通话中都是如此。
+虽然艾米丽和我不能亲自拍照，但我们在游戏中参观了几十个摊位，并拍摄了大量的照片，就像我们真的一起在那里一样——因为我们在精神上和在 Discord 通话中都是如此。
 
 ![][image0]
 
@@ -25,7 +25,7 @@ tags: ["Gamescom", "Indie Arena Booth"]
 
 ## 制作数字记忆
 
-在我们的冒险过程中，我们在《Welcome to Elk》展台的一个非常大的Frigg头旁边摆了个姿势，在《Endling》中摆了一群狐狸，在《Date Night Bowling》中摆了一个保龄球道，在《Mindcop》中摆了一个很酷的拱门。我们一起在《Coffee Talk》、《Boyfriend Dungeon》、《When the Past Was Around》以及具有讽刺意味的《Land of Screens》等展位上观看了游戏内大屏幕上的预告片。
+在我们的冒险过程中，我们在《Welcome to Elk》展台的一个非常大的 Frigg 头旁边摆了个姿势，在《Endling》中摆了一群狐狸，在《Date Night Bowling》中摆了一个保龄球道，在《Mindcop》中摆了一个很酷的拱门。我们一起在《Coffee Talk》、《Boyfriend Dungeon》、《When the Past Was Around》以及具有讽刺意味的《Land of Screens》等展位上观看了游戏内大屏幕上的预告片。
 
 我们上上下下地乘坐自动扶梯，从宁静之城到芬吉，并站在《Nine Lives Noir》的临时酒吧前，决定下一步该怎么走。我们走在《Genesis Noir》的黑白城市中，穿过《Orwell》的蓝白街道，并在《Chicory: A Colorful Tale》的无色道路上徘徊。
 
@@ -38,7 +38,6 @@ tags: ["Gamescom", "Indie Arena Booth"]
 如果你对我前面提到的许多时刻感到好奇，并且还没有自己去检查所有这些摊位，这里只是我和艾米丽冒险中一些我最喜欢的风格化摊位的 "少数 "照片。这些游戏中的许多游戏在本周末仍有演示、赠品和其他活动，所以一定要趁机去看看——也许还能和朋友们拍些可爱的照片。
 
 如果你想知道，灰色的羚羊鬼魂是艾米丽，而拥有银河系球体的蓝发女孩是我！你可以去看看。
-
 
 ![Indie Arena Booth的展位][image1]
 

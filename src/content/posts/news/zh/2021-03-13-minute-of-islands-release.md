@@ -27,7 +27,7 @@ tags:
 
 在《Minute of Islands》中，你将扮演一个名叫莫的年轻工匠，他出生在一个群岛上，发现了她周围的各种境界和岛屿的幻想世界。当她冒险前进，重新获得对隐藏在他们岛屿核心的引擎的控制权时，你会遇到各种生物，发现秘密，并揭开一个黑暗的真相。
 
-<iframe loading="lazy" src="https://www.youtube.com/embed/OMruEYKRtxg?modestbranding=1" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>。
+<iframe loading="lazy" src="https://www.youtube.com/embed/OMruEYKRtxg?modestbranding=1" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 游戏的大部分玩法都是由以故事为导向的谜题和平台游戏组成的，背景是美丽的大气背景音乐。从外观上看，开发者似乎充分利用了视频游戏这一媒介的潜力，很好地讲述了一个深刻的情感故事。
 
