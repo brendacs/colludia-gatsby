@@ -3,9 +3,12 @@
   flex-direction: row;
   align-items: center;
   justify-content: space-between;
-  height: 70px;
+  height: 78px;
   padding: 0 30px 0 35px;
-  border-bottom: 1px solid $site-gray;
+  background-color: rgba(245, 237, 222, 0.86);
+  backdrop-filter: saturate(140%) blur(14px);
+  -webkit-backdrop-filter: saturate(140%) blur(14px);
+  border-bottom: 1px solid $line;
 
   &-navigation {
     display: flex;
@@ -19,17 +22,32 @@
     align-items: center;
 
     img {
-      height: 40px;
-      margin: 0px 15px 0 0;
+      height: 44px;
+      margin: 0px 13px 0 0;
+      filter: drop-shadow(0 6px 10px rgba(63, 85, 63, 0.28));
     }
 
     .name {
-      color: $site-font-color;
+      @include header-font;
+      color: $ink;
       font-size: $subtitle-size;
       font-weight: 600;
+      line-height: 1;
       display: flex;
-      align-items: center;
+      flex-direction: column;
+      justify-content: center;
       white-space: nowrap;
+
+      .brand-sublabel {
+        @include primary-font;
+        display: block;
+        margin-top: 4px;
+        font-size: 11px;
+        font-weight: 600;
+        letter-spacing: 0.22em;
+        text-transform: uppercase;
+        color: $sage;
+      }
 
       &.short-title {
         display: none;
@@ -76,13 +94,12 @@
 
 .subscribe-button {
   @include primary-button;
-  display: flex;
   justify-content: center;
-  align-items: center;
 
   img {
-    height: 18px;
-    margin: -1px 10px 0 0;
+    height: 17px;
+    margin: -1px 0 0 0;
+    filter: brightness(0) invert(1);
 
     @media screen and (max-width: 1024px) {
       margin-right: 0;
@@ -98,6 +115,6 @@
 
   @media screen and (max-width: 570px) {
     min-width: 0;
-    padding: 0 10px;
+    padding: 0 14px;
   }
 }

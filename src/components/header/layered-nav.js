@@ -75,7 +75,7 @@ const LayeredNav = ({ darkmode, setDarkmode }) => {
             window.localStorage.setItem("darkmode", !darkmode)
         }}
       >
-        MODE
+        Mode
       </button>
     </nav>
   )

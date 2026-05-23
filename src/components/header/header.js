@@ -16,7 +16,12 @@ const Header = ({ siteTitle }) => {
               alt="indie story games logo"
               src={require("../../images/gamepad-book.webp")}
             />
-            <h1 className="name">{siteTitle}</h1>
+            <h1 className="name">
+              {siteTitle}
+              <span className="brand-sublabel">
+                Cozy &middot; Narrative &middot; Heartfelt
+              </span>
+            </h1>
             <h1 className="name short-title">ISG</h1>
           </Link>
         </div>

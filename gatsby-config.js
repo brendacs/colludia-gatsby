@@ -36,7 +36,10 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-fonts`,
       options: {
-        fonts: [`inter\:100,200,300,400,500,600,700,800,900`],
+        fonts: [
+          `fraunces\:400,400i,500,500i,600,700`,
+          `hanken grotesk\:400,500,600,700,800`,
+        ],
         display: "swap",
       },
     },

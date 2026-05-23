@@ -1,19 +1,19 @@
 @import "variables";
 
 @mixin header-font {
-  font-family: "Inter", -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica,
-    Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI;
+  font-family: "Fraunces", Georgia, "Times New Roman", serif;
+  letter-spacing: -0.01em;
 }
 
 @mixin primary-font {
-  font-family: "Inter", Helvetica, -apple-system, BlinkMacSystemFont, Segoe UI,
+  font-family: "Hanken Grotesk", -apple-system, BlinkMacSystemFont, Segoe UI,
     Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji,
     Segoe UI Symbol;
   font-size: $text-size;
 }
 
 @mixin secondary-font {
-  font-family: "Inter", sans-serif;
+  font-family: "Hanken Grotesk", sans-serif;
   font-size: $text-size;
 }
 
@@ -77,19 +77,25 @@
 @mixin primary-button {
   @include primary-font;
   @include short-transition;
-  font-size: $text-size;
-  background-color: $site-brand-color;
-  border-radius: 5px;
-  height: 35px;
-  padding: 0 20px;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-size: $tiny-size + 1;
+  background-color: $terracotta;
+  border-radius: 30px;
+  height: 42px;
+  padding: 0 22px;
   border: none;
   color: #fff;
-  font-weight: 600;
+  font-weight: 700;
   cursor: pointer;
   white-space: nowrap;
+  box-shadow: 0 10px 22px -10px $terracotta;
 
   &:hover {
-    background-color: darken($site-brand-color, 10%);
+    background-color: darken($terracotta, 6%);
+    transform: translateY(-2px);
+    box-shadow: 0 16px 28px -12px $terracotta;
   }
 }
 

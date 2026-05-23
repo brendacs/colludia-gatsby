@@ -1,6 +1,6 @@
 .posts-container {
-  background-color: $site-color-light;
-  padding: 8vh 0;
+  background-color: $paper;
+  padding: 52px 0 72px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -20,173 +20,164 @@
   width: 100%;
 
   .posts {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(330px, 1fr));
+    gap: 26px;
     width: 100%;
+    max-width: 1240px;
+    padding: 0 28px;
 
-    @media screen and (max-width: 768px) {
-      justify-content: center;
+    @media screen and (max-width: 680px) {
+      grid-template-columns: 1fr;
+      padding: 0 18px;
     }
-  }
-}
-
-.author {
-  .post {
-    box-shadow: 0 2px 0 rgba(54, 45, 89, 0.15),
-      -0.1875rem -0.1875rem 0 0.1875rem $site-brand-color,
-      0 0 0 0rem $site-font-color;
   }
 }
 
 .post {
   @include short-transition;
-  width: 25vw;
-  height: 300px;
-  background: #fff;
-  margin: 0 2% 50px 2%;
-  border-radius: 5px;
   position: relative;
+  display: flex;
+  flex-direction: column;
+  background: $card;
+  border: 1px solid $line;
+  border-radius: 22px;
+  overflow: hidden;
+  box-shadow: $shadow-sm;
 
   &-image {
     width: 100%;
-    height: 50%;
+    aspect-ratio: 16 / 10;
     object-fit: cover;
-    border-radius: 5px 5px 0px 0px;
+    transition: transform 0.7s cubic-bezier(0.2, 0.7, 0.3, 1);
   }
 
   .post-text-container {
-    height: 55%;
-    padding: 15px 10px;
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    gap: 10px;
+    padding: 20px 22px 22px;
     flex: 1;
-    object-fit: cover;
-
-    @media screen and (max-width: 370px) {
-      padding: 20px 10px;
-    }
   }
 
   &-title {
-    font-size: $text-size + 4;
+    @include header-font;
+    @include short-transition;
+    font-size: $text-size + 5;
     font-weight: 600;
-    color: $site-font-color;
+    line-height: 1.18;
+    color: $ink;
     text-align: left;
-    padding: 0 5px;
-    line-height: 1.25;
-
-    @media screen and (max-width: 375px) {
-      font-size: $text-size + 2;
-    }
 
     @media screen and (max-width: 360px) {
-      font-size: $text-size;
+      font-size: $text-size + 2;
     }
+  }
+
+  &-excerpt {
+    @include primary-font;
+    font-size: $tiny-size + 0.5;
+    color: $ink-soft;
+    line-height: 1.55;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
   }
 
   &-info {
-    padding: 10px 0 20px 0;
+    margin-top: auto;
+    padding-top: 14px;
     display: flex;
-    justify-content: flex-start;
+    align-items: center;
+    gap: 9px;
+    border-top: 1px solid $line-2;
+  }
+
+  &-av {
+    width: 26px;
+    height: 26px;
+    flex-shrink: 0;
+    border-radius: 50%;
+    background: linear-gradient(135deg, $sage, $mustard);
+    border: 2px solid $card;
   }
 
   &-type {
-    font-size: $tiny-size;
-    align-self: flex-end;
     position: absolute;
+    top: 14px;
+    left: 14px;
     display: flex;
-    flex-direction: column-reverse;
-    align-items: flex-end;
-    top: 10px;
-    right: 0;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 7px;
+    z-index: 2;
   }
 
   &-author,
   &-date {
-    @include secondary-font;
-    font-size: $tiny-size - 2;
-    color: $site-font-color;
-    text-align: right;
+    @include primary-font;
+    font-size: $tiny-size - 1;
+    text-align: left;
     white-space: nowrap;
   }
 
   &-author {
-    color: $site-brand-color;
-    margin-right: 10px;
+    color: $ink-soft;
+    font-weight: 600;
+  }
+
+  &-date {
+    color: $ink-faint;
+  }
+
+  &-sep {
+    color: $ink-faint;
+    opacity: 0.6;
   }
 
   &:hover {
-    box-shadow: 0 2px 0 rgba(54, 45, 89, 0.15),
-      -0.1875rem -0.1875rem 0 0.1875rem $site-brand-color,
-      0 0 0 0.375rem $site-font-color;
-  }
+    transform: translateY(-7px);
+    box-shadow: 32px 40px 60px -34px rgba(63, 85, 63, 0.5);
 
-  @media screen and (max-width: 1350px) {
-    width: 28vw;
-  }
-
-  @media screen and (max-width: 1250px) {
-    width: 40%;
-  }
-
-  @media screen and (max-width: 768px) {
-    width: 80vw;
-    margin: 0 0 50px 0;
-    height: 250px;
-  }
-
-  @media screen and (max-width: 575px) {
-    width: 90vw;
-  }
-}
-
-@media screen and (min-width: 769px) {
-  .post.row {
-    width: 83%;
-    height: 120px;
-    display: flex;
-    margin-bottom: 30px;
-
-    @media screen and (max-width: 1350px) {
-      width: 92%;
-    }
-
-    @media screen and (max-width: 1250px) {
-      width: 84%;
+    .post-image {
+      transform: scale(1.06);
     }
 
     .post-title {
-      padding-right: 20px;
+      color: $terracotta;
     }
+  }
+}
+
+// horizontal list rows (genres page + overflow beyond the card limit).
+// A row spans every column so it reads as a full-width band among the cards.
+.post.row {
+  grid-column: 1 / -1;
+
+  @media screen and (min-width: 769px) {
+    flex-direction: row;
+    align-items: stretch;
 
     .post-image {
-      border-radius: 5px 0 0 5px;
-      height: 100%;
-      width: 25%;
-      margin-right: 20px;
+      width: 30%;
+      aspect-ratio: auto;
+      object-fit: cover;
+      align-self: stretch;
     }
 
     .post-text-container {
-      width: 100%;
-      height: 100%;
-      display: flex;
-      flex-direction: column;
-      justify-content: space-around;
+      width: 70%;
+      padding: 22px 26px;
+    }
+
+    .post-excerpt {
+      -webkit-line-clamp: 2;
     }
 
     .post-type {
       position: static;
-      justify-content: flex-end;
-      align-self: unset;
-      padding-top: 10px;
-    }
-
-    .post-info {
-      margin-left: 5px;
-      padding: 0;
-      position: static;
+      align-self: flex-start;
     }
   }
 }

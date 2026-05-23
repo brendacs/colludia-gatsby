@@ -123,8 +123,11 @@ const RenderedPosts = ({
                         className="post-title"
                         dangerouslySetInnerHTML={{ __html: post.title }}
                       />
+                      <p className="post-excerpt">{p.node.excerpt}</p>
                       <div className="post-info">
+                        <span className="post-av" />
                         <p className="post-author">{post.author}</p>
+                        <span className="post-sep">&middot;</span>
                         <p className="post-date">{`${
                           months[month - 1]
                         } ${day}, ${year}`}</p>

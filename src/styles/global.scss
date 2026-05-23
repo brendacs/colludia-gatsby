@@ -5,10 +5,37 @@ body {
   height: auto;
   width: 100vw;
   color: $site-font-color;
-  background-color: white;
+  background-color: $paper;
   min-width: 320px;
+  -webkit-font-smoothing: antialiased;
 
   /* don't use overflow or stick won't work */
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @include primary-font;
+  line-height: 1.6;
+}
+
+/* paper grain overlay (from the mock) */
+body:before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  pointer-events: none;
+  opacity: 0.5;
+  mix-blend-mode: multiply;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='180' height='180'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.28'/%3E%3C/svg%3E");
+}
+
+::selection {
+  background: $terracotta;
+  color: #fff;
 }
 
 h1,
@@ -23,7 +50,8 @@ h6 {
 }
 
 h1 {
-  line-height: 1;
+  line-height: 1.05;
+  letter-spacing: -0.02em;
 }
 
 p,
@@ -59,11 +87,14 @@ input[type="search"] {
 }
 
 blockquote {
-  line-height: 1.5;
-  border-left: 2px solid $site-font-color;
-  padding: 0 10px;
+  @include header-font;
+  font-style: italic;
+  line-height: 1.55;
+  border-left: 3px solid $mustard;
+  padding: 0 16px;
   margin-bottom: 25px;
-  font-size: $tiny-size;
+  font-size: $text-size + 2;
+  color: $ink-soft;
 
   p {
     display: inline;
@@ -83,7 +114,7 @@ blockquote {
 }
 
 .highlight {
-  background-color: $site-gray;
+  background-color: rgba(220, 169, 79, 0.28);
 }
 
 .bold {
@@ -92,10 +123,11 @@ blockquote {
 
 .game-title {
   font-style: italic;
+  color: $terracotta;
 }
 
 .animated-link {
-  color: $site-brand-color;
+  color: $terracotta;
   position: relative;
   width: auto;
 

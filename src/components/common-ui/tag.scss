@@ -1,64 +1,68 @@
 .tag {
-  @include secondary-font;
+  @include primary-font;
   display: inline-block;
-  font-size: $tiny-size;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: lowercase;
   color: #fff;
-  border-radius: 5px;
-  padding: 2px 5px;
+  border-radius: 20px;
+  padding: 6px 12px;
   width: auto;
-  margin-right: 10px;
-  margin-bottom: 10px;
   line-height: 1;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.18);
 }
 
 .random {
   &.tag:nth-child(1n) {
-    background-color: darken($site-gray, 10%);
+    background-color: $sage;
   }
 
   &.tag:nth-child(2n) {
-    background-color: darken($site-gray, 20%);
+    background-color: $clay;
   }
 
   &.tag:nth-child(3n) {
-    background-color: darken($site-gray, 5%);
+    background-color: $lavender;
   }
 
   &.tag:nth-child(4n) {
-    background-color: darken($site-gray, 15%);
+    background-color: $pink;
   }
 }
 
 .tag {
   &.gray {
-    background-color: darken($site-gray, 25%);
+    background-color: $ink-faint;
   }
 
-  &.red {
-    background-color: $site-highlight;
+  &.terracotta {
+    background-color: $terracotta;
   }
 
-  &.blue {
-    background-color: $site-brand-color;
+  &.sage {
+    background-color: $sage;
   }
 
-  &.green {
-    background-color: #35b75a;
+  &.clay {
+    background-color: $clay;
   }
 
-  &.orange {
-    background-color: #f98900;
+  &.mustard {
+    background-color: $mustard;
+    color: #4a3a14;
   }
 
-  &.purple {
-    background-color: #6262ed;
+  &.lavender {
+    background-color: $lavender;
   }
 
   &.pink {
-    background-color: #c57b92;
+    background-color: $pink;
   }
 
-  &.teal {
-    background-color: #02cea3;
+  &.sky {
+    background-color: $sky;
+    color: #1d3b48;
   }
 }

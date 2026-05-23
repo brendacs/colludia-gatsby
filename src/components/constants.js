@@ -14,13 +14,15 @@ export const months = [
 ]
 
 export const tagColors = {
-  review: "red",
-  picks: "green",
-  spotlight: "blue",
-  opinion: "teal",
-  "in-depth": "pink",
+  review: "terracotta",
+  picks: "sage",
+  spotlight: "clay",
+  opinion: "mustard",
+  "in-depth": "lavender",
   short: "pink",
-  news: "purple",
+  news: "sky",
+  demo: "lavender",
+  interview: "clay",
 }
 
 export const pageDescriptions = {
