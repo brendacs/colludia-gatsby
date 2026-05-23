@@ -20,13 +20,14 @@ const PostButtons = ({ type, slug, linkCopied, onClickCopyLink }) => {
       </a>
       <div className="share-link-wrapper">
         <div className={`tooltip ${linkCopied ? "" : "hide"}`}>Copied!</div>
-        <a
+        <button
+          type="button"
           onClick={onClickCopyLink}
           className="share-link"
-          name="copy link to article to share"
+          aria-label="copy link to article to share"
         >
           <img alt="link" src={require("../../../images/link.svg")} />
-        </a>
+        </button>
       </div>
       <a
         className="jump-comments"

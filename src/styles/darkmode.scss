@@ -1,5 +1,8 @@
 #darkmode {
-  &,
+  background-color: $dusk-paper;
+  color: $dusk-ink;
+
+  // generic content / article pages inherit the dusk paper + ink
   &.about,
   &.contact,
   &.subscribe,
@@ -8,114 +11,186 @@
   .steam-keys,
   .genres,
   .all-categories,
-  .featured,
   .posts-container,
   .post-page,
   .post-main,
   .article,
-  .main-nav-logo .name,
   input {
-    background-color: $site-font-color;
-    color: $site-darkmode-font-color;
+    background-color: $dusk-paper;
+    color: $dusk-ink;
   }
 
-  .main-nav {
-    border-bottom: 1px solid $site-darkmode-gray;
-  }
-
+  // ---------- header ----------
   .main-nav,
   .layered-nav {
-    background-color: $site-font-color;
+    background-color: rgba(26, 34, 31, 0.86);
+    border-bottom: 1px solid $dusk-line;
+  }
+
+  .main-nav-logo .name {
+    color: $dusk-ink;
+
+    .brand-sublabel {
+      color: $dusk-sage;
+    }
   }
 
   .layered-nav-item {
-    color: $site-darkmode-font-color;
+    color: $dusk-ink-soft;
 
-    .dropdown-menu {
-      background-color: $site-font-color;
-      border-color: $site-darkmode-gray;
+    &:hover {
+      color: $dusk-ink;
+      background-color: rgba(93, 115, 80, 0.3);
     }
-  }
 
-  .secondary-nav {
-    background-color: $site-darkmode-gray;
-    border-bottom: 1px solid $site-darkmode-gray;
+    &.active {
+      color: $dusk-terracotta;
 
-    .pages-wrapper ul:after {
-      @media screen and (max-width: 555px) {
-        background-color: lighten($site-darkmode-gray, 20%);
+      &:after {
+        background-color: $dusk-terracotta;
       }
     }
 
-    ul a {
-      color: $site-darkmode-font-color;
+    .dropdown-menu {
+      background-color: $dusk-card;
+      border-color: $dusk-line;
     }
   }
 
   #darkmode-button {
-    color: $site-text-highlight;
-
-    &:before {
-      content: "★ LIGHT ";
-    }
-  }
-
-  .featured-icon {
-    color: $site-font-color;
-  }
-
-  .post {
-    background-color: lighten($site-darkmode-font-color, 5%);
+    background-color: $dusk-card;
+    border-color: $dusk-line;
 
     &:hover {
-      box-shadow: 0 2px 0 rgba(54, 45, 89, 0.15),
-        -0.1875rem -0.1875rem 0 0.1875rem $site-brand-color,
-        0 0 0 0.375rem $site-gray;
+      border-color: $dusk-sage;
+    }
+
+    .darkmode-toggle-thumb {
+      background-color: $dusk-sage;
     }
   }
 
-  .dropdown {
-    background-color: $site-darkmode-gray;
-    border: 1px solid $site-darkmode-font-color;
-    color: $site-darkmode-font-color;
-    background-image: linear-gradient(
-        45deg,
-        transparent 50%,
-        $site-darkmode-font-color 50%
-      ),
-      linear-gradient(135deg, $site-darkmode-font-color 50%, transparent 50%),
-      linear-gradient(
-        to right,
-        $site-darkmode-font-color,
-        $site-darkmode-font-color
-      );
+  // ---------- featured hero ----------
+  .featured {
+    background-color: $dusk-paper;
+  }
+
+  .featured-image {
+    filter: saturate(0.85) brightness(0.62);
+  }
+
+  .featured-divider {
+    .hill-1 {
+      fill: $dusk-sage-soft;
+    }
+
+    .hill-2 {
+      fill: $dusk-sage;
+    }
+  }
+
+  // ---------- cards ----------
+  .post {
+    background-color: $dusk-card;
+    border-color: $dusk-line;
+
+    .post-title {
+      color: $dusk-ink;
+    }
+
+    .post-excerpt {
+      color: $dusk-ink-soft;
+    }
+
+    .post-info {
+      border-top-color: $dusk-line-2;
+    }
+
+    .post-author {
+      color: $dusk-ink-soft;
+    }
+
+    .post-date,
+    .post-sep {
+      color: $dusk-ink-faint;
+    }
+
+    .post-av {
+      border-color: $dusk-card;
+    }
+
+    &:hover {
+      box-shadow: 32px 40px 64px -30px rgba(0, 0, 0, 0.7);
+
+      .post-title {
+        color: $dusk-terracotta;
+      }
+    }
+  }
+
+  // ---------- footer ----------
+  .footer {
+    background-color: $dusk-paper-2;
+    border-top-color: $dusk-line;
+
+    .footer-brand p {
+      color: $dusk-ink-soft;
+    }
+
+    .footer-logo b {
+      color: $dusk-ink;
+    }
+
+    .footer-col h4 {
+      color: $dusk-ink;
+    }
+
+    .footer-col a {
+      color: $dusk-ink-soft;
+
+      &:hover {
+        color: $dusk-terracotta;
+      }
+    }
+
+    .footer-bottom {
+      color: $dusk-ink-faint;
+      border-top-color: $dusk-line;
+    }
+  }
+
+  // ---------- article / utility surfaces ----------
+  .post {
+    &:hover {
+      box-shadow: 32px 40px 64px -30px rgba(0, 0, 0, 0.7);
+    }
   }
 
   .post-page blockquote {
-    border-left: 2px solid $site-gray;
+    border-left-color: $dusk-mustard;
+    color: $dusk-ink-soft;
   }
 
   span.blue-q {
-    color: $site-brand-color;
+    color: $dusk-terracotta;
   }
 
   .post-page-details p:after,
   .quick-summary,
-  .footer,
   .key {
-    background-color: $site-darkmode-gray;
-    color: $site-darkmode-font-color;
+    background-color: $dusk-card;
+    color: $dusk-ink;
   }
 
   .key {
     &-title {
-      color: $site-darkmode-font-color;
+      color: $dusk-ink;
     }
 
     &:hover {
-      box-shadow: 0 2px 0 rgba(54, 45, 89, 0.15),
-        -0.1875rem -0.1875rem 0 0.1875rem $site-brand-color,
-        0 0 0 0.375rem $site-gray;
+      box-shadow: 0 2px 0 rgba(0, 0, 0, 0.4),
+        -0.1875rem -0.1875rem 0 0.1875rem $dusk-terracotta,
+        0 0 0 0.375rem $dusk-line;
     }
   }
 
@@ -123,11 +198,11 @@
     opacity: 0.25;
 
     .key-title {
-      color: $site-highlight;
+      color: $terracotta;
     }
 
     .key-button {
-      background-color: $site-darkmode-gray;
+      background-color: $dusk-paper-2;
     }
 
     &:hover {
@@ -136,6 +211,6 @@
   }
 
   .substack-iframe {
-    background-color: lighten($site-darkmode-font-color, 10%);
+    background-color: $dusk-card;
   }
 }

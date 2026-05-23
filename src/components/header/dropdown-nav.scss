@@ -1,70 +1,79 @@
-.secondary-nav {
-  width: 100vw;
-  min-height: 50px;
-  background-color: #fff;
-  display: flex;
-  align-items: flex-start;
-  justify-content: space-between;
-  padding: 5vh 10vw;
-  border-bottom: 1px solid $site-gray;
+.dropdown-nav {
   position: absolute;
   top: 70px;
+  right: 18px;
   z-index: 21;
+  width: 460px;
+  max-width: calc(100vw - 24px);
+  background-color: $paper-2;
+  border: 1px solid $line;
+  border-radius: 18px;
+  box-shadow: $shadow;
+  padding: 26px 28px 22px;
 
-  .pages-wrapper {
-    display: flex;
+  @media screen and (max-width: $mobile-nav-resolution) {
+    right: 12px;
+    left: 12px;
+    width: auto;
+    max-width: none;
+    padding: 22px 22px 18px;
+  }
 
-    ul {
-      margin-right: 6vw;
-
-      &:after {
-        @media screen and (max-width: $mobile-nav-resolution) {
-          content: " ";
-          height: 1px;
-          background-color: $site-gray;
-          width: 40vw;
-        }
-      }
-
-      &:last-child:after {
-        height: 0;
-      }
-    }
+  &-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 26px 30px;
 
     @media screen and (max-width: $mobile-nav-resolution) {
-      flex-direction: column;
+      grid-template-columns: 1fr 1fr;
     }
   }
 
-  .hidden {
-    @media screen and (min-width: $mobile-nav-resolution + 1) {
-      display: none;
-    }
-  }
-
-  @media screen and (max-width: $mobile-nav-resolution + 1) {
-    padding: 5vh 7vw;
-  }
-
-  .share-buttons {
-    @media screen and (max-width: $mobile-nav-resolution) {
-      flex-direction: column;
-    }
-  }
-
-  ul {
-    list-style-type: none;
+  &-col {
     display: flex;
     flex-direction: column;
-    justify-content: flex-start;
-    align-items: flex-start;
-    width: auto;
+
+    h4 {
+      @include header-font;
+      font-size: $text-size + 1;
+      font-weight: 600;
+      color: $ink;
+      margin-bottom: 12px;
+    }
 
     a {
-      margin: 10px 0;
-      font-size: $tiny-size;
+      @include short-transition;
+      color: $ink-soft;
+      font-size: $tiny-size + 0.5;
       font-weight: 600;
-      color: $site-font-color;
+      padding: 5px 0;
+
+      &:hover {
+        color: $terracotta;
+        padding-left: 5px;
+      }
+    }
+
+    // "Sections" links live in the layered-nav on desktop, so only surface
+    // them in the dropdown once that bar collapses on small screens.
+    &.hidden {
+      @media screen and (min-width: $mobile-nav-resolution + 1) {
+        display: none;
+      }
+    }
+  }
+
+  &-socials {
+    margin-top: 22px;
+    padding-top: 18px;
+    border-top: 1px solid $line;
+
+    .share-buttons {
+      flex-direction: row;
+    }
+
+    .share-buttons a {
+      margin: 0 14px 0 0;
     }
   }
 }

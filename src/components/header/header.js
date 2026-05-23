@@ -16,8 +16,13 @@ const Header = ({ siteTitle }) => {
               alt="indie story games logo"
               src={require("../../images/gamepad-book.webp")}
             />
-            <h1 className="name">{siteTitle}</h1>
-            <h1 className="name short-title">ISG</h1>
+            <span className="name">
+              {siteTitle}
+              <span className="brand-sublabel">
+                Cozy &middot; Narrative &middot; Heartfelt
+              </span>
+            </span>
+            <span className="name short-title">ISG</span>
           </Link>
         </div>
 
@@ -32,17 +37,31 @@ const Header = ({ siteTitle }) => {
             </button>
           </Link>
           <div
-            className="ham-menu-wrapper action"
+            className={`ham-menu-wrapper action${
+              showDropdownNav ? " open" : ""
+            }`}
             role="button"
+            aria-label="menu"
+            aria-expanded={showDropdownNav}
             tabIndex={0}
             onClick={() => setShowDropdownNav(!showDropdownNav)}
             onKeyDown={() => setShowDropdownNav(!showDropdownNav)}
           >
-            <img
-              alt="hamburger menu"
+            <svg
               className="ham-menu"
-              src={require("../../images/menu.svg")}
-            />
+              width="26"
+              height="26"
+              viewBox="0 0 26 26"
+              fill="none"
+              stroke="currentColor"
+              strokeWidth="2.2"
+              strokeLinecap="round"
+              aria-hidden="true"
+            >
+              <line x1="5" y1="8" x2="21" y2="8" />
+              <line x1="5" y1="13" x2="21" y2="13" />
+              <line x1="5" y1="18" x2="21" y2="18" />
+            </svg>
           </div>
         </div>
       </nav>

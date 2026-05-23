@@ -39,7 +39,7 @@
     .play {
       width: 70px;
       height: 50px;
-      background-color: lighten($site-font-color, 10%);
+      background-color: color.adjust($site-font-color, $lightness: 10%);
       position: relative;
       left: 50%;
       margin: -35px;
@@ -155,7 +155,7 @@
     }
 
     .minute-estimate {
-      color: darken($site-gray, 25%);
+      color: color.adjust($site-gray, $lightness: -25%);
     }
   }
 
@@ -176,10 +176,13 @@
       margin: 40px 5vw 0 -5vw;
     }
 
-    a {
+    a,
+    .share-link {
       width: 35px;
       height: 35px;
       margin: 12px 0;
+      padding: 0;
+      border: none;
       background-color: $site-brand-color;
 
       img {
@@ -187,8 +190,13 @@
       }
     }
 
+    .share-link {
+      border-radius: 50%;
+    }
+
     &.vertical {
-      a {
+      a,
+      .share-link {
         opacity: 1;
 
         &:hover {
@@ -206,7 +214,8 @@
       margin-left: 0;
       margin-top: 0;
 
-      a {
+      a,
+      .share-link {
         margin-right: 10px;
         width: 30px;
         height: 30px;
@@ -226,7 +235,7 @@
         position: absolute;
         right: 60px;
         top: 10px;
-        background-color: darken($site-gray, 10%);
+        background-color: color.adjust($site-gray, $lightness: -10%);
         color: #fff;
         border-radius: 5px;
         padding: 10px;
@@ -235,7 +244,7 @@
           content: " ";
           width: 15px;
           height: 15px;
-          background-color: darken($site-gray, 10%);
+          background-color: color.adjust($site-gray, $lightness: -10%);
           position: absolute;
           top: 12px;
           right: -5px;
@@ -333,7 +342,7 @@
 
     figcaption {
       @include primary-font;
-      color: darken($site-gray, 20%);
+      color: color.adjust($site-gray, $lightness: -20%);
       font-size: $tiny-size;
       line-height: 1.25;
       margin-top: -5px;
@@ -350,7 +359,7 @@
     }
 
     span.blue-q {
-      color: darken($site-brand-color, 10%);
+      color: color.adjust($site-brand-color, $lightness: -10%);
     }
   }
 

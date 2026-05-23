@@ -3,6 +3,7 @@ import { graphql } from "gatsby"
 import SEO from "../../seo"
 import Tag from "../../common-ui/tag"
 import AuthorPosts from "./author-posts"
+import { getAvatarGradient } from "../../constants"
 import "./author.scss"
 
 const SocialButton = ({ frontmatter, type }) => {
@@ -47,7 +48,10 @@ const AuthorTemplate = ({ data }) => {
       <SEO title={title} description={tagline} />
       <div className="author">
         <div className="author-heading">
-          <div className="author-image-wrapper">
+          <div
+            className="author-image-wrapper"
+            style={{ background: getAvatarGradient(author) }}
+          >
             <img
               alt="author cute alien avatar"
               name="author cute alien avatar"

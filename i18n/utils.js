@@ -21,7 +21,7 @@ export const getLocalePath = (localeCode) => {
 }
 
 export const postLocaleMatch = post => {
-  const { defaultLocale, defaultPrefix, locales } = config
+  const { defaultLocale, defaultPrefix } = config
   const locale = getLocale()
   const postLocale = post.slug.split("/")[1]
   if (postLocale === locale) {

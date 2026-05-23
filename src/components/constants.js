@@ -14,13 +14,42 @@ export const months = [
 ]
 
 export const tagColors = {
-  review: "red",
-  picks: "green",
-  spotlight: "blue",
-  opinion: "teal",
-  "in-depth": "pink",
+  review: "terracotta",
+  picks: "sage",
+  spotlight: "clay",
+  opinion: "mustard",
+  "in-depth": "lavender",
   short: "pink",
-  news: "purple",
+  news: "sky",
+  demo: "lavender",
+  interview: "clay",
+}
+
+// Palette of avatar gradients (mirrors the cozy palette in variables.scss).
+// Each author is assigned one deterministically so profile pictures vary.
+// Each entry uses a distinct hue combination (no reversed duplicates) so that
+// no two authors end up with near-identical, mirror-image gradients.
+export const avatarGradients = [
+  "linear-gradient(135deg, #7c9466, #3f553f)", // sage -> forest (greens)
+  "linear-gradient(135deg, #c25a3f, #d98a5f)", // terracotta -> clay (warm)
+  "linear-gradient(135deg, #9789c2, #d385a4)", // lavender -> pink (purple/pink)
+  "linear-gradient(135deg, #a9cee0, #9789c2)", // sky -> lavender (blue/purple)
+  "linear-gradient(135deg, #dca94f, #7c9466)", // mustard -> sage (gold/green)
+  "linear-gradient(135deg, #d98a5f, #dca94f)", // clay -> mustard (orange/gold)
+  "linear-gradient(135deg, #3f553f, #a9cee0)", // forest -> sky (green/blue)
+  "linear-gradient(135deg, #d385a4, #c25a3f)", // pink -> terracotta (pink/red)
+]
+
+// Deterministically pick a gradient for an author based on their name, so the
+// same author always gets the same gradient while different authors vary.
+export const getAvatarGradient = (author = "") => {
+  let hash = 0
+  for (let i = 0; i < author.length; i++) {
+    hash = (hash << 5) - hash + author.charCodeAt(i)
+    hash |= 0
+  }
+  const index = Math.abs(hash) % avatarGradients.length
+  return avatarGradients[index]
 }
 
 export const pageDescriptions = {
@@ -66,7 +95,7 @@ export const categoriesDefaultDropdownOptions = [
 
 export const getDropdownOptionsFromCategories = categories => {
   let options = categoriesDefaultDropdownOptions
-  categories.map(group => {
+  categories.forEach(group => {
     let category = group.category
     options.push({
       value: category.toLowerCase(),

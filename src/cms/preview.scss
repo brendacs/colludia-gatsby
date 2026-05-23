@@ -1,7 +1,5 @@
-@import "../styles/reset.scss";
-@import "../styles/variables.scss";
-@import "../styles/mixins.scss";
-@import "../styles/global.scss";
+@use "../styles/reset";
+@use "../styles/global";
 
 .article {
   margin: 10px 0;
@@ -112,7 +110,7 @@
 
   figcaption {
     @include primary-font;
-    color: darken($site-gray, 20%);
+    color: color.adjust($site-gray, $lightness: -20%);
     font-size: $tiny-size;
     line-height: 1.25;
     margin-top: -5px;
@@ -129,6 +127,6 @@
   }
 
   span.blue-q {
-    color: darken($site-brand-color, 10%);
+    color: color.adjust($site-brand-color, $lightness: -10%);
   }
 }
