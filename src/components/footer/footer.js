@@ -58,7 +58,7 @@ const Footer = () => (
         Rights Reserved.
       </span>
       <span className="footer-made">
-        Made with care, coffee &amp; a little pixel dust.
+        made with ♡ by brenda
       </span>
     </div>
   </footer>

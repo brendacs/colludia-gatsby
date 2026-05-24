@@ -1,0 +1,8 @@
+[build]
+  command = "yarn build"
+  publish = "public"
+
+[build.environment]
+  NODE_VERSION = "22.11.0"
+  # Gatsby 2 / webpack 4 needs the legacy OpenSSL provider on Node 17+
+  NODE_OPTIONS = "--openssl-legacy-provider"

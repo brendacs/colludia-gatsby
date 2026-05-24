@@ -178,6 +178,9 @@
 
     a,
     .share-link {
+      display: flex;
+      justify-content: center;
+      align-items: center;
       width: 35px;
       height: 35px;
       margin: 12px 0;
@@ -187,6 +190,7 @@
 
       img {
         width: 50%;
+        margin-bottom: 0;
       }
     }
 
