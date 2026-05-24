@@ -11,7 +11,7 @@ const SocialButton = ({ frontmatter, type }) => {
   let image = "folder.svg"
 
   if (type === "twitter") {
-    image = "twitter.svg"
+    image = "twitter-x.png"
     domain = `https://${type}.com/`
   } else if (type === "instagram") {
     image = "instagram.webp"
@@ -86,7 +86,7 @@ const AuthorTemplate = ({ data }) => {
             <a className="discord" href="https://discord.gg/PG2qkZf">
               <img
                 alt="discord logo"
-                src={require("../../../images/discord.webp")}
+                src={require("../../../images/discord.png")}
               />
             </a>
           </li>

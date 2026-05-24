@@ -26,10 +26,10 @@
     }
 
     &.twitter {
-      background-color: #5cbcf6;
+      background-color: #d8ebfb;
 
       &:hover {
-        background-color: color.adjust(#5cbcf6, $lightness: -10%);
+        background-color: color.adjust(#d8ebfb, $lightness: -6%);
       }
     }
 
@@ -55,14 +55,14 @@
     }
 
     &.discord {
-      background-color: #97a8e6;
+      background-color: #e3e7fb;
 
       img {
         width: 60%;
       }
 
       &:hover {
-        background-color: color.adjust(#97a8e6, $lightness: -10%);
+        background-color: color.adjust(#e3e7fb, $lightness: -6%);
       }
     }
 

@@ -7,7 +7,7 @@ const SocialButtons = () => (
       href="https://twitter.com/lofi_and_"
       name="indie story games twitter"
     >
-      <img alt="twitter logo" src={require("../../images/twitter.svg")} />
+      <img alt="twitter logo" src={require("../../images/twitter-x.png")} />
     </a>
     <a
       className="substack"
@@ -21,7 +21,7 @@ const SocialButtons = () => (
       href="https://discord.gg/PG2qkZf"
       name="indie story games discord server"
     >
-      <img alt="discord logo" src={require("../../images/discord.webp")} />
+      <img alt="discord logo" src={require("../../images/discord.png")} />
     </a>
   </div>
 )

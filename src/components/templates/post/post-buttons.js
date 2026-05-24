@@ -7,7 +7,7 @@ const PostButtons = ({ type, slug, linkCopied, onClickCopyLink }) => {
         href={`https://twitter.com/intent/tweet?text=Check%20out%20this%20article%20on%20Indie%20Story%20Games%21&url=https://indiestorygames.com${slug}`}
         name="share on twitter"
       >
-        <img alt="twitter logo" src={require("../../../images/twitter.svg")} />
+        <img alt="twitter logo" src={require("../../../images/twitter-x.png")} />
       </a>
       <a
         href={`https://facebook.com/sharer.php?u=https://indiestorygames.com${slug}`}

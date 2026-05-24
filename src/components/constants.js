@@ -135,7 +135,7 @@ export const keyInfo = {
     subtitle:
       'Retweet an article on Twitter, like and follow <a class="animated-link" href="https://twitter.com/lofi_and_">@Indie Story Games</a> for a chance to get this key!',
     socialButton: {
-      image: "twitter.svg",
+      image: "twitter-x.png",
       text: "Follow",
       link: "https://twitter.com/lofi_and_",
     },
