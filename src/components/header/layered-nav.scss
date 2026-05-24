@@ -65,19 +65,26 @@
 
     .dropdown-menu {
       position: absolute;
-      top: 44px;
+      top: 100%;
+      margin-top: 10px;
       background-color: $card;
       left: 0;
       width: 165px;
       display: none;
       border: 1px solid $line;
       border-radius: 14px;
-      overflow: hidden;
       box-shadow: $shadow-sm;
       padding: 6px;
 
-      &:hover {
-        display: block;
+      // Transparent bridge over the gap between the item and the menu so the
+      // hover state isn't lost as the cursor travels down into the dropdown.
+      &:before {
+        content: "";
+        position: absolute;
+        top: -10px;
+        left: 0;
+        right: 0;
+        height: 10px;
       }
 
       .layered-nav-item {

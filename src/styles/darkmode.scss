@@ -57,6 +57,30 @@
     }
   }
 
+  .dropdown {
+    color: $dusk-forest;
+    background-color: $dusk-card;
+    border-color: $dusk-line;
+    box-shadow: $dusk-shadow-sm;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8' fill='none' stroke='%23e08763' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M1 1.5 6 6.5l5-5'/%3E%3C/svg%3E");
+
+    option {
+      background-color: $dusk-card;
+      color: $dusk-forest;
+    }
+
+    &:hover,
+    &:focus,
+    &:focus-visible {
+      border-color: $dusk-terracotta;
+    }
+
+    &:focus,
+    &:focus-visible {
+      box-shadow: 0 0 0 3px rgba(224, 135, 99, 0.22);
+    }
+  }
+
   #darkmode-button {
     background-color: $dusk-card;
     border-color: $dusk-line;
