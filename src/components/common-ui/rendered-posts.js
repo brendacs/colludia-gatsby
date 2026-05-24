@@ -6,6 +6,7 @@ import Tag from "./tag"
 import {
   months,
   tagColors,
+  getAvatarGradient,
   reviewPageDropdownOptions,
   genresPageArticleTypeDropdownOptions,
   getDropdownOptionsFromCategories,
@@ -76,6 +77,7 @@ const RenderedPosts = ({
                 }
                 return true
               }
+              return false
             })
             .sort((a, b) => {
               if (!sortable || dateSortType === "publishDate") {
@@ -125,7 +127,12 @@ const RenderedPosts = ({
                       />
                       <p className="post-excerpt">{p.node.excerpt}</p>
                       <div className="post-info">
-                        <span className="post-av" />
+                        <span
+                          className="post-av"
+                          style={{
+                            background: getAvatarGradient(post.author),
+                          }}
+                        />
                         <p className="post-author">{post.author}</p>
                         <span className="post-sep">&middot;</span>
                         <p className="post-date">{`${

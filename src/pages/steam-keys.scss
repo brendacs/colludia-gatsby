@@ -149,14 +149,14 @@
       }
 
       &:hover {
-        background-color: darken($site-brand-color, 10%);
+        background-color: color.adjust($site-brand-color, $lightness: -10%);
       }
 
       &.twitter {
         background-color: #1ea2f1;
 
         &:hover {
-          background-color: darken(#1ea2f1, 10%);
+          background-color: color.adjust(#1ea2f1, $lightness: -10%);
         }
       }
 
@@ -168,7 +168,7 @@
         }
 
         &:hover {
-          background-color: darken(#c52426, 10%);
+          background-color: color.adjust(#c52426, $lightness: -10%);
         }
       }
 
@@ -180,7 +180,7 @@
         }
 
         &:hover {
-          background-color: darken($site-color-dark, 10%);
+          background-color: color.adjust($site-color-dark, $lightness: -10%);
         }
       }
 
@@ -193,7 +193,7 @@
         }
 
         &:hover {
-          background-color: darken(#1b3553, 10%);
+          background-color: color.adjust(#1b3553, $lightness: -10%);
         }
 
         @media screen and (max-width: 768px) {
@@ -240,7 +240,7 @@
   }
 
   &-used {
-    background-color: lighten($site-font-color, 60%);
+    background-color: color.adjust($site-font-color, $lightness: 60%);
 
     .key-title {
       text-decoration: line-through;

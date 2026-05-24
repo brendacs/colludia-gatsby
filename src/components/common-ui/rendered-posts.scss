@@ -112,6 +112,12 @@
     flex-wrap: wrap;
     gap: 7px;
     z-index: 2;
+
+    // the container handles its own placement (top/left) and spacing (gap),
+    // so drop the global .tag margins that would otherwise stack on top.
+    .tag {
+      margin: 0;
+    }
   }
 
   &-author,
@@ -178,6 +184,9 @@
     .post-type {
       position: static;
       align-self: flex-start;
+      // static flow in the row, so the absolute top/left offset no longer
+      // applies — pad it off the top and right edges instead.
+      padding: 22px 22px 0 0;
     }
   }
 }

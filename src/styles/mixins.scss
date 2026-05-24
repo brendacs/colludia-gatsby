@@ -1,4 +1,5 @@
-@import "variables";
+@use "sass:color";
+@use "variables" as *;
 
 @mixin header-font {
   font-family: "Fraunces", Georgia, "Times New Roman", serif;
@@ -93,7 +94,7 @@
   box-shadow: 0 10px 22px -10px $terracotta;
 
   &:hover {
-    background-color: darken($terracotta, 6%);
+    background-color: color.adjust($terracotta, $lightness: -6%);
     transform: translateY(-2px);
     box-shadow: 0 16px 28px -12px $terracotta;
   }
@@ -107,7 +108,7 @@
   width: 260px;
   border-radius: 5px;
   padding: 6px 15px 6px 15px;
-  background-color: darken(#fff, 3%);
+  background-color: color.adjust(#fff, $lightness: -3%);
   border: 1px solid $site-brand-color;
   color: $site-brand-color;
   font-size: $tiny-size - 2;

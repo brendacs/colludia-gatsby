@@ -1,3 +1,7 @@
+@use "sass:color";
+@use "../../styles/variables" as *;
+@use "../../styles/mixins" as *;
+
 .share-buttons {
   display: flex;
   list-style-type: none;
@@ -25,7 +29,7 @@
       background-color: #1da1f2;
 
       &:hover {
-        background-color: darken(#1da1f2, 10%);
+        background-color: color.adjust(#1da1f2, $lightness: -10%);
       }
     }
 
@@ -33,7 +37,7 @@
       background-color: #e4405f;
 
       &:hover {
-        background-color: darken(#e4405f, 10%);
+        background-color: color.adjust(#e4405f, $lightness: -10%);
       }
     }
 
@@ -46,7 +50,7 @@
       }
 
       &:hover {
-        background-color: darken(#28a6da, 10%);
+        background-color: color.adjust(#28a6da, $lightness: -10%);
       }
     }
 
@@ -58,7 +62,7 @@
       }
 
       &:hover {
-        background-color: darken(#7289da, 10%);
+        background-color: color.adjust(#7289da, $lightness: -10%);
       }
     }
 
@@ -71,7 +75,7 @@
       }
 
       &:hover {
-        background-color: darken(#1b3553, 10%);
+        background-color: color.adjust(#1b3553, $lightness: -10%);
       }
     }
 
@@ -84,12 +88,12 @@
       }
 
       &:hover {
-        background-color: darken(#f96855, 10%);
+        background-color: color.adjust(#f96855, $lightness: -10%);
       }
     }
 
     &.portfolio {
-      background-color: darken($site-gray, 10%);
+      background-color: color.adjust($site-gray, $lightness: -10%);
 
       img {
         width: 70%;

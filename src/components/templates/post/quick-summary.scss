@@ -1,7 +1,7 @@
 .quick-summary {
   @include primary-font;
   line-height: 1.5;
-  background-color: lighten($site-gray, 12%);
+  background-color: color.adjust($site-gray, $lightness: 12%);
   border-radius: 5px;
   padding: 30px;
   margin: 30px 0;

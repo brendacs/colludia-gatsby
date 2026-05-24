@@ -20,8 +20,8 @@ export const isCurrDateGreater = dateComponents => {
   const [currDay, currMonth, currYear] = getCurrDateComponents()
 
   return (
-    (currYear == year &&
-      (currMonth > month || (currMonth == month && currDay >= day))) ||
+    (currYear === year &&
+      (currMonth > month || (currMonth === month && currDay >= day))) ||
     currYear > year
   )
 }

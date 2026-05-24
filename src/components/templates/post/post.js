@@ -24,6 +24,7 @@ const PostTemplate = ({ data }) => {
     title,
     author,
     date,
+    isoDate,
     postType,
     categories,
     tags,
@@ -62,6 +63,8 @@ const PostTemplate = ({ data }) => {
         description={tagline}
         author={author}
         image={image}
+        type="article"
+        datePublished={isoDate}
       />
       <main className="post-main">
         <section className="post-page">
@@ -146,7 +149,16 @@ const PostTemplate = ({ data }) => {
         <div className="post-video-iframe" id="youtube">
           {!playing ? (
             <>
-              <div className="play" onClick={() => setPlaying(true)}>
+              <div
+                className="play"
+                role="button"
+                tabIndex={0}
+                aria-label="play video"
+                onClick={() => setPlaying(true)}
+                onKeyDown={e => {
+                  if (e.key === "Enter" || e.key === " ") setPlaying(true)
+                }}
+              >
                 <div className="triangle"></div>
               </div>
               <img
@@ -157,6 +169,7 @@ const PostTemplate = ({ data }) => {
             </>
           ) : (
             <iframe
+              title="YouTube video player"
               class="post-video-iframe"
               src={`${video}?autoplay=1&modestbranding=1`}
               frameborder="0"
@@ -183,6 +196,7 @@ export const pageQuery = graphql`
         postType
         tagline
         date(formatString: "MMMM DD, YYYY")
+        isoDate: date
         releaseDate(formatString: "MMMM DD, YYYY")
         image
         video

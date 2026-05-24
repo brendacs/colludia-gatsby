@@ -9,9 +9,32 @@ import React from "react"
 import PropTypes from "prop-types"
 import { Helmet } from "react-helmet"
 import { useStaticQuery, graphql } from "gatsby"
+import { useLocation } from "@reach/router"
 import { pageDescriptions } from "./constants"
 
-function SEO({ lang, meta, title, description, author, image, page, type }) {
+// Structured-data references shared across schemas.
+const ORG_ID = "https://indiestorygames.com/#organization"
+const WEBSITE_ID = "https://indiestorygames.com/#website"
+const ORG_LOGO = "https://indiestorygames.com/images/gamepad-book-square.png"
+const SOCIAL_PROFILES = [
+  "https://twitter.com/indiestorygames",
+  "https://patreon.com/indiestorygames",
+  "https://discord.gg/PG2qkZf",
+  "https://store.steampowered.com/curator/37254837/",
+]
+
+function SEO({
+  lang,
+  meta,
+  title,
+  description,
+  author,
+  image,
+  page,
+  type,
+  datePublished,
+  dateModified,
+}) {
   const { site } = useStaticQuery(
     graphql`
       query {
@@ -27,8 +50,14 @@ function SEO({ lang, meta, title, description, author, image, page, type }) {
     `
   )
 
+  const { pathname } = useLocation()
+
   const defaultTitle = site.siteMetadata.title
   const defaultUrl = site.siteMetadata.siteUrl
+
+  // The page's own URL — used for canonical + og:url so every page points
+  // to itself rather than the site root.
+  const canonicalUrl = `${defaultUrl}${pathname || "/"}`
 
   const pageDescription =
     pageDescriptions[page || title.toLowerCase()] &&
@@ -40,6 +69,7 @@ function SEO({ lang, meta, title, description, author, image, page, type }) {
     description || pageDescription || site.siteMetadata.description
   const metaAuthor = author || site.siteMetadata.author
   const metaType = type || "website"
+  const isArticle = metaType === "article"
 
   // convert image extension from webp -> png
   if (image) {
@@ -55,6 +85,69 @@ function SEO({ lang, meta, title, description, author, image, page, type }) {
   const metaImage = `https://indiestorygames.com/images/${
     image || "isg-banner.png"
   }`
+
+  // Site-wide Organization + WebSite graph, present on every page.
+  const siteSchema = {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": ORG_ID,
+        name: "Indie Story Games",
+        url: defaultUrl,
+        logo: {
+          "@type": "ImageObject",
+          url: ORG_LOGO,
+        },
+        sameAs: SOCIAL_PROFILES,
+      },
+      {
+        "@type": "WebSite",
+        "@id": WEBSITE_ID,
+        name: defaultTitle,
+        url: defaultUrl,
+        description: site.siteMetadata.description,
+        publisher: { "@id": ORG_ID },
+      },
+    ],
+  }
+
+  // Per-article Article schema (only on post pages).
+  const articleSchema = isArticle && {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    mainEntityOfPage: {
+      "@type": "WebPage",
+      "@id": canonicalUrl,
+    },
+    headline: title,
+    description: metaDescription,
+    image: [metaImage],
+    author: {
+      "@type": "Person",
+      name: metaAuthor,
+    },
+    publisher: { "@id": ORG_ID },
+    ...(datePublished && { datePublished }),
+    dateModified: dateModified || datePublished,
+  }
+
+  const articleMeta = isArticle
+    ? [
+        ...(datePublished
+          ? [{ property: "article:published_time", content: datePublished }]
+          : []),
+        ...(dateModified || datePublished
+          ? [
+              {
+                property: "article:modified_time",
+                content: dateModified || datePublished,
+              },
+            ]
+          : []),
+        { property: "article:author", content: metaAuthor },
+      ]
+    : []
 
   return (
     <Helmet
@@ -109,16 +202,12 @@ function SEO({ lang, meta, title, description, author, image, page, type }) {
           content: "en_US",
         },
         {
-          property: "og:description",
-          content: metaDescription,
-        },
-        {
           property: "og:type",
           content: metaType,
         },
         {
           property: "og:url",
-          content: defaultUrl,
+          content: canonicalUrl,
         },
         {
           name: "twitter:card",
@@ -130,7 +219,7 @@ function SEO({ lang, meta, title, description, author, image, page, type }) {
         },
         {
           name: "twitter:creator",
-          content: metaAuthor,
+          content: "@indiestorygames",
         },
         {
           name: "twitter:title",
@@ -144,8 +233,18 @@ function SEO({ lang, meta, title, description, author, image, page, type }) {
           name: "twitter:description",
           content: metaDescription,
         },
-      ].concat(meta)}
-    />
+      ]
+        .concat(articleMeta)
+        .concat(meta)}
+    >
+      <link rel="canonical" href={canonicalUrl} />
+      <script type="application/ld+json">{JSON.stringify(siteSchema)}</script>
+      {articleSchema && (
+        <script type="application/ld+json">
+          {JSON.stringify(articleSchema)}
+        </script>
+      )}
+    </Helmet>
   )
 }
 
@@ -155,6 +254,9 @@ SEO.propTypes = {
   meta: PropTypes.arrayOf(PropTypes.object),
   title: PropTypes.string,
   image: PropTypes.string,
+  type: PropTypes.string,
+  datePublished: PropTypes.string,
+  dateModified: PropTypes.string,
 }
 
 SEO.defaultProps = {

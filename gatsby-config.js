@@ -1,7 +1,6 @@
 module.exports = {
   siteMetadata: {
     title: `Indie Story Games`,
-    description: `Indie Story Games is an indie gaming website focused on games with stories to tell and the developers behind them.`,
     author: `Indie Story Games`,
     siteUrl: `https://indiestorygames.com`,
     description: `Indie Story Games is an indie gaming website focused on games with stories to tell and the developers behind them. Our favorite games are those that tell a story and start a conversation and would love to bring more attention to the stories the developers behind the games want to tell. Indie Story Games is tailored to prioritize just that, along with shining spotlight on indie developers and studios.`,
@@ -16,8 +15,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-starter-default`,
-        short_name: `starter`,
+        name: `Indie Story Games`,
+        short_name: `ISG`,
         start_url: `/`,
         icon: `src/images/gamepad-book-square.webp`, // This path is relative to the root of the site.
       },
@@ -46,8 +45,8 @@ module.exports = {
     {
       resolve: "gatsby-plugin-sass",
       options: {
-        data: `@import "${__dirname}/src/styles/variables";`,
-        data: `@import "${__dirname}/src/styles/mixins";`,
+        implementation: require("sass"),
+        data: `@use "sass:color";\n@use "${__dirname}/src/styles/variables" as *;\n@use "${__dirname}/src/styles/mixins" as *;`,
       },
     },
     {

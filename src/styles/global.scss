@@ -1,9 +1,11 @@
-@import "../components/common-ui/share-buttons.scss";
+@use "variables" as *;
+@use "mixins" as *;
+@use "../components/common-ui/share-buttons";
 
 html,
 body {
   height: auto;
-  width: 100vw;
+  width: 100%;
   color: $site-font-color;
   background-color: $paper;
   min-width: 320px;

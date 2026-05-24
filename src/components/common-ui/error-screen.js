@@ -11,7 +11,7 @@ const ErrorScreen = ({ type }) => (
     />
     <h1 className="error-title">{type === "coming" ? "Coming Soon" : "404"}</h1>
     <p>
-      {type == "coming"
+      {type === "coming"
         ? "There's nothing here yet. Check back later!"
         : "Uh oh, page not found. :("}
     </p>

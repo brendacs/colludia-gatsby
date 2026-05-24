@@ -69,13 +69,16 @@ const LayeredNav = ({ darkmode, setDarkmode }) => {
         id="darkmode-button"
         className="action"
         name="darkmode"
+        role="switch"
+        aria-checked={darkmode}
+        aria-label="Toggle dusk mode"
         onClick={() => {
           setDarkmode(!darkmode)
           typeof window !== `undefined` &&
             window.localStorage.setItem("darkmode", !darkmode)
         }}
       >
-        Mode
+        <span className="darkmode-toggle-thumb">{darkmode ? "☾" : "☼"}</span>
       </button>
     </nav>
   )

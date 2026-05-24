@@ -7,6 +7,7 @@ const Dropdown = ({ options, onSelect }) => (
     className="dropdown"
     defaultValue=""
     onChange={e => onSelect(e.target.value)}
+    onBlur={e => onSelect(e.target.value)}
   >
     {options.map((option, idx) => (
       <option value={option.value} disabled={option.disabled} key={idx}>

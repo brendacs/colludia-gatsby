@@ -4,9 +4,10 @@ import SocialButtons from "../common-ui/share-buttons"
 import "./dropdown-nav.scss"
 
 const DropdownNav = ({ onLinkClick }) => (
-  <div className="secondary-nav">
-    <div className="pages-wrapper">
-      <ul className="main hidden">
+  <div className="dropdown-nav">
+    <div className="dropdown-nav-grid">
+      <div className="dropdown-nav-col hidden">
+        <h4>Sections</h4>
         <Link to="/" onClick={onLinkClick}>
           Latest Articles
         </Link>
@@ -25,31 +26,36 @@ const DropdownNav = ({ onLinkClick }) => (
         <Link to="/genres" onClick={onLinkClick}>
           All Genres
         </Link>
-      </ul>
-      <ul>
-        <Link className="animated-link" to="/about" onClick={onLinkClick}>
+      </div>
+
+      <div className="dropdown-nav-col">
+        <h4>Explore</h4>
+        <Link to="/about" onClick={onLinkClick}>
           About Us
         </Link>
-        <Link className="animated-link" to="/supporters" onClick={onLinkClick}>
+        <Link to="/supporters" onClick={onLinkClick}>
           Supporters
         </Link>
-        <Link className="animated-link" to="/steam-keys" onClick={onLinkClick}>
+        <Link to="/steam-keys" onClick={onLinkClick}>
           Free Keys
         </Link>
-      </ul>
-      <ul>
-        <Link className="animated-link" to="/contact" onClick={onLinkClick}>
+      </div>
+
+      <div className="dropdown-nav-col">
+        <h4>Get in Touch</h4>
+        <Link to="/contact" onClick={onLinkClick}>
           Contact Us
         </Link>
-        <Link className="animated-link" to="/writers" onClick={onLinkClick}>
+        <Link to="/writers" onClick={onLinkClick}>
           Become a Writer
         </Link>
-        <Link className="animated-link" to="/ads" onClick={onLinkClick}>
+        <Link to="/ads" onClick={onLinkClick}>
           Advertise
         </Link>
-      </ul>
+      </div>
     </div>
-    <div>
+
+    <div className="dropdown-nav-socials">
       <SocialButtons />
     </div>
   </div>

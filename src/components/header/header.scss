@@ -73,9 +73,31 @@
     flex-direction: row;
     align-items: center;
 
-    .ham-menu {
-      width: 25px;
+    .ham-menu-wrapper {
+      @include short-transition;
+      display: grid;
+      place-items: center;
+      width: 42px;
+      height: 42px;
+      border-radius: 12px;
       cursor: pointer;
+      color: $ink-soft;
+
+      &:hover,
+      &:focus-visible {
+        color: $ink;
+        background-color: rgba(170, 191, 143, 0.3);
+        outline: none;
+      }
+
+      &.open {
+        color: $terracotta;
+        background-color: $site-highlight-light;
+      }
+    }
+
+    .ham-menu {
+      display: block;
     }
 
     .action {

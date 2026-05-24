@@ -58,17 +58,15 @@
   }
 
   #darkmode-button {
-    color: $dusk-ink-soft;
     background-color: $dusk-card;
     border-color: $dusk-line;
 
     &:hover {
-      color: $dusk-ink;
       border-color: $dusk-sage;
     }
 
-    &:before {
-      content: "☀ Day";
+    .darkmode-toggle-thumb {
+      background-color: $dusk-sage;
     }
   }
 
