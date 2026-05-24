@@ -40,8 +40,8 @@ const PostTemplate = ({ data }) => {
   const cleanTitle =
     title.indexOf("game-title") !== -1
       ? title.split("<em class='game-title'>")[0] +
-        title.split("<em class='game-title'>")[1]?.split("</em>")[0] +
-        title.split("<em class='game-title'>")[1]?.split("</em>")[1]
+      title.split("<em class='game-title'>")[1]?.split("</em>")[0] +
+      title.split("<em class='game-title'>")[1]?.split("</em>")[1]
       : title
 
   const disqusConfig = {
@@ -126,10 +126,8 @@ const PostTemplate = ({ data }) => {
               </article>
               <p className="sponsor-blurb">
                 Help us pay our writers and maintain our high-quality website
-                and writing by supporting us on{" "}
-                <a href="https://patreon.com/indiestorygames">Patreon</a> or
-                buying us a coffee on{" "}
-                <a href="https://ko-fi.com/indiestorygames">Ko-fi</a>. To
+                and writing by buying us a coffee on{" "}
+                <a href="https://ko-fi.com/lofiand">Ko-fi</a>. To
                 sponsor or advertise with us, visit{" "}
                 <Link to="/ads">Advertise</Link>.
               </p>

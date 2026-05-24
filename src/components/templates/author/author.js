@@ -83,14 +83,6 @@ const AuthorTemplate = ({ data }) => {
             <SocialButton frontmatter={frontmatter} type="instagram" />
           )}
           <li>
-            <a className="patreon" href="https://patreon.com/indiestorygames">
-              <img
-                alt="patreon logo"
-                src={require("../../../images/patreon.webp")}
-              />
-            </a>
-          </li>
-          <li>
             <a className="discord" href="https://discord.gg/PG2qkZf">
               <img
                 alt="discord logo"

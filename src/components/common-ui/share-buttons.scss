@@ -26,10 +26,10 @@
     }
 
     &.twitter {
-      background-color: #1da1f2;
+      background-color: #5cbcf6;
 
       &:hover {
-        background-color: color.adjust(#1da1f2, $lightness: -10%);
+        background-color: color.adjust(#5cbcf6, $lightness: -10%);
       }
     }
 
@@ -55,14 +55,14 @@
     }
 
     &.discord {
-      background-color: #7289da;
+      background-color: #97a8e6;
 
       img {
         width: 60%;
       }
 
       &:hover {
-        background-color: color.adjust(#7289da, $lightness: -10%);
+        background-color: color.adjust(#97a8e6, $lightness: -10%);
       }
     }
 
@@ -79,16 +79,15 @@
       }
     }
 
-    &.patreon {
-      background-color: #f96855;
+    &.substack {
+      background-color: #ffe7d6;
 
       img {
-        width: 80%;
-        border-radius: 50%;
+        width: 55%;
       }
 
       &:hover {
-        background-color: color.adjust(#f96855, $lightness: -10%);
+        background-color: color.adjust(#ffe7d6, $lightness: -6%);
       }
     }
 

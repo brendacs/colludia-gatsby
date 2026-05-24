@@ -17,8 +17,7 @@ const ORG_ID = "https://indiestorygames.com/#organization"
 const WEBSITE_ID = "https://indiestorygames.com/#website"
 const ORG_LOGO = "https://indiestorygames.com/images/gamepad-book-square.png"
 const SOCIAL_PROFILES = [
-  "https://twitter.com/indiestorygames",
-  "https://patreon.com/indiestorygames",
+  "https://twitter.com/lofi_and_",
   "https://discord.gg/PG2qkZf",
   "https://store.steampowered.com/curator/37254837/",
 ]
@@ -61,8 +60,7 @@ function SEO({
 
   const pageDescription =
     pageDescriptions[page || title.toLowerCase()] &&
-    `${pageDescriptions.default} ${
-      pageDescriptions[page || title.toLowerCase()]
+    `${pageDescriptions.default} ${pageDescriptions[page || title.toLowerCase()]
     }`
 
   const metaDescription =
@@ -82,9 +80,8 @@ function SEO({
     }
   }
 
-  const metaImage = `https://indiestorygames.com/images/${
-    image || "isg-banner.png"
-  }`
+  const metaImage = `https://indiestorygames.com/images/${image || "isg-banner.png"
+    }`
 
   // Site-wide Organization + WebSite graph, present on every page.
   const siteSchema = {
@@ -134,19 +131,19 @@ function SEO({
 
   const articleMeta = isArticle
     ? [
-        ...(datePublished
-          ? [{ property: "article:published_time", content: datePublished }]
-          : []),
-        ...(dateModified || datePublished
-          ? [
-              {
-                property: "article:modified_time",
-                content: dateModified || datePublished,
-              },
-            ]
-          : []),
-        { property: "article:author", content: metaAuthor },
-      ]
+      ...(datePublished
+        ? [{ property: "article:published_time", content: datePublished }]
+        : []),
+      ...(dateModified || datePublished
+        ? [
+          {
+            property: "article:modified_time",
+            content: dateModified || datePublished,
+          },
+        ]
+        : []),
+      { property: "article:author", content: metaAuthor },
+    ]
     : []
 
   return (

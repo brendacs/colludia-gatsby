@@ -99,9 +99,8 @@ export const getDropdownOptionsFromCategories = categories => {
     let category = group.category
     options.push({
       value: category.toLowerCase(),
-      label: `${category.charAt(0).toUpperCase()}${category.slice(1)} (${
-        group.totalCount
-      })`,
+      label: `${category.charAt(0).toUpperCase()}${category.slice(1)} (${group.totalCount
+        })`,
     })
   })
   return options
@@ -134,11 +133,11 @@ export const keyInfo = {
   },
   twitter: {
     subtitle:
-      'Retweet an article on Twitter, like and follow <a class="animated-link" href="https://twitter.com/indiestorygames">@Indie Story Games</a> for a chance to get this key!',
+      'Retweet an article on Twitter, like and follow <a class="animated-link" href="https://twitter.com/lofi_and_">@Indie Story Games</a> for a chance to get this key!',
     socialButton: {
       image: "twitter.svg",
       text: "Follow",
-      link: "https://twitter.com/indiestorygames",
+      link: "https://twitter.com/lofi_and_",
     },
     viewButton: {
       text: "View on Humble",

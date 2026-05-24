@@ -3,25 +3,18 @@ import React from "react"
 const SocialButtons = () => (
   <div className="share-buttons">
     <a
-      className="steam"
-      href="https://store.steampowered.com/curator/37254837/"
-      name="steam curator page"
-    >
-      <img alt="steam logo" src={require("../../images/steam.webp")} />
-    </a>
-    <a
       className="twitter"
-      href="https://twitter.com/indiestorygames"
+      href="https://twitter.com/lofi_and_"
       name="indie story games twitter"
     >
       <img alt="twitter logo" src={require("../../images/twitter.svg")} />
     </a>
     <a
-      className="patreon"
-      href="https://patreon.com/indiestorygames"
-      name="indie story games patreon"
+      className="substack"
+      href="https://indiestorygames.substack.com"
+      name="indie story games substack"
     >
-      <img alt="patreon logo" src={require("../../images/patreon.webp")} />
+      <img alt="substack logo" src={require("../../images/substack.png")} />
     </a>
     <a
       className="discord"

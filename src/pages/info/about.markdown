@@ -38,7 +38,7 @@ We created a new [Discord server][discord] not too long ago, but the community i
 
 There's one last thing we want to mention&mdash;our website will be a user-first experience. Most sites these days have horrible user interfaces and user experience or are flooded with ads. Our aim is to maximize the quality of the reading and browsing experience and minimize the distractions and advertisements&mdash;you'll only see one here or there, and they'll be unintrusive.
 
-As a result, we'll need more support in other ways, such as through our [Patreon][patreon] or [Ko-fi][ko-fi]. If you love our content, please consider supporting us however you can&mdash;even if just by sharing our stuff!
+As a result, we'll need more support in other ways, such as through our [Ko-fi][ko-fi]. If you love our content, please consider supporting us however you can&mdash;even if just by sharing our stuff!
 
 ## The Staff
 
@@ -46,8 +46,7 @@ This would not be possible without our amazing staff of editors and writers! Che
 
 [info]: mailto:indiestorygames@gmail.com
 [request]: mailto:indiestorygames@gmail.com
-[ko-fi]: https://ko-fi.com/indiestorygames
-[patreon]: https://patreon.com/indiestorygames
+[ko-fi]: https://ko-fi.com/lofiand
 [spotlight]: /dev-spotlights
 [reviews]: /reviews
 [genres]: /genres
@@ -56,4 +55,4 @@ This would not be possible without our amazing staff of editors and writers! Che
 [youtube]: https://www.youtube.com/channel/UCGV03GbQtpPGfArbJHbZ3IQ
 [discord]: https://discord.gg/PG2qkZf
 [newsletter]: /subscribe
-[twitter]: https://twitter.com/indiestorygames
+[twitter]: https://twitter.com/lofi_and_

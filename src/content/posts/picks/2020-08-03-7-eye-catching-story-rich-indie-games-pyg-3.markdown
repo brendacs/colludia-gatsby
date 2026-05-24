@@ -27,7 +27,7 @@ tags:
 
 It takes a lot of effort and heart to create indie games, and we know it takes even more guts to put your game out there for the world to see and pitch it to anyone who will listen.
 
-This list for #PitchYaGame round 3 is made up of my favorite story rich games out of the dozens that were pitched directly to [Indie Story Games](https://twitter.com/indiestorygames) last Tuesday. Thank you to everyone, including those not on this list, who reached out and brought your game to our attention — we're so glad you did because there were a lot of gems that we wouldn't have discovered otherwise.
+This list for #PitchYaGame round 3 is made up of my favorite story rich games out of the dozens that were pitched directly to [Indie Story Games](https://twitter.com/lofi_and_) last Tuesday. Thank you to everyone, including those not on this list, who reached out and brought your game to our attention — we're so glad you did because there were a lot of gems that we wouldn't have discovered otherwise.
 
 ## Game Director Story
 
@@ -142,7 +142,7 @@ The more time I spend in the indie game and dev community, the more I appreciate
 
 However, there were a _lot_ of amazing devs in #PitchYaGame round 3, and no one article could contain all the great story rich games we see each month during the event. As such, this is only the first of a series of articles about indie games we discovered and loved during #PitchYaGame, so look forward to more soon!
 
-Alongside that, I'm still working to schedule interviews with many of the developers behind these games, who I'm sure we're all curious to hear more from. If there are any other games (especially those with a tale to tell) that you think the writers at Indie Story Games should take a look at, don't hesitate to shoot us a message on [Twitter](https://twitter.com/indiestorygames) or through other methods of [contact](https://indiestorygames.com/contact).
+Alongside that, I'm still working to schedule interviews with many of the developers behind these games, who I'm sure we're all curious to hear more from. If there are any other games (especially those with a tale to tell) that you think the writers at Indie Story Games should take a look at, don't hesitate to shoot us a message on [Twitter](https://twitter.com/lofi_and_) or through other methods of [contact](https://indiestorygames.com/contact).
 
 I'll leave you now with this beautiful image from _Witchery Academy_. Here's to more amazing games.
 

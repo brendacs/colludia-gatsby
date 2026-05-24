@@ -30,7 +30,7 @@ const SubscribePage = () => (
               newsletter archive
             </a>
             . To stay updated on a more frequent basis,{" "}
-            <a href="https://twitter.com/indiestorygames">
+            <a href="https://twitter.com/lofi_and_">
               follow us on Twitter
             </a>
             .
